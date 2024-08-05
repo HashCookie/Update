@@ -4,19 +4,140 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>文件上传</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #e0f7fa;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #upload-container {
+            background-color: #ffffff;
+            width: 100%;
+            max-width: 400px;
+            padding: 40px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+            border-radius: 12px;
+            text-align: center;
+        }
+
+        #upload-container h2 {
+            margin-bottom: 20px;
+            color: #00796b;
+        }
+
+        input[type="file"] {
+            display: none;
+        }
+
+        label {
+            display: inline-block;
+            padding: 12px 24px;
+            background-color: #00796b;
+            color: #ffffff;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            margin-bottom: 10px;
+        }
+
+        label:hover {
+            background-color: #004d40;
+        }
+
+        #file-name {
+            font-size: 14px;
+            color: #555;
+            margin-top: 10px;
+            min-height: 20px;
+        }
+
+        button {
+            padding: 12px 24px;
+            background-color: #00897b;
+            color: #ffffff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            margin-top: 20px;
+        }
+
+        button:hover {
+            background-color: #00695c;
+        }
+
+        #loading {
+            display: none;
+            margin-top: 20px;
+            color: #00796b;
+        }
+
+        #message {
+            margin-top: 20px;
+            font-size: 16px;
+        }
+
+        .success {
+            color: #388e3c;
+            background-color: #c8e6c9;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 20px;
+            display: inline-block;
+        }
+
+        .error {
+            color: #d32f2f;
+            background-color: #ffcdd2;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 20px;
+            display: inline-block;
+        }
+    </style>
 </head>
 <body>
-    <form id="upload-form" enctype="multipart/form-data">
-        <input type="file" id="file-input" name="file">
-        <button type="submit">上传文件</button>
-    </form>
+    <div id="upload-container">
+        <h2>上传您的文件</h2>
+        <form id="upload-form" enctype="multipart/form-data">
+            <input type="file" id="file-input" name="file" required>
+            <label for="file-input">选择文件</label>
+            <div id="file-name">未选择文件</div>
+            <button type="submit" disabled>上传文件</button>
+        </form>
+        <div id="loading">文件上传中...</div>
+        <div id="message"></div>
+    </div>
 
     <script>
+        const fileInput = document.getElementById('file-input');
+        const fileNameDisplay = document.getElementById('file-name');
+        const uploadButton = document.querySelector('button');
+        const messageDiv = document.getElementById('message');
+
+        fileInput.addEventListener('change', () => {
+            const fileName = fileInput.files.length > 0 ? fileInput.files[0].name : '未选择文件';
+            fileNameDisplay.textContent = fileName;
+            uploadButton.disabled = fileInput.files.length === 0;
+        });
+
         document.getElementById('upload-form').addEventListener('submit', async (event) => {
             event.preventDefault();
-            const fileInput = document.getElementById('file-input');
             const formData = new FormData();
             formData.append('file', fileInput.files[0]);
+
+            const loadingIndicator = document.getElementById('loading');
+            messageDiv.textContent = '';
+            messageDiv.className = '';  // Reset class names
+
+            loadingIndicator.style.display = 'block';
 
             try {
                 const response = await fetch('http://localhost:3000/upload', {
@@ -24,14 +145,23 @@
                     body: formData,
                 });
 
+                loadingIndicator.style.display = 'none';
+
                 if (response.ok) {
-                    alert('文件上传成功');
+                    const successMessage = '文件已上传';
+                    messageDiv.textContent = successMessage;
+                    messageDiv.className = 'success';
+                    fileNameDisplay.textContent = '未选择文件';
+                    uploadButton.disabled = true;
                 } else {
-                    alert('文件上传失败');
-                    console.error('Upload failed:', await response.text());
+                    const errorMessage = await response.text();
+                    messageDiv.textContent = `文件上传失败: ${errorMessage}`;
+                    messageDiv.className = 'error';
                 }
             } catch (error) {
-                alert('文件上传失败');
+                loadingIndicator.style.display = 'none';
+                messageDiv.textContent = '文件上传失败，请重试';
+                messageDiv.className = 'error';
                 console.error('Error:', error);
             }
         });

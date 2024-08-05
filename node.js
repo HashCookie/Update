@@ -17,7 +17,6 @@ app.post('/upload', upload.single('file'), async (req, res) => {
     const file = req.file;
     const fileContent = fs.readFileSync(file.path, 'utf8');
 
-    // 修改这里：将文件路径设置为 'upload' 目录下
     const githubFilePath = path.join('upload', file.originalname);
 
     await octokit.repos.createOrUpdateFileContents({

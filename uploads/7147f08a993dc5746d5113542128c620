@@ -1,0 +1,17 @@
+//
+//  LandmarksApp.swift
+//  Landmarks
+//
+//  Created by Yo on 2024/7/28.
+//
+
+import SwiftUI
+
+@main
+struct LandmarksApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
