@@ -10,7 +10,13 @@
     <div id="upload-container">
       <h2>上传您的文件</h2>
       <form id="upload-form" enctype="multipart/form-data">
-        <input type="file" id="file-input" name="file" required />
+        <input
+          type="file"
+          id="file-input"
+          name="file"
+          accept=".json"
+          required
+        />
         <label for="file-input">选择文件</label>
         <div id="file-name">未选择文件</div>
         <button type="submit" disabled>上传文件</button>
@@ -29,16 +35,34 @@
       const uploadForm = document.getElementById("upload-form");
 
       fileInput.addEventListener("change", (event) => {
-        const fileName =
-          fileInput.files.length > 0 ? fileInput.files[0].name : "未选择文件";
-        fileNameDisplay.textContent = fileName;
-        uploadButton.disabled = fileInput.files.length === 0;
-        console.log("File selected:", fileName);
+        const file = fileInput.files[0];
+        if (file) {
+          if (file.name.toLowerCase().endsWith(".json")) {
+            const fileName = file.name;
+            fileNameDisplay.textContent = fileName;
+            uploadButton.disabled = false;
+            console.log("File selected:", fileName);
+          } else {
+            fileNameDisplay.textContent = "请选择 JSON 文件";
+            uploadButton.disabled = true;
+            console.log("Invalid file type selected");
+          }
+        } else {
+          fileNameDisplay.textContent = "未选择文件";
+          uploadButton.disabled = true;
+        }
       });
 
       uploadForm.addEventListener("submit", async (event) => {
         event.preventDefault();
         console.log("Form submitted");
+        const file = fileInput.files[0];
+        if (!file || !file.name.toLowerCase().endsWith(".json")) {
+          messageDiv.textContent = "请选择有效的 JSON 文件";
+          messageDiv.className = "error";
+          return;
+        }
+
         const formData = new FormData(uploadForm);
 
         messageDiv.textContent = "";
