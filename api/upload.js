@@ -34,7 +34,7 @@ function validateJsonFormat(jsonContent) {
   }
 }
 
-// 修改：从字典中获取翻译
+// 从字典中获取翻译
 async function getTranslationsFromDictionary() {
   try {
     const { data } = await octokit.repos.getContent({
@@ -57,53 +57,48 @@ async function getTranslationsFromDictionary() {
   }
 }
 
-// 修改：转换文件内容为所需的 JSON 格式
+// 转换文件内容为所需的 JSON 格式
 async function convertToRequiredFormat(fileContent, fileType) {
   const dictionary = await getTranslationsFromDictionary();
-  console.log("Dictionary keys:", Object.keys(dictionary).slice(0, 10)); // 打印前10个键以验证
+  console.log("Dictionary keys:", Object.keys(dictionary).slice(0, 10));
 
   let words;
 
-  try {
-    if (fileType === 'txt') {
-      words = fileContent.split('\n').filter(word => word.trim() !== '');
-    } else if (fileType === 'xlsx') {
-      const workbook = XLSX.read(fileContent, { type: 'buffer' });
-      const sheetName = workbook.SheetNames[0];
-      const sheet = workbook.Sheets[sheetName];
-      words = XLSX.utils.sheet_to_json(sheet, { header: 1 }).flat().filter(word => word && word.trim() !== '');
-    } else if (fileType === 'json') {
-      return JSON.parse(fileContent);
-    }
-
-    console.log("Words to process:", words);
-
-    return words.map(word => {
-      const trimmedWord = word.trim().toLowerCase(); // 转换为小写
-      console.log(`Processing word: "${trimmedWord}"`);
-      const dictEntry = dictionary[trimmedWord];
-      if (dictEntry) {
-        console.log(`Translation found for "${trimmedWord}":`, dictEntry);
-        return {
-          name: trimmedWord,
-          trans: dictEntry.trans,
-          usphone: dictEntry.usphone || "",
-          ukphone: dictEntry.ukphone || ""
-        };
-      } else {
-        console.log(`No translation found for "${trimmedWord}"`);
-        return {
-          name: trimmedWord,
-          trans: ["未在字典中找到翻译"],
-          usphone: "",
-          ukphone: ""
-        };
-      }
-    });
-  } catch (error) {
-    console.error(`Error in convertToRequiredFormat: ${error}`);
-    throw error;
+  if (fileType === 'txt') {
+    words = fileContent.split('\n').filter(word => word.trim() !== '');
+  } else if (fileType === 'xlsx') {
+    const workbook = XLSX.read(fileContent, { type: 'buffer' });
+    const sheetName = workbook.SheetNames[0];
+    const sheet = workbook.Sheets[sheetName];
+    words = XLSX.utils.sheet_to_json(sheet, { header: 1 }).flat().filter(word => word && word.trim() !== '');
+  } else if (fileType === 'json') {
+    return JSON.parse(fileContent);
   }
+
+  console.log("Words to process:", words);
+
+  return words.map(word => {
+    const trimmedWord = word.trim().toLowerCase();
+    console.log(`Processing word: "${trimmedWord}"`);
+    const dictEntry = dictionary[trimmedWord];
+    if (dictEntry) {
+      console.log(`Translation found for "${trimmedWord}":`, dictEntry);
+      return {
+        name: trimmedWord,
+        trans: dictEntry.trans,
+        usphone: dictEntry.usphone || "",
+        ukphone: dictEntry.ukphone || ""
+      };
+    } else {
+      console.log(`No translation found for "${trimmedWord}"`);
+      return {
+        name: trimmedWord,
+        trans: ["未在字典中找到翻译"],
+        usphone: "",
+        ukphone: ""
+      };
+    }
+  });
 }
 
 export default async function handler(req, res) {
@@ -125,119 +120,98 @@ export default async function handler(req, res) {
       }
 
       console.log("Received upload request");
+      const file = req.file;
+      if (!file) {
+        console.log("No file uploaded");
+        return res.status(400).json({ success: false, message: "没有文件被上传" });
+      }
+
+      console.log("File received:", file.originalname);
+      const fileContent = fs.readFileSync(file.path);
+      const fileExtension = path.extname(file.originalname).toLowerCase();
+
+      console.log(`File extension: ${fileExtension}`);
+      let jsonContent;
+      if (fileExtension === '.txt' || fileExtension === '.xlsx' || fileExtension === '.json') {
+        console.log(`Processing ${fileExtension.substr(1)} file`);
+        jsonContent = await convertToRequiredFormat(fileContent, fileExtension.substr(1));
+      } else {
+        console.log("Unsupported file format");
+        return res.status(400).json({
+          success: false,
+          message: "不支持的文件格式，请上传 .txt, .xlsx 或 .json 文件",
+        });
+      }
+
+      console.log("Converted content:", JSON.stringify(jsonContent, null, 2));
+
+      // 验证转换后的 JSON 格式
+      if (!validateJsonFormat(JSON.stringify(jsonContent))) {
+        return res.status(400).json({
+          success: false,
+          message: "转换后的文件格式不正确",
+        });
+      }
+
+      // 上传到 GitHub
+      const githubFilePath = "upload/example.json";
+
+      let sha;
       try {
-        const file = req.file;
-        if (!file) {
-          console.log("No file uploaded");
-          return res
-            .status(400)
-            .json({ success: false, message: "没有文件被上传" });
-        }
-
-        console.log("File received:", file.originalname);
-        const fileContent = fs.readFileSync(file.path);
-        const fileExtension = path.extname(file.originalname).toLowerCase();
-
-        console.log(`File extension: ${fileExtension}`);
-        let jsonContent;
-        if (fileExtension === '.txt') {
-          console.log("Processing txt file");
-          jsonContent = await convertToRequiredFormat(fileContent.toString(), 'txt');
-        } else if (fileExtension === '.xlsx') {
-          console.log("Processing xlsx file");
-          jsonContent = await convertToRequiredFormat(fileContent, 'xlsx');
-        } else if (fileExtension === '.json') {
-          console.log("Processing json file");
-          jsonContent = await convertToRequiredFormat(fileContent.toString(), 'json');
-        } else {
-          console.log("Unsupported file format");
-          return res.status(400).json({
-            success: false,
-            message: "不支持的文件格式，请上传 .txt, .xlsx 或 .json 文件",
-          });
-        }
-
-        console.log("Converted content:", JSON.stringify(jsonContent, null, 2));
-
-        // 验证转换后的 JSON 格式
-        if (!validateJsonFormat(JSON.stringify(jsonContent))) {
-          return res.status(400).json({
-            success: false,
-            message: "转换后的文件格式不正确",
-          });
-        }
-
-        // 修改这里：使用固定的文件名 'example.json'
-        const githubFilePath = "upload/example.json";
-
-        let sha;
-        try {
-          const { data: existingFile } = await octokit.repos.getContent({
-            owner: "HashCookie",
-            repo: "Update",
-            path: githubFilePath,
-            ref: "main",
-          });
-          sha = existingFile.sha;
-          console.log("Existing file SHA:", sha);
-        } catch (error) {
-          if (error.status === 404) {
-            console.log("File does not exist, will create a new one");
-          } else {
-            console.error("Error checking existing file:", error);
-            return res.status(500).json({
-              success: false,
-              message: "检查文件是否存在时发生错误",
-              error: error.message,
-            });
-          }
-        }
-
-        console.log("Uploading to GitHub...");
-        await octokit.repos.createOrUpdateFileContents({
+        const { data: existingFile } = await octokit.repos.getContent({
           owner: "HashCookie",
           repo: "Update",
           path: githubFilePath,
-          message: "File uploaded and converted via web app",
-          content: Buffer.from(JSON.stringify(jsonContent, null, 2)).toString("base64"),
-          sha: sha,
-          branch: "main",
+          ref: "main",
         });
-
-        console.log("File uploaded to GitHub successfully");
-
-        fs.unlinkSync(file.path);
-
-        console.log("Sending success response");
-        res.status(200).json({
-          success: true,
-          message: "文件已成功转换、上传并提交到GitHub的upload文件夹",
-        });
+        sha = existingFile.sha;
+        console.log("Existing file SHA:", sha);
       } catch (error) {
-        console.error("Upload error:", error);
-        console.error("Upload error details:", util.inspect(error, { depth: null }));
-        res.status(500).json({
-          success: false,
-          message: "处理文件或上传到GitHub时发生错误",
-          error: error.message,
-        });
-      } finally {
-        // 确保在所有情况下都删除临时文件
-        if (req.file && req.file.path) {
-          try {
-            fs.unlinkSync(req.file.path);
-          } catch (unlinkError) {
-            console.error("Error deleting temporary file:", unlinkError);
-          }
+        if (error.status === 404) {
+          console.log("File does not exist, will create a new one");
+        } else {
+          console.error("Error checking existing file:", error);
+          return res.status(500).json({
+            success: false,
+            message: "检查文件是否存在时发生错误",
+            error: error.message,
+          });
         }
       }
-    } catch (error) {
-      console.error("Error processing file: ${error}");
-      return res.status(500).json({
-        success: false,
-        message: "处理文件时发生错误",
-        error: error.message
+
+      console.log("Uploading to GitHub...");
+      await octokit.repos.createOrUpdateFileContents({
+        owner: "HashCookie",
+        repo: "Update",
+        path: githubFilePath,
+        message: "File uploaded and converted via web app",
+        content: Buffer.from(JSON.stringify(jsonContent, null, 2)).toString("base64"),
+        sha: sha,
+        branch: "main",
       });
+
+      console.log("File uploaded to GitHub successfully");
+
+      res.status(200).json({
+        success: true,
+        message: "文件已成功转换、上传并提交到GitHub的upload文件夹",
+      });
+    } catch (error) {
+      console.error("Error processing file:", error);
+      res.status(500).json({
+        success: false,
+        message: "处理文件或上传到GitHub时发生错误",
+        error: error.message,
+      });
+    } finally {
+      // 确保在所有情况下都删除临时文件
+      if (req.file && req.file.path) {
+        try {
+          fs.unlinkSync(req.file.path);
+        } catch (unlinkError) {
+          console.error("Error deleting temporary file:", unlinkError);
+        }
+      }
     }
   });
 }
