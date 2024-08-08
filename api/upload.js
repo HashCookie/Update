@@ -146,7 +146,7 @@ export default async function handler(req, res) {
         console.log("Unsupported file format");
         return res.status(400).json({
           success: false,
-          message: "不支持的文件格式，请上传 .txt, .xlsx 或 .json 文件",
+          message: "不支持的���格式，请上传 .txt, .xlsx 或 .json 文件",
         });
       }
 
@@ -167,47 +167,57 @@ export default async function handler(req, res) {
       const githubFilePath = "upload/example.json";
       console.log("Preparing to upload to GitHub. Path:", githubFilePath);
 
-      let sha;
-      try {
-        console.log("Checking if file already exists on GitHub");
-        const { data: existingFile } = await octokit.repos.getContent({
-          owner: "HashCookie",
-          repo: "Update",
-          path: githubFilePath,
-          ref: "main",
-        });
-        sha = existingFile.sha;
-        console.log("Existing file found. SHA:", sha);
-      } catch (error) {
-        if (error.status === 404) {
-          console.log("File does not exist on GitHub, will create a new one");
-        } else {
-          console.error("Error checking existing file:", error);
-          console.error("Error details:", error.message);
-          throw error;
-        }
-      }
+      // 添加这些日志来检查环境变量
+      console.log("GitHub Token exists:", !!process.env.GITHUB_TOKEN);
+      console.log("GitHub Owner:", process.env.GITHUB_OWNER || "HashCookie");
+      console.log("GitHub Repo:", process.env.GITHUB_REPO || "Update");
 
-      console.log("Uploading to GitHub...");
       try {
-        const response = await octokit.repos.createOrUpdateFileContents({
-          owner: "HashCookie",
-          repo: "Update",
+        // Check if the repository exists and is accessible
+        await octokit.repos.get({
+          owner: process.env.GITHUB_OWNER || "HashCookie",
+          repo: process.env.GITHUB_REPO || "Update"
+        });
+        console.log("Repository exists and is accessible");
+
+        const { data } = await octokit.repos.getContent({
+          owner: process.env.GITHUB_OWNER || "HashCookie",
+          repo: process.env.GITHUB_REPO || "Update",
+          path: githubFilePath,
+        });
+        console.log("File exists, updating content");
+        const response = await octokit.repos.updateFile({
+          owner: process.env.GITHUB_OWNER || "HashCookie",
+          repo: process.env.GITHUB_REPO || "Update",
           path: githubFilePath,
           message: "File uploaded and converted via web app",
           content: Buffer.from(JSON.stringify(jsonContent, null, 2)).toString("base64"),
-          sha: sha,
+          sha: data.sha,
           branch: "main",
         });
         console.log("GitHub API response:", response.status, response.data);
         console.log("File uploaded to GitHub successfully");
       } catch (error) {
-        console.error("Error uploading to GitHub:", error);
-        console.error("Error details:", error.message);
-        if (error.response) {
-          console.error("GitHub API response:", error.response.status, error.response.data);
+        if (error.status === 404) {
+          console.log("File doesn't exist, creating new file");
+          const response = await octokit.repos.createOrUpdateFileContents({
+            owner: process.env.GITHUB_OWNER || "HashCookie",
+            repo: process.env.GITHUB_REPO || "Update",
+            path: githubFilePath,
+            message: "File uploaded and converted via web app",
+            content: Buffer.from(JSON.stringify(jsonContent, null, 2)).toString("base64"),
+            branch: "main",
+          });
+          console.log("GitHub API response:", response.status, response.data);
+          console.log("File uploaded to GitHub successfully");
+        } else {
+          console.error("Error uploading to GitHub:", error);
+          console.error("Error details:", error.message);
+          if (error.response) {
+            console.error("GitHub API response:", error.response.status, error.response.data);
+          }
+          throw error;
         }
-        throw error;
       }
 
       res.status(200).json({
