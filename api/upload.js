@@ -3,8 +3,7 @@ import multer from "multer";
 import fs from "fs";
 import dotenv from "dotenv";
 import path from "path";
-import xlsx from "xlsx";
-import util from 'util';
+import * as XLSX from 'xlsx';
 
 dotenv.config();
 
@@ -46,9 +45,10 @@ async function getTranslationsFromDictionary() {
     });
     const content = Buffer.from(data.content, 'base64').toString('utf-8');
     const dictionary = JSON.parse(content);
-    // 将字典转换为以 name 为键的对象
+    console.log("Dictionary loaded successfully. Sample entries:", dictionary.slice(0, 5));
+    // 将字典转换为以 name 为键的对象，同时转换为小写
     return dictionary.reduce((acc, item) => {
-      acc[item.name] = item;
+      acc[item.name.toLowerCase()] = item;
       return acc;
     }, {});
   } catch (error) {
@@ -59,29 +59,31 @@ async function getTranslationsFromDictionary() {
 
 // 修改：转换文件内容为所需的 JSON 格式
 async function convertToRequiredFormat(fileContent, fileType) {
-  console.log(`Converting file of type: ${fileType}`);
-  console.log(`File content: ${fileContent}`);
-
   const dictionary = await getTranslationsFromDictionary();
+  console.log("Dictionary keys:", Object.keys(dictionary).slice(0, 10)); // 打印前10个键以验证
+
   let words;
 
   try {
     if (fileType === 'txt') {
       words = fileContent.split('\n').filter(word => word.trim() !== '');
-      console.log(`Extracted words: ${JSON.stringify(words)}`);
     } else if (fileType === 'xlsx') {
-      const workbook = xlsx.read(fileContent, { type: 'buffer' });
+      const workbook = XLSX.read(fileContent, { type: 'buffer' });
       const sheetName = workbook.SheetNames[0];
       const sheet = workbook.Sheets[sheetName];
-      words = xlsx.utils.sheet_to_json(sheet, { header: 1 }).flat().filter(word => word && word.trim() !== '');
-    } else {
+      words = XLSX.utils.sheet_to_json(sheet, { header: 1 }).flat().filter(word => word && word.trim() !== '');
+    } else if (fileType === 'json') {
       return JSON.parse(fileContent);
     }
 
-    const result = words.map(word => {
-      const trimmedWord = word.trim();
+    console.log("Words to process:", words);
+
+    return words.map(word => {
+      const trimmedWord = word.trim().toLowerCase(); // 转换为小写
+      console.log(`Processing word: "${trimmedWord}"`);
       const dictEntry = dictionary[trimmedWord];
       if (dictEntry) {
+        console.log(`Translation found for "${trimmedWord}":`, dictEntry);
         return {
           name: trimmedWord,
           trans: dictEntry.trans,
@@ -89,6 +91,7 @@ async function convertToRequiredFormat(fileContent, fileType) {
           ukphone: dictEntry.ukphone || ""
         };
       } else {
+        console.log(`No translation found for "${trimmedWord}"`);
         return {
           name: trimmedWord,
           trans: ["未在字典中找到翻译"],
@@ -97,9 +100,6 @@ async function convertToRequiredFormat(fileContent, fileType) {
         };
       }
     });
-
-    console.log(`Conversion result: ${JSON.stringify(result)}`);
-    return result;
   } catch (error) {
     console.error(`Error in convertToRequiredFormat: ${error}`);
     throw error;
@@ -141,19 +141,23 @@ export default async function handler(req, res) {
         console.log(`File extension: ${fileExtension}`);
         let jsonContent;
         if (fileExtension === '.txt') {
+          console.log("Processing txt file");
           jsonContent = await convertToRequiredFormat(fileContent.toString(), 'txt');
         } else if (fileExtension === '.xlsx') {
+          console.log("Processing xlsx file");
           jsonContent = await convertToRequiredFormat(fileContent, 'xlsx');
         } else if (fileExtension === '.json') {
+          console.log("Processing json file");
           jsonContent = await convertToRequiredFormat(fileContent.toString(), 'json');
         } else {
+          console.log("Unsupported file format");
           return res.status(400).json({
             success: false,
             message: "不支持的文件格式，请上传 .txt, .xlsx 或 .json 文件",
           });
         }
 
-        console.log(`JSON content after conversion: ${JSON.stringify(jsonContent)}`);
+        console.log("Converted content:", JSON.stringify(jsonContent, null, 2));
 
         // 验证转换后的 JSON 格式
         if (!validateJsonFormat(JSON.stringify(jsonContent))) {
