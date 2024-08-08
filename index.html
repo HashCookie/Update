@@ -58,54 +58,56 @@
         console.log("Form submitted");
         const file = fileInput.files[0];
         if (!file || !file.name.toLowerCase().endsWith(".json")) {
-          messageDiv.textContent = "请选择有效的 JSON 文件";
-          messageDiv.className = "error";
+          showMessage("请选择有效的 JSON 文件", "error");
           return;
         }
 
         const formData = new FormData(uploadForm);
 
-        messageDiv.textContent = "";
-        messageDiv.className = "";
-        loadingIndicator.style.display = "block";
-        uploadButton.disabled = true;
+        setUploadState(true);
 
         try {
           console.log("Sending request to server...");
           const response = await fetch("/api/upload", {
             method: "POST",
             body: formData,
-            keepalive: true,
           });
 
-          console.log(
-            "Response received:",
-            response.status,
-            response.statusText
-          );
+          console.log("Response received:", response.status, response.statusText);
           const result = await response.json();
           console.log("Response data:", result);
 
           if (response.ok && result.success) {
             console.log("Upload successful");
-            messageDiv.textContent = result.message;
-            messageDiv.className = "success";
+            showMessage(result.message, "success");
           } else {
             console.log("Upload failed");
             throw new Error(result.message || "上传失败");
           }
         } catch (error) {
           console.error("Upload error:", error);
-          messageDiv.textContent = `上传失败: ${error.message}`;
-          messageDiv.className = "error";
+          showMessage(`上传失败: ${error.message}`, "error");
         } finally {
-          loadingIndicator.style.display = "none";
-          uploadButton.disabled = false;
-          fileNameDisplay.textContent = "未选择文件";
-          fileInput.value = "";
+          setUploadState(false);
+          resetForm();
           console.log("Upload process completed");
         }
       });
+
+      function showMessage(text, type) {
+        messageDiv.textContent = text;
+        messageDiv.className = type;
+      }
+
+      function setUploadState(isUploading) {
+        loadingIndicator.style.display = isUploading ? "block" : "none";
+        uploadButton.disabled = isUploading;
+      }
+
+      function resetForm() {
+        fileNameDisplay.textContent = "未选择文件";
+        fileInput.value = "";
+      }
     </script>
   </body>
 </html>

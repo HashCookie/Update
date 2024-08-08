@@ -10,6 +10,24 @@ const upload = multer({ dest: "/tmp/uploads" });
 
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
+// 验证 JSON 格式的函数
+function validateJsonFormat(jsonContent) {
+  try {
+    const data = JSON.parse(jsonContent);
+    if (!Array.isArray(data)) {
+      return false;
+    }
+    return data.every(item => 
+      typeof item === 'object' &&
+      typeof item.name === 'string' &&
+      Array.isArray(item.trans) &&
+      item.trans.every(trans => typeof trans === 'string')
+    );
+  } catch (error) {
+    return false;
+  }
+}
+
 export default async function handler(req, res) {
   if (req.method !== "POST") {
     return res.status(405).json({ message: "Method Not Allowed" });
@@ -32,6 +50,15 @@ export default async function handler(req, res) {
 
       console.log("File received:", file.originalname);
       const fileContent = fs.readFileSync(file.path, "utf8");
+
+      // JSON 格式
+      if (!validateJsonFormat(fileContent)) {
+        return res.status(400).json({
+          success: false,
+          message: "上传的 JSON 文件格式不正确",
+        });
+      }
+
       const githubFilePath = path.join("upload", file.originalname);
 
       let sha;
