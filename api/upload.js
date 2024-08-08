@@ -146,7 +146,7 @@ export default async function handler(req, res) {
         console.log("Unsupported file format");
         return res.status(400).json({
           success: false,
-          message: "不支持的���件格式，请上传 .txt, .xlsx 或 .json 文件",
+          message: "不支持的文��格式，请上传 .txt, .xlsx 或 .json 文件",
         });
       }
 
@@ -168,25 +168,31 @@ export default async function handler(req, res) {
       console.log("Preparing to upload to GitHub. Path:", githubFilePath);
 
       // 添加这些日志来检查环境变量
-      console.log("GitHub Token exists:", !!process.env.GH_TOKEN);
+      console.log("GitHub Token exists:", !!process.env.GITHUB_TOKEN);
       console.log("GitHub Owner:", process.env.GITHUB_OWNER || "HashCookie");
       console.log("GitHub Repo:", process.env.GITHUB_REPO || "Update");
 
+      if (!process.env.GITHUB_TOKEN) {
+        throw new Error("GitHub Token is missing. Please check your environment variables.");
+      }
+
       try {
-        // Check if the repository exists and is accessible
+        // 检查仓库是否存在
         await octokit.repos.get({
           owner: process.env.GITHUB_OWNER || "HashCookie",
           repo: process.env.GITHUB_REPO || "Update"
         });
         console.log("Repository exists and is accessible");
 
+        console.log("Checking if file already exists");
         const { data } = await octokit.repos.getContent({
           owner: process.env.GITHUB_OWNER || "HashCookie",
           repo: process.env.GITHUB_REPO || "Update",
           path: githubFilePath,
+          ref: "main",
         });
         console.log("File exists, updating content");
-        const response = await octokit.repos.updateFile({
+        const response = await octokit.repos.createOrUpdateFileContents({
           owner: process.env.GITHUB_OWNER || "HashCookie",
           repo: process.env.GITHUB_REPO || "Update",
           path: githubFilePath,
@@ -196,7 +202,6 @@ export default async function handler(req, res) {
           branch: "main",
         });
         console.log("GitHub API response:", response.status, response.data);
-        console.log("File uploaded to GitHub successfully");
       } catch (error) {
         if (error.status === 404) {
           console.log("File doesn't exist, creating new file");
@@ -209,7 +214,6 @@ export default async function handler(req, res) {
             branch: "main",
           });
           console.log("GitHub API response:", response.status, response.data);
-          console.log("File uploaded to GitHub successfully");
         } else {
           console.error("Error uploading to GitHub:", error);
           console.error("Error details:", error.message);
@@ -219,6 +223,8 @@ export default async function handler(req, res) {
           throw error;
         }
       }
+
+      console.log("File uploaded to GitHub successfully");
 
       res.status(200).json({
         success: true,
