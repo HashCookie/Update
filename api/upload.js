@@ -44,6 +44,7 @@ async function getTranslationsFromDictionary() {
       ref: "main",
     });
     const content = Buffer.from(data.content, 'base64').toString('utf-8');
+    console.log("Raw dictionary content:", content.substring(0, 200) + "..."); // 打印前200个字符
     const dictionary = JSON.parse(content);
     console.log("Dictionary loaded successfully. Sample entries:", dictionary.slice(0, 5));
     // 将字典转换为以 name 为键的对象，同时转换为小写
@@ -53,6 +54,7 @@ async function getTranslationsFromDictionary() {
     }, {});
   } catch (error) {
     console.error("Error fetching dictionary:", error);
+    console.error("Error details:", error.message);
     return {};
   }
 }
@@ -65,14 +67,16 @@ async function convertToRequiredFormat(fileContent, fileType) {
   let words;
 
   if (fileType === 'txt') {
-    words = fileContent.split('\n').filter(word => word.trim() !== '');
+    // 确保 fileContent 是字符串
+    const content = fileContent.toString('utf-8');
+    words = content.split('\n').filter(word => word.trim() !== '');
   } else if (fileType === 'xlsx') {
     const workbook = XLSX.read(fileContent, { type: 'buffer' });
     const sheetName = workbook.SheetNames[0];
     const sheet = workbook.Sheets[sheetName];
     words = XLSX.utils.sheet_to_json(sheet, { header: 1 }).flat().filter(word => word && word.trim() !== '');
   } else if (fileType === 'json') {
-    return JSON.parse(fileContent);
+    return JSON.parse(fileContent.toString('utf-8'));
   }
 
   console.log("Words to process:", words);
@@ -198,10 +202,12 @@ export default async function handler(req, res) {
       });
     } catch (error) {
       console.error("Error processing file:", error);
+      console.error("Error stack:", error.stack);
       res.status(500).json({
         success: false,
         message: "处理文件或上传到GitHub时发生错误",
         error: error.message,
+        stack: error.stack
       });
     } finally {
       // 确保在所有情况下都删除临时文件
