@@ -14,7 +14,7 @@ const upload = multer({
   limits: { fileSize: MAX_FILE_SIZE }
 });
 
-const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+const octokit = new Octokit({ auth: process.env.GH_TOKEN });
 
 // 验证 JSON 格式的函数
 function validateJsonFormat(jsonContent) {
@@ -146,7 +146,7 @@ export default async function handler(req, res) {
         console.log("Unsupported file format");
         return res.status(400).json({
           success: false,
-          message: "不支持的���格式，请上传 .txt, .xlsx 或 .json 文件",
+          message: "不支持的���件格式，请上传 .txt, .xlsx 或 .json 文件",
         });
       }
 
@@ -168,7 +168,7 @@ export default async function handler(req, res) {
       console.log("Preparing to upload to GitHub. Path:", githubFilePath);
 
       // 添加这些日志来检查环境变量
-      console.log("GitHub Token exists:", !!process.env.GITHUB_TOKEN);
+      console.log("GitHub Token exists:", !!process.env.GH_TOKEN);
       console.log("GitHub Owner:", process.env.GITHUB_OWNER || "HashCookie");
       console.log("GitHub Repo:", process.env.GITHUB_REPO || "Update");
 
