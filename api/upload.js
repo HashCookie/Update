@@ -108,9 +108,11 @@ async function convertToRequiredFormat(fileContent, fileType) {
 
 export default async function handler(req, res) {
   if (req.method !== "POST") {
+    console.log("Received non-POST request");
     return res.status(405).json({ message: "Method Not Allowed" });
   }
 
+  console.log("Starting file upload process");
   upload.single("file")(req, res, async (err) => {
     try {
       if (err) {
@@ -131,7 +133,7 @@ export default async function handler(req, res) {
         return res.status(400).json({ success: false, message: "没有文件被上传" });
       }
 
-      console.log("File received:", file.originalname);
+      console.log("File received:", file.originalname, "Size:", file.size, "bytes");
       const fileContent = fs.readFileSync(file.path);
       const fileExtension = path.extname(file.originalname).toLowerCase();
 
@@ -148,21 +150,26 @@ export default async function handler(req, res) {
         });
       }
 
-      console.log("Converted content:", JSON.stringify(jsonContent, null, 2));
+      console.log("Converted content (first 100 characters):", JSON.stringify(jsonContent).substring(0, 100));
 
       // 验证转换后的 JSON 格式
+      console.log("Validating JSON format");
       if (!validateJsonFormat(JSON.stringify(jsonContent))) {
+        console.log("JSON validation failed");
         return res.status(400).json({
           success: false,
           message: "转换后的文件格式不正确",
         });
       }
+      console.log("JSON validation passed");
 
       // 上传到 GitHub
       const githubFilePath = "upload/example.json";
+      console.log("Preparing to upload to GitHub. Path:", githubFilePath);
 
       let sha;
       try {
+        console.log("Checking if file already exists on GitHub");
         const { data: existingFile } = await octokit.repos.getContent({
           owner: "HashCookie",
           repo: "Update",
@@ -170,32 +177,38 @@ export default async function handler(req, res) {
           ref: "main",
         });
         sha = existingFile.sha;
-        console.log("Existing file SHA:", sha);
+        console.log("Existing file found. SHA:", sha);
       } catch (error) {
         if (error.status === 404) {
-          console.log("File does not exist, will create a new one");
+          console.log("File does not exist on GitHub, will create a new one");
         } else {
           console.error("Error checking existing file:", error);
-          return res.status(500).json({
-            success: false,
-            message: "检查文件是否存在时发生错误",
-            error: error.message,
-          });
+          console.error("Error details:", error.message);
+          throw error;
         }
       }
 
       console.log("Uploading to GitHub...");
-      await octokit.repos.createOrUpdateFileContents({
-        owner: "HashCookie",
-        repo: "Update",
-        path: githubFilePath,
-        message: "File uploaded and converted via web app",
-        content: Buffer.from(JSON.stringify(jsonContent, null, 2)).toString("base64"),
-        sha: sha,
-        branch: "main",
-      });
-
-      console.log("File uploaded to GitHub successfully");
+      try {
+        const response = await octokit.repos.createOrUpdateFileContents({
+          owner: "HashCookie",
+          repo: "Update",
+          path: githubFilePath,
+          message: "File uploaded and converted via web app",
+          content: Buffer.from(JSON.stringify(jsonContent, null, 2)).toString("base64"),
+          sha: sha,
+          branch: "main",
+        });
+        console.log("GitHub API response:", response.status, response.data);
+        console.log("File uploaded to GitHub successfully");
+      } catch (error) {
+        console.error("Error uploading to GitHub:", error);
+        console.error("Error details:", error.message);
+        if (error.response) {
+          console.error("GitHub API response:", error.response.status, error.response.data);
+        }
+        throw error;
+      }
 
       res.status(200).json({
         success: true,
@@ -215,6 +228,7 @@ export default async function handler(req, res) {
       if (req.file && req.file.path) {
         try {
           fs.unlinkSync(req.file.path);
+          console.log("Temporary file deleted");
         } catch (unlinkError) {
           console.error("Error deleting temporary file:", unlinkError);
         }
