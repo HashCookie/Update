@@ -3,7 +3,7 @@ name: Sync Example JSON
 on:
   push:
     paths:
-      - 'upload/example.json' # 仅在此文件更改时触发
+      - 'upload/example.json'
 
 jobs:
   update-example-json:
@@ -27,17 +27,23 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           path: qwerty-learner
 
-      - name: Copy example.json to qwerty-learner
+      - name: Copy example.json and update dictionary.ts
         run: |
           cp upload/example.json qwerty-learner/public/dicts/example.json
+          
+          # 计算 example.json 中的 name 数量
+          NAME_COUNT=$(jq '.[] | select(.name != null) | .name' qwerty-learner/public/dicts/example.json | wc -l)
+          
+          # 更新 dictionary.ts 文件中特定的 length 字段
+          sed -i '/id: '\''exampletest'\''/,/}/s/length: [0-9]*/length: '"$NAME_COUNT"'/' qwerty-learner/src/resources/dictionary.ts
 
       - name: Commit and Push Changes
         run: |
           cd qwerty-learner
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add public/dicts/example.json
-          git commit -m "Update example.json from Update repository"
+          git add public/dicts/example.json src/resources/dictionary.ts
+          git commit -m "Update example.json and dictionary.ts from Update repository"
           git push
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
