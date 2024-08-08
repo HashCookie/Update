@@ -3,6 +3,7 @@ import multer from "multer";
 import fs from "fs";
 import dotenv from "dotenv";
 import path from "path";
+import xlsx from "xlsx";
 
 dotenv.config();
 
@@ -28,6 +29,65 @@ function validateJsonFormat(jsonContent) {
   }
 }
 
+// 修改：从字典中获取翻译
+async function getTranslationsFromDictionary() {
+  try {
+    const { data } = await octokit.repos.getContent({
+      owner: "HashCookie",
+      repo: "Update",
+      path: "dictionary.json",
+      ref: "main",
+    });
+    const content = Buffer.from(data.content, 'base64').toString('utf-8');
+    const dictionary = JSON.parse(content);
+    // 将字典转换为以 name 为键的对象
+    return dictionary.reduce((acc, item) => {
+      acc[item.name] = item;
+      return acc;
+    }, {});
+  } catch (error) {
+    console.error("Error fetching dictionary:", error);
+    return {};
+  }
+}
+
+// 修改：转换文件内容为所需的 JSON 格式
+async function convertToRequiredFormat(fileContent, fileType) {
+  const dictionary = await getTranslationsFromDictionary();
+  let words;
+
+  if (fileType === 'txt') {
+    words = fileContent.split('\n').filter(word => word.trim() !== '');
+  } else if (fileType === 'xlsx') {
+    const workbook = xlsx.read(fileContent, { type: 'buffer' });
+    const sheetName = workbook.SheetNames[0];
+    const sheet = workbook.Sheets[sheetName];
+    words = xlsx.utils.sheet_to_json(sheet, { header: 1 }).flat().filter(word => word && word.trim() !== '');
+  } else {
+    return JSON.parse(fileContent);
+  }
+
+  return words.map(word => {
+    const trimmedWord = word.trim();
+    const dictEntry = dictionary[trimmedWord];
+    if (dictEntry) {
+      return {
+        name: trimmedWord,
+        trans: dictEntry.trans,
+        usphone: dictEntry.usphone || "",
+        ukphone: dictEntry.ukphone || ""
+      };
+    } else {
+      return {
+        name: trimmedWord,
+        trans: ["未在字典中找到翻译"],
+        usphone: "",
+        ukphone: ""
+      };
+    }
+  });
+}
+
 export default async function handler(req, res) {
   if (req.method !== "POST") {
     return res.status(405).json({ message: "Method Not Allowed" });
@@ -49,17 +109,33 @@ export default async function handler(req, res) {
       }
 
       console.log("File received:", file.originalname);
-      const fileContent = fs.readFileSync(file.path, "utf8");
+      const fileContent = fs.readFileSync(file.path);
+      const fileExtension = path.extname(file.originalname).toLowerCase();
 
-      // JSON 格式
-      if (!validateJsonFormat(fileContent)) {
+      let jsonContent;
+      if (fileExtension === '.txt') {
+        jsonContent = await convertToRequiredFormat(fileContent.toString(), 'txt');
+      } else if (fileExtension === '.xlsx') {
+        jsonContent = await convertToRequiredFormat(fileContent, 'xlsx');
+      } else if (fileExtension === '.json') {
+        jsonContent = await convertToRequiredFormat(fileContent.toString(), 'json');
+      } else {
         return res.status(400).json({
           success: false,
-          message: "上传的 JSON 文件格式不正确",
+          message: "不支持的文件格式��请上传 .txt, .xlsx 或 .json 文件",
         });
       }
 
-      const githubFilePath = path.join("upload", file.originalname);
+      // 验证转换后的 JSON 格式
+      if (!validateJsonFormat(JSON.stringify(jsonContent))) {
+        return res.status(400).json({
+          success: false,
+          message: "转换后的文件格式不正确",
+        });
+      }
+
+      // 修改这里：使用固定的文件名 'example.json'
+      const githubFilePath = "upload/example.json";
 
       let sha;
       try {
@@ -89,8 +165,8 @@ export default async function handler(req, res) {
         owner: "HashCookie",
         repo: "Update",
         path: githubFilePath,
-        message: "File uploaded via web app",
-        content: Buffer.from(fileContent).toString("base64"),
+        message: "File uploaded and converted via web app",
+        content: Buffer.from(JSON.stringify(jsonContent, null, 2)).toString("base64"),
         sha: sha,
         branch: "main",
       });
@@ -102,13 +178,13 @@ export default async function handler(req, res) {
       console.log("Sending success response");
       res.status(200).json({
         success: true,
-        message: "文件已成功上传并提交到GitHub的upload文件夹",
+        message: "文件已成功转换、上传并提交到GitHub的upload文件夹",
       });
     } catch (error) {
       console.error("Upload error:", error);
       res.status(500).json({
         success: false,
-        message: "上传文件到GitHub时发生错误",
+        message: "处理文件或上传到GitHub时发生错误",
         error: error.message,
       });
     }

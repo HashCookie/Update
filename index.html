@@ -14,7 +14,7 @@
           type="file"
           id="file-input"
           name="file"
-          accept=".json"
+          accept=".txt, .xlsx, .json"
           required
         />
         <label for="file-input">选择文件</label>
@@ -37,13 +37,13 @@
       fileInput.addEventListener("change", (event) => {
         const file = fileInput.files[0];
         if (file) {
-          if (file.name.toLowerCase().endsWith(".json")) {
+          if (file.name.toLowerCase().endsWith(".txt") || file.name.toLowerCase().endsWith(".xlsx") || file.name.toLowerCase().endsWith(".json")) {
             const fileName = file.name;
             fileNameDisplay.textContent = fileName;
             uploadButton.disabled = false;
             console.log("File selected:", fileName);
           } else {
-            fileNameDisplay.textContent = "请选择 JSON 文件";
+            fileNameDisplay.textContent = "请选择支持的文件格式";
             uploadButton.disabled = true;
             console.log("Invalid file type selected");
           }
@@ -57,8 +57,8 @@
         event.preventDefault();
         console.log("Form submitted");
         const file = fileInput.files[0];
-        if (!file || !file.name.toLowerCase().endsWith(".json")) {
-          showMessage("请选择有效的 JSON 文件", "error");
+        if (!file || !(file.name.toLowerCase().endsWith(".txt") || file.name.toLowerCase().endsWith(".xlsx") || file.name.toLowerCase().endsWith(".json"))) {
+          showMessage("请选择支持的文件格式", "error");
           return;
         }
 
@@ -79,7 +79,7 @@
 
           if (response.ok && result.success) {
             console.log("Upload successful");
-            showMessage(result.message, "success");
+            showMessage(`文件已成功上传并转换为 JSON 格式。已保存为 example.json`, "success");
           } else {
             console.log("Upload failed");
             throw new Error(result.message || "上传失败");
