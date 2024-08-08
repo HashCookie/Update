@@ -1,0 +1,8528 @@
+[
+  {
+    "name": "overstate",
+    "trans": [
+      "vt. 夸张；夸大的叙述"
+    ],
+    "usphone": "[ˌoʊvərˈsteɪt]",
+    "ukphone": "[ˌəʊvəˈsteɪt]"
+  },
+  {
+    "name": "observe",
+    "trans": [
+      "vt. 庆祝",
+      "vt. 观察；遵守；说；注意到；评论",
+      "vi. 观察；说；注意到；评论"
+    ],
+    "usphone": "[əbˈzɜːrv]",
+    "ukphone": "[əbˈzɜːv]"
+  },
+  {
+    "name": "observation",
+    "trans": [
+      "n. 观察；监视；观察报告"
+    ],
+    "usphone": "[ˌɑːbzərˈveɪʃ(ə)n]",
+    "ukphone": "[ˌɒbzəˈveɪʃ(ə)n]"
+  },
+  {
+    "name": "observer",
+    "trans": [
+      "n. 观察者；[天] 观测者；遵守者"
+    ],
+    "usphone": "[əbˈzɜːrvər]",
+    "ukphone": "[əbˈzɜːvə(r)]"
+  },
+  {
+    "name": "observable",
+    "trans": [
+      "adj. 显著的；觉察得到的；看得见的",
+      "n. [物] 可观察量；感觉到的事物"
+    ],
+    "usphone": "[əbˈzɜːrvəbl]",
+    "ukphone": "[əbˈzɜːvəbl]"
+  },
+  {
+    "name": "overvalue",
+    "trans": [
+      "vt. 对…估价过高；过分重视"
+    ],
+    "usphone": "[ˌoʊvərˈvæljuː]",
+    "ukphone": "[ˌəʊvəˈvæljuː]"
+  },
+  {
+    "name": "offer",
+    "trans": [
+      "vt. 提供；出价；试图",
+      "n. 提议；出价；意图；录取通知书",
+      "vi. 提议；出现；献祭；求婚"
+    ],
+    "usphone": "[ˈɔːfər]",
+    "ukphone": "[ˈɒfə(r)]"
+  },
+  {
+    "name": "ordinary",
+    "trans": [
+      "adj. 普通的；平凡的；平常的",
+      "n. 普通；平常的人（或事）"
+    ],
+    "usphone": "[ˈɔːrdneri]",
+    "ukphone": "[ˈɔːdnri]"
+  },
+  {
+    "name": "oppressive",
+    "trans": [
+      "adj. 压迫的；沉重的；压制性的；难以忍受的"
+    ],
+    "usphone": "[əˈpresɪv]",
+    "ukphone": "[əˈpresɪv]"
+  },
+  {
+    "name": "occupy",
+    "trans": [
+      "vt. 占据，占领；居住；使忙碌"
+    ],
+    "usphone": "[ˈɑːkjupaɪ]",
+    "ukphone": "[ˈɒkjupaɪ]"
+  },
+  {
+    "name": "occupation",
+    "trans": [
+      "n. 职业；占有；消遣；占有期"
+    ],
+    "usphone": "[ˌɑːkjuˈpeɪʃn]",
+    "ukphone": "[ˌɒkjuˈpeɪʃ(ə)n]"
+  },
+  {
+    "name": "order",
+    "trans": [
+      "n. 命令；顺序；规则；[贸易] 定单",
+      "vt. 命令；整理；定购",
+      "vi. 命令；定货"
+    ],
+    "usphone": "[ˈɔːrdər]",
+    "ukphone": "[ˈɔːdə(r)]"
+  },
+  {
+    "name": "orderly",
+    "trans": [
+      "adj. 有秩序的；整齐的；值班的",
+      "n. 勤务兵；传令兵；护理员",
+      "adv. 顺序地；依次地"
+    ],
+    "usphone": "[ˈɔːrdərli]",
+    "ukphone": "[ˈɔːdəli]"
+  },
+  {
+    "name": "opinion",
+    "trans": [
+      "n. 意见；主张"
+    ],
+    "usphone": "[əˈpɪnjən]",
+    "ukphone": "[əˈpɪnjən]"
+  },
+  {
+    "name": "opportunity",
+    "trans": [
+      "n. 时机，机会"
+    ],
+    "usphone": "[ˌɑːpərˈtuːnəti]",
+    "ukphone": "[ˌɒpəˈtjuːnəti]"
+  },
+  {
+    "name": "option",
+    "trans": [
+      "n. [计] 选项；选择权；买卖的特权"
+    ],
+    "usphone": "[ˈɑːpʃ(ə)n]",
+    "ukphone": "[ˈɒpʃn]"
+  },
+  {
+    "name": "optional",
+    "trans": [
+      "adj. 可选择的，随意的",
+      "n. 选修科目"
+    ],
+    "usphone": "[ˈɑːpʃən(ə)l]",
+    "ukphone": "[ˈɒpʃən(ə)l]"
+  },
+  {
+    "name": "outline",
+    "trans": [
+      "n. 轮廓；大纲；概要；略图",
+      "vt. 概述；略述；描画…轮廓"
+    ],
+    "usphone": "[ˈaʊtlaɪn]",
+    "ukphone": "[ˈaʊtlaɪn]"
+  },
+  {
+    "name": "office",
+    "trans": [
+      "n. 办公室；政府机关；官职；营业处"
+    ],
+    "usphone": "[ˈɑːfɪs]",
+    "ukphone": "[ˈɒfɪs]"
+  },
+  {
+    "name": "official",
+    "trans": [
+      "adj. 官方的；正式的；公务的",
+      "n. 官员；公务员；高级职员"
+    ],
+    "usphone": "[əˈfɪʃl]",
+    "ukphone": "[əˈfɪʃ(ə)l]"
+  },
+  {
+    "name": "officer",
+    "trans": [
+      "n. 军官，警官；公务员，政府官员；船长",
+      "vt. 指挥"
+    ],
+    "usphone": "[ˈɑːfɪsər]",
+    "ukphone": "[ˈɒfɪsə(r)]"
+  },
+  {
+    "name": "overturn",
+    "trans": [
+      "vt. 推翻；倾覆；破坏",
+      "vi. 推翻；倾覆",
+      "n. 倾覆；周转；破灭"
+    ],
+    "usphone": "[ˌoʊvərˈtɜːrn]",
+    "ukphone": "[ˌəʊvəˈtɜːn]"
+  },
+  {
+    "name": "outset",
+    "trans": [
+      "n. 开始；开端"
+    ],
+    "usphone": "[ˈaʊtset]",
+    "ukphone": "[ˈaʊtset]"
+  },
+  {
+    "name": "offset",
+    "trans": [
+      "n. 抵消，补偿；平版印刷；支管",
+      "vt. 抵消；弥补；用平版印刷术印刷",
+      "vi. 装支管"
+    ],
+    "usphone": "[ˈɔːfset]",
+    "ukphone": "[ˈɒfset]"
+  },
+  {
+    "name": "outcome",
+    "trans": [
+      "n. 结果，结局；成果"
+    ],
+    "usphone": "[ˈaʊtkʌm]",
+    "ukphone": "[ˈaʊtkʌm]"
+  },
+  {
+    "name": "overcome",
+    "trans": [
+      "vt. 克服；胜过",
+      "vi. 克服；得胜"
+    ],
+    "usphone": "[ˌoʊvərˈkʌm]",
+    "ukphone": "[ˌəʊvəˈkʌm]"
+  },
+  {
+    "name": "orphan",
+    "trans": [
+      "adj. 孤儿的；无双亲的",
+      "n. 孤儿",
+      "vt. 使成孤儿"
+    ],
+    "usphone": "[ˈɔːrf(ə)n]",
+    "ukphone": "[ˈɔːf(ə)n]"
+  },
+  {
+    "name": "outlook",
+    "trans": [
+      "n. 展望；观点；景色",
+      "vt. 比……好看；用目光压倒",
+      "vi. 朝外看"
+    ],
+    "usphone": "[ˈaʊtlʊk]",
+    "ukphone": "[ˈaʊtlʊk]"
+  },
+  {
+    "name": "oppose",
+    "trans": [
+      "vt. 反对；对抗，抗争",
+      "vi. 反对"
+    ],
+    "usphone": "[əˈpoʊz]",
+    "ukphone": "[əˈpəʊz]"
+  },
+  {
+    "name": "opposed",
+    "trans": [
+      "adj. 相反的；敌对的",
+      "v. 反对（oppose的过去分词）；使对立"
+    ],
+    "usphone": "[əˈpoʊzd]",
+    "ukphone": "[əˈpəʊzd]"
+  },
+  {
+    "name": "opposing",
+    "trans": [
+      "adj. 反对的；相对的；对面的",
+      "v. 反对（oppose的ing形式）"
+    ],
+    "usphone": "[əˈpoʊzɪŋ]",
+    "ukphone": "[əˈpəʊzɪŋ]"
+  },
+  {
+    "name": "opposite",
+    "trans": [
+      "adj. 相反的；对面的；对立的",
+      "n. 对立面；反义词",
+      "prep. 在…的对面",
+      "adv. 在对面"
+    ],
+    "usphone": "[ˈɑːpəzɪt]",
+    "ukphone": "[ˈɒpəzɪt]"
+  },
+  {
+    "name": "opponent",
+    "trans": [
+      "n. 对手；反对者；敌手",
+      "adj. 对立的；敌对的"
+    ],
+    "usphone": "[əˈpoʊnənt]",
+    "ukphone": "[əˈpəʊnənt]"
+  },
+  {
+    "name": "outward",
+    "trans": [
+      "adj. 向外的；外面的；公开的；外服的；肉体的",
+      "adv. 向外（等于outwards）；在外；显而易见地",
+      "n. 外表；外面；物质世界"
+    ],
+    "usphone": "[ˈaʊtwərd]",
+    "ukphone": "[ˈaʊtwəd]"
+  },
+  {
+    "name": "obtain",
+    "trans": [
+      "vi. 获得；流行",
+      "vt. 获得"
+    ],
+    "usphone": "[əbˈteɪn]",
+    "ukphone": "[əbˈteɪn]"
+  },
+  {
+    "name": "objective",
+    "trans": [
+      "adj. 客观的；目标的；宾格的",
+      "n. 目的；目标；[光] 物镜；宾格"
+    ],
+    "usphone": "[əbˈdʒektɪv]",
+    "ukphone": "[əbˈdʒektɪv]"
+  },
+  {
+    "name": "object",
+    "trans": [
+      "n. 目标；物体；客体；宾语",
+      "vt. 提出…作为反对的理由",
+      "vi. 反对；拒绝"
+    ],
+    "usphone": "[ˈɑːbdʒɪkt; əbˈdʒekt]",
+    "ukphone": "[ˈɒbdʒɪkt; əbˈdʒekt]"
+  },
+  {
+    "name": "objection",
+    "trans": [
+      "n. 异议，反对；缺陷，缺点；妨碍；拒绝的理由"
+    ],
+    "usphone": "[əbˈdʒekʃn]",
+    "ukphone": "[əbˈdʒekʃn]"
+  },
+  {
+    "name": "objectiveness",
+    "trans": [
+      "n. 客观, 客观性"
+    ],
+    "usphone": "[əbdˈʒektɪvnəs]",
+    "ukphone": "[əbˈdʒektɪvnəs]"
+  },
+  {
+    "name": "objectivity",
+    "trans": [
+      "n. 客观；客观性"
+    ],
+    "usphone": "[ˌɑːbdʒekˈtɪvəti]",
+    "ukphone": "[ˌɒbdʒekˈtɪvəti]"
+  },
+  {
+    "name": "obvious",
+    "trans": [
+      "adj. 明显的；显著的；平淡无奇的"
+    ],
+    "usphone": "[ˈɑːbviəs]",
+    "ukphone": "[ˈɒbviəs]"
+  },
+  {
+    "name": "obviously",
+    "trans": [
+      "adv. 明显地",
+      "显然地"
+    ],
+    "usphone": "[ˈɑːbviəsli]",
+    "ukphone": "[ˈɒbviəsli]"
+  },
+  {
+    "name": "occur",
+    "trans": [
+      "vi. 发生；出现；存在"
+    ],
+    "usphone": "[əˈkɜːr]",
+    "ukphone": "[əˈkɜː(r)]"
+  },
+  {
+    "name": "occurrence",
+    "trans": [
+      "n. 发生；出现；事件；发现"
+    ],
+    "usphone": "[əˈkɜːrəns]",
+    "ukphone": "[əˈkʌrəns]"
+  },
+  {
+    "name": "origin",
+    "trans": [
+      "n. 起源；原点；出身；开端"
+    ],
+    "usphone": "[ˈɔːrɪdʒɪn]",
+    "ukphone": "[ˈɒrɪdʒɪn]"
+  },
+  {
+    "name": "original",
+    "trans": [
+      "n. 原件；原作；原物；原型",
+      "adj. 原始的；最初的；独创的；新颖的"
+    ],
+    "usphone": "[əˈrɪdʒənl]",
+    "ukphone": "[əˈrɪdʒən(ə)l]"
+  },
+  {
+    "name": "originally",
+    "trans": [
+      "adv. 最初，起初；本来"
+    ],
+    "usphone": "[əˈrɪdʒənəli]",
+    "ukphone": "[əˈrɪdʒənəli]"
+  },
+  {
+    "name": "originate",
+    "trans": [
+      "vt. 引起；创作",
+      "vi. 发源；发生；起航"
+    ],
+    "usphone": "[əˈrɪdʒɪneɪt]",
+    "ukphone": "[əˈrɪdʒɪneɪt]"
+  },
+  {
+    "name": "overall",
+    "trans": [
+      "adj. 全部的；全体的；一切在内的",
+      "adv. 全部地；总的说来",
+      "n. 工装裤；罩衫"
+    ],
+    "usphone": "[ˌoʊvərˈɔːl; ˈoʊvərɔːl]",
+    "ukphone": "[ˌəʊvərˈɔːl; ˈəʊvərɔːl]"
+  },
+  {
+    "name": "overhead",
+    "trans": [
+      "adv. 在头顶上；在空中；在高处",
+      "adj. 高架的；在头上的；在头顶上的",
+      "n. 天花板；[会计] 经常费用；间接费用；吊脚架空层"
+    ],
+    "usphone": "[ˌoʊvərˈhed; ˈoʊvərˌhed]",
+    "ukphone": "[ˌəʊvəˈhed]"
+  },
+  {
+    "name": "overlook",
+    "trans": [
+      "vt. 忽略；俯瞰；远眺；检查；高耸于…之上",
+      "n. 忽视；眺望"
+    ],
+    "usphone": "[ˌoʊvərˈlʊk]",
+    "ukphone": "[ˌəʊvəˈlʊk]"
+  },
+  {
+    "name": "overseas",
+    "trans": [
+      "adv. 在海外，海外",
+      "adj. 海外的，国外的"
+    ],
+    "usphone": "[ˌoʊvərˈsiːz]",
+    "ukphone": "[ˌəʊvəˈsiːz]"
+  },
+  {
+    "name": "overtime",
+    "trans": [
+      "n. [劳经] 加班时间；延长时间；加时赛",
+      "adj. 超时的；加班的",
+      "vt. 使超过时间",
+      "adv. 加班地"
+    ],
+    "usphone": "[ˈoʊvərtaɪm]",
+    "ukphone": "[ˈəʊvətaɪm]"
+  },
+  {
+    "name": "overburdened",
+    "trans": [
+      "adj. 负担过重的；装载过多的",
+      "vt. 使负担过重（overburden的过去分词）"
+    ],
+    "usphone": "[,əuvə'bə:dənd]",
+    "ukphone": "[,əuvə'bə:dənd]"
+  },
+  {
+    "name": "overwhelm",
+    "trans": [
+      "vt. 淹没；压倒；受打击；覆盖；压垮"
+    ],
+    "usphone": "[ˌoʊvərˈwelm]",
+    "ukphone": "[ˌəʊvəˈwelm]"
+  },
+  {
+    "name": "overwhelming",
+    "trans": [
+      "adj. 压倒性的；势不可挡的",
+      "v. 压倒；淹没（overwhelm的ing形式）；制服"
+    ],
+    "usphone": "[ˌoʊvərˈwelmɪŋ]",
+    "ukphone": "[ˌəʊvəˈwelmɪŋ]"
+  },
+  {
+    "name": "overrule",
+    "trans": [
+      "vt. 否决；统治；对…施加影响"
+    ],
+    "usphone": "[ˌoʊvərˈruːl]",
+    "ukphone": "[ˌəʊvəˈruːl]"
+  },
+  {
+    "name": "outdated",
+    "trans": [
+      "adj. 过时的；旧式的",
+      "v. 使过时（outdate的过去式和过去分词）"
+    ],
+    "usphone": "[ˌaʊtˈdeɪtɪd]",
+    "ukphone": "[ˌaʊtˈdeɪtɪd]"
+  },
+  {
+    "name": "oral",
+    "trans": [
+      "n. 口试",
+      "adj. 口头的，口述的"
+    ],
+    "usphone": "[ˈɔːrəl]",
+    "ukphone": "[ˈɔːrəl]"
+  },
+  {
+    "name": "opera",
+    "trans": [
+      "n. 歌剧；歌剧院；歌剧团"
+    ],
+    "usphone": "[ˈɑːprə]",
+    "ukphone": "[ˈɒprə]"
+  },
+  {
+    "name": "obstacle",
+    "trans": [
+      "n. 障碍，干扰；妨害物"
+    ],
+    "usphone": "[ˈɑːbstək(ə)l]",
+    "ukphone": "[ˈɒbstəkl]"
+  },
+  {
+    "name": "ownership",
+    "trans": [
+      "n. 所有权；物主身份"
+    ],
+    "usphone": "[ˈoʊnərʃɪp]",
+    "ukphone": "[ˈəʊnəʃɪp]"
+  },
+  {
+    "name": "orient",
+    "trans": [
+      "vt. 使适应；确定方向；使朝东",
+      "n. 东方；东方诸国",
+      "adj. 东方的",
+      "vi. 向东"
+    ],
+    "usphone": "[ˈɔːrient]",
+    "ukphone": "[ˈɔːrient]"
+  },
+  {
+    "name": "oriented",
+    "trans": [
+      "adj. 导向的；定向的；以…为方向的",
+      "v. 调整；使朝向（orient的过去分词）；确定…的方位"
+    ],
+    "usphone": "[ˈɔːrientɪd]",
+    "ukphone": "[ˈɔːrientɪd]"
+  },
+  {
+    "name": "oriental",
+    "trans": [
+      "adj. 东方的；东方人的",
+      "n. 东方人"
+    ],
+    "usphone": "[ˌɔːriˈentl]",
+    "ukphone": "[ˌɔːriˈentl]"
+  },
+  {
+    "name": "optimistic",
+    "trans": [
+      "adj. 乐观的；乐观主义的"
+    ],
+    "usphone": "[ˌɑːptɪˈmɪstɪk]",
+    "ukphone": "[ˌɒptɪˈmɪstɪk]"
+  },
+  {
+    "name": "optimism",
+    "trans": [
+      "n. 乐观；乐观主义"
+    ],
+    "usphone": "[ˈɑːptɪmɪzəm]",
+    "ukphone": "[ˈɒptɪmɪzəm]"
+  },
+  {
+    "name": "outweigh",
+    "trans": [
+      "vt. 比…重（在重量上）；比…重要；比…有价值"
+    ],
+    "usphone": "[ˌaʊtˈweɪ]",
+    "ukphone": "[ˌaʊtˈweɪ]"
+  },
+  {
+    "name": "overweight",
+    "trans": [
+      "adj. 超重的；过重的",
+      "vt. 使负担过重",
+      "n. 超重"
+    ],
+    "usphone": "[ˌoʊvərˈweɪt]",
+    "ukphone": "[ˌəʊvəˈweɪt]"
+  },
+  {
+    "name": "output",
+    "trans": [
+      "n. 输出，输出量；产量；出产",
+      "vt. 输出"
+    ],
+    "usphone": "[ˈaʊtpʊt]",
+    "ukphone": "[ˈaʊtpʊt]"
+  },
+  {
+    "name": "outrage",
+    "trans": [
+      "n. 愤怒，愤慨；暴行；侮辱",
+      "vt. 凌辱，强奸；对…施暴行；激起愤怒"
+    ],
+    "usphone": "[ˈaʊtreɪdʒ]",
+    "ukphone": "[ˈaʊtreɪdʒ]"
+  },
+  {
+    "name": "outlet",
+    "trans": [
+      "n. 出口，排放孔；[电] 电源插座；销路；发泄的方法；批发商店"
+    ],
+    "usphone": "[ˈaʊtlet]",
+    "ukphone": "[ˈaʊtlet]"
+  },
+  {
+    "name": "outbreak",
+    "trans": [
+      "n. （战争的）爆发；（疾病的）发作",
+      "vi. 爆发"
+    ],
+    "usphone": "[ˈaʊtbreɪk]",
+    "ukphone": "[ˈaʊtbreɪk]"
+  },
+  {
+    "name": "outfit",
+    "trans": [
+      "n. 机构；用具；全套装备",
+      "vi. 得到装备",
+      "vt. 配备；供应"
+    ],
+    "usphone": "[ˈaʊtfɪt]",
+    "ukphone": "[ˈaʊtfɪt]"
+  },
+  {
+    "name": "oblige",
+    "trans": [
+      "vt. 迫使；强制；赐，施恩惠；责成；义务",
+      "vi. 帮忙；施恩惠"
+    ],
+    "usphone": "[əˈblaɪdʒ]",
+    "ukphone": "[əˈblaɪdʒ]"
+  },
+  {
+    "name": "obligation",
+    "trans": [
+      "n. 义务；职责；债务"
+    ],
+    "usphone": "[ˌɑːblɪˈɡeɪʃn]",
+    "ukphone": "[ˌɒblɪˈɡeɪʃ(ə)n]"
+  },
+  {
+    "name": "obscure",
+    "trans": [
+      "adj. 昏暗的，朦胧的；晦涩的，不清楚的；隐蔽的；不著名的，无名的",
+      "vt. 使…模糊不清，掩盖；隐藏；使难理解",
+      "n. 某种模糊的或不清楚的东西"
+    ],
+    "usphone": "[əbˈskjʊr]",
+    "ukphone": "[əbˈskjʊə(r)]"
+  },
+  {
+    "name": "operate",
+    "trans": [
+      "vi. 运转；动手术；起作用",
+      "vt. 操作；经营；引起；对…开刀"
+    ],
+    "usphone": "[ˈɑːpəreɪt]",
+    "ukphone": "[ˈɒpəreɪt]"
+  },
+  {
+    "name": "operator",
+    "trans": [
+      "n. 经营者；操作员；话务员；行家"
+    ],
+    "usphone": "[ˈɑːpəreɪtər]",
+    "ukphone": "[ˈɒpəreɪtə(r)]"
+  },
+  {
+    "name": "operation",
+    "trans": [
+      "n. 操作；经营；[外科] 手术；[数][计] 运算"
+    ],
+    "usphone": "[ˌɑːpəˈreɪʃ(ə)n]",
+    "ukphone": "[ˌɒpəˈreɪʃ(ə)n]"
+  },
+  {
+    "name": "operational",
+    "trans": [
+      "adj. 操作的；运作的"
+    ],
+    "usphone": "[ˌɑːpəˈreɪʃən(ə)l]",
+    "ukphone": "[ˌɒpəˈreɪʃən(ə)l]"
+  },
+  {
+    "name": "owe",
+    "trans": [
+      "vt. 欠；感激；应给予；应该把……归功于",
+      "vi. 欠钱"
+    ],
+    "usphone": "[oʊ]",
+    "ukphone": "[əʊ]"
+  },
+  {
+    "name": "organize",
+    "trans": [
+      "vt. 组织；使有系统化；给予生机；组织成立工会等",
+      "vi. 组织起来；成立组织"
+    ],
+    "usphone": "[ˈɔːrɡənaɪz]",
+    "ukphone": "[ˈɔːɡənaɪz]"
+  },
+  {
+    "name": "organized",
+    "trans": [
+      "adj. 有组织的；安排有秩序的；做事有条理的",
+      "v. 组织（organize的过去分词）"
+    ],
+    "usphone": "[ˈɔːrɡənaɪzd]",
+    "ukphone": "[ˈɔːɡənaɪzd]"
+  },
+  {
+    "name": "organization",
+    "trans": [
+      "n. 组织；机构；体制；团体"
+    ],
+    "usphone": "[ˌɔːrɡənəˈzeɪʃn]",
+    "ukphone": "[ˌɔːɡənaɪˈzeɪʃn]"
+  },
+  {
+    "name": "organizational",
+    "trans": [
+      "adj. 组织的；编制的"
+    ],
+    "usphone": "[ˌɔːrɡənəˈzeɪʃənl]",
+    "ukphone": "[ˌɔːɡənaɪˈzeɪʃənl]"
+  },
+  {
+    "name": "occasionally",
+    "trans": [
+      "adv. 偶尔；间或"
+    ],
+    "usphone": "[əˈkeɪʒnəli]",
+    "ukphone": "[əˈkeɪʒnəli]"
+  },
+  {
+    "name": "occasion",
+    "trans": [
+      "n. 时机，机会；场合；理由",
+      "vt. 引起，惹起"
+    ],
+    "usphone": "[əˈkeɪʒn]",
+    "ukphone": "[əˈkeɪʒ(ə)n]"
+  },
+  {
+    "name": "offend",
+    "trans": [
+      "vt. 冒犯；使…不愉快",
+      "vi. 违反；进攻；引起不舒服"
+    ],
+    "usphone": "[əˈfend]",
+    "ukphone": "[əˈfend]"
+  },
+  {
+    "name": "offensive",
+    "trans": [
+      "adj. 攻击的；冒犯的；无礼的；讨厌的",
+      "n. 攻势；攻击"
+    ],
+    "usphone": "[əˈfensɪv]",
+    "ukphone": "[əˈfensɪv]"
+  },
+  {
+    "name": "ornament",
+    "trans": [
+      "n. 装饰；[建][服装] 装饰物；教堂用品",
+      "vt. 装饰，修饰"
+    ],
+    "usphone": "[ˈɔːrnəmənt]",
+    "ukphone": "[ˈɔːnəmənt]"
+  },
+  {
+    "name": "orchestra",
+    "trans": [
+      "n. 管弦乐队；乐队演奏处"
+    ],
+    "usphone": "[ˈɔːrkɪstrə]",
+    "ukphone": "[ˈɔːkɪstrə]"
+  },
+  {
+    "name": "orchestral",
+    "trans": [
+      "adj. 管弦乐的；管弦乐队的"
+    ],
+    "usphone": "[ɔːrˈkestrəl]",
+    "ukphone": "[ɔːˈkestrəl]"
+  },
+  {
+    "name": "obey",
+    "trans": [
+      "vt. 服从，听从；按照……行动",
+      "vi. 服从，顺从；听话"
+    ],
+    "usphone": "[əˈbeɪ]",
+    "ukphone": "[əˈbeɪ]"
+  },
+  {
+    "name": "oxygen",
+    "trans": [
+      "n. [化学] 氧气，[化学] 氧"
+    ],
+    "usphone": "[ˈɑːksɪdʒən]",
+    "ukphone": "[ˈɒksɪdʒən]"
+  },
+  {
+    "name": "overlap",
+    "trans": [
+      "n. 重叠；重复",
+      "vi. 部分重叠；部分的同时发生",
+      "vt. 与…重叠；与…同时发生"
+    ],
+    "usphone": "[ˌoʊvərˈlæp]",
+    "ukphone": "[ˌəʊvəˈlæp]"
+  },
+  {
+    "name": "organ",
+    "trans": [
+      "n. [生物] 器官；机构；风琴；管风琴；嗓音"
+    ],
+    "usphone": "[ˈɔːrɡən]",
+    "ukphone": "[ˈɔːɡən]"
+  },
+  {
+    "name": "organism",
+    "trans": [
+      "n. 有机体；生物体；微生物"
+    ],
+    "usphone": "[ˈɔːrɡənɪzəm]",
+    "ukphone": "[ˈɔːɡənɪzəm]"
+  },
+  {
+    "name": "organic",
+    "trans": [
+      "adj. [有化] 有机的；组织的；器官的；根本的"
+    ],
+    "usphone": "[ɔːrˈɡænɪk]",
+    "ukphone": "[ɔːˈɡænɪk]"
+  },
+  {
+    "name": "obsess",
+    "trans": [
+      "vt. 迷住，缠住；使…着迷；使…困扰"
+    ],
+    "usphone": "[əbˈses]",
+    "ukphone": "[əbˈses]"
+  },
+  {
+    "name": "obsession",
+    "trans": [
+      "n. 痴迷；困扰；[内科][心理] 强迫观念"
+    ],
+    "usphone": "[əbˈseʃn]",
+    "ukphone": "[əbˈseʃn]"
+  },
+  {
+    "name": "outperform",
+    "trans": [
+      "vt. 胜过；做得比……好"
+    ],
+    "usphone": "[ˌaʊtpərˈfɔːrm]",
+    "ukphone": "[ˌaʊtpəˈfɔːm]"
+  },
+  {
+    "name": "obedience",
+    "trans": [
+      "n. 顺从；服从；遵守"
+    ],
+    "usphone": "[əˈbiːdiəns]",
+    "ukphone": "[əˈbiːdiəns]"
+  },
+  {
+    "name": "obedient",
+    "trans": [
+      "adj. 顺从的，服从的；孝顺的"
+    ],
+    "usphone": "[əˈbiːdiənt]",
+    "ukphone": "[əˈbiːdiənt]"
+  },
+  {
+    "name": "obsolete",
+    "trans": [
+      "adj. 废弃的；老式的",
+      "n. 废词；陈腐的人",
+      "vt. 淘汰；废弃"
+    ],
+    "usphone": "[ˌɑːbsəˈliːt]",
+    "ukphone": "[ˈɒbsəliːt]"
+  },
+  {
+    "name": "obstruct",
+    "trans": [
+      "vt. 妨碍；阻塞；遮断",
+      "vi. 阻塞；设障碍"
+    ],
+    "usphone": "[əbˈstrʌkt]",
+    "ukphone": "[əbˈstrʌkt]"
+  },
+  {
+    "name": "obstruction",
+    "trans": [
+      "n. 障碍；阻碍；妨碍"
+    ],
+    "usphone": "[əbˈstrʌkʃn]",
+    "ukphone": "[əbˈstrʌkʃn]"
+  },
+  {
+    "name": "occasional",
+    "trans": [
+      "adj. 偶然的；临时的；特殊场合的"
+    ],
+    "usphone": "[əˈkeɪʒənl]",
+    "ukphone": "[əˈkeɪʒən(ə)l]"
+  },
+  {
+    "name": "odor",
+    "trans": [
+      "n. 气味；名声"
+    ],
+    "usphone": "[ˈoʊdər]",
+    "ukphone": "[ˈəʊdə(r)]"
+  },
+  {
+    "name": "odour",
+    "trans": [
+      "n. 气味；声誉"
+    ],
+    "usphone": "[ˈoʊdər]",
+    "ukphone": "[ˈəʊdə(r)]"
+  },
+  {
+    "name": "offspring",
+    "trans": [
+      "n. 后代，子孙；产物"
+    ],
+    "usphone": "[ˈɔːfsprɪŋ]",
+    "ukphone": "[ˈɒfsprɪŋ]"
+  },
+  {
+    "name": "omit",
+    "trans": [
+      "vt. 省略；遗漏；删除；疏忽"
+    ],
+    "usphone": "[əˈmɪt]",
+    "ukphone": "[əˈmɪt]"
+  },
+  {
+    "name": "opaque",
+    "trans": [
+      "adj. 不透明的；不传热的；迟钝的",
+      "n. 不透明物",
+      "vt. 使不透明；使不反光"
+    ],
+    "usphone": "[oʊˈpeɪk]",
+    "ukphone": "[əʊˈpeɪk]"
+  },
+  {
+    "name": "oppress",
+    "trans": [
+      "vt. 压迫，压抑；使……烦恼；使……感到沉重"
+    ],
+    "usphone": "[əˈpres]",
+    "ukphone": "[əˈpres]"
+  },
+  {
+    "name": "opt",
+    "trans": [
+      "vi. 选择"
+    ],
+    "usphone": "[ɑːpt]",
+    "ukphone": "[ɒpt]"
+  },
+  {
+    "name": "optical",
+    "trans": [
+      "adj. 光学的；眼睛的，视觉的"
+    ],
+    "usphone": "[ˈɑːptɪk(ə)l]",
+    "ukphone": "[ˈɒptɪk(ə)l]"
+  },
+  {
+    "name": "optimum",
+    "trans": [
+      "adj. 最适宜的",
+      "n. 最佳效果；最适宜条件"
+    ],
+    "usphone": "[ˈɑːptɪməm]",
+    "ukphone": "[ˈɒptɪməm]"
+  },
+  {
+    "name": "ore",
+    "trans": [
+      "n. 矿；矿石"
+    ],
+    "usphone": "[ɔːr]",
+    "ukphone": "[ɔː(r)]"
+  },
+  {
+    "name": "orientation",
+    "trans": [
+      "n. 方向；定向；适应；情况介绍；向东方"
+    ],
+    "usphone": "[ˌɔːriənˈteɪʃn]",
+    "ukphone": "[ˌɔːriənˈteɪʃ(ə)n]"
+  },
+  {
+    "name": "orthodox",
+    "trans": [
+      "adj. 正统的；传统的；惯常的；东正教的",
+      "n. 正统的人；正统的事物"
+    ],
+    "usphone": "[ˈɔːrθədɑːks]",
+    "ukphone": "[ˈɔːθədɒks]"
+  },
+  {
+    "name": "overt",
+    "trans": [
+      "adj. 明显的；公然的；蓄意的"
+    ],
+    "usphone": "[oʊˈvɜːrtˌˈoʊvɜːrt]",
+    "ukphone": "[əʊˈvɜːt]"
+  },
+  {
+    "name": "outdoors",
+    "trans": [
+      "adv. 在户外",
+      "n. 户外",
+      "adj. 户外的（等于outdoor）"
+    ],
+    "usphone": "[ˌaʊtˈdɔːrz]",
+    "ukphone": "[ˌaʊtˈdɔːz]"
+  },
+  {
+    "name": "outskirts",
+    "trans": [
+      "n. 市郊，郊区"
+    ],
+    "usphone": "[ˈaʊtskɜːrts]",
+    "ukphone": "[ˈaʊtskɜːts]"
+  },
+  {
+    "name": "outstanding",
+    "trans": [
+      "adj. 杰出的；显著的；未解决的；未偿付的",
+      "n. 未偿贷款"
+    ],
+    "usphone": "[aʊtˈstændɪŋ]",
+    "ukphone": "[aʊtˈstændɪŋ]"
+  },
+  {
+    "name": "oval",
+    "trans": [
+      "adj. 椭圆的；卵形的",
+      "n. 椭圆形；卵形"
+    ],
+    "usphone": "[ˈoʊvl]",
+    "ukphone": "[ˈəʊv(ə)l]"
+  },
+  {
+    "name": "overflow",
+    "trans": [
+      "vi. 溢出；泛滥；充溢",
+      "n. 充满，洋溢；泛滥；超值；溢值",
+      "vt. 使溢出；使泛滥；使充溢"
+    ],
+    "usphone": "[ˌoʊvərˈfloʊ]",
+    "ukphone": "[ˌəʊvəˈfləʊ]"
+  },
+  {
+    "name": "overhear",
+    "trans": [
+      "vt. 无意中听到；偷听",
+      "vi. 无意中听到；偷听到"
+    ],
+    "usphone": "[ˌoʊvərˈhɪr]",
+    "ukphone": "[ˌəʊvəˈhɪə(r)]"
+  },
+  {
+    "name": "overnight",
+    "trans": [
+      "adv. 通宵；突然；昨晚",
+      "adj. 晚上的；通宵的；前夜的",
+      "n. 头天晚上；一夜的逗留",
+      "vt. 连夜快递",
+      "vi. 过一夜"
+    ],
+    "usphone": "[ˌoʊvərˈnaɪt]",
+    "ukphone": "[ˌəʊvəˈnaɪt]"
+  },
+  {
+    "name": "overtake",
+    "trans": [
+      "vt. 赶上；压倒；突然来袭",
+      "vi. 超车"
+    ],
+    "usphone": "[ˌoʊvərˈteɪk]",
+    "ukphone": "[ˌəʊvəˈteɪk]"
+  },
+  {
+    "name": "overthrow",
+    "trans": [
+      "n. 推翻；倾覆；瓦解",
+      "vt. 推翻；打倒；倾覆"
+    ],
+    "usphone": "[ˌoʊvərˈθroʊ; ˈoʊvərθroʊ]",
+    "ukphone": "[ˌəʊvəˈθrəʊ]"
+  },
+  {
+    "name": "oxide",
+    "trans": [
+      "n. [化学] 氧化物"
+    ],
+    "usphone": "[ˈɑːksaɪd]",
+    "ukphone": "[ˈɒksaɪd]"
+  },
+  {
+    "name": "oak",
+    "trans": [
+      "n. 橡树；橡木色；橡木家具",
+      "adj. 栎树的；栎木制的"
+    ],
+    "usphone": "[oʊk]",
+    "ukphone": "[əʊk]"
+  },
+  {
+    "name": "oar",
+    "trans": [
+      "n. 桨；橹；桨手",
+      "vt. 划（船）",
+      "vi. 划行"
+    ],
+    "usphone": "[ɔːr]",
+    "ukphone": "[ɔː(r)]"
+  },
+  {
+    "name": "oath",
+    "trans": [
+      "n. 誓言，誓约；诅咒，咒骂"
+    ],
+    "usphone": "[oʊθ]",
+    "ukphone": "[əʊθ]"
+  },
+  {
+    "name": "ocean",
+    "trans": [
+      "n. 海洋；大量；广阔"
+    ],
+    "usphone": "[ˈoʊʃn]",
+    "ukphone": "[ˈəʊʃ(ə)n]"
+  },
+  {
+    "name": "October",
+    "trans": [
+      "n. [天] 十月"
+    ],
+    "usphone": "[ɑːkˈtoʊbər]",
+    "ukphone": "[ɒkˈtəʊbə(r)]"
+  },
+  {
+    "name": "odd",
+    "trans": [
+      "adj. 奇数的；古怪的；剩余的；临时的；零散的",
+      "n. 奇数；怪人；奇特的事物"
+    ],
+    "usphone": "[ɑːd]",
+    "ukphone": "[ɒd]"
+  },
+  {
+    "name": "odds",
+    "trans": [
+      "n. 几率；胜算；不平等；差别"
+    ],
+    "usphone": "[ɑːdz]",
+    "ukphone": "[ɒdz]"
+  },
+  {
+    "name": "of",
+    "trans": [
+      "prep. 关于；属于；…的；由…组成的"
+    ],
+    "usphone": "[əv; ʌv]",
+    "ukphone": "[əv; ɒv]"
+  },
+  {
+    "name": "off",
+    "trans": [
+      "prep. 离开；脱落",
+      "adv. 切断；走开",
+      "adj. 远离的；空闲的"
+    ],
+    "usphone": "[ɔːf]",
+    "ukphone": "[ɒf]"
+  },
+  {
+    "name": "often",
+    "trans": [
+      "adv. 常常，时常"
+    ],
+    "usphone": "[ˈɔːf(ə)n]",
+    "ukphone": "[ˈɒf(ə)n]"
+  },
+  {
+    "name": "oftentimes",
+    "trans": [
+      "adv. 时常地"
+    ],
+    "usphone": "[ˈɔːfntaɪmzˌˈɔːftəntaɪmz]",
+    "ukphone": "[ˈɒfntaɪmz; ˈɒftəntaɪmz]"
+  },
+  {
+    "name": "oil",
+    "trans": [
+      "n. 油；石油；油画颜料",
+      "vt. 加油；涂油；使融化",
+      "vi. 融化；加燃油"
+    ],
+    "usphone": "[ɔɪl]",
+    "ukphone": "[ɔɪl]"
+  },
+  {
+    "name": "okay",
+    "trans": [
+      "adv. 可以；对；很好地",
+      "adj. 可以；对；不错",
+      "n. 同意，批准",
+      "int. 好；行"
+    ],
+    "usphone": "[oʊˈkeɪ]",
+    "ukphone": "[əʊˈkeɪ]"
+  },
+  {
+    "name": "OK",
+    "trans": [
+      "adj. 好的；不错的",
+      "adv. 行；很好",
+      "int. 好；可以",
+      "vt. 对…表示同意",
+      "n. 同意"
+    ],
+    "usphone": "[ˌoʊ'keɪ]",
+    "ukphone": "[əʊˈkeɪ]"
+  },
+  {
+    "name": "old",
+    "trans": [
+      "adj. 陈旧的，古老的；年老的",
+      "n. 古时"
+    ],
+    "usphone": "[oʊld]",
+    "ukphone": "[əʊld]"
+  },
+  {
+    "name": "on",
+    "trans": [
+      "adv. 向前地；作用中，行动中；继续着",
+      "prep. 向，朝……；关于；在……之上；在……时候",
+      "adj. 开着的；发生着的，正在进行中"
+    ],
+    "usphone": "[ɑːn]",
+    "ukphone": "[ɒn]"
+  },
+  {
+    "name": "once",
+    "trans": [
+      "adv. 一次；曾经",
+      "conj. 一旦",
+      "n. 一次，一回"
+    ],
+    "usphone": "[wʌns]",
+    "ukphone": "[wʌns]"
+  },
+  {
+    "name": "one",
+    "trans": [
+      "pron. 一个人；任何人",
+      "adj. 一的；唯一的",
+      "n. 一",
+      "num. 一；一个"
+    ],
+    "usphone": "[wʌn]",
+    "ukphone": "[wʌn]"
+  },
+  {
+    "name": "oneself",
+    "trans": [
+      "pron. 自己；亲自"
+    ],
+    "usphone": "[wʌnˈself]",
+    "ukphone": "[wʌnˈself]"
+  },
+  {
+    "name": "onion",
+    "trans": [
+      "n. 洋葱；洋葱头"
+    ],
+    "usphone": "[ˈʌnjən]",
+    "ukphone": "[ˈʌnjən]"
+  },
+  {
+    "name": "only",
+    "trans": [
+      "adv. 只，仅仅；不料",
+      "adj. 唯一的，仅有的；最合适的",
+      "conj. 但是；不过；可是"
+    ],
+    "usphone": "[ˈoʊnli]",
+    "ukphone": "[ˈəʊnli]"
+  },
+  {
+    "name": "onto",
+    "trans": [
+      "prep. 在…之上；对…了解；映射到…上",
+      "adj. 映射的；自身的；映成的"
+    ],
+    "usphone": "[ˈɑːntə]",
+    "ukphone": "[ˈɒntə; ˈɒntu]"
+  },
+  {
+    "name": "open",
+    "trans": [
+      "adj. 公开的；敞开的；空旷的；坦率的；营业着的",
+      "vi. 开始；展现",
+      "vt. 公开；打开",
+      "n. 公开；空旷；户外"
+    ],
+    "usphone": "[ˈoʊpən]",
+    "ukphone": "[ˈəʊpən]"
+  },
+  {
+    "name": "opening",
+    "trans": [
+      "n. 开始；机会；通路；空缺的职位",
+      "adj. 开始的",
+      "v. 开放（open的ing形式）；打开；公开"
+    ],
+    "usphone": "[ˈoʊpənɪŋ]",
+    "ukphone": "[ˈəʊpənɪŋ]"
+  },
+  {
+    "name": "or",
+    "trans": [
+      "conj. 或，或者；还是"
+    ],
+    "usphone": "[ɔːr]",
+    "ukphone": "[ɔː(r)]"
+  },
+  {
+    "name": "orange",
+    "trans": [
+      "adj. 橙色的；橘色的",
+      "n. 橙；橙色；桔子"
+    ],
+    "usphone": "[ˈɔrɪndʒ]",
+    "ukphone": "[ˈɒrɪndʒ]"
+  },
+  {
+    "name": "orbit",
+    "trans": [
+      "n. 轨道；眼眶；势力范围；生活常规",
+      "vi. 盘旋；绕轨道运行",
+      "vt. 绕…轨道而行"
+    ],
+    "usphone": "[ˈɔːrbɪt]",
+    "ukphone": "[ˈɔːbɪt]"
+  },
+  {
+    "name": "orchard",
+    "trans": [
+      "n. 果园；果树林"
+    ],
+    "usphone": "[ˈɔːrtʃərd]",
+    "ukphone": "[ˈɔːtʃəd]"
+  },
+  {
+    "name": "other",
+    "trans": [
+      "adj. 其他的，另外的",
+      "pron. 另外一个"
+    ],
+    "usphone": "[ˈʌðər]",
+    "ukphone": "[ˈʌðə(r)]"
+  },
+  {
+    "name": "otherwise",
+    "trans": [
+      "adv. 否则；另外；在其他方面",
+      "adj. 另外的；其他方面的；原本，本来",
+      "conj. 其他；如果不；然后"
+    ],
+    "usphone": "[ˈʌðərwaɪz]",
+    "ukphone": "[ˈʌðəwaɪz]"
+  },
+  {
+    "name": "ought",
+    "trans": [
+      "aux. 应该，应当；大概",
+      "vi. 应该，应当；大概"
+    ],
+    "usphone": "[ɔːt]",
+    "ukphone": "[ɔːt]"
+  },
+  {
+    "name": "ounce",
+    "trans": [
+      "n. 盎司；少量；雪豹"
+    ],
+    "usphone": "[aʊns]",
+    "ukphone": "[aʊns]"
+  },
+  {
+    "name": "our",
+    "trans": [
+      "pron. 我们的"
+    ],
+    "usphone": "[ɑːr]",
+    "ukphone": "[ɑː(r)]"
+  },
+  {
+    "name": "ours",
+    "trans": [
+      "pron. 我们的"
+    ],
+    "usphone": "[ˈaʊərz]",
+    "ukphone": "[ˈaʊəz]"
+  },
+  {
+    "name": "ourselves",
+    "trans": [
+      "pron. 我们自己；我们亲自"
+    ],
+    "usphone": "[ɑːrˈselvz]",
+    "ukphone": "[ɑːˈselvz]"
+  },
+  {
+    "name": "out",
+    "trans": [
+      "adv. 出现；在外；出局；出声地；不流行地",
+      "adj. 外面的；出局的；下台的",
+      "n. 出局",
+      "prep. 向；离去",
+      "vi. 出来；暴露",
+      "vt. 使熄灭；驱逐"
+    ],
+    "usphone": "[aʊt]",
+    "ukphone": "[aʊt]"
+  },
+  {
+    "name": "outer",
+    "trans": [
+      "adj. 外面的，外部的；远离中心的",
+      "n. 环外命中"
+    ],
+    "usphone": "[ˈaʊtər]",
+    "ukphone": "[ˈaʊtə(r)]"
+  },
+  {
+    "name": "outing",
+    "trans": [
+      "n. 远足；短途旅游；体育比赛",
+      "adj. 远足适用的",
+      "v. 出来；暴露（out的ing形式）"
+    ],
+    "usphone": "[ˈaʊtɪŋ]",
+    "ukphone": "[ˈaʊtɪŋ]"
+  },
+  {
+    "name": "outside",
+    "trans": [
+      "adj. 外面的，外部的；外来的",
+      "n. 外部；外观",
+      "adv. 在外面，向外面；在室外",
+      "prep. 在…范围之外"
+    ],
+    "usphone": "[ˌaʊtˈsaɪd]",
+    "ukphone": "[ˌaʊtˈsaɪd]"
+  },
+  {
+    "name": "oven",
+    "trans": [
+      "n. 炉，灶；烤炉，烤箱"
+    ],
+    "usphone": "[ˈʌvn]",
+    "ukphone": "[ˈʌv(ə)n]"
+  },
+  {
+    "name": "over",
+    "trans": [
+      "adv. 结束；越过；从头到尾",
+      "prep. 越过；在…之上；遍于…之上",
+      "adj. 结束的；上面的",
+      "vt. 越过"
+    ],
+    "usphone": "[ˈoʊvər]",
+    "ukphone": "[ˈəʊvə(r)]"
+  },
+  {
+    "name": "overcoat",
+    "trans": [
+      "n. 大衣，外套"
+    ],
+    "usphone": "[ˈoʊvərkoʊt]",
+    "ukphone": "[ˈəʊvəkəʊt]"
+  },
+  {
+    "name": "owl",
+    "trans": [
+      "n. 猫头鹰；枭；惯于晚上活动的人"
+    ],
+    "usphone": "[aʊl]",
+    "ukphone": "[aʊl]"
+  },
+  {
+    "name": "own",
+    "trans": [
+      "vt. 拥有；承认",
+      "vi. 承认",
+      "adj. 自己的；特有的",
+      "n. 自己的"
+    ],
+    "usphone": "[oʊn]",
+    "ukphone": "[əʊn]"
+  },
+  {
+    "name": "owner",
+    "trans": [
+      "n. [经] 所有者；物主"
+    ],
+    "usphone": "[ˈoʊnər]",
+    "ukphone": "[ˈəʊnə(r)]"
+  },
+  {
+    "name": "ox",
+    "trans": [
+      "n. 牛；公牛"
+    ],
+    "usphone": "[ɑːks]",
+    "ukphone": "[ɒks]"
+  },
+  {
+    "name": "ozone",
+    "trans": [
+      "n. [化学] 臭氧；新鲜的空气"
+    ],
+    "usphone": "[ˈoʊzoʊn]",
+    "ukphone": "[ˈəʊzəʊn]"
+  },
+  {
+    "name": "outgoing",
+    "trans": [
+      "adj. 对人友好的，开朗的；出发的，外出的；即将离职的；乐于助人的",
+      "n. 外出；流出；开支",
+      "v. 超过；优于（outgo的ing形式）"
+    ],
+    "usphone": "[ˈaʊtɡoʊɪŋ]",
+    "ukphone": "[ˈaʊtɡəʊɪŋ]"
+  },
+  {
+    "name": "outwards",
+    "trans": [
+      "adv. 向外地"
+    ],
+    "usphone": "[ˈaʊtwərdz]",
+    "ukphone": "[ˈaʊtwədz]"
+  },
+  {
+    "name": "offshore",
+    "trans": [
+      "adj. 离岸的；[海洋] 近海的；吹向海面的",
+      "adv. 向海面，向海"
+    ],
+    "usphone": "[ˌɔːfˈʃɔːr]",
+    "ukphone": "[ˌɒfˈʃɔː(r)]"
+  },
+  {
+    "name": "overboard",
+    "trans": [
+      "adv. 自船上落下；向船外",
+      "adj. 极其热心的；全身心投入的"
+    ],
+    "usphone": "[ˈoʊvərbɔːrd]",
+    "ukphone": "[ˈəʊvəbɔːd]"
+  },
+  {
+    "name": "oilfield",
+    "trans": [
+      "n. 油田"
+    ],
+    "usphone": "[ˈɔɪlfiːld]",
+    "ukphone": "[ˈɔɪlfiːld]"
+  },
+  {
+    "name": "onwards",
+    "trans": [
+      "adv. 向前；在前面"
+    ],
+    "usphone": "[ˈɑːnwərdz]",
+    "ukphone": "[ˈɒnwədz]"
+  },
+  {
+    "name": "overheated",
+    "trans": [
+      "adj. 过热的；怒火中烧的",
+      "v. 使…过热；使…愤怒（overheat的过去分词）"
+    ],
+    "usphone": "[ˌoʊvərˈhiːtɪd]",
+    "ukphone": "[ˌəʊvəˈhiːtɪd]"
+  },
+  {
+    "name": "online",
+    "trans": [
+      "adj. 联机的；在线的",
+      "adv. 在线地"
+    ],
+    "usphone": "[ˌɑːnˈlaɪn]",
+    "ukphone": "[ˌɒnˈlaɪn]"
+  },
+  {
+    "name": "obesity",
+    "trans": [
+      "n. 肥大，肥胖"
+    ],
+    "usphone": "[oʊˈbiːsəti]",
+    "ukphone": "[əʊˈbiːsəti]"
+  },
+  {
+    "name": "officially",
+    "trans": [
+      "adv. 正式地；官方地；作为公务员"
+    ],
+    "usphone": "[əˈfɪʃəli]",
+    "ukphone": "[əˈfɪʃəli]"
+  },
+  {
+    "name": "overreaction",
+    "trans": [
+      "n. 过度反应"
+    ],
+    "usphone": "[ˌoʊvəriˈækʃn]",
+    "ukphone": "[ˌəʊvəriˈækʃn]"
+  },
+  {
+    "name": "overwhelmingly",
+    "trans": [
+      "adv. 压倒性地；不可抵抗地"
+    ],
+    "usphone": "[ˌoʊvərˈwelmɪŋli]",
+    "ukphone": "[ˌəʊvəˈwelmɪŋli]"
+  },
+  {
+    "name": "obese",
+    "trans": [
+      "adj. 肥胖的，过胖的"
+    ],
+    "usphone": "[oʊˈbiːs]",
+    "ukphone": "[əʊˈbiːs]"
+  },
+  {
+    "name": "oversee",
+    "trans": [
+      "vt. 监督；审查；俯瞰；偷看到，无意中看到"
+    ],
+    "usphone": "[ˌoʊvərˈsiː]",
+    "ukphone": "[ˌəʊvəˈsiː]"
+  },
+  {
+    "name": "outmode",
+    "trans": [
+      "vt. 使过时"
+    ],
+    "usphone": "[aʊtˈmod]",
+    "ukphone": "[ˌaʊtˈməʊd]"
+  },
+  {
+    "name": "orientate",
+    "trans": [
+      "vi. 向东；定向",
+      "vt. 给...定位；使适应"
+    ],
+    "usphone": "[ˈɔːriənteɪt]",
+    "ukphone": "[ˈɔːriənteɪt]"
+  },
+  {
+    "name": "optimist",
+    "trans": [
+      "n. 乐观主义者；乐天派"
+    ],
+    "usphone": "[ˈɑːptɪmɪst]",
+    "ukphone": "[ˈɒptɪmɪst]"
+  },
+  {
+    "name": "offline",
+    "trans": [
+      "n. 脱机；挂线",
+      "adj. 脱机的；离线的，未连线的",
+      "adv. 未连线地"
+    ],
+    "usphone": "[ˌɔːfˈlaɪn]",
+    "ukphone": "[ˌɒfˈlaɪn]"
+  },
+  {
+    "name": "overjoyed",
+    "trans": [
+      "adj. 狂喜的；极度高兴的",
+      "v. 使…万分高兴；使…狂喜（overjoy的过去分词）"
+    ],
+    "usphone": "[ˌoʊvərˈdʒɔɪd]",
+    "ukphone": "[ˌəʊvəˈdʒɔɪd]"
+  },
+  {
+    "name": "overload",
+    "trans": [
+      "vt. 超载，超过负荷",
+      "n. 超载；负荷过多"
+    ],
+    "usphone": "[ˌoʊvərˈloʊd]",
+    "ukphone": "[ˌəʊvəˈləʊd]"
+  },
+  {
+    "name": "overblow",
+    "trans": [
+      "vt. 吹散，吹落；夸张，过分渲染",
+      "vi. （管乐器等）吹得过响"
+    ],
+    "usphone": "[ˌoʊvərˈbloʊ]",
+    "ukphone": "[ˌəʊvəˈbləʊ]"
+  },
+  {
+    "name": "Olympiad",
+    "trans": [
+      "n. 四年周期；奥林匹克运动会"
+    ],
+    "usphone": "[əˈlɪmpiæd]",
+    "ukphone": "[əˈlɪmpiæd]"
+  },
+  {
+    "name": "opposition",
+    "trans": [
+      "n. 反对；反对派；在野党；敌对"
+    ],
+    "usphone": "[ˌɑːpəˈzɪʃ(ə)n]",
+    "ukphone": "[ˌɒpəˈzɪʃn]"
+  },
+  {
+    "name": "overly",
+    "trans": [
+      "adv. 过度地；极度地"
+    ],
+    "usphone": "[ˈoʊvərli]",
+    "ukphone": "[ˈəʊvəli]"
+  },
+  {
+    "name": "outsourcing",
+    "trans": [
+      "n. 外包；外购；外部采办"
+    ],
+    "usphone": "[ˈaʊtsɔːrsɪŋ]",
+    "ukphone": "[ˈaʊtsɔːsɪŋ]"
+  },
+  {
+    "name": "onions",
+    "trans": [
+      "n. [园艺] 洋葱（onion的复数）",
+      "v. 因洋葱使掉泪（onion的单三形式）"
+    ],
+    "usphone": "[ˈʌnjənz]",
+    "ukphone": "[ˈʌnjənz]"
+  },
+  {
+    "name": "oranges",
+    "trans": [
+      "n. 柑桔，橙子（orange复数形式）"
+    ],
+    "usphone": "[ˈɔːrɪndʒɪz]",
+    "ukphone": "[ˈɒrɪndʒɪz]"
+  },
+  {
+    "name": "omelet",
+    "trans": [
+      "n. 煎蛋卷, 煎蛋饼, 炒蛋"
+    ],
+    "usphone": "[ˈɑːmlət]",
+    "ukphone": "[ˈɒmlət]"
+  },
+  {
+    "name": "obnoxious",
+    "trans": [
+      "adj. 讨厌的；可憎的；不愉快的"
+    ],
+    "usphone": "[əbˈnɑːkʃəs]",
+    "ukphone": "[əbˈnɒkʃəs]"
+  },
+  {
+    "name": "ordeal",
+    "trans": [
+      "n. 折磨；严酷的考验；痛苦的经验"
+    ],
+    "usphone": "[ɔːrˈdiːl]",
+    "ukphone": "[ɔːˈdiːl]"
+  },
+  {
+    "name": "oasis",
+    "trans": [
+      "n. 绿洲；舒适的地方；令人宽慰的事物"
+    ],
+    "usphone": "[oʊˈeɪsɪs]",
+    "ukphone": "[əʊˈeɪsɪs]"
+  },
+  {
+    "name": "out of the way",
+    "trans": [
+      "na. 向旁边；让开；迷失；误"
+    ],
+    "usphone": "[aʊt əv ðə weɪ]",
+    "ukphone": "[ˌaʊt əv ðə ˈweɪ]"
+  },
+  {
+    "name": "originality",
+    "trans": [
+      "n. 创意；独创性，创造力；原始；新奇"
+    ],
+    "usphone": "[əˌrɪdʒəˈnæləti]",
+    "ukphone": "[əˌrɪdʒəˈnæləti]"
+  },
+  {
+    "name": "outlandish",
+    "trans": [
+      "adj. 古怪的；奇异的；异国风格的；偏僻的"
+    ],
+    "usphone": "[aʊtˈlændɪʃ]",
+    "ukphone": "[aʊtˈlændɪʃ]"
+  },
+  {
+    "name": "organisation",
+    "trans": [
+      "n. 组织；团体（等于organization）"
+    ],
+    "usphone": "[ɔrɡənəˈzeʃən]",
+    "ukphone": "[,ɔːɡənaɪ'zeɪʃən]"
+  },
+  {
+    "name": "organise",
+    "trans": [
+      "vi. 组织起来；组织工会",
+      "vt. 组织（等于organize）；有机化；给予生机"
+    ],
+    "usphone": "[ˈɔːrɡənaɪz]",
+    "ukphone": "[ˈɔːɡənaɪz]"
+  },
+  {
+    "name": "outdoor",
+    "trans": [
+      "adj. 户外的；露天的；野外的（等于out-of-door）"
+    ],
+    "usphone": "[ˈaʊtdɔːr]",
+    "ukphone": "[ˈaʊtdɔː(r)]"
+  },
+  {
+    "name": "owing",
+    "trans": [
+      "adj. 未付的；欠着的",
+      "v. 欠；把…归功于（owe的ing形式）"
+    ],
+    "usphone": "[ˈoʊɪŋ]",
+    "ukphone": "[ˈəʊɪŋ]"
+  },
+  {
+    "name": "overhaul",
+    "trans": [
+      "vt. 分解检查，大修；追上并超过",
+      "n. 彻底检修，详细检查"
+    ],
+    "usphone": "[ˈoʊvərˌhɔːl; ˌoʊvərˈhɔːl]",
+    "ukphone": "[əʊvəˈhɔːl]"
+  },
+  {
+    "name": "overpass",
+    "trans": [
+      "vt. 超越；胜过；忽略",
+      "n. 天桥；陆桥"
+    ],
+    "usphone": "[ˈoʊvərpæs]",
+    "ukphone": "[ˈəʊvəpɑːs]"
+  },
+  {
+    "name": "ouch",
+    "trans": [
+      "n. 扣环",
+      "int. 哎哟（突然疼痛时发出的声音）"
+    ],
+    "usphone": "[aʊtʃ]",
+    "ukphone": "[aʊtʃ]"
+  },
+  {
+    "name": "oversea",
+    "trans": [
+      "adj. 外国的；在海外的",
+      "adv. 国外；向国外，向海外"
+    ],
+    "usphone": "[ˈovərˈsi]",
+    "ukphone": "[ˌəʊvəˈsiː]"
+  },
+  {
+    "name": "offence",
+    "trans": [
+      "n. 犯罪；违反；过错；攻击"
+    ],
+    "usphone": "[əˈfens]",
+    "ukphone": "[əˈfens]"
+  },
+  {
+    "name": "offense",
+    "trans": [
+      "n. 犯罪，过错；进攻；触怒；引起反感的事物"
+    ],
+    "usphone": "[əˈfens]",
+    "ukphone": "[əˈfens]"
+  },
+  {
+    "name": "oblivious",
+    "trans": [
+      "adj. 遗忘的；健忘的；不注意的；不知道的"
+    ],
+    "usphone": "[əˈblɪviəs]",
+    "ukphone": "[əˈblɪviəs]"
+  },
+  {
+    "name": "obstinate",
+    "trans": [
+      "adj. 顽固的；倔强的；难以控制的"
+    ],
+    "usphone": "[ˈɑːbstɪnət]",
+    "ukphone": "[ˈɒbstɪnət]"
+  },
+  {
+    "name": "old-fashioned",
+    "trans": [
+      "adj. 老式的；过时的；守旧的"
+    ],
+    "usphone": "[ˌoʊld ˈfæʃnd]",
+    "ukphone": "[ˌəʊld ˈfæʃnd]"
+  },
+  {
+    "name": "omen",
+    "trans": [
+      "n. 预兆；征兆",
+      "vt. 预示；有…的前兆；预告"
+    ],
+    "usphone": "[ˈoʊmən]",
+    "ukphone": "[ˈəʊmən]"
+  },
+  {
+    "name": "onlooker",
+    "trans": [
+      "n. 旁观者；观众（等于spectator）"
+    ],
+    "usphone": "[ˈɑːnlʊkər]",
+    "ukphone": "[ˈɒnlʊkə(r)]"
+  },
+  {
+    "name": "onward",
+    "trans": [
+      "adj. 向前的；前进的",
+      "adv. 向前；在前面"
+    ],
+    "usphone": "[ˈɑːnwərd]",
+    "ukphone": "[ˈɒnwəd]"
+  },
+  {
+    "name": "outlaw",
+    "trans": [
+      "n. 歹徒；罪犯；亡命之徒；被剥夺法律保护者",
+      "vt. 宣布…为不合法；将…放逐；剥夺…的法律保护"
+    ],
+    "usphone": "[ˈaʊtlɔː]",
+    "ukphone": "[ˈaʊtlɔː]"
+  },
+  {
+    "name": "overcast",
+    "trans": [
+      "adj. 阴天的；阴暗的；愁闷的",
+      "vt. 使沮丧；包缝；遮蔽"
+    ],
+    "usphone": "[ˌoʊvərˈkæst]",
+    "ukphone": "[ˌəʊvəˈkɑːst]"
+  },
+  {
+    "name": "overcrowd",
+    "trans": [
+      "vt. 使过度拥挤；把…塞得过满",
+      "vi. 过度拥挤；塞得太满"
+    ],
+    "usphone": "[ˌoʊvərˈkraʊd]",
+    "ukphone": "[ˌəʊvəˈkraʊd]"
+  },
+  {
+    "name": "overdo",
+    "trans": [
+      "vt. 把…做得过分；使过于疲劳；对…表演过火；夸张",
+      "vi. 做得过分；表演过火"
+    ],
+    "usphone": "[ˌoʊvərˈduː]",
+    "ukphone": "[ˌəʊvəˈduː]"
+  },
+  {
+    "name": "overdraft",
+    "trans": [
+      "n. [金融] 透支；[金融] 透支额",
+      "vt. [金融] 透支"
+    ],
+    "usphone": "[ˈoʊvərdræft]",
+    "ukphone": "[ˈəʊvədrɑːft]"
+  },
+  {
+    "name": "overdue",
+    "trans": [
+      "adj. 过期的；迟到的；未兑的"
+    ],
+    "usphone": "[ˌoʊvərˈduː]",
+    "ukphone": "[ˌəʊvəˈdjuː]"
+  },
+  {
+    "name": "overgrown",
+    "trans": [
+      "adj. 蔓生的；生长过快的",
+      "v. 生长过度（overgrow的过去分词）"
+    ],
+    "usphone": "[ˌoʊvərˈɡroʊn]",
+    "ukphone": "[ˌəʊvəˈɡrəʊn]"
+  },
+  {
+    "name": "offering",
+    "trans": [
+      "n. 提供；祭品；奉献物；牲礼",
+      "v. 提供（offer的ing形式）"
+    ],
+    "usphone": "[ˈɔːfərɪŋ]",
+    "ukphone": "[ˈɒfərɪŋ]"
+  },
+  {
+    "name": "ongoing",
+    "trans": [
+      "adj. 不间断的，进行的；前进的",
+      "n. 前进；行为，举止"
+    ],
+    "usphone": "[ˈɑːnɡoʊɪŋ]",
+    "ukphone": "[ˈɒnɡəʊɪŋ]"
+  },
+  {
+    "name": "Odysseus",
+    "trans": [
+      "n. 奥德修斯（荷马史诗《奥德赛》中的主人公； 曾指挥特洛伊战争， 献木马计，使希腊获胜）"
+    ],
+    "usphone": "[oʊˈdɪsiəs]",
+    "ukphone": "[əˈdɪsjuːs]"
+  },
+  {
+    "name": "Oxford",
+    "trans": [
+      "n. 牛津大学；牛津（英国城市）"
+    ],
+    "usphone": "[ˈɑːksfərd]",
+    "ukphone": "[ˈɒksfəd]"
+  },
+  {
+    "name": "occupant",
+    "trans": [
+      "n. 居住者；占有者"
+    ],
+    "usphone": "[ˈɑːkjəpənt]",
+    "ukphone": "[ˈɒkjəpənt]"
+  },
+  {
+    "name": "ointment",
+    "trans": [
+      "n. 药膏；[药] 油膏"
+    ],
+    "usphone": "[ˈɔɪntmənt]",
+    "ukphone": "[ˈɔɪntmənt]"
+  },
+  {
+    "name": "oculist",
+    "trans": [
+      "n. 眼科医生，[眼科] 眼科医师"
+    ],
+    "usphone": "[ˈɑːkjəlɪst]",
+    "ukphone": "[ˈɒkjəlɪst]"
+  },
+  {
+    "name": "optic",
+    "trans": [
+      "adj. 光学的；视觉的；眼睛的",
+      "n. 眼睛；镜片"
+    ],
+    "usphone": "[ˈɑːptɪk]",
+    "ukphone": "[ˈɒptɪk]"
+  },
+  {
+    "name": "organizer",
+    "trans": [
+      "n. 组织者；承办单位；[生物] 组织导体"
+    ],
+    "usphone": "[ˈɔːrɡənaɪzər]",
+    "ukphone": "[ˈɔːɡənaɪzə(r)]"
+  },
+  {
+    "name": "Olympic",
+    "trans": [
+      "adj. 奥林匹斯山的，奥林匹亚的；奥林匹克的"
+    ],
+    "usphone": "[əˈlɪmpɪk]",
+    "ukphone": "[əˈlɪmpɪk]"
+  },
+  {
+    "name": "Oceania",
+    "trans": [
+      "n. 大洋洲"
+    ],
+    "usphone": "[ˌoʊʃiˈɑːniə]",
+    "ukphone": "[ˌəʊsiˈɑːniə]"
+  },
+  {
+    "name": "obliged",
+    "trans": [
+      "adj. 必须的；感激的；有责任的",
+      "v. 要求；约束；施恩惠（oblige的过去分词）"
+    ],
+    "usphone": "[əˈblaɪdʒd]",
+    "ukphone": "[əˈblaɪdʒd]"
+  },
+  {
+    "name": "obligatory",
+    "trans": [
+      "adj. 义务的；必须的；义不容辞的"
+    ],
+    "usphone": "[əˈblɪɡətɔːri]",
+    "ukphone": "[əˈblɪɡətri]"
+  },
+  {
+    "name": "obscene",
+    "trans": [
+      "adj. 淫秽的；猥亵的；可憎的"
+    ],
+    "usphone": "[əbˈsiːn]",
+    "ukphone": "[əbˈsiːn]"
+  },
+  {
+    "name": "obscenity",
+    "trans": [
+      "n. 猥亵，淫秽；猥亵的言语（或行为）"
+    ],
+    "usphone": "[əbˈsenəti]",
+    "ukphone": "[əbˈsenəti]"
+  },
+  {
+    "name": "obscurity",
+    "trans": [
+      "n. 朦胧；阴暗；晦涩；身份低微；不分明"
+    ],
+    "usphone": "[əbˈskjʊrəti]",
+    "ukphone": "[əbˈskjʊərəti]"
+  },
+  {
+    "name": "observatory",
+    "trans": [
+      "n. 天文台；气象台；瞭望台"
+    ],
+    "usphone": "[əbˈzɜːrvətɔːri]",
+    "ukphone": "[əbˈzɜːvətri]"
+  },
+  {
+    "name": "observant",
+    "trans": [
+      "adj. 善于观察的；机警的；严格遵守的"
+    ],
+    "usphone": "[əbˈzɜːrvənt]",
+    "ukphone": "[əbˈzɜːvənt]"
+  },
+  {
+    "name": "obsessive",
+    "trans": [
+      "adj. 强迫性的；着迷的；分神的"
+    ],
+    "usphone": "[əbˈsesɪv]",
+    "ukphone": "[əbˈsesɪv]"
+  },
+  {
+    "name": "occupational",
+    "trans": [
+      "adj. 职业的；占领的"
+    ],
+    "usphone": "[ˌɑːkjuˈpeɪʃənl]",
+    "ukphone": "[ˌɒkjuˈpeɪʃən(ə)l]"
+  },
+  {
+    "name": "occupancy",
+    "trans": [
+      "n. 居住；占有；占用"
+    ],
+    "usphone": "[ˈɑːkjəpənsi]",
+    "ukphone": "[ˈɒkjəpənsi]"
+  },
+  {
+    "name": "oceanic",
+    "trans": [
+      "adj. 海洋的；海洋产出的；在海洋中生活的；广阔无垠的"
+    ],
+    "usphone": "[ˌoʊʃiˈænɪk]",
+    "ukphone": "[ˌəʊʃiˈænɪk]"
+  },
+  {
+    "name": "oddity",
+    "trans": [
+      "n. 奇异；古怪；怪癖"
+    ],
+    "usphone": "[ˈɑːdəti]",
+    "ukphone": "[ˈɒdəti]"
+  },
+  {
+    "name": "odorous",
+    "trans": [
+      "adj. 香的；有气味的；难闻的"
+    ],
+    "usphone": "[ˈoʊdərəs]",
+    "ukphone": "[ˈəʊdərəs]"
+  },
+  {
+    "name": "offender",
+    "trans": [
+      "n. 罪犯；冒犯者；违法者"
+    ],
+    "usphone": "[əˈfendər]",
+    "ukphone": "[əˈfendə(r)]"
+  },
+  {
+    "name": "oily",
+    "trans": [
+      "adj. 油的；油质的；油滑的；油腔滑调的"
+    ],
+    "usphone": "[ˈɔɪli]",
+    "ukphone": "[ˈɔɪli]"
+  },
+  {
+    "name": "olive",
+    "trans": [
+      "n. 橄榄；橄榄树；橄榄色",
+      "adj. 橄榄的；橄榄色的"
+    ],
+    "usphone": "[ˈɑːlɪv]",
+    "ukphone": "[ˈɒlɪv]"
+  },
+  {
+    "name": "Olympics",
+    "trans": [
+      "n. 奥林匹克运动会"
+    ],
+    "usphone": "[oˈlɪmpɪks]",
+    "ukphone": "[əˈlɪmpɪks]"
+  },
+  {
+    "name": "omission",
+    "trans": [
+      "n. 疏忽，遗漏；省略；冗长"
+    ],
+    "usphone": "[əˈmɪʃn]",
+    "ukphone": "[əˈmɪʃ(ə)n]"
+  },
+  {
+    "name": "onset",
+    "trans": [
+      "n. 开始，着手；发作；攻击，进攻"
+    ],
+    "usphone": "[ˈɑːnset]",
+    "ukphone": "[ˈɒnset]"
+  },
+  {
+    "name": "opener",
+    "trans": [
+      "n. [五金] 开启工具；开启的人"
+    ],
+    "usphone": "[ˈoʊpənər]",
+    "ukphone": "[ˈəʊpənə(r)]"
+  },
+  {
+    "name": "openly",
+    "trans": [
+      "adv. 公开地；公然地；坦率地"
+    ],
+    "usphone": "[ˈoʊpənli]",
+    "ukphone": "[ˈəʊpənli]"
+  },
+  {
+    "name": "operative",
+    "trans": [
+      "adj. 有效的；运转着的；从事生产劳动的",
+      "n. 侦探；技工"
+    ],
+    "usphone": "[ˈɑːpərətɪv]",
+    "ukphone": "[ˈɒpərətɪv]"
+  },
+  {
+    "name": "oppression",
+    "trans": [
+      "n. 压抑；镇压；压迫手段；沉闷；苦恼"
+    ],
+    "usphone": "[əˈpreʃn]",
+    "ukphone": "[əˈpreʃn]"
+  },
+  {
+    "name": "optimal",
+    "trans": [
+      "adj. 最佳的；最理想的"
+    ],
+    "usphone": "[ˈɑːptɪməl]",
+    "ukphone": "[ˈɒptɪməl]"
+  },
+  {
+    "name": "orbital",
+    "trans": [
+      "adj. 轨道的；眼窝的"
+    ],
+    "usphone": "[ˈɔːrbɪt(ə)l]",
+    "ukphone": "[ˈɔːbɪt(ə)l]"
+  },
+  {
+    "name": "organisational",
+    "trans": [
+      "组织的"
+    ],
+    "usphone": "[ˌɔːrɡənəˈzeɪʃənl]",
+    "ukphone": "[ˌɔːɡənaɪˈzeɪʃən(ə)l]"
+  },
+  {
+    "name": "ornamental",
+    "trans": [
+      "adj. 装饰的，装饰性的",
+      "n. 观赏植物；装饰品"
+    ],
+    "usphone": "[ˌɔːrnəˈmentl]",
+    "ukphone": "[ˌɔːnəˈment(ə)l]"
+  },
+  {
+    "name": "orphanage",
+    "trans": [
+      "n. 孤儿院；孤儿身份"
+    ],
+    "usphone": "[ˈɔːrfənɪdʒ]",
+    "ukphone": "[ˈɔːfənɪdʒ]"
+  },
+  {
+    "name": "outrageous",
+    "trans": [
+      "adj. 粗暴的；可恶的；令人吃惊的"
+    ],
+    "usphone": "[aʊtˈreɪdʒəs]",
+    "ukphone": "[aʊtˈreɪdʒəs]"
+  },
+  {
+    "name": "outsider",
+    "trans": [
+      "n. 外人；无取胜希望者"
+    ],
+    "usphone": "[ˌaʊtˈsaɪdər]",
+    "ukphone": "[ˌaʊtˈsaɪdə(r)]"
+  },
+  {
+    "name": "override",
+    "trans": [
+      "vt. 推翻；不顾；践踏",
+      "n. 代理佣金"
+    ],
+    "usphone": "[ˌoʊvərˈraɪd]",
+    "ukphone": "[ˌəʊvəˈraɪd]"
+  },
+  {
+    "name": "oversight",
+    "trans": [
+      "n. 监督，照管；疏忽"
+    ],
+    "usphone": "[ˈoʊvərsaɪt]",
+    "ukphone": "[ˈəʊvəsaɪt]"
+  },
+  {
+    "name": "opus",
+    "trans": [
+      "n. 作品"
+    ],
+    "usphone": "[ˈoʊpəs]",
+    "ukphone": "[ˈəʊpəs]"
+  },
+  {
+    "name": "outflow",
+    "trans": [
+      "n. 流出；流出量；流出物",
+      "vi. 流出"
+    ],
+    "usphone": "[ˈaʊtfloʊ]",
+    "ukphone": "[ˈaʊtfləʊ]"
+  },
+  {
+    "name": "overland",
+    "trans": [
+      "adj. 陆上的；经由陆路的",
+      "adv. 经由陆路",
+      "vt. 转地放牧",
+      "vi. 由陆路长途跋涉"
+    ],
+    "usphone": "[ˈoʊvərlænd]",
+    "ukphone": "[ˈəʊvəlænd]"
+  },
+  {
+    "name": "octopus",
+    "trans": [
+      "n. 章鱼",
+      "章鱼肉"
+    ],
+    "usphone": "[ˈɑːktəpʊs]",
+    "ukphone": "[ˈɒktəpəs]"
+  },
+  {
+    "name": "olfactory",
+    "trans": [
+      "adj. 嗅觉的；味道的",
+      "n. 嗅觉器官"
+    ],
+    "usphone": "[ɑːlˈfæktəri]",
+    "ukphone": "[ɒlˈfæktəri]"
+  },
+  {
+    "name": "outwork",
+    "trans": [
+      "n. 户外工作；外垒",
+      "vt. 工作比…做得更好"
+    ],
+    "usphone": "[ˈaʊtwɜːrk]",
+    "ukphone": "[ˈaʊtwɜːk]"
+  },
+  {
+    "name": "overlie",
+    "trans": [
+      "vt. 躺在…上面；覆在…上面；压在（婴儿、幼仔）身上使之窒息而死"
+    ],
+    "usphone": "[ˌoʊvərˈlaɪ]",
+    "ukphone": "[ˌəʊvəˈlaɪ]"
+  },
+  {
+    "name": "ostrich",
+    "trans": [
+      "n. 鸵鸟；鸵鸟般的人"
+    ],
+    "usphone": "[ˈɑːstrɪtʃ]",
+    "ukphone": "[ˈɒstrɪtʃ]"
+  },
+  {
+    "name": "ooze",
+    "trans": [
+      "vt. 渗出；泄漏",
+      "vi. 渗出；泄漏",
+      "n. [地质] 软泥"
+    ],
+    "usphone": "[uːz]",
+    "ukphone": "[uːz]"
+  },
+  {
+    "name": "orchid",
+    "trans": [
+      "n. 兰花；[植] 兰科植物；淡紫色",
+      "adj. 淡紫色的"
+    ],
+    "usphone": "[ˈɔːrkɪd]",
+    "ukphone": "[ˈɔːkɪd]"
+  },
+  {
+    "name": "oyster",
+    "trans": [
+      "n. 牡蛎，[无脊椎] 蚝；沉默寡言的人"
+    ],
+    "usphone": "[ˈɔɪstər]",
+    "ukphone": "[ˈɔɪstə(r)]"
+  },
+  {
+    "name": "ordinarily",
+    "trans": [
+      "adv. 通常地；一般地"
+    ],
+    "usphone": "[ˌɔːrdnˈerəli]",
+    "ukphone": "[ˈɔːdnrəli]"
+  },
+  {
+    "name": "overgraze",
+    "trans": [
+      "vi. 过度放牧",
+      "vt. 在…上过度放牧"
+    ],
+    "usphone": "[ˌoʊvərˈɡreɪz]",
+    "ukphone": "[ˌəʊvəˈɡreɪz]"
+  },
+  {
+    "name": "obliterate",
+    "trans": [
+      "vt. 消灭；涂去；冲刷；忘掉"
+    ],
+    "usphone": "[əˈblɪtəreɪt]",
+    "ukphone": "[əˈblɪtəreɪt]"
+  },
+  {
+    "name": "organically",
+    "trans": [
+      "adv. 有机地；有组织地；器官上地"
+    ],
+    "usphone": "[ɔːrˈɡænɪkli]",
+    "ukphone": "[ɔːˈɡænɪkli]"
+  },
+  {
+    "name": "objectively",
+    "trans": [
+      "adv. 客观地"
+    ],
+    "usphone": "[əbˈdʒektɪvli]",
+    "ukphone": "[əbˈdʒektɪvli]"
+  },
+  {
+    "name": "outcrop",
+    "trans": [
+      "n. 露头；露出地面的岩层",
+      "vi. 露出"
+    ],
+    "usphone": "[ˈaʊtkrɑːp]",
+    "ukphone": "[ˈaʊtkrɒp]"
+  },
+  {
+    "name": "outsource",
+    "trans": [
+      "vt. 把…外包",
+      "vi. 外包"
+    ],
+    "usphone": "[ˈaʊtsɔːrs]",
+    "ukphone": "[ˈaʊtsɔːs]"
+  },
+  {
+    "name": "oft",
+    "trans": [
+      "adv. 常常；再三"
+    ],
+    "usphone": "[ɔːft]",
+    "ukphone": "[ɒft]"
+  },
+  {
+    "name": "omega",
+    "trans": [
+      "n. 最后；终了；希腊字母的最后一个字Ω",
+      "n. 欧米茄（品牌名称）"
+    ],
+    "usphone": "[oʊˈmeɡə]",
+    "ukphone": "[ˈəʊmɪɡə]"
+  },
+  {
+    "name": "ooh",
+    "trans": [
+      "int. （表示惊异、热心、高兴或不悦的叫声）哦！"
+    ],
+    "usphone": "[uː]",
+    "ukphone": "[uː]"
+  },
+  {
+    "name": "over there",
+    "trans": [
+      "na. 在那边；〔美国〕在欧洲；〔大战用语〕在战地"
+    ],
+    "usphone": "[ˈəʊvər ðer]",
+    "ukphone": "['əʊvə(r) ðeə(r)]"
+  },
+  {
+    "name": "oops",
+    "trans": [
+      "int. 哎哟（表示惊讶，狼狈时所发的喊声）"
+    ],
+    "usphone": "[ʊpsˌuːps]",
+    "ukphone": "[ʊps]"
+  },
+  {
+    "name": "outpost",
+    "trans": [
+      "n. 前哨；警戒部队；边区村落"
+    ],
+    "usphone": "[ˈaʊtpoʊst]",
+    "ukphone": "[ˈaʊtpəʊst]"
+  },
+  {
+    "name": "oncoming",
+    "trans": [
+      "adj. 即将到来的；接近的；新兴的",
+      "n. 来临，接近"
+    ],
+    "usphone": "[ˈɑːnkʌmɪŋ]",
+    "ukphone": "[ˈɒnkʌmɪŋ]"
+  },
+  {
+    "name": "overview",
+    "trans": [
+      "n. [图情] 综述；概观"
+    ],
+    "usphone": "[ˈoʊvərvjuː]",
+    "ukphone": "[ˈəʊvəvjuː]"
+  },
+  {
+    "name": "outburst",
+    "trans": [
+      "n. （火山、情感等的）爆发；破裂"
+    ],
+    "usphone": "[ˈaʊtbɜːrst]",
+    "ukphone": "[ˈaʊtbɜːst]"
+  },
+  {
+    "name": "onerous",
+    "trans": [
+      "adj. 繁重的；麻烦的；负有义务的；负有法律责任的"
+    ],
+    "usphone": "[ˈoʊnərəsˌˈɑːnərəs]",
+    "ukphone": "[ˈəʊnərəs]"
+  },
+  {
+    "name": "outstandingly",
+    "trans": [
+      "adv. 醒目地"
+    ],
+    "usphone": "[aʊtˈstændɪŋli]",
+    "ukphone": "[aʊtˈstændɪŋli]"
+  },
+  {
+    "name": "overpopulation",
+    "trans": [
+      "n. 人口过剩"
+    ],
+    "usphone": "[ˌoʊvərˌpɑːpjuˈleɪʃn]",
+    "ukphone": "[ˌəʊvəˌpɒpjuˈleɪʃn]"
+  },
+  {
+    "name": "overshadow",
+    "trans": [
+      "vt. 使失色；使阴暗；遮阴；夺去…的光彩"
+    ],
+    "usphone": "[ˌoʊvərˈʃædoʊ]",
+    "ukphone": "[ˌəʊvəˈʃædəʊ]"
+  },
+  {
+    "name": "opulence",
+    "trans": [
+      "n. 富裕；丰富"
+    ],
+    "usphone": "[ˈɑːpjələns]",
+    "ukphone": "[ˈɒpjələns]"
+  },
+  {
+    "name": "outdo",
+    "trans": [
+      "vt. 超过；胜过"
+    ],
+    "usphone": "[ˌaʊtˈduː]",
+    "ukphone": "[ˌaʊtˈduː]"
+  },
+  {
+    "name": "oblique",
+    "trans": [
+      "adj. 斜的；不光明正大的",
+      "n. 倾斜物",
+      "vi. 倾斜"
+    ],
+    "usphone": "[əˈbliːk]",
+    "ukphone": "[əˈbliːk]"
+  },
+  {
+    "name": "overestimate",
+    "trans": [
+      "vt. 对……评价过高；对……估计过高",
+      "n. 估计过高；评价过高；出价过高",
+      "vi. 估计过高；评价过高"
+    ],
+    "usphone": "[ˌoʊvərˈestɪmeɪt]",
+    "ukphone": "[əʊvərˈɛstɪmeɪt;(for n.)əʊvərˈɛstɪmət]"
+  },
+  {
+    "name": "onslaught",
+    "trans": [
+      "n. 猛攻；突击"
+    ],
+    "usphone": "[ˈɑːnslɔːt]",
+    "ukphone": "[ˈɒnslɔːt]"
+  },
+  {
+    "name": "overwork",
+    "trans": [
+      "vi. 工作过度",
+      "vt. 工作过度",
+      "n. 过度工作",
+      "过度工作的"
+    ],
+    "usphone": "[ˌoʊvərˈwɜːrk]",
+    "ukphone": "[ˌəʊvəˈwɜːk]"
+  },
+  {
+    "name": "ordinance",
+    "trans": [
+      "n. 条例；法令；圣餐礼"
+    ],
+    "usphone": "[ˈɔːrdɪnəns]",
+    "ukphone": "[ˈɔːdɪnəns]"
+  },
+  {
+    "name": "obsolescence",
+    "trans": [
+      "n. [生物] 退化；荒废"
+    ],
+    "usphone": "[ˌɑːbsəˈlesns]",
+    "ukphone": "[ˌɒbsəˈlesəns]"
+  },
+  {
+    "name": "outsell",
+    "trans": [
+      "vt. 卖得比…多"
+    ],
+    "usphone": "[ˌaʊtˈsel]",
+    "ukphone": "[ˌaʊtˈsel]"
+  },
+  {
+    "name": "offshoot",
+    "trans": [
+      "n. 分支；支流；衍生物"
+    ],
+    "usphone": "[ˈɔːfʃuːt]",
+    "ukphone": "[ˈɒfʃuːt]"
+  },
+  {
+    "name": "outstrip",
+    "trans": [
+      "vt. 超过；胜过；比…跑得快"
+    ],
+    "usphone": "[ˌaʊtˈstrɪp]",
+    "ukphone": "[ˌaʊtˈstrɪp]"
+  },
+  {
+    "name": "opulent",
+    "trans": [
+      "adj. 丰富的；富裕的；大量的"
+    ],
+    "usphone": "[ˈɑːpjələnt]",
+    "ukphone": "[ˈɒpjələnt]"
+  },
+  {
+    "name": "overconfidence",
+    "trans": [
+      "n. 自负；过分相信"
+    ],
+    "usphone": "[ˌoʊvərˈkɑːnfɪdəns]",
+    "ukphone": "[ˌəʊvəˈkɒnfɪdəns]"
+  },
+  {
+    "name": "outlay",
+    "trans": [
+      "vt. 花费",
+      "n. [会计] 经费；支出；费用"
+    ],
+    "usphone": "[ˈaʊtleɪ]",
+    "ukphone": "[ˈaʊtleɪ]"
+  },
+  {
+    "name": "overrun",
+    "trans": [
+      "n. 泛滥成灾；超出限度",
+      "vt. 泛滥；超过；蹂躏",
+      "vi. 泛滥；蔓延"
+    ],
+    "usphone": "[ˈoʊvərʌn]",
+    "ukphone": "[ˈəʊvərʌn]"
+  },
+  {
+    "name": "optimisation",
+    "trans": [
+      " [医]最佳化，最优法; 最优化"
+    ],
+    "usphone": "[ˌɑːptɪməˈzeɪʃn]",
+    "ukphone": "[ˌɒptɪmaɪˈzeɪʃn]"
+  },
+  {
+    "name": "on time",
+    "trans": [
+      "na. 按时；及时"
+    ],
+    "usphone": "[ɑːn 'taɪm]",
+    "ukphone": "[ɒn 'taɪm]"
+  },
+  {
+    "name": "out of control",
+    "trans": [
+      "na. 失去控制"
+    ],
+    "usphone": "[aut əv kən'trəul]",
+    "ukphone": "[aut əv kən'trəul]"
+  },
+  {
+    "name": "out of date",
+    "trans": [
+      "adj. 过时的；缺乏新信息的；陈腐的；失效的"
+    ],
+    "usphone": "[ˌaʊt əv ˈdeɪt]",
+    "ukphone": "[ˌaʊt əv ˈdeɪt]"
+  },
+  {
+    "name": "obituary",
+    "trans": [
+      "adj. 讣告的；死亡的",
+      "n. 讣告"
+    ],
+    "usphone": "[oʊˈbɪtʃueri]",
+    "ukphone": "[əˈbɪtʃuəri]"
+  },
+  {
+    "name": "oatmeal",
+    "trans": [
+      "n. 燕麦粥；燕麦片"
+    ],
+    "usphone": "[ˈoʊtmiːl]",
+    "ukphone": "[ˈəʊtmiːl]"
+  },
+  {
+    "name": "outreach",
+    "trans": [
+      "vt. 超越，伸出；超出…的范围",
+      "vi. 拓广，延伸",
+      "n. 延伸，拓广；扩大服务范围",
+      "adj. 扩大服务的"
+    ],
+    "usphone": "[ˈaʊtriːtʃ]",
+    "ukphone": "[ˈaʊtriːtʃ]"
+  },
+  {
+    "name": "ostentatious",
+    "trans": [
+      "adj. 招摇的；卖弄的；夸耀的；铺张的；惹人注目的"
+    ],
+    "usphone": "[ˌɑːstenˈteɪʃəs]",
+    "ukphone": "[ˌɒstenˈteɪʃəs]"
+  },
+  {
+    "name": "ominous",
+    "trans": [
+      "adj. 预兆的；不吉利的"
+    ],
+    "usphone": "[ˈɑːmɪnəs]",
+    "ukphone": "[ˈɒmɪnəs]"
+  },
+  {
+    "name": "orthodoxy",
+    "trans": [
+      "n. 正统；正教；正统说法"
+    ],
+    "usphone": "[ˈɔːrθədɑːksi]",
+    "ukphone": "[ˈɔːθədɒksi]"
+  },
+  {
+    "name": "ornate",
+    "trans": [
+      "adj. 华丽的；装饰的；（文体）绚丽的"
+    ],
+    "usphone": "[ɔːrˈneɪt]",
+    "ukphone": "[ɔːˈneɪt]"
+  },
+  {
+    "name": "oust",
+    "trans": [
+      "vt. 驱逐；剥夺；取代"
+    ],
+    "usphone": "[aʊst]",
+    "ukphone": "[aʊst]"
+  },
+  {
+    "name": "outright",
+    "trans": [
+      "adv. 全部地；立刻地；率直地；一直向前；痛快地",
+      "adj. 完全的，彻底的；直率的；总共的"
+    ],
+    "usphone": "[ˈaʊtraɪt]",
+    "ukphone": "[ˈaʊtraɪt]"
+  },
+  {
+    "name": "outcast",
+    "trans": [
+      "n. 流浪的人；被驱逐的人",
+      "adj. 被遗弃的；无家可归的；被逐出的"
+    ],
+    "usphone": "[ˈaʊtkæst]",
+    "ukphone": "[ˈaʊtkɑːst]"
+  },
+  {
+    "name": "ordain",
+    "trans": [
+      "vt. 任命某人为牧师；授某人以圣职；（上帝、法律等）命令；注定",
+      "vi. 颁布命令"
+    ],
+    "usphone": "[ɔːrˈdeɪn]",
+    "ukphone": "[ɔːˈdeɪn]"
+  },
+  {
+    "name": "omniscient",
+    "trans": [
+      "adj. 全知的；无所不知的",
+      "n. 上帝；无所不知者"
+    ],
+    "usphone": "[ɑːmˈnɪʃənt]",
+    "ukphone": "[ɒmˈnɪsiənt]"
+  },
+  {
+    "name": "offhand",
+    "trans": [
+      "adj. 随便的；即时的；无准备的；即席的",
+      "adv. 随便地；即席地；即时地"
+    ],
+    "usphone": "[ˌɔːfˈhænd]",
+    "ukphone": "[ˌɒfˈhænd]"
+  },
+  {
+    "name": "outspoken",
+    "trans": [
+      "adj. 坦率的，直言不讳的"
+    ],
+    "usphone": "[aʊtˈspoʊkən]",
+    "ukphone": "[aʊtˈspəʊkən]"
+  },
+  {
+    "name": "oblivion",
+    "trans": [
+      "n. 遗忘；湮没；赦免"
+    ],
+    "usphone": "[əˈblɪviən]",
+    "ukphone": "[əˈblɪviən]"
+  },
+  {
+    "name": "orchestrate",
+    "trans": [
+      "vt. 把…编成管弦乐曲；（美）精心安排；把…协调地结合起来",
+      "vi. 编管弦乐曲"
+    ],
+    "usphone": "[ˈɔːrkɪstreɪt]",
+    "ukphone": "[ˈɔːkɪstreɪt]"
+  },
+  {
+    "name": "optimize",
+    "trans": [
+      "vt. 使最优化，使完善",
+      "vi. 优化；持乐观态度"
+    ],
+    "usphone": "[ˈɑːptɪmaɪz]",
+    "ukphone": "[ˈɒptɪmaɪz]"
+  },
+  {
+    "name": "oboe",
+    "trans": [
+      "n. 双簧管"
+    ],
+    "usphone": "[ˈoʊboʊ]",
+    "ukphone": "[ˈəʊbəʊ]"
+  },
+  {
+    "name": "observance",
+    "trans": [
+      "n. 惯例；遵守；仪式；庆祝"
+    ],
+    "usphone": "[əbˈzɜːrvəns]",
+    "ukphone": "[əbˈzɜːvəns]"
+  },
+  {
+    "name": "occidental",
+    "trans": [
+      "n. 西方人；欧美人",
+      "adj. 西方的；西洋的"
+    ],
+    "usphone": "[ˌɑːksɪˈdentl]",
+    "ukphone": "[ˌɒksɪˈdentl]"
+  },
+  {
+    "name": "oceanography",
+    "trans": [
+      "n. 海洋学"
+    ],
+    "usphone": "[ˌoʊʃəˈnɑːɡrəfi]",
+    "ukphone": "[ˌəʊʃəˈnɒɡrəfi]"
+  },
+  {
+    "name": "ode",
+    "trans": [
+      "n. 赋；颂歌；颂诗"
+    ],
+    "usphone": "[oʊd]",
+    "ukphone": "[əʊd]"
+  },
+  {
+    "name": "omelette",
+    "trans": [
+      "n. 煎蛋卷"
+    ],
+    "usphone": "[ˈɑːmlət]",
+    "ukphone": "[ˈɒmlət]"
+  },
+  {
+    "name": "onomatopoeia",
+    "trans": [
+      "n. 拟声；声喻法"
+    ],
+    "usphone": "[ˌɑːnəˌmætəˈpiːə]",
+    "ukphone": "[ˌɒnəˌmætəˈpiːə]"
+  },
+  {
+    "name": "opal",
+    "trans": [
+      "n. 猫眼石，蛋白石；乳白玻璃"
+    ],
+    "usphone": "[ˈoʊpl]",
+    "ukphone": "[ˈəʊp(ə)l]"
+  },
+  {
+    "name": "oracle",
+    "trans": [
+      "n. 神谕；预言；神谕处；圣人"
+    ],
+    "usphone": "[ˈɔrəkl]",
+    "ukphone": "[ˈɒrəkl]"
+  },
+  {
+    "name": "orator",
+    "trans": [
+      "n. 演说者；演讲者；雄辩家；原告"
+    ],
+    "usphone": "[ˈɔːrətər]",
+    "ukphone": "[ˈɒrətə(r)]"
+  },
+  {
+    "name": "ordinal",
+    "trans": [
+      "adj. 顺序的，依次的",
+      "n. [数] 序数"
+    ],
+    "usphone": "[ˈɔːrdən(ə)l]",
+    "ukphone": "[ˈɔːdɪn(ə)l]"
+  },
+  {
+    "name": "orgasm",
+    "trans": [
+      "n. [生理] 性高潮；极度兴奋"
+    ],
+    "usphone": "[ˈɔːrɡæzəm]",
+    "ukphone": "[ˈɔːɡæzəm]"
+  },
+  {
+    "name": "orgy",
+    "trans": [
+      "n. 狂欢；放荡"
+    ],
+    "usphone": "[ˈɔːrdʒi]",
+    "ukphone": "[ˈɔːdʒi]"
+  },
+  {
+    "name": "oscillation",
+    "trans": [
+      "n. 振荡；振动；摆动"
+    ],
+    "usphone": "[ˌɑːsɪˈleɪʃn]",
+    "ukphone": "[ˌɒsɪˈleɪʃn]"
+  },
+  {
+    "name": "ostensibly",
+    "trans": [
+      "adv. 表面上；外表"
+    ],
+    "usphone": "[ɑːˈstensəbli]",
+    "ukphone": "[ɒˈstensəbli]"
+  },
+  {
+    "name": "outcry",
+    "trans": [
+      "n. 强烈抗议；大声疾呼；尖叫；倒彩"
+    ],
+    "usphone": "[ˈaʊtkraɪ]",
+    "ukphone": "[ˈaʊtkraɪ]"
+  },
+  {
+    "name": "outgrow",
+    "trans": [
+      "vt. 过大而不适于；出生；长大成熟而不再"
+    ],
+    "usphone": "[ˌaʊtˈɡroʊ]",
+    "ukphone": "[ˌaʊtˈɡrəʊ]"
+  },
+  {
+    "name": "outnumber",
+    "trans": [
+      "vt. 数目超过；比…多"
+    ],
+    "usphone": "[ˌaʊtˈnʌmbər]",
+    "ukphone": "[ˌaʊtˈnʌmbə(r)]"
+  },
+  {
+    "name": "ovation",
+    "trans": [
+      "n. 热烈欢迎；大喝采"
+    ],
+    "usphone": "[oʊˈveɪʃn]",
+    "ukphone": "[əʊˈveɪʃn]"
+  },
+  {
+    "name": "overture",
+    "trans": [
+      "n. 前奏曲；提案；序幕",
+      "vt. 提议；为……奏前奏曲"
+    ],
+    "usphone": "[ˈoʊvərtʃərˌˈoʊvərtʃʊr]",
+    "ukphone": "[ˈəʊvətʃʊə(r)]"
+  },
+  {
+    "name": "ovum",
+    "trans": [
+      "n. [细胞][组织] 卵；卵子；卵形装饰"
+    ],
+    "usphone": "[ˈoʊvəm]",
+    "ukphone": "[ˈəʊvəm]"
+  },
+  {
+    "name": "oxidize",
+    "trans": [
+      "vt. 使氧化；使生锈",
+      "vi. 氧化"
+    ],
+    "usphone": "[ˈɑːksɪdaɪz]",
+    "ukphone": "[ˈɒksɪdaɪz]"
+  },
+  {
+    "name": "ornery",
+    "trans": [
+      "adj. 坏脾气的；低劣的"
+    ],
+    "usphone": "[ˈɔːrnəri]",
+    "ukphone": "[ˈɔːnəri]"
+  },
+  {
+    "name": "otherness",
+    "trans": [
+      "n. 差异性；相异；他物"
+    ],
+    "usphone": "[ˈʌðərnəs]",
+    "ukphone": "[ˈʌðənəs]"
+  },
+  {
+    "name": "objectify",
+    "trans": [
+      "vt. 使具体化，使客观化；体现"
+    ],
+    "usphone": "[əbˈdʒektɪfaɪ]",
+    "ukphone": "[əbˈdʒektɪfaɪ]"
+  },
+  {
+    "name": "once again",
+    "trans": [
+      "na. 一再；再一次；“once again/more”的变体"
+    ],
+    "usphone": "[wʌns əˈɡen]",
+    "ukphone": "[wʌns əˈɡen]"
+  },
+  {
+    "name": "overprice",
+    "trans": [
+      "vt. 对…定价过高；定价高于…的购买力"
+    ],
+    "usphone": "[ˌoʊvərˈpraɪs]",
+    "ukphone": "[ˌəʊvəˈpraɪs]"
+  },
+  {
+    "name": "overfishing",
+    "trans": [
+      "n. 渔捞过度",
+      "vt. 过度捕捞（overfish的现在分词）"
+    ],
+    "usphone": "[ˌoʊvərˈfɪʃɪŋ]",
+    "ukphone": "[ˌəʊvəˈfɪʃɪŋ]"
+  },
+  {
+    "name": "oarfish",
+    "trans": [
+      "n. 皇带鱼"
+    ],
+    "usphone": "[ˈofɪʃ]",
+    "ukphone": "[ˈɔːfɪʃ]"
+  },
+  {
+    "name": "overfish",
+    "trans": [
+      "vt. 对（鱼、渔场）捕捞过度"
+    ],
+    "usphone": "[ˌoʊvərˈfɪʃ; ˈoʊvərˌfɪʃ]",
+    "ukphone": "[ˌəʊvəˈfɪʃ]"
+  },
+  {
+    "name": "oil rig",
+    "trans": [
+      "n. 石油钻塔；钻油平台；油井设备"
+    ],
+    "usphone": "[ˈɔɪl rɪɡ]",
+    "ukphone": "[ˈɔɪl rɪɡ]"
+  },
+  {
+    "name": "overpay",
+    "trans": [
+      "vt. 多付；多给报酬",
+      "vi. 多付"
+    ],
+    "usphone": "[ˌoʊvərˈpeɪ]",
+    "ukphone": "[ˌəʊvəˈpeɪ]"
+  },
+  {
+    "name": "outsize",
+    "trans": [
+      "adj. 特大的",
+      "n. 特大号"
+    ],
+    "usphone": "[ˈaʊtsaɪz]",
+    "ukphone": "[ˈaʊtsaɪz]"
+  },
+  {
+    "name": "objectionable",
+    "trans": [
+      "adj. 讨厌的；会引起反对的；有异议的"
+    ],
+    "usphone": "[əbˈdʒekʃənəbl]",
+    "ukphone": "[əbˈdʒekʃənəbl]"
+  },
+  {
+    "name": "over-the-counter",
+    "trans": [
+      "adj. 不通过交易所而直接售给顾客的；不需处方可以出售的"
+    ],
+    "usphone": "[ˌoʊvər ðə ˈkaʊntər]",
+    "ukphone": "[ˌəʊvə ðə ˈkaʊntə(r)]"
+  },
+  {
+    "name": "oversize",
+    "trans": [
+      "adj. 太大的；超大型的",
+      "n. 特大号"
+    ],
+    "usphone": "[ˈovərsaɪzd]",
+    "ukphone": "[ˈəʊvəsaɪz]"
+  },
+  {
+    "name": "overrate",
+    "trans": [
+      "vt. 过高估计；对…估价过高"
+    ],
+    "usphone": "[ˌoʊvərˈreɪt]",
+    "ukphone": "[ˌəʊvəˈreɪt]"
+  },
+  {
+    "name": "overdressed",
+    "trans": [
+      "adj. 过分打扮的；穿着过于讲究的"
+    ],
+    "usphone": "[ˌoʊvərˈdrest]",
+    "ukphone": "[ˌəʊvəˈdrest]"
+  },
+  {
+    "name": "outlive",
+    "trans": [
+      "vt. 比…活得长；比…经久；经受住；渡过…而存在"
+    ],
+    "usphone": "[ˌaʊtˈlɪv]",
+    "ukphone": "[ˌaʊtˈlɪv]"
+  },
+  {
+    "name": "origination",
+    "trans": [
+      "n. 起源；开始；起始"
+    ],
+    "usphone": "[əˌrɪdʒɪˈneɪʃn]",
+    "ukphone": "[əˌrɪdʒɪˈneɪʃən]"
+  },
+  {
+    "name": "old-world",
+    "trans": [
+      "adj. 古代世界的，古时的；从前的，以前的"
+    ],
+    "usphone": "[ˈoʊld wɜːrld]",
+    "ukphone": "[ˈəʊld wɜːld]"
+  },
+  {
+    "name": "overcrowded",
+    "trans": [
+      "adj. 过度拥挤的",
+      "v. 拥挤（overcrowd的过去分词）"
+    ],
+    "usphone": "[ˌoʊvərˈkraʊdɪd]",
+    "ukphone": "[ˌəʊvəˈkraʊdɪd]"
+  },
+  {
+    "name": "overlapping",
+    "trans": [
+      "adj. 重叠；覆盖",
+      "v. 与…重叠；盖过（overlap的ing形式）"
+    ],
+    "usphone": "[ˈovərˈlæp]",
+    "ukphone": "[ˌəʊvəˈlæpɪŋ]"
+  },
+  {
+    "name": "obtainable",
+    "trans": [
+      "adj. 能得到的"
+    ],
+    "usphone": "[əbˈteɪnəbl]",
+    "ukphone": "[əbˈteɪnəb(ə)l]"
+  },
+  {
+    "name": "overriding",
+    "trans": [
+      "adj. 高于一切的，最重要的",
+      "v. 践踏；压垮；不顾（override的ing形式）"
+    ],
+    "usphone": "[ˌoʊvərˈraɪdɪŋ]",
+    "ukphone": "[ˌəʊvəˈraɪdɪŋ]"
+  },
+  {
+    "name": "outpouring",
+    "trans": [
+      "n. 流露；流出；倾泄",
+      "v. 使流出（outpour的ing形式）"
+    ],
+    "usphone": "[ˈaʊtpɔːrɪŋ]",
+    "ukphone": "[ˈaʊtpɔːrɪŋ]"
+  },
+  {
+    "name": "oddball",
+    "trans": [
+      "adj. 古怪的；奇怪的",
+      "n. 古怪；古怪的人"
+    ],
+    "usphone": "[ˈɑːdbɔːl]",
+    "ukphone": "[ˈɒdbɔːl]"
+  },
+  {
+    "name": "ostracized",
+    "trans": [
+      "vt. 放逐；排斥；按贝壳流放法放逐"
+    ],
+    "usphone": "[ˈɑːstrəsaɪz]",
+    "ukphone": "[ˈɒstrəsaɪz]"
+  },
+  {
+    "name": "ohm",
+    "trans": [
+      "n. 欧姆（电阻单位）"
+    ],
+    "usphone": "[oʊm]",
+    "ukphone": "[əʊm]"
+  },
+  {
+    "name": "octagon",
+    "trans": [
+      "n. 八边形，八角形"
+    ],
+    "usphone": "[ˈɑːktəɡɑːn]",
+    "ukphone": "[ˈɒktəɡən]"
+  },
+  {
+    "name": "ordinate",
+    "trans": [
+      "n. [数] 纵坐标"
+    ],
+    "usphone": "[ˈɔːrdɪnət]",
+    "ukphone": "[ˈɔːdɪnət]"
+  },
+  {
+    "name": "off-the-shelf",
+    "trans": [
+      "adj. 现成的；常备的；成品的",
+      "adv. 现成地；无需作重大修改地"
+    ],
+    "usphone": "[ˌɔːf ðə ˈʃelf]",
+    "ukphone": "[ˌɒf ðə ˈʃelf]"
+  },
+  {
+    "name": "opiate",
+    "trans": [
+      "n. 鸦片制剂；麻醉剂；镇静剂",
+      "adj. 含鸦片的；安眠的",
+      "vt. 用鸦片麻醉；使缓和"
+    ],
+    "usphone": "[ˈoʊpiət]",
+    "ukphone": "[ˈəʊpiət]"
+  },
+  {
+    "name": "outpatient",
+    "trans": [
+      "n. 门诊病人"
+    ],
+    "usphone": "[ˈaʊtpeɪʃ(ə)nt]",
+    "ukphone": "[ˈaʊtpeɪʃ(ə)nt]"
+  },
+  {
+    "name": "ocher",
+    "trans": [
+      "n. 赭土；[矿物] 赭石；赭色"
+    ],
+    "usphone": "[ˈoʊkər]",
+    "ukphone": "[ˈəʊkə(r)]"
+  },
+  {
+    "name": "oligosaccharide",
+    "trans": [
+      "n. [有化] 寡糖，[有化] 低聚糖"
+    ],
+    "usphone": "[ˌɒlɪɡoʊˈsækəˌraɪd]",
+    "ukphone": "[ˌɒlɪɡəʊˈsækəraɪd]"
+  },
+  {
+    "name": "overlord",
+    "trans": [
+      "n. 霸王；大君主；最高统治者；封建领主"
+    ],
+    "usphone": "[ˈoʊvərlɔːrd]",
+    "ukphone": "[ˈəʊvəlɔːd]"
+  },
+  {
+    "name": "organelle",
+    "trans": [
+      "n. [细胞] 细胞器；细胞器官"
+    ],
+    "usphone": "[ˌɔrɡəˈnel]",
+    "ukphone": "[ˌɔːɡəˈnel]"
+  },
+  {
+    "name": "outmoded",
+    "trans": [
+      "adj. 过时的，不流行的",
+      "v. 使不流行（outmode的过去分词）"
+    ],
+    "usphone": "[ˌaʊtˈmoʊdɪd]",
+    "ukphone": "[ˌaʊtˈməʊdɪd]"
+  },
+  {
+    "name": "outdistance",
+    "trans": [
+      "vt. 超越，大大超过；把……抛在后面"
+    ],
+    "usphone": "[ˌaʊtˈdɪstəns]",
+    "ukphone": "[ˌaʊtˈdɪstəns]"
+  },
+  {
+    "name": "outfield",
+    "trans": [
+      "n. 外场；边境；偏远的田园"
+    ],
+    "usphone": "[ˈaʊtfiːld]",
+    "ukphone": "[ˈaʊtfiːld]"
+  },
+  {
+    "name": "ostensible",
+    "trans": [
+      "adj. 表面的；假装的"
+    ],
+    "usphone": "[ɑːˈstensəb(ə)l]",
+    "ukphone": "[ɒˈstensəb(ə)l]"
+  },
+  {
+    "name": "outermost",
+    "trans": [
+      "adj. 最外面的；最远的"
+    ],
+    "usphone": "[ˈaʊtərmoʊst]",
+    "ukphone": "[ˈaʊtəməʊst]"
+  },
+  {
+    "name": "outmost",
+    "trans": [
+      "adj. 最远的；最外面的；最高头的"
+    ],
+    "usphone": "[ˈaʊtˌmoʊst]",
+    "ukphone": "[ˈaʊtˌməʊst]"
+  },
+  {
+    "name": "osmosis",
+    "trans": [
+      "n. [物] 渗透；[物] 渗透性；渗透作用"
+    ],
+    "usphone": "[ɑːzˈmoʊsɪs]",
+    "ukphone": "[ɒzˈməʊsɪs]"
+  },
+  {
+    "name": "oversupply",
+    "trans": [
+      "n. [经] 供给过多；过多的供应品",
+      "vt. 过度供给"
+    ],
+    "usphone": "[ˈoʊvərsəˈplaɪ]",
+    "ukphone": "[ˈəʊvəˌsəplaɪ]"
+  },
+  {
+    "name": "obeisance",
+    "trans": [
+      "n. 敬礼；尊敬"
+    ],
+    "usphone": "[oʊˈbiːsns]",
+    "ukphone": "[əʊˈbeɪsns]"
+  },
+  {
+    "name": "overuse",
+    "trans": [
+      "n. 过度使用",
+      "vt. 把…使用过度"
+    ],
+    "usphone": "[ˌoʊvərˈjuːs]",
+    "ukphone": "[ˌəʊvəˈjuːs]"
+  },
+  {
+    "name": "obtrusive",
+    "trans": [
+      "adj. 突出的；强迫人的；冒失的"
+    ],
+    "usphone": "[əbˈtruːsɪv]",
+    "ukphone": "[əbˈtruːsɪv]"
+  },
+  {
+    "name": "obtuse",
+    "trans": [
+      "adj. 迟钝的；圆头的；不锋利的"
+    ],
+    "usphone": "[əbˈtuːs]",
+    "ukphone": "[əbˈtjuːs]"
+  },
+  {
+    "name": "ostentation",
+    "trans": [
+      "n. 卖弄；虚饰；虚有其表"
+    ],
+    "usphone": "[ˌɑːstenˈteɪʃ(ə)n]",
+    "ukphone": "[ˌɒstenˈteɪʃ(ə)n]"
+  },
+  {
+    "name": "overweening",
+    "trans": [
+      "adj. 自负的，过于自信的；过分的"
+    ],
+    "usphone": "[ˌoʊvərˈwiːnɪŋ]",
+    "ukphone": "[ˌəʊvəˈwiːnɪŋ]"
+  },
+  {
+    "name": "omnipotent",
+    "trans": [
+      "adj. 无所不能的；全能的；有无限权力的"
+    ],
+    "usphone": "[ɑːmˈnɪpətənt]",
+    "ukphone": "[ɒmˈnɪpətənt]"
+  },
+  {
+    "name": "oligopoly",
+    "trans": [
+      "n. 寡占；寡头买主垄断"
+    ],
+    "usphone": "[ˌɑːlɪˈɡɑːpəliˌˌoʊlɪˈɡɑːpəli]",
+    "ukphone": "[ˌɒlɪˈɡɒpəli]"
+  },
+  {
+    "name": "oh",
+    "trans": [
+      "int. 哦；哎呀（表示惊讶或恐惧等）"
+    ],
+    "usphone": "[oʊ]",
+    "ukphone": "[əʊ]"
+  },
+  {
+    "name": "off-the-cuff",
+    "trans": [
+      "adj. 即席的"
+    ],
+    "usphone": "[ˌɔːf ðə ˈkʌf]",
+    "ukphone": "[ˌɒf ðə ˈkʌf]"
+  },
+  {
+    "name": "oncologist",
+    "trans": [
+      "n. 肿瘤学家；肿瘤医师"
+    ],
+    "usphone": "[ɑːnˈkɑːlədʒɪst]",
+    "ukphone": "[ɒŋˈkɒlədʒɪst]"
+  },
+  {
+    "name": "outgas",
+    "trans": [
+      "vt. 除去…的气"
+    ],
+    "usphone": "[ˈaʊtˌgæs]",
+    "ukphone": "[ˌaʊtˈɡæs]"
+  },
+  {
+    "name": "overqualified",
+    "trans": [
+      "adv. 条件太好地；超过合格之最低要求",
+      "adj. 资历过高的"
+    ],
+    "usphone": "[ˌoʊvərˈkwɔːlɪfaɪd]",
+    "ukphone": "[ˌəʊvəˈkwɒlɪfaɪd]"
+  },
+  {
+    "name": "overcharge",
+    "trans": [
+      "n. 过度充电；超载；装药过多",
+      "vt. 对……索价过高；使……过度充电",
+      "vi. 过度充电；讨价过高"
+    ],
+    "usphone": "[ˌoʊvərˈtʃɑːrdʒ]",
+    "ukphone": "[ˌəʊvəˈtʃɑːdʒ]"
+  },
+  {
+    "name": "overhang",
+    "trans": [
+      "vi. 悬垂；逼近",
+      "vt. 悬于…之上；（危险、邪恶等）逼近",
+      "n. （船首或船尾）突出部分；悬垂部分"
+    ],
+    "usphone": "[ˌoʊvərˈhæŋ; ˈoʊvərhæŋ]",
+    "ukphone": "[ˈəʊvəˌhæŋ; ˌəʊvəˈhæŋ]"
+  },
+  {
+    "name": "onrush",
+    "trans": [
+      "n. 猛冲；突进；袭击；急流"
+    ],
+    "usphone": "[ˈɑːnrʌʃ]",
+    "ukphone": "[ˈɒnrʌʃ]"
+  },
+  {
+    "name": "overlay",
+    "trans": [
+      "n. 覆盖图；覆盖物",
+      "vt. 在表面上铺一薄层，镀"
+    ],
+    "usphone": "[ˌoʊvərˈleɪ]",
+    "ukphone": "[ˌəʊvəˈleɪ]"
+  },
+  {
+    "name": "overemphasis",
+    "trans": [
+      "n. 过分强调"
+    ],
+    "usphone": "[ˌoʊvərˈemfəsɪs]",
+    "ukphone": "[ˌəʊvərˈemfəsɪs]"
+  },
+  {
+    "name": "outshine",
+    "trans": [
+      "vt. 使相形见绌；胜过；比…更亮",
+      "vi. 放光"
+    ],
+    "usphone": "[ˌaʊtˈʃaɪn]",
+    "ukphone": "[ˌaʊtˈʃaɪn]"
+  },
+  {
+    "name": "overawe",
+    "trans": [
+      "vt. 威慑；吓住；使大感敬畏"
+    ],
+    "usphone": "[ˌoʊvərˈɔː]",
+    "ukphone": "[ˌəʊvərˈɔː]"
+  },
+  {
+    "name": "outlying",
+    "trans": [
+      "adj. 边远的；无关的",
+      "v. 放在…外面；在撒谎上胜过（outlie的ing形式）"
+    ],
+    "usphone": "[ˈaʊtlaɪɪŋ]",
+    "ukphone": "[ˈaʊtlaɪɪŋ]"
+  },
+  {
+    "name": "operant",
+    "trans": [
+      "adj. 操作的；有效的",
+      "n. 自发反应；操作性制约；发生作用之人或物"
+    ],
+    "usphone": "[ˈɑːpərənt]",
+    "ukphone": "[ˈɒpərənt]"
+  },
+  {
+    "name": "outwit",
+    "trans": [
+      "vt. 瞒骗；以智取胜"
+    ],
+    "usphone": "[ˌaʊtˈwɪt]",
+    "ukphone": "[ˌaʊtˈwɪt]"
+  },
+  {
+    "name": "oaf",
+    "trans": [
+      "n. 呆子；白痴；畸形儿"
+    ],
+    "usphone": "[oʊf]",
+    "ukphone": "[əʊf]"
+  },
+  {
+    "name": "oat",
+    "trans": [
+      "n. 燕麦；麦片粥，燕麦粥"
+    ],
+    "usphone": "[oʊt]",
+    "ukphone": "[əʊt]"
+  },
+  {
+    "name": "obligingly",
+    "trans": [
+      "adv. 亲切地"
+    ],
+    "usphone": "[əˈblaɪdʒɪŋli]",
+    "ukphone": "[əˈblaɪdʒɪŋli]"
+  },
+  {
+    "name": "obstetrics",
+    "trans": [
+      "n. 产科学，助产术"
+    ],
+    "usphone": "[əbˈstetrɪks]",
+    "ukphone": "[əbˈstetrɪks]"
+  },
+  {
+    "name": "occult",
+    "trans": [
+      "adj. 神秘的；超自然的；难以理解的",
+      "vt. 掩蔽",
+      "n. 神秘学",
+      "vi. 被掩蔽"
+    ],
+    "usphone": "[əˈkʌlt]",
+    "ukphone": "[ˈɒkʌlt]"
+  },
+  {
+    "name": "oceanographer",
+    "trans": [
+      "n. 海洋学家；海洋研究者"
+    ],
+    "usphone": "[ˌoʊʃəˈnɑːɡrəfər]",
+    "ukphone": "[ˌəʊʃəˈnɒɡrəfə(r)]"
+  },
+  {
+    "name": "ocular",
+    "trans": [
+      "adj. 眼睛的；视觉的；目击的",
+      "n. [光] 目镜"
+    ],
+    "usphone": "[ˈɑːkjələr]",
+    "ukphone": "[ˈɒkjələ(r)]"
+  },
+  {
+    "name": "officinal",
+    "trans": [
+      "adj. 成药的; 药用; 药用植物"
+    ],
+    "usphone": "[əˈfɪsɪnl]",
+    "ukphone": "[ɒˈfɪsɪnəl]"
+  },
+  {
+    "name": "officious",
+    "trans": [
+      "adj. 多管闲事的；非官方的"
+    ],
+    "usphone": "[əˈfɪʃəs]",
+    "ukphone": "[əˈfɪʃəs]"
+  },
+  {
+    "name": "omnipresent",
+    "trans": [
+      "adj. 无所不在的"
+    ],
+    "usphone": "[ˌɑːmnɪˈpreznt]",
+    "ukphone": "[ˌɒmnɪˈprez(ə)nt]"
+  },
+  {
+    "name": "oncology",
+    "trans": [
+      "n. [肿瘤] 肿瘤学"
+    ],
+    "usphone": "[ɑːnˈkɑːlədʒi]",
+    "ukphone": "[ɒŋˈkɒlədʒi]"
+  },
+  {
+    "name": "ophthalmology",
+    "trans": [
+      "n. [眼科] 眼科学"
+    ],
+    "usphone": "[ˌɑːfθəˈmɑːlədʒiˌˌɑːpθəˈmɑːlədʒi]",
+    "ukphone": "[ˌɒfθælˈmɒlədʒi; ˌɒpθælˈmɒlədʒi]"
+  },
+  {
+    "name": "opium",
+    "trans": [
+      "n. 鸦片；麻醉剂",
+      "adj. 鸦片的"
+    ],
+    "usphone": "[ˈoʊpiəm]",
+    "ukphone": "[ˈəʊpiəm]"
+  },
+  {
+    "name": "optician",
+    "trans": [
+      "n. 眼镜商；光学仪器商；光学仪器制造者"
+    ],
+    "usphone": "[ɑːpˈtɪʃn]",
+    "ukphone": "[ɒpˈtɪʃn]"
+  },
+  {
+    "name": "optics",
+    "trans": [
+      "n. [光] 光学"
+    ],
+    "usphone": "[ˈɑːptɪks]",
+    "ukphone": "[ˈɒptɪks]"
+  },
+  {
+    "name": "optometrist",
+    "trans": [
+      "n. 验光师；视力测定者"
+    ],
+    "usphone": "[ɑːpˈtɑːmətrɪst]",
+    "ukphone": "[ɒpˈtɒmətrɪst]"
+  },
+  {
+    "name": "oratorio",
+    "trans": [
+      "n. 清唱剧；宗教剧"
+    ],
+    "usphone": "[ˌɔːrəˈtɔːrioʊ]",
+    "ukphone": "[ˌɒrəˈtɔːriəʊ]"
+  },
+  {
+    "name": "ordnance",
+    "trans": [
+      "n. 军火；大炮；军械署"
+    ],
+    "usphone": "[ˈɔːrdnəns]",
+    "ukphone": "[ˈɔːdnəns]"
+  },
+  {
+    "name": "orifice",
+    "trans": [
+      "n. [机] 孔口"
+    ],
+    "usphone": "[ˈɔːrɪfɪs]",
+    "ukphone": "[ˈɒrɪfɪs]"
+  },
+  {
+    "name": "orthopedics",
+    "trans": [
+      "n. 矫形术"
+    ],
+    "usphone": "[ˌɔːrθəˈpiːdɪks]",
+    "ukphone": "[,ɔ:θə'pi:dɪks]"
+  },
+  {
+    "name": "osprey",
+    "trans": [
+      "n. [鸟] 鹗（一种鱼鹰，腹部羽毛为白色）"
+    ],
+    "usphone": "[ˈɑːspreɪ]",
+    "ukphone": "[ˈɒspreɪ]"
+  },
+  {
+    "name": "osteoma",
+    "trans": [
+      "n. 骨瘤"
+    ],
+    "usphone": "[ˌɑːstiˈoʊmə]",
+    "ukphone": "[ˌɒstɪˈəʊmə]"
+  },
+  {
+    "name": "otitis",
+    "trans": [
+      "n. [耳鼻喉] 耳炎"
+    ],
+    "usphone": "[oʊˈtaɪtɪs]",
+    "ukphone": "[əʊˈtaɪtɪs]"
+  },
+  {
+    "name": "otorhinolaryngology",
+    "trans": [
+      "n. 耳鼻喉学; 耳鼻喉科; 耳鼻喉科学"
+    ],
+    "usphone": "[ˌotoˌraɪnoˌlærɪŋˈɡɑlədʒi]",
+    "ukphone": "[ˌəʊtə(ʊ)ˌraɪnəʊˌlærɪŋˈgɒlədʒɪ]"
+  },
+  {
+    "name": "ovary",
+    "trans": [
+      "n. [植] 子房；[解剖] 卵巢"
+    ],
+    "usphone": "[ˈoʊvəri]",
+    "ukphone": "[ˈəʊvəri]"
+  },
+  {
+    "name": "overachiever",
+    "trans": [
+      "n. 成绩超过预料的学生"
+    ],
+    "usphone": "[ˌoʊvərəˈtʃiːvər]",
+    "ukphone": "[ˌəʊvərəˈtʃiːvə(r)]"
+  },
+  {
+    "name": "overactivity",
+    "trans": [
+      "n. 过度活性，过于活泼"
+    ],
+    "usphone": "[ˌoʊvərækˈtɪvəti]",
+    "ukphone": "[ˌəʊvərækˈtɪvɪti]"
+  },
+  {
+    "name": "overtire",
+    "trans": [
+      "vt. 使过度劳累"
+    ],
+    "usphone": "[ˌoʊvərˈtaɪ(ə)r]",
+    "ukphone": "[ˌəʊvəˈtaɪə]"
+  },
+  {
+    "name": "obdurate",
+    "trans": [
+      "adj. 顽固的，执拗的；冷酷无情的"
+    ],
+    "usphone": "[ˈɑːbdərət]",
+    "ukphone": "[ˈɒbdjərət]"
+  },
+  {
+    "name": "obfuscate",
+    "trans": [
+      "vt. 使模糊；使迷乱；弄暗"
+    ],
+    "usphone": "[ˈɑːbfəskeɪt]",
+    "ukphone": "[ˈɒbfəskeɪt]"
+  },
+  {
+    "name": "obsequious",
+    "trans": [
+      "adj. 谄媚的；奉承的；顺从的"
+    ],
+    "usphone": "[əbˈsiːkwiəs]",
+    "ukphone": "[əbˈsiːkwiəs]"
+  },
+  {
+    "name": "obstreperous",
+    "trans": [
+      "adj. 吵闹的，喧嚣的；难驾驭的"
+    ],
+    "usphone": "[əbˈstrepərəs]",
+    "ukphone": "[əbˈstrepərəs]"
+  },
+  {
+    "name": "obtrude",
+    "trans": [
+      "vt. 逼使；强迫；冲出",
+      "vi. 打扰；闯入；强加于人"
+    ],
+    "usphone": "[əbˈtruːd]",
+    "ukphone": "[əbˈtruːd]"
+  },
+  {
+    "name": "odyssey",
+    "trans": [
+      "n. 奥德赛（古希腊史诗）"
+    ],
+    "usphone": "[ˈɑːdəsi]",
+    "ukphone": "[ˈɒdəsi]"
+  },
+  {
+    "name": "oligarchy",
+    "trans": [
+      "n. 寡头政治"
+    ],
+    "usphone": "[ˈɑːləɡɑːrkiˌˈoʊləɡɑːrki]",
+    "ukphone": "[ˈɒlɪɡɑːki]"
+  },
+  {
+    "name": "opportune",
+    "trans": [
+      "adj. 适当的；恰好的；合时宜的"
+    ],
+    "usphone": "[ˌɑːpərˈtuːn]",
+    "ukphone": "[ˈɒpətjuːn]"
+  },
+  {
+    "name": "oracular",
+    "trans": [
+      "adj. 神谕的；谜似的；玄妙深奥的"
+    ],
+    "usphone": "[əˈrækjələr]",
+    "ukphone": "[əˈrækjələ(r)]"
+  },
+  {
+    "name": "ornithologist",
+    "trans": [
+      "n. 鸟类学者"
+    ],
+    "usphone": "[ˌɔːrnɪˈθɑːlədʒɪst]",
+    "ukphone": "[ˌɔːnɪˈθɒlədʒɪst]"
+  },
+  {
+    "name": "oscillate",
+    "trans": [
+      "vt. 使振荡；使振动；使动摇",
+      "vi. 振荡；摆动；犹豫"
+    ],
+    "usphone": "[ˈɑːsɪleɪt]",
+    "ukphone": "[ˈɒsɪleɪt]"
+  },
+  {
+    "name": "ossify",
+    "trans": [
+      "vi. 骨化；硬化；僵化",
+      "vt. 使硬化；使骨化；使僵化"
+    ],
+    "usphone": "[ˈɑːsɪfaɪ]",
+    "ukphone": "[ˈɒsɪfaɪ]"
+  },
+  {
+    "name": "ostracize",
+    "trans": [
+      "vt. 放逐；排斥；按贝壳流放法放逐"
+    ],
+    "usphone": "[ˈɑːstrəsaɪz]",
+    "ukphone": "[ˈɒstrəsaɪz]"
+  },
+  {
+    "name": "overbearing",
+    "trans": [
+      "adj. 傲慢的；压倒一切的",
+      "v. 压住；否定；专横地对待；繁殖过度（overbear的ing形式）"
+    ],
+    "usphone": "[ˌoʊvərˈberɪŋ]",
+    "ukphone": "[ˌəʊvəˈbeərɪŋ]"
+  },
+  {
+    "name": "overwrought",
+    "trans": [
+      "adj. 过度紧张的；过度兴奋的；过分劳累的；（文体等）过于考究的",
+      "v. 工作过度；把…做过头；使过于激动（overwork的过去式和过去分词）"
+    ],
+    "usphone": "[ˌoʊvərˈrɔːt]",
+    "ukphone": "[ˌəʊvəˈrɔːt]"
+  },
+  {
+    "name": "obsessed",
+    "trans": [
+      "adj. 着迷的；无法摆脱的",
+      "v. 着迷（obsess的过去式）；纠缠"
+    ],
+    "usphone": "[əbˈsest]",
+    "ukphone": "[əbˈsest]"
+  },
+  {
+    "name": "outdate",
+    "trans": [
+      "vt. 使过时；使废弃；使陈旧"
+    ],
+    "usphone": "[aʊtˈdeɪt]",
+    "ukphone": "[aʊtˈdeɪt]"
+  },
+  {
+    "name": "Olympia",
+    "trans": [
+      "n. 奥林匹亚"
+    ],
+    "usphone": "[əu'limpiə]",
+    "ukphone": "[əˈlɪmpiə]"
+  },
+  {
+    "name": "oil painting",
+    "trans": [
+      "n. 【画】油画；【画】油画艺术"
+    ],
+    "usphone": "[ˈɔɪl peɪntɪŋ]",
+    "ukphone": "[ˈɔɪl peɪntɪŋ]"
+  },
+  {
+    "name": "obviousness",
+    "trans": [
+      "n. 显而易见；明显；显著性"
+    ],
+    "usphone": "[ˈɑːbviəsnəs]",
+    "ukphone": "[ˈɒbviəsnəs]"
+  },
+  {
+    "name": "organised",
+    "trans": [
+      "adj. 有组织的；组织起来的（等于organized）",
+      "v. 组织；构成（organise的过去式）"
+    ],
+    "usphone": "[ˈɔːrɡənaɪzd]",
+    "ukphone": "[ˈɔːɡənaɪzd]"
+  },
+  {
+    "name": "optimistically",
+    "trans": [
+      "adv. 乐观地；乐天地"
+    ],
+    "usphone": "[ˌɑːptɪˈmɪstɪkli]",
+    "ukphone": "[ˌɒptɪˈmɪstɪkli]"
+  },
+  {
+    "name": "outwardly",
+    "trans": [
+      "adv. 表面上；向外；外观上地"
+    ],
+    "usphone": "[ˈaʊtwərdli]",
+    "ukphone": "[ˈaʊtwədli]"
+  },
+  {
+    "name": "Orwellian",
+    "trans": [
+      "n. 奥威尔式；奥威尔现象",
+      "adj. George Orwell的笔调或用字的；受严格统治而失去人性的社会的"
+    ],
+    "usphone": "[ɔːrˈweliən]",
+    "ukphone": "[ɔːˈweliən]"
+  },
+  {
+    "name": "omniscience",
+    "trans": [
+      "n. 全知；上帝；全知者；无限的知识"
+    ],
+    "usphone": "[ɑːmˈnɪʃəns]",
+    "ukphone": "[ɒmˈnɪsiəns]"
+  },
+  {
+    "name": "occlude",
+    "trans": [
+      "vt. 使闭塞；封闭；挡住",
+      "vi. 咬合"
+    ],
+    "usphone": "[əˈkluːd]",
+    "ukphone": "[əˈkluːd]"
+  },
+  {
+    "name": "officiate",
+    "trans": [
+      "vt. 主持（仪式）；行使（职务）；担任裁判",
+      "vi. 执行职务；主持宗教仪式；当体育比赛裁判"
+    ],
+    "usphone": "[əˈfɪʃieɪt]",
+    "ukphone": "[əˈfɪʃieɪt]"
+  },
+  {
+    "name": "odometer",
+    "trans": [
+      "n. （汽车的）里程表，[车辆] 里程计"
+    ],
+    "usphone": "[oʊˈdɑːmɪtər]",
+    "ukphone": "[əʊˈdɒmɪtə(r)]"
+  },
+  {
+    "name": "outmaneuver",
+    "trans": [
+      "vt. 以计谋胜过；运用策略击败"
+    ],
+    "usphone": "[ˌaʊtməˈnuːvər]",
+    "ukphone": "[ˌaʊtməˈnuːvə(r)]"
+  },
+  {
+    "name": "overreach",
+    "trans": [
+      "vt. 走过头；过度伸张；诈骗",
+      "vi. 伸得过远；（马）以后蹄踢前蹄"
+    ],
+    "usphone": "[ˌoʊvərˈriːtʃ]",
+    "ukphone": "[ˌəʊvəˈriːtʃ]"
+  },
+  {
+    "name": "opprobrium",
+    "trans": [
+      "n. 耻辱，不名誉；责骂，咒骂"
+    ],
+    "usphone": "[əˈproʊbriəm]",
+    "ukphone": "[əˈprəʊbriəm]"
+  },
+  {
+    "name": "obstructive",
+    "trans": [
+      "adj. 阻碍的；妨碍的",
+      "n. 妨碍物；障碍物"
+    ],
+    "usphone": "[əbˈstrʌktɪv]",
+    "ukphone": "[əbˈstrʌktɪv]"
+  },
+  {
+    "name": "obscurely",
+    "trans": [
+      "adv. 费解地，晦涩地；隐匿地"
+    ],
+    "usphone": "[əbˈskjʊrli]",
+    "ukphone": "[əbˈskjʊəli]"
+  },
+  {
+    "name": "overheads",
+    "trans": [
+      "n. 企业的日常管理费用；杂项开支；一般费用（overhead的复数）"
+    ],
+    "usphone": "[ˈoʊvərhedz]",
+    "ukphone": "[ˈəʊvəhedz]"
+  },
+  {
+    "name": "occupationally",
+    "trans": [
+      "adv. 职业引起地"
+    ],
+    "usphone": "[ˌɑːkjuˈpeɪʃənəli]",
+    "ukphone": "[ˌɒkjuˈpeɪʃənəli]"
+  },
+  {
+    "name": "oddly",
+    "trans": [
+      "adv. 古怪地；奇妙地；单数地"
+    ],
+    "usphone": "[ˈɑːdli]",
+    "ukphone": "[ˈɒdli]"
+  },
+  {
+    "name": "onshore",
+    "trans": [
+      "adj. 陆上的；向着海岸的",
+      "adv. 在陆上；向着海岸"
+    ],
+    "usphone": "[ˈɑːnʃɔːr]",
+    "ukphone": "[ˈɒnʃɔː(r)]"
+  },
+  {
+    "name": "overdone",
+    "trans": [
+      "v. 把…煮得过久；过于劳累；把…做得过度（overdo的过去分词）",
+      "adj. 煮得太久的；做得过分的"
+    ],
+    "usphone": "[ˌoʊvərˈdʌn]",
+    "ukphone": "[ˌəʊvəˈdʌn]"
+  },
+  {
+    "name": "overlying",
+    "trans": [
+      "n. 上覆盖，叠加（overlie的现在分词）",
+      "adj. 上覆盖的"
+    ],
+    "usphone": "[ˌoʊvərˈlaɪɪŋ]",
+    "ukphone": "[ˌəʊvəˈlaɪɪŋ]"
+  },
+  {
+    "name": "overstaffed",
+    "trans": [
+      "adj. 人浮于事的；人员过多的"
+    ],
+    "usphone": "[ˌoʊvərˈstæft]",
+    "ukphone": "[ˌəʊvəˈstɑːft]"
+  },
+  {
+    "name": "oxygenated",
+    "trans": [
+      "adj. 氧化的；充了氧的；充满氧气的",
+      "v. 使氧合（oxygenate的过去分词）；充氧"
+    ],
+    "usphone": "[ˈɑːksɪdʒəneɪtɪd]",
+    "ukphone": "[ˈɒksɪdʒəneɪtɪd]"
+  },
+  {
+    "name": "oncogene",
+    "trans": [
+      "n. [遗][肿瘤] 致癌基因"
+    ],
+    "usphone": "[ˈɑːŋkədʒiːn]",
+    "ukphone": "[ˈɒŋkəʊdʒiːn]"
+  },
+  {
+    "name": "one-shot",
+    "trans": [
+      "adj. 只有一次的"
+    ],
+    "usphone": "[ˈwʌn ʃɑːt]",
+    "ukphone": "[ˈwʌn ʃɒt]"
+  },
+  {
+    "name": "out-of-town",
+    "trans": [
+      "adj. 外地的；位于市外的"
+    ],
+    "usphone": "[ˌaʊt əv ˈtaʊn]",
+    "ukphone": "[ˌaʊt əv ˈtaʊn]"
+  },
+  {
+    "name": "overbid",
+    "trans": [
+      "vt. 报谎价；出价较…为高",
+      "vi. 过高出价",
+      "n. 高价；谎价"
+    ],
+    "usphone": "[ˈovəbɪd]",
+    "ukphone": "[əʊvəˈbɪd]"
+  },
+  {
+    "name": "overburden",
+    "trans": [
+      "vt. 使负担过重；使过劳",
+      "n. 表土（等于burden，capping）；过重的负担"
+    ],
+    "usphone": "[ˌoʊvərˈbɜːrdn]",
+    "ukphone": "[ˌəʊvəˈbɜːdn]"
+  },
+  {
+    "name": "overstep",
+    "trans": [
+      "vt. 逾越；超出…的限度"
+    ],
+    "usphone": "[ˌoʊvərˈstep]",
+    "ukphone": "[ˌəʊvəˈstep]"
+  },
+  {
+    "name": "omnivore",
+    "trans": [
+      "n. [动] 杂食动物；不偏食的人"
+    ],
+    "usphone": "[ˈɑːmnɪvɔːr]",
+    "ukphone": "[ˈɒmnɪvɔː(r)]"
+  },
+  {
+    "name": "overdose",
+    "trans": [
+      "vt. 配药过量；使过分沉溺",
+      "n. 药量过多（等于overdosage）",
+      "vi. 服药过量；过分沉溺"
+    ],
+    "usphone": "[ˈoʊvərdoʊs]",
+    "ukphone": "[ˈəʊvədəʊs]"
+  },
+  {
+    "name": "out-of-date",
+    "trans": [
+      "adj. 过时的"
+    ],
+    "usphone": "[ˌaʊt əv ˈdeɪt]",
+    "ukphone": "[ˌaʊt əv ˈdeɪt]"
+  },
+  {
+    "name": "one-upmanship",
+    "trans": [
+      "n. 胜人一筹；能胜人一筹的办法"
+    ],
+    "usphone": "[wʌn ˈʌpmənʃɪp]",
+    "ukphone": "[wʌn ˈʌpmənʃɪp]"
+  },
+  {
+    "name": "overstay",
+    "trans": [
+      "vi. 逗留得过久",
+      "vt. 呆得超过…的限度；货物保留过久错过最赚钱的机会"
+    ],
+    "usphone": "[ˌoʊvərˈsteɪ]",
+    "ukphone": "[ˌəʊvəˈsteɪ]"
+  },
+  {
+    "name": "outraged",
+    "trans": [
+      "adj. 义愤填膺的；愤慨的，气愤的",
+      "v. 使愤怒（outrage的过去式，过去分词）"
+    ],
+    "usphone": "[ˈaʊtreɪdʒd]",
+    "ukphone": "[ˈaʊtreɪdʒd]"
+  },
+  {
+    "name": "overcrowding",
+    "trans": [
+      "n. 过度拥挤；挤满",
+      "v. 过度拥挤（overcrowd的ing形式）；把…塞得过满"
+    ],
+    "usphone": "[ˌoʊvərˈkraʊdɪŋ]",
+    "ukphone": "[ˌəʊvəˈkraʊdɪŋ]"
+  },
+  {
+    "name": "omnivorous",
+    "trans": [
+      "adj. 杂食的；什么都读的；无所不吃的"
+    ],
+    "usphone": "[ɑːmˈnɪvərəs]",
+    "ukphone": "[ɒmˈnɪvərəs]"
+  },
+  {
+    "name": "oceanographic",
+    "trans": [
+      "adj. 海洋学的；有关海洋学的（等于oceanographical）"
+    ],
+    "usphone": "[,əuʃiənəu'ɡræfik]",
+    "ukphone": "[əʊʃɪənəʊˈɡræfɪk]"
+  },
+  {
+    "name": "operculum",
+    "trans": [
+      "n. 鳃盖，盖"
+    ],
+    "usphone": "[oˈpɜːrkjʊləm]",
+    "ukphone": "[əʊˈpɜːkjʊləm]"
+  },
+  {
+    "name": "otter",
+    "trans": [
+      "n. 水獭；水獭皮"
+    ],
+    "usphone": "[ˈɑːtər]",
+    "ukphone": "[ˈɒtə(r)]"
+  },
+  {
+    "name": "overexploitation",
+    "trans": [
+      "n. 过度开采；过度剥削"
+    ],
+    "usphone": "[ˈoʊvərˌeksplɔɪˈteɪʃən]",
+    "ukphone": "[ˈəʊvəreksplɔɪˈteɪʃən]"
+  },
+  {
+    "name": "octagonal",
+    "trans": [
+      "adj. 八角形的，八边形的"
+    ],
+    "usphone": "[ɑːkˈtæɡənl]",
+    "ukphone": "[ɒkˈtæɡənl]"
+  },
+  {
+    "name": "ophthalmoplegia",
+    "trans": [
+      "n. 眼肌瘫痪，眼肌麻痹"
+    ],
+    "usphone": "[ɒfˌθælməˈpliːdʒɪə]",
+    "ukphone": "[ɒfˌθælməˈpliːdʒɪə]"
+  },
+  {
+    "name": "orangutan",
+    "trans": [
+      "n. [脊椎] 猩猩（等于orangoutang）"
+    ],
+    "usphone": "[əˈræŋətæn]",
+    "ukphone": "[ɔːˌræŋuːˈtæn; əˈræŋətæn]"
+  },
+  {
+    "name": "odourless",
+    "trans": [
+      "adj. 无气味的；无臭的"
+    ],
+    "usphone": "[ˈoʊdərləs]",
+    "ukphone": "[ˈəʊdələs]"
+  },
+  {
+    "name": "osteoporosis",
+    "trans": [
+      "n. [外科] 骨质疏松症"
+    ],
+    "usphone": "[ˌɑːstioʊpəˈroʊsɪs]",
+    "ukphone": "[ˌɒstiəʊpəˈrəʊsɪs]"
+  },
+  {
+    "name": "overprotect",
+    "trans": [
+      "vt. 溺爱；过分地保护"
+    ],
+    "usphone": "[ˌoʊvərprəˈtekt]",
+    "ukphone": "[ˌəʊvəprəˈtekt]"
+  },
+  {
+    "name": "orbiter",
+    "trans": [
+      "n. 人造卫星；盘旋物"
+    ],
+    "usphone": "[ˈɔːrbɪtər]",
+    "ukphone": "[ˈɔːbɪtə(r)]"
+  },
+  {
+    "name": "Orinoco",
+    "trans": [
+      "奥里诺科河[南美洲北部]"
+    ],
+    "usphone": "[ˌɔrəˈnoʊkoʊ]",
+    "ukphone": "[ˌɒrɪˈnəʊkəʊ]"
+  },
+  {
+    "name": "obelisk",
+    "trans": [
+      "n. 方尖碑；方尖塔；[印刷] 剑号；疑问记号"
+    ],
+    "usphone": "[ˈɑːbəlɪskˌˈoʊbəlɪsk]",
+    "ukphone": "[ˈɒbəlɪsk]"
+  },
+  {
+    "name": "opportunist",
+    "trans": [
+      "投机分子"
+    ],
+    "usphone": "[ˌɑːpərˈtuːnɪst]",
+    "ukphone": "[ˌɒpəˈtjuːnɪst]"
+  },
+  {
+    "name": "overworked",
+    "trans": [
+      "adj. [劳经] 工作过度的；劳累过度的",
+      "v. [劳经] 使工作过度；使过分劳累（overwork的过去分词）"
+    ],
+    "usphone": "[ˌoʊvərˈwɜːrkt]",
+    "ukphone": "[ˌəʊvəˈwɜːkt]"
+  },
+  {
+    "name": "oximeter",
+    "trans": [
+      "n. 血氧（定量）计，光电血氧计; 血氧定量计"
+    ],
+    "usphone": "[ɒkˈsɪmɪtər]",
+    "ukphone": "[ɒkˈsɪmɪtə(r)]"
+  },
+  {
+    "name": "Ordovician",
+    "trans": [
+      "n. 奥陶系，奥陶纪",
+      "adj. 奥陶纪的"
+    ],
+    "usphone": "[ˌɔdoˈvɪʃɪən]",
+    "ukphone": "[ˌɔːdəʊˈvɪʃɪən]"
+  },
+  {
+    "name": "osteoarthritis",
+    "trans": [
+      "n. [外科] 骨关节炎"
+    ],
+    "usphone": "[ˌɑːstioʊɑːrˈθraɪtɪs]",
+    "ukphone": "[ˌɒstiəʊɑːˈθraɪtɪs]"
+  },
+  {
+    "name": "oversleep",
+    "trans": [
+      "vt. 使睡过头",
+      "vi. 睡过头"
+    ],
+    "usphone": "[ˌoʊvərˈsliːp]",
+    "ukphone": "[ˌəʊvəˈsliːp]"
+  },
+  {
+    "name": "outrageously",
+    "trans": [
+      "adv. 凶残地，残暴地"
+    ],
+    "usphone": "[aʊtˈreɪdʒəsli]",
+    "ukphone": "[aʊtˈreɪdʒəsli]"
+  },
+  {
+    "name": "opine",
+    "trans": [
+      "vt. 以为；想",
+      "vi. 以为；想；表示意见"
+    ],
+    "usphone": "[oʊˈpaɪn]",
+    "ukphone": "[əʊˈpaɪn]"
+  },
+  {
+    "name": "one-way",
+    "trans": [
+      "adj. 单程的；单行道的；单方面的"
+    ],
+    "usphone": "[ˌwʌn ˈweɪ]",
+    "ukphone": "[ˌwʌn ˈweɪ]"
+  },
+  {
+    "name": "open-mindedness",
+    "trans": [
+      "n. 无偏见；心胸开阔"
+    ],
+    "usphone": "[ˌoʊpən ˈmaɪndɪdnəs]",
+    "ukphone": "[ˌəʊpən ˈmaɪndɪdnəs]"
+  },
+  {
+    "name": "one-time",
+    "trans": [
+      "adj. 以前的；古时的",
+      "adv. 一度（等于onetime）；从前"
+    ],
+    "usphone": "[ˈwʌn taɪm]",
+    "ukphone": "[ˈwʌn taɪm]"
+  },
+  {
+    "name": "overtax",
+    "trans": [
+      "vt. 负担过度（过去式overtaxed，过去分词overtaxed，现在分词overtaxing，第三人称单数overtaxes，名词overtaxation）；[税收] 课税过重；使工作过度"
+    ],
+    "usphone": "[ˌoʊvərˈtæks]",
+    "ukphone": "[ˌəʊvəˈtæks]"
+  },
+  {
+    "name": "opinionated",
+    "trans": [
+      "adj. 固执己见的；武断的"
+    ],
+    "usphone": "[əˈpɪnjəneɪtɪd]",
+    "ukphone": "[əˈpɪnjəneɪtɪd]"
+  },
+  {
+    "name": "Owen",
+    "trans": [
+      "n. 欧文（男子名）"
+    ],
+    "usphone": "['əuin]",
+    "ukphone": "[ˈəʊɪn]"
+  },
+  {
+    "name": "overarching",
+    "trans": [
+      "adj. 首要的；支配一切的；包罗万象的",
+      "v. 成拱形（overarch的ing形式）"
+    ],
+    "usphone": "[ˌoʊvərˈɑːrtʃɪŋ]",
+    "ukphone": "[ˌəʊvərˈɑːtʃɪŋ]"
+  },
+  {
+    "name": "overblown",
+    "trans": [
+      "adj. 停息的；过分的；已盛开过的",
+      "v. 吹散；用力吹；过分渲染（overblow的过去分词）"
+    ],
+    "usphone": "[ˌoʊvərˈbloʊn]",
+    "ukphone": "[ˌəʊvəˈbləʊn]"
+  },
+  {
+    "name": "olympiad",
+    "trans": [
+      "n. 四年周期；奥林匹克运动会"
+    ],
+    "usphone": "[əˈlɪmpiæd]",
+    "ukphone": "[əˈlɪmpiæd]"
+  },
+  {
+    "name": "obligate",
+    "trans": [
+      "vt. 使负义务；强使，强迫；对…施以恩惠",
+      "adj. 有责任的，有义务的；必需的"
+    ],
+    "usphone": "[ˈɑːblɪˌɡeɪt]",
+    "ukphone": "[ˈɒblɪˌɡeɪt]"
+  },
+  {
+    "name": "off-season",
+    "trans": [
+      "adj. 淡季的",
+      "n. 淡季"
+    ],
+    "usphone": "[ˈɔːf siːz(ə)n]",
+    "ukphone": "[ˈɒf siːz(ə)n]"
+  },
+  {
+    "name": "off-the-peg",
+    "trans": [
+      "adj. 现成的"
+    ],
+    "usphone": "[ˈɔfðəˈpeɡ]",
+    "ukphone": "['ɔfðə'peɡ, 'ɔ:-]"
+  },
+  {
+    "name": "on-the-job",
+    "trans": [
+      "adj. 在职的"
+    ],
+    "usphone": "['ɔnðə'dʒɔb, 'ɔ:n-]",
+    "ukphone": "['ɔnðə'dʒɔb, 'ɔ:n-]"
+  },
+  {
+    "name": "onus",
+    "trans": [
+      "n. 责任，义务；负担"
+    ],
+    "usphone": "[ˈoʊnəs]",
+    "ukphone": "[ˈəʊnəs]"
+  },
+  {
+    "name": "openness",
+    "trans": [
+      "n. 公开；宽阔；率真"
+    ],
+    "usphone": "[ˈoʊpənnəs]",
+    "ukphone": "[ˈəʊpənnəs]"
+  },
+  {
+    "name": "optimise",
+    "trans": [
+      "vt. 使优化；充分利用",
+      "vi. 表示乐观"
+    ],
+    "usphone": "[ˈɑːptɪmaɪz]",
+    "ukphone": "[ˈɒptɪmaɪz]"
+  },
+  {
+    "name": "outpace",
+    "trans": [
+      "vt. 赶过；超过…速度"
+    ],
+    "usphone": "[ˌaʊtˈpeɪs]",
+    "ukphone": "[ˌaʊtˈpeɪs]"
+  },
+  {
+    "name": "outplacement",
+    "trans": [
+      "n. （被解雇后的）新职介绍"
+    ],
+    "usphone": "[ˈaʊtpleɪsmənt]",
+    "ukphone": "[ˈaʊtpleɪsmənt]"
+  },
+  {
+    "name": "overbook",
+    "trans": [
+      "vt. 使过量预订；超额订出"
+    ],
+    "usphone": "[ˌoʊvərˈbʊk]",
+    "ukphone": "[ˌəʊvəˈbʊk]"
+  },
+  {
+    "name": "overcapacity",
+    "trans": [
+      "n. 生产能力过剩"
+    ],
+    "usphone": "[ˌoʊvərkəˈpæsəti]",
+    "ukphone": "[ˌəʊvəkəˈpæsəti]"
+  },
+  {
+    "name": "overfreight",
+    "trans": [
+      "n. 超载"
+    ],
+    "usphone": "[ˈovərˈfret]",
+    "ukphone": "[ˈəʊvəfreɪt]"
+  },
+  {
+    "name": "overheating",
+    "trans": [
+      "n. [热] 过热",
+      "v. [热] 过热（overheat的ing形式）"
+    ],
+    "usphone": "[ˌoʊvərˈhiːtɪŋ]",
+    "ukphone": "[ˌəʊvəˈhiːtɪŋ]"
+  },
+  {
+    "name": "overproduction",
+    "trans": [
+      "n. 生产过剩；过度产生"
+    ],
+    "usphone": "[ˌoʊvərprəˈdʌkʃn]",
+    "ukphone": "[ˌəʊvəprəˈdʌkʃn]"
+  },
+  {
+    "name": "overstock",
+    "trans": [
+      "vt. 使进货过多",
+      "n. [经管] 库存过剩",
+      "vi. 进货过多"
+    ],
+    "usphone": "[ˌoʊvərˈstɑːk]",
+    "ukphone": "[ˌəʊvəˈstɒk]"
+  },
+  {
+    "name": "oversubscribe",
+    "trans": [
+      "vt. 认购超额"
+    ],
+    "usphone": "[ˈoʊvərsəbˈskraɪb]",
+    "ukphone": "[ˌəʊvəsəbˈskraɪb]"
+  },
+  {
+    "name": "overtly",
+    "trans": [
+      "adv. 明显地；公开地，公然地"
+    ],
+    "usphone": "[oʊˈvɜːrtli]",
+    "ukphone": "[əʊˈvɜːtli]"
+  },
+  {
+    "name": "overtrading",
+    "trans": [
+      "[经] 超过运用资金的经营"
+    ],
+    "usphone": "[ˌovərˈtred]",
+    "ukphone": "[ˌəʊvəˈtreɪdɪŋ]"
+  },
+  {
+    "name": "overvalued",
+    "trans": [
+      "adj. 高估的；估价过高的",
+      "v. 定价过高（overvalue的过去分词）"
+    ],
+    "usphone": "[ˈovərˈvæljʊ]",
+    "ukphone": "[,əuvə'væljud]"
+  },
+  {
+    "name": "obviate",
+    "trans": [
+      "vt. 排除；避免；消除"
+    ],
+    "usphone": "[ˈɑːbvieɪt]",
+    "ukphone": "[ˈɒbvieɪt]"
+  },
+  {
+    "name": "obliging",
+    "trans": [
+      "adj. 乐于助人的；有礼貌的；体贴的；亲切的",
+      "v. 迫使；约束（oblige的现在分词）"
+    ],
+    "usphone": "[əˈblaɪdʒɪŋ]",
+    "ukphone": "[əˈblaɪdʒɪŋ]"
+  },
+  {
+    "name": "offish",
+    "trans": [
+      "adj. 冷漠的；不亲热的；疏远的"
+    ],
+    "usphone": "[ˈɔːfɪʃ]",
+    "ukphone": "[ˈɒfɪʃ]"
+  },
+  {
+    "name": "outgrowth",
+    "trans": [
+      "n. 结果；副产物；自然的发展；分枝"
+    ],
+    "usphone": "[ˈaʊtɡroʊθ]",
+    "ukphone": "[ˈaʊtɡrəʊθ]"
+  },
+  {
+    "name": "odium",
+    "trans": [
+      "n. 憎恶；讨厌"
+    ],
+    "usphone": "[ˈoʊdiəm]",
+    "ukphone": "[ˈəʊdiəm]"
+  },
+  {
+    "name": "oxymoron",
+    "trans": [
+      "n. （修词中的）矛盾修饰法"
+    ],
+    "usphone": "[ˌɑːksɪˈmɔːrɑːn]",
+    "ukphone": "[ˌɒksɪˈmɔːrɒn]"
+  },
+  {
+    "name": "opprobrious",
+    "trans": [
+      "adj. 无礼的；嘴不干净的；该骂的；可耻的"
+    ],
+    "usphone": "[əˈproʊbriəs]",
+    "ukphone": "[əˈprəʊbriəs]"
+  },
+  {
+    "name": "offbeat",
+    "trans": [
+      "adj. 离奇的；标新立异的；弱拍的",
+      "n. 弱拍"
+    ],
+    "usphone": "[ˌɔːfˈbiːt]",
+    "ukphone": "[ˌɒfˈbiːt]"
+  },
+  {
+    "name": "off-key",
+    "trans": [
+      "adj. 不和谐的；走音的；不恰当的"
+    ],
+    "usphone": "[ˌɔːf ˈkiː]",
+    "ukphone": "[ˌɒf ˈkiː]"
+  },
+  {
+    "name": "obloquy",
+    "trans": [
+      "n. 毁谤；耻辱；谩骂"
+    ],
+    "usphone": "[ˈɑːbləkwi]",
+    "ukphone": "[ˈɒbləkwi]"
+  },
+  {
+    "name": "overreact",
+    "trans": [
+      "vi. 反应过度；反作用过强"
+    ],
+    "usphone": "[ˌoʊvəriˈækt]",
+    "ukphone": "[ˌəʊvəriˈækt]"
+  },
+  {
+    "name": "overeating",
+    "trans": [
+      "v. 吃得过多；过度饱食（overeat的ing形式）"
+    ],
+    "usphone": "[ˌoʊvərˈiːtɪŋ]",
+    "ukphone": "[ˌəʊvərˈiːtɪŋ]"
+  },
+  {
+    "name": "Ottawa",
+    "trans": [
+      "n. 渥太华（加拿大首都）"
+    ],
+    "usphone": "[ˈɑːtəwə]",
+    "ukphone": "[ˈɒtəwə]"
+  },
+  {
+    "name": "onstage",
+    "trans": [
+      "adj. 台上的；台上演出的",
+      "adv. 上台；上场"
+    ],
+    "usphone": "[ˌɑːnˈsteɪdʒ]",
+    "ukphone": "[ˌɒnˈsteɪdʒ]"
+  },
+  {
+    "name": "open-minded",
+    "trans": [
+      "adj. 虚心的；思想开明的；无偏见的"
+    ],
+    "usphone": "[ˌoʊpən ˈmaɪndɪd]",
+    "ukphone": "[ˌəʊpən ˈmaɪndɪd]"
+  },
+  {
+    "name": "overabundance",
+    "trans": [
+      "n. 过多；过于丰富"
+    ],
+    "usphone": "[ˌoʊvərəˈbʌndəns]",
+    "ukphone": "[ˈəʊvərəˈbʌndəns]"
+  },
+  {
+    "name": "overcooked",
+    "trans": [
+      "adj. 煮得过久的",
+      "v. 煮得过久；焙烧过度（overcook的过去分词）"
+    ],
+    "usphone": "[,əuvə'kukt]",
+    "ukphone": "[ˌəʊvəˈkʊkt]"
+  },
+  {
+    "name": "overfill",
+    "trans": [
+      "v. 把…装得溢出"
+    ],
+    "usphone": "[ˈovərˈfɪl]",
+    "ukphone": "[ˌəʊvəˈfɪl]"
+  },
+  {
+    "name": "octave",
+    "trans": [
+      "n. 八度音阶；八行诗；十四行诗的前八行；八个一组的事物",
+      "adj. 八个一组的；高八度音的"
+    ],
+    "usphone": "[ˈɑːktɪv]",
+    "ukphone": "[ˈɒktɪv]"
+  },
+  {
+    "name": "oneness",
+    "trans": [
+      "n. 统一性；单一性；同一性；完整"
+    ],
+    "usphone": "[ˈwʌnnəs]",
+    "ukphone": "[ˈwʌnnəs]"
+  },
+  {
+    "name": "ostracism",
+    "trans": [
+      "n. 排斥；放逐；贝壳流放法"
+    ],
+    "usphone": "[ˈɑːstrəsɪzəm]",
+    "ukphone": "[ˈɒstrəsɪzəm]"
+  },
+  {
+    "name": "obstetrician",
+    "trans": [
+      "n. 产科医师"
+    ],
+    "usphone": "[ˌɑːbstəˈtrɪʃn]",
+    "ukphone": "[ˌɒbstəˈtrɪʃn]"
+  },
+  {
+    "name": "overtone",
+    "trans": [
+      "n. [声] 泛音；暗示，寓意；弦外之音"
+    ],
+    "usphone": "[ˈoʊvərtoʊn]",
+    "ukphone": "[ˈəʊvətəʊn]"
+  },
+  {
+    "name": "overexcited",
+    "trans": [
+      "adj. 过励磁的；过于激动的",
+      "v. 使过分激动或兴奋（overexcite的过去式）"
+    ],
+    "usphone": "[ˌoʊvərɪkˈsaɪtɪd]",
+    "ukphone": "[ˌəʊvərɪkˈsaɪtɪd]"
+  },
+  {
+    "name": "oversimplify",
+    "trans": [
+      "vt. 使…过分地单纯化",
+      "vi. 过分地单纯化"
+    ],
+    "usphone": "[ˌoʊvərˈsɪmplɪfaɪ]",
+    "ukphone": "[ˌəʊvəˈsɪmplɪfaɪ]"
+  },
+  {
+    "name": "one-liner",
+    "trans": [
+      "n. 小笑话，俏皮话"
+    ],
+    "usphone": "[ˌwʌn ˈlaɪnər]",
+    "ukphone": "[ˌwʌn ˈlaɪnə(r)]"
+  },
+  {
+    "name": "obstinacy",
+    "trans": [
+      "n. 固执，顽固；（病痛等的）难治，难解除"
+    ],
+    "usphone": "[ˈɑːbstɪnəsi]",
+    "ukphone": "[ˈɒbstɪnəsi]"
+  },
+  {
+    "name": "Oliver",
+    "trans": [
+      "n. 奥利弗（男子名）"
+    ],
+    "usphone": "[ˈɑːlɪvər]",
+    "ukphone": "[ˈɒlɪvə(r)]"
+  },
+  {
+    "name": "okey",
+    "trans": [
+      "adj. 好；对；行",
+      "adv. 好；对；可以",
+      "n. 同意"
+    ],
+    "usphone": "[oʊˈkeɪ]",
+    "ukphone": "[ˈəʊki]"
+  },
+  {
+    "name": "occupied",
+    "trans": [
+      "adj. 已占用的；使用中的；无空闲的",
+      "v. 占有（occupy的过去分词）"
+    ],
+    "usphone": "[ˈɑːkjupaɪd]",
+    "ukphone": "[ˈɒkjupaɪd]"
+  },
+  {
+    "name": "overstatement",
+    "trans": [
+      "n. 大话，夸大的叙述"
+    ],
+    "usphone": "[ˈoʊvərsteɪtmənt]",
+    "ukphone": "[ˈəʊvəsteɪtmənt]"
+  },
+  {
+    "name": "overseer",
+    "trans": [
+      "n. 监督；工头"
+    ],
+    "usphone": "[ˈoʊvərsɪr]",
+    "ukphone": "[ˈəʊvəsɪə(r)]"
+  },
+  {
+    "name": "overpower",
+    "trans": [
+      "vt. 压倒；克服；使无法忍受"
+    ],
+    "usphone": "[ˌoʊvərˈpaʊər]",
+    "ukphone": "[ˌəʊvəˈpaʊə(r)]"
+  },
+  {
+    "name": "offload",
+    "trans": [
+      "vt. 卸下；卸货",
+      "adj. 卸载的"
+    ],
+    "usphone": "[ˌɔːfˈloʊd]",
+    "ukphone": "[ˌɒfˈləʊd]"
+  },
+  {
+    "name": "overact",
+    "trans": [
+      "vt. 将…表演得过火；行动过火",
+      "vi. 夸张表演；表演过火"
+    ],
+    "usphone": "[ˌoʊvərˈækt]",
+    "ukphone": "[ˌəʊvərˈækt]"
+  },
+  {
+    "name": "ornithology",
+    "trans": [
+      "n. 鸟类学；鸟学论文"
+    ],
+    "usphone": "[ˌɔːrnɪˈθɑːlədʒi]",
+    "ukphone": "[ˌɔːnɪˈθɒlədʒi]"
+  },
+  {
+    "name": "osseous",
+    "trans": [
+      "adj. 骨的；骨质的"
+    ],
+    "usphone": "[ˈɑːsiəs]",
+    "ukphone": "[ˈɒsiəs]"
+  },
+  {
+    "name": "oblong",
+    "trans": [
+      "adj. 椭圆形的；长方形的",
+      "n. 椭圆形；长方形"
+    ],
+    "usphone": "[ˈɑːblɔːŋ]",
+    "ukphone": "[ˈɒblɒŋ]"
+  },
+  {
+    "name": "ow",
+    "trans": [
+      "int. 哦，哎哟（表示疼痛）"
+    ],
+    "usphone": "[aʊ]",
+    "ukphone": "[aʊ]"
+  },
+  {
+    "name": "on-screen",
+    "trans": [
+      "屏幕上的",
+      "银幕上的",
+      "银幕上地"
+    ],
+    "usphone": "[ˌɑːn ˈskriːn]",
+    "ukphone": "[ˌɒn ˈskriːn]"
+  },
+  {
+    "name": "outsmart",
+    "trans": [
+      "vt. 比…更聪明；用计谋打败"
+    ],
+    "usphone": "[ˌaʊtˈsmɑːrt]",
+    "ukphone": "[ˌaʊtˈsmɑːt]"
+  },
+  {
+    "name": "organdy",
+    "trans": [
+      "n. [纺] 蝉翼纱，玻璃纱（一种极薄的棉布，等于organdie）"
+    ],
+    "usphone": "[ˈɔːrɡəndi]",
+    "ukphone": "[ˈɔːɡəndi]"
+  },
+  {
+    "name": "operationally",
+    "trans": [
+      "运作上",
+      "操作上"
+    ],
+    "usphone": "[ˌɑːpəˈreɪʃənəli]",
+    "ukphone": "[ˌɒpəˈreɪʃənəli]"
+  },
+  {
+    "name": "ominously",
+    "trans": [
+      "adv. 恶兆地；不吉利地"
+    ],
+    "usphone": "[ˈɑːmɪnəsli]",
+    "ukphone": "[ˈɒmɪnəsli]"
+  },
+  {
+    "name": "outskirt",
+    "trans": [
+      "n. 郊区，市郊"
+    ],
+    "usphone": "[ˈaʊtˌskɜːrt]",
+    "ukphone": "[ˈaʊtskɜːt]"
+  },
+  {
+    "name": "overconfident",
+    "trans": [
+      "adj. 过于自信的；自负的"
+    ],
+    "usphone": "[ˌoʊvərˈkɑːnfɪdənt]",
+    "ukphone": "[ˌəʊvəˈkɒnfɪdənt]"
+  },
+  {
+    "name": "outspread",
+    "trans": [
+      "vt. 使扩张；使展开；使伸展",
+      "vi. 扩张；展开；伸展",
+      "adj. 延伸的；扩张的；展开的",
+      "n. 展开；伸开"
+    ],
+    "usphone": "[ˌaʊtˈspred]",
+    "ukphone": "[ˌaʊtˈspred]"
+  },
+  {
+    "name": "overdraw",
+    "trans": [
+      "vt. 透支；拉过度；夸张",
+      "vi. 透支；夸张"
+    ],
+    "usphone": "[ˌoʊvərˈdrɔː]",
+    "ukphone": "[ˌəʊvəˈdrɔː]"
+  },
+  {
+    "name": "outlandishly",
+    "trans": [
+      "adv. 怪异地"
+    ],
+    "usphone": "[aʊtˈlændɪʃli]",
+    "ukphone": "[aʊtˈlændɪʃli]"
+  },
+  {
+    "name": "one-off",
+    "trans": [
+      "n. 一次性事物",
+      "adj. 一次性的"
+    ],
+    "usphone": "[ˌwʌn ˈɔːf]",
+    "ukphone": "[ˌwʌn ˈɒf]"
+  },
+  {
+    "name": "overindulgence",
+    "trans": [
+      "n. 放纵；沉溺；任性"
+    ],
+    "usphone": "[ˌoʊvərɪnˈdʌldʒəns]",
+    "ukphone": "[ˈəʊvərɪnˈdʌldʒəns]"
+  },
+  {
+    "name": "overstretch",
+    "trans": [
+      "vt. 过分伸展",
+      "vi. 要求过高",
+      "n. 过分伸展"
+    ],
+    "usphone": "[ˌoʊvərˈstretʃ]",
+    "ukphone": "[ˌəʊvəˈstretʃ]"
+  },
+  {
+    "name": "ozonosphere",
+    "trans": [
+      "n. 臭氧层"
+    ],
+    "usphone": "[əu'zəunəsfiə, -'zɔ-]",
+    "ukphone": "[əʊˈzəʊnəˌsfɪə]"
+  },
+  {
+    "name": "oration",
+    "trans": [
+      "n. 演说；致辞；叙述法"
+    ],
+    "usphone": "[ɔːˈreɪʃn]",
+    "ukphone": "[ɔːˈreɪʃ(ə)n]"
+  },
+  {
+    "name": "oats",
+    "trans": [
+      "n. 燕麦；燕麦片（oat的复数）；燕麦粥"
+    ],
+    "usphone": "[oʊts]",
+    "ukphone": "[əʊts]"
+  },
+  {
+    "name": "outgoings",
+    "trans": [
+      "n. [会计] 支出；开支（outgoing的复数形式）"
+    ],
+    "usphone": "[ˈaʊtɡoʊɪŋz]",
+    "ukphone": "[ˈaʊtɡəʊɪŋz]"
+  },
+  {
+    "name": "operagoer",
+    "trans": [
+      "n. 经常看歌剧的人"
+    ],
+    "usphone": "[ˈɑːpərəˌɡoʊər]",
+    "ukphone": "[ˈɒpərəˌɡəʊə]"
+  },
+  {
+    "name": "originator",
+    "trans": [
+      "n. 发起人；起源；起因"
+    ],
+    "usphone": "[əˈrɪdʒɪneɪtər]",
+    "ukphone": "[əˈrɪdʒɪneɪtə(r)]"
+  },
+  {
+    "name": "ornamentation",
+    "trans": [
+      "n. 装饰物"
+    ],
+    "usphone": "[ˌɔːrnəmenˈteɪʃn]",
+    "ukphone": "[ˌɔːnəmenˈteɪʃ(ə)n]"
+  },
+  {
+    "name": "osmotic",
+    "trans": [
+      "adj. 渗透性的，渗透的"
+    ],
+    "usphone": "[ɑːzˈmɑːtɪk]",
+    "ukphone": "[ɒzˈmɒtɪk]"
+  },
+  {
+    "name": "overcapitalize",
+    "trans": [
+      "vt. 对…的资本估价过高，过分投资于"
+    ],
+    "usphone": "[ˈoʊvərˈkæpɪtəlaɪz]",
+    "ukphone": "[ˌəʊvəˈkæpɪtəˌlaɪz]"
+  },
+  {
+    "name": "overextend",
+    "trans": [
+      "vt. 过分扩展；过分延长；使…承担过多的义务"
+    ],
+    "usphone": "[ˌoʊvərɪkˈstend]",
+    "ukphone": "[ˌəʊvərɪkˈstend]"
+  },
+  {
+    "name": "overpayment",
+    "trans": [
+      "n. 多付的款项"
+    ],
+    "usphone": "[ˌoʊvərˈpeɪmənt]",
+    "ukphone": "[ˌəʊvəˈpeɪmənt]"
+  },
+  {
+    "name": "ovulate",
+    "trans": [
+      "vi. 排卵",
+      "adj. 具胚珠的"
+    ],
+    "usphone": "[ˈɑːvjuleɪt]",
+    "ukphone": "[ˈɒvjuleɪt]"
+  },
+  {
+    "name": "obsidian",
+    "trans": [
+      "n. 黑曜石"
+    ],
+    "usphone": "[əbˈsɪdiən]",
+    "ukphone": "[əbˈsɪdiən]"
+  },
+  {
+    "name": "opossum",
+    "trans": [
+      "n. 负鼠；装死"
+    ],
+    "usphone": "[əˈpɑːsəm]",
+    "ukphone": "[əˈpɒsəm]"
+  },
+  {
+    "name": "oblateness",
+    "trans": [
+      " 扁率，扁球形，扁圆形"
+    ],
+    "usphone": "[ˈɑːbleɪtnes]",
+    "ukphone": "[ɒbˈleɪtnəs]"
+  },
+  {
+    "name": "on file",
+    "trans": [
+      "na. 合订成册"
+    ],
+    "usphone": "[ɔn'fail]",
+    "ukphone": "[ɔn'fail]"
+  },
+  {
+    "name": "overripe",
+    "trans": [
+      "adj. 过熟的；衰萎的；颓废的"
+    ],
+    "usphone": "[ˌoʊvərˈraɪp]",
+    "ukphone": "[ˌəʊvərˈraɪp]"
+  },
+  {
+    "name": "optimization",
+    "trans": [
+      "n. 最佳化，最优化"
+    ],
+    "usphone": "[ˌɑːptɪməˈzeɪʃ(ə)n]",
+    "ukphone": "[ˌɒptɪmaɪˈzeɪʃən]"
+  },
+  {
+    "name": "overstaff",
+    "trans": [
+      "vt. 为…配备人员过多"
+    ],
+    "usphone": "[ˌovəˈstæf]",
+    "ukphone": "[ˌəʊvəˈstɑːf]"
+  },
+  {
+    "name": "out-going",
+    "trans": [
+      "adj. 外向的"
+    ],
+    "usphone": "[ˈaʊtɡoʊɪŋ]",
+    "ukphone": "[ˈaʊtɡəʊɪŋ]"
+  },
+  {
+    "name": "one-act play",
+    "trans": [
+      " 独幕剧"
+    ],
+    "usphone": "[wʌn ækt pleɪ]",
+    "ukphone": "[wʌn ækt pleɪ]"
+  },
+  {
+    "name": "out-goings",
+    "trans": [
+      "(out-going 的复数) adj. 外向的"
+    ],
+    "usphone": "[ˈaʊtɡoʊɪŋz]",
+    "ukphone": "[ˈaʊtɡəʊɪŋz]"
+  },
+  {
+    "name": "overtrade",
+    "trans": [
+      "vi. （企业）贸易过度"
+    ],
+    "usphone": "[ˌoʊvərˈtreɪd]",
+    "ukphone": "[ˌəʊvəˈtreɪd]"
+  },
+  {
+    "name": "own-brand",
+    "trans": [
+      "a. 使用自己牌子的, 使用自己商标的"
+    ],
+    "usphone": "[ˌoʊn ˈbrænd]",
+    "ukphone": "[ˌəʊn ˈbrænd]"
+  },
+  {
+    "name": "obsolescent",
+    "trans": [
+      "adj. 荒废的；即将过时的；逐渐被废弃的"
+    ],
+    "usphone": "[ˌɑːbsəˈlesənt]",
+    "ukphone": "[ˌɒbsəˈlesənt]"
+  },
+  {
+    "name": "orb",
+    "trans": [
+      "n. 球；天体；圆形物",
+      "vt. 成球形；弄圆；围着",
+      "vi. 沿轨道运行"
+    ],
+    "usphone": "[ɔːrb]",
+    "ukphone": "[ɔːb]"
+  },
+  {
+    "name": "overeat",
+    "trans": [
+      "vt. 使吃过量",
+      "vi. 吃得过多",
+      "[第三人称单数 overeats 过去式 overate 过去分词 overeaten 现在分词 overeating]"
+    ],
+    "usphone": "[ˌoʊvərˈiːt]",
+    "ukphone": "[ˌəʊvərˈiːt]"
+  },
+  {
+    "name": "off-limits",
+    "trans": [
+      "adj. 禁止进入的，禁区的"
+    ],
+    "usphone": "[ˌɔːf ˈlɪmɪts]",
+    "ukphone": "[ˌɒf ˈlɪmɪts]"
+  },
+  {
+    "name": "out of stock",
+    "trans": [
+      "na. 售完"
+    ],
+    "usphone": "[autəv'stɔk]",
+    "ukphone": "[autəv'stɔk]"
+  },
+  {
+    "name": "orthodontics",
+    "trans": [
+      "n. 畸齿矫正学（orthodontic的复数）"
+    ],
+    "usphone": "[ˌɔːrθəˈdɑːntɪks]",
+    "ukphone": "[ˌɔːθəˈdɒntɪks]"
+  },
+  {
+    "name": "orthography",
+    "trans": [
+      "n. 正确拼字；正字法；正字学"
+    ],
+    "usphone": "[ɔːrˈθɑːɡrəfi]",
+    "ukphone": "[ɔːˈθɒɡrəfi]"
+  },
+  {
+    "name": "oratory",
+    "trans": [
+      "n. 雄辩；演讲术"
+    ],
+    "usphone": "[ˈɔːrətɔːri]",
+    "ukphone": "[ˈɒrətri]"
+  },
+  {
+    "name": "oblation",
+    "trans": [
+      "n. 祭品，奉献物"
+    ],
+    "usphone": "[obˈleʃən]",
+    "ukphone": "[ɒˈbleɪʃən]"
+  },
+  {
+    "name": "operetta",
+    "trans": [
+      "n. 轻歌剧；小歌剧"
+    ],
+    "usphone": "[ˌɑːpəˈretə]",
+    "ukphone": "[ˌɒpəˈretə]"
+  },
+  {
+    "name": "octogenarian",
+    "trans": [
+      "n. 八十岁到八十九岁的人",
+      "adj. 八十岁到八十九岁的"
+    ],
+    "usphone": "[ˌɑːktədʒəˈneriən]",
+    "ukphone": "[ˌɒktədʒəˈneəriən]"
+  },
+  {
+    "name": "opalescence",
+    "trans": [
+      "n. 蛋白色光；[光] 乳白光"
+    ],
+    "usphone": "[oʊpəˈlesəns]",
+    "ukphone": "[ˌəʊpəˈles(ə)ns]"
+  },
+  {
+    "name": "oddments",
+    "trans": [
+      "n. 零头，残余物（oddment的复数形式）"
+    ],
+    "usphone": "[ˈɑːdmənts]",
+    "ukphone": "[ˈɒdmənts]"
+  },
+  {
+    "name": "overexposure",
+    "trans": [
+      "n. 感光过度；[摄] 曝光过度"
+    ],
+    "usphone": "[ˌoʊvərɪkˈspoʊʒər]",
+    "ukphone": "[ˌəʊvərɪkˈspəʊʒə(r)]"
+  },
+  {
+    "name": "obverse",
+    "trans": [
+      "n. 正面；对立面；主要的一面",
+      "adj. 正面的；[植] 倒转的；对应面的"
+    ],
+    "usphone": "[ˈɑːbvɜːrs]",
+    "ukphone": "[ˈɒbvɜːs]"
+  },
+  {
+    "name": "offstage",
+    "trans": [
+      "n. 舞台后面；舞台内部",
+      "adj. 舞台内部的",
+      "adv. 在舞台内部；私生活里"
+    ],
+    "usphone": "[ˌɔːfˈsteɪdʒ]",
+    "ukphone": "[ˌɒfˈsteɪdʒ]"
+  },
+  {
+    "name": "opacity",
+    "trans": [
+      "n. 不透明；不传导；暧昧"
+    ],
+    "usphone": "[oʊˈpæsəti]",
+    "ukphone": "[əʊˈpæsəti]"
+  },
+  {
+    "name": "otiose",
+    "trans": [
+      "adj. 没有用的；不必要的；多余的；怠惰的"
+    ],
+    "usphone": "[ˈoʊʃioʊs]",
+    "ukphone": "[ˈəʊtiəʊs]"
+  },
+  {
+    "name": "ovoid",
+    "trans": [
+      "adj. 卵形的",
+      "n. 卵形体"
+    ],
+    "usphone": "[ˈoʊvɔɪd]",
+    "ukphone": "[ˈəʊvɔɪd]"
+  },
+  {
+    "name": "odoriferous",
+    "trans": [
+      "adj. 臭的，散发气味的；芬芳的"
+    ],
+    "usphone": "[ˌodəˈrɪfərəs]",
+    "ukphone": "[ˌəʊdərˈɪfərəs]"
+  },
+  {
+    "name": "olfaction",
+    "trans": [
+      "n. 嗅觉"
+    ],
+    "usphone": "[ɑlˈfækʃən]",
+    "ukphone": "[ɒlˈfækʃən]"
+  },
+  {
+    "name": "outfox",
+    "trans": [
+      "vt. 以计取胜；以机智胜过"
+    ],
+    "usphone": "[ˌaʊtˈfɑːks]",
+    "ukphone": "[ˌaʊtˈfɒks]"
+  },
+  {
+    "name": "oafish",
+    "trans": [
+      "adj. 痴呆的；畸形的"
+    ],
+    "usphone": "[ˈoʊfɪʃ]",
+    "ukphone": "[ˈəʊfɪʃ]"
+  },
+  {
+    "name": "obduracy",
+    "trans": [
+      "n. 执拗；冷酷；顽固"
+    ],
+    "usphone": "[ˈɑːbdərəsi]",
+    "ukphone": "[ˈɒbdjərəsi]"
+  },
+  {
+    "name": "orotund",
+    "trans": [
+      "adj. 夸大的；做作的；朗朗的"
+    ],
+    "usphone": "[ˈɔːrətʌnd]",
+    "ukphone": "[ˈɒrətʌnd]"
+  },
+  {
+    "name": "other-directed",
+    "trans": [
+      "adj. 受人支配的；缺少自主性的"
+    ],
+    "usphone": "['ʌðədi'rektid]",
+    "ukphone": "['ʌðədi'rektid]"
+  },
+  {
+    "name": "overpowering",
+    "trans": [
+      "adj. 压倒性的；无法抵抗的"
+    ],
+    "usphone": "[ˌoʊvərˈpaʊərɪŋ]",
+    "ukphone": "[ˌəʊvəˈpaʊərɪŋ]"
+  },
+  {
+    "name": "oppugn",
+    "trans": [
+      "vt. 责难; 反驳; 质疑; 抗击"
+    ],
+    "usphone": "[əˈpjʊn]",
+    "ukphone": "[əˈpjuːn]"
+  },
+  {
+    "name": "ogle",
+    "trans": [
+      "vt. 向…抛媚眼；注视",
+      "vi. 做媚眼",
+      "n. 眉目传情；媚眼"
+    ],
+    "usphone": "[ˈoʊɡlˌˈɑːɡl]",
+    "ukphone": "[ˈəʊɡ(ə)l]"
+  },
+  {
+    "name": "odious",
+    "trans": [
+      "adj. 可憎的；讨厌的"
+    ],
+    "usphone": "[ˈoʊdiəs]",
+    "ukphone": "[ˈəʊdiəs]"
+  },
+  {
+    "name": "opportunistic",
+    "trans": [
+      "adj. 机会主义的；投机取巧的"
+    ],
+    "usphone": "[ˌɑːpərtuːˈnɪstɪk]",
+    "ukphone": "[ˌɒpətjuːˈnɪstɪk]"
+  },
+  {
+    "name": "ordination",
+    "trans": [
+      "n. 分类；任命；神职授任；排成等级"
+    ],
+    "usphone": "[ˌɔːrdnˈeɪʃn]",
+    "ukphone": "[ˌɔːdɪˈneɪʃn]"
+  },
+  {
+    "name": "oxytocin",
+    "trans": [
+      "n. [药] 催产素；缩宫素；脑下垂体后叶荷尔蒙之一种"
+    ],
+    "usphone": "[ˌɑːksɪˈtoʊsɪn]",
+    "ukphone": "[ˌɒksɪˈtəʊsɪn]"
+  },
+  {
+    "name": "overdress",
+    "trans": [
+      "vt. 过度装饰；使穿著过分讲究",
+      "vi. 穿得过分讲究；穿得过多",
+      "n. [服装] 外衣"
+    ],
+    "usphone": "[ˈoʊvərˈdres]",
+    "ukphone": "[ˌəʊvəˈdres]"
+  },
+  {
+    "name": "outrank",
+    "trans": [
+      "vt. 地位高于，级别高于；居…之上位"
+    ],
+    "usphone": "[ˌaʊtˈræŋk]",
+    "ukphone": "[ˌaʊtˈræŋk]"
+  },
+  {
+    "name": "Oswald",
+    "trans": [
+      "n. 奥斯瓦德（男子名）"
+    ],
+    "usphone": "[ˌɑːzwəld]",
+    "ukphone": "['ɔzwəld]"
+  },
+  {
+    "name": "overleaf",
+    "trans": [
+      "adv. 在次页；在背面",
+      "adj. 背面的；次页的"
+    ],
+    "usphone": "[ˌoʊvərˈliːf]",
+    "ukphone": "[ˌəʊvəˈliːf]"
+  },
+  {
+    "name": "off-putting",
+    "trans": [
+      "adj. 令人不愉快的；老是推托的"
+    ],
+    "usphone": "[ˈɔːf pʊtɪŋ]",
+    "ukphone": "[ˈɒf pʊtɪŋ]"
+  },
+  {
+    "name": "on-board",
+    "trans": [
+      "adj. 在船上的；在车上的；在飞机上的"
+    ],
+    "usphone": "[ˌɑːn ˈbɔːrd]",
+    "ukphone": "[ˌɒn ˈbɔːd]"
+  },
+  {
+    "name": "own-label",
+    "trans": [
+      " = own-brand"
+    ],
+    "usphone": "[ˌoʊn ˈleɪbl]",
+    "ukphone": "[ˌəʊn ˈleɪbl]"
+  },
+  {
+    "name": "osteon",
+    "trans": [
+      "n. [医]骨单位(密质骨构造的基本单位)"
+    ],
+    "usphone": "[ˈɑːstɪɒn]",
+    "ukphone": "[ˈɒstɪɒn]"
+  },
+  {
+    "name": "ovulation",
+    "trans": [
+      "n. 排卵；产卵作用"
+    ],
+    "usphone": "[ˌɑːvjuˈleɪʃn]",
+    "ukphone": "[ˌɒvjuˈleɪʃn]"
+  },
+  {
+    "name": "observational",
+    "trans": [
+      "adj. 观测的；根据观察的"
+    ],
+    "usphone": "[ˌɑːbzərˈveɪʃənl]",
+    "ukphone": "[ˌɒbzəˈveɪʃənl]"
+  },
+  {
+    "name": "ok",
+    "trans": [
+      "adj. 好的；不错的",
+      "adv. 行；很好",
+      "int. 好；可以",
+      "vt. 对…表示同意",
+      "n. 同意"
+    ],
+    "usphone": "[oʊˈkeɪ]",
+    "ukphone": "[əʊˈkeɪ]"
+  },
+  {
+    "name": "opposable",
+    "trans": [
+      "adj. 可反对的；可相对的"
+    ],
+    "usphone": "[əˈpoʊzəbl]",
+    "ukphone": "[əˈpəʊzəb(ə)l]"
+  },
+  {
+    "name": "obliqueness",
+    "trans": [
+      " 倾度，歪斜"
+    ],
+    "usphone": "[əˈbliːknəs]",
+    "ukphone": "[əˈbliːknəs]"
+  },
+  {
+    "name": "objurgate",
+    "trans": [
+      "vt. 申斥，非难"
+    ],
+    "usphone": "[ˈɑːbdʒərˌɡeɪt]",
+    "ukphone": "[ˈɒbdʒəɡeɪt]"
+  },
+  {
+    "name": "once a month",
+    "trans": [
+      " 每月一次；一月一次；一个月一次"
+    ],
+    "usphone": "[wʌns ə mʌnθ]",
+    "ukphone": "[wʌns ə mʌnθ]"
+  },
+  {
+    "name": "Oedipus",
+    "trans": [
+      "n. 俄狄浦斯（希腊神话人物）"
+    ],
+    "usphone": "[ˈedɪpəs]",
+    "ukphone": "[ˈiːdɪpəs]"
+  },
+  {
+    "name": "octane",
+    "trans": [
+      "n. 辛烷"
+    ],
+    "usphone": "[ˈɑːkteɪn]",
+    "ukphone": "[ˈɒkteɪn]"
+  },
+  {
+    "name": "overprotective",
+    "trans": [
+      "adj. 过分保护的；过分溺爱的"
+    ],
+    "usphone": "[ˌoʊvərprəˈtektɪv]",
+    "ukphone": "[ˌəʊvəprəˈtektɪv]"
+  },
+  {
+    "name": "oddness",
+    "trans": [
+      "n. 奇怪；奇妙"
+    ],
+    "usphone": "[ˈɑːdnəs]",
+    "ukphone": "[ˈɒdnəs]"
+  },
+  {
+    "name": "orthopedic",
+    "trans": [
+      "adj. 整形外科的（等于orthopaedic）"
+    ],
+    "usphone": "[ˌɔːrθəˈpiːdɪk]",
+    "ukphone": "[,ɔ:θə'pi:dɪk]"
+  },
+  {
+    "name": "Osaka",
+    "trans": [
+      "n. 大阪（日本本州岛西南岸港市）"
+    ],
+    "usphone": "[oʊˈsɑːkə]",
+    "ukphone": "[əuˈsɑːkə]"
+  },
+  {
+    "name": "oarless",
+    "trans": [
+      "a. 无桨的"
+    ],
+    "usphone": "[ˈolɪs]",
+    "ukphone": "[ˈɔːlɪs]"
+  },
+  {
+    "name": "obediently",
+    "trans": [
+      "adv. 顺从地；服从地；忠顺地"
+    ],
+    "usphone": "[əˈbiːdiəntli]",
+    "ukphone": "[əˈbiːdiəntli]"
+  },
+  {
+    "name": "obituarist",
+    "trans": [
+      "n. 讣告作者"
+    ],
+    "usphone": "[əˈbɪtʃuˌerɪst]",
+    "ukphone": "[əˈbɪtʃuərɪst]"
+  },
+  {
+    "name": "obtuseness",
+    "trans": [
+      "n. 迟钝；愚笨"
+    ],
+    "usphone": "[əbˈtuːsnəs]",
+    "ukphone": "[əbˈtjuːsnəs]"
+  },
+  {
+    "name": "occupier",
+    "trans": [
+      "n. 居住人；占有者；占用者"
+    ],
+    "usphone": "[ˈɑːkjupaɪər]",
+    "ukphone": "[ˈɒkjupaɪə(r)]"
+  },
+  {
+    "name": "offcut",
+    "trans": [
+      "n. （木材等的）斜料，纸边; 边角料"
+    ],
+    "usphone": "[ˈɔːfkʌt]",
+    "ukphone": "[ˈɒfkʌt]"
+  },
+  {
+    "name": "officeholder",
+    "trans": [
+      "n. 公务员；官员；办公人员"
+    ],
+    "usphone": "[ˈɑːfɪsˌhoʊldər]",
+    "ukphone": "[ˈɒfɪsˌhəʊldə]"
+  },
+  {
+    "name": "ology",
+    "trans": [
+      "n. 科学；学问"
+    ],
+    "usphone": "[ˈɑːlədʒi]",
+    "ukphone": "[ˈɒlədʒi]"
+  },
+  {
+    "name": "omnipotence",
+    "trans": [
+      "n. 全能；无限力量"
+    ],
+    "usphone": "[ɑːmˈnɪpətəns]",
+    "ukphone": "[ɒmˈnɪpətəns]"
+  },
+  {
+    "name": "opportunely",
+    "trans": [
+      "adv. 恰好地，适时地"
+    ],
+    "usphone": "[ˌɑːpərˈtuːnli]",
+    "ukphone": "[ˈɒpətjuːnli]"
+  },
+  {
+    "name": "oppressor",
+    "trans": [
+      "n. 压制者，压迫者"
+    ],
+    "usphone": "[əˈpresər]",
+    "ukphone": "[əˈpresə(r)]"
+  },
+  {
+    "name": "orally",
+    "trans": [
+      "adv. 口头上地；口述地"
+    ],
+    "usphone": "[ˈɔːrəli]",
+    "ukphone": "[ˈɔːrəli]"
+  },
+  {
+    "name": "orchestration",
+    "trans": [
+      "n. 管弦乐编曲；和谐的结合"
+    ],
+    "usphone": "[ˌɔːrkɪˈstreɪʃn]",
+    "ukphone": "[ˌɔːkɪˈstreɪʃn]"
+  },
+  {
+    "name": "Oregon",
+    "trans": [
+      "n. 俄勒冈州（美国州名）"
+    ],
+    "usphone": "[ˈɔːrəɡən]",
+    "ukphone": "[ˈɒrəɡən]"
+  },
+  {
+    "name": "Orson",
+    "trans": [
+      "n. 奥森(m.)"
+    ],
+    "usphone": "[ˈɔːrsən]",
+    "ukphone": "['ɔ:sən]"
+  },
+  {
+    "name": "ostentatiously",
+    "trans": [
+      "adv. 招摇地；铺张地；炫耀地"
+    ],
+    "usphone": "[ˌɑːstenˈteɪʃəsli]",
+    "ukphone": "[ˌɒstenˈteɪʃəsli]"
+  },
+  {
+    "name": "outface",
+    "trans": [
+      "vt. 蔑视；无畏惧地面对；盯住…使之不安",
+      "n. 倾向坡（等于dip slope）"
+    ],
+    "usphone": "[ˌaʊtˈfeɪs]",
+    "ukphone": "[ˌaʊtˈfeɪs]"
+  },
+  {
+    "name": "outgun",
+    "trans": [
+      "vt. 武器多于；火力压过"
+    ],
+    "usphone": "[ˌaʊtˈɡʌn]",
+    "ukphone": "[ˌaʊtˈɡʌn]"
+  },
+  {
+    "name": "outlawry",
+    "trans": [
+      "n. 宣布非法，非法化，放逐"
+    ],
+    "usphone": "[ˈaʊtˌlɔːri]",
+    "ukphone": "[ˈaʊtlɔːrɪ]"
+  },
+  {
+    "name": "outpour",
+    "trans": [
+      "n. 流出物；流出",
+      "vt. 流出",
+      "vi. 流出"
+    ],
+    "usphone": "[ˌaʊtˈpɔːr]",
+    "ukphone": "[ˈaʊtpɔː]"
+  },
+  {
+    "name": "overcompensate",
+    "trans": [
+      "vi. 过度补偿",
+      "vt. 给与…过分的补偿"
+    ],
+    "usphone": "[ˌoʊvərˈkɑːmpenseɪt]",
+    "ukphone": "[ˌəʊvəˈkɒmpenseɪt]"
+  },
+  {
+    "name": "overcompensation",
+    "trans": [
+      "n. 过度补偿"
+    ],
+    "usphone": "[ˌoʊvərˌkɑːmpenˈseɪʃn]",
+    "ukphone": "[ˌəʊvəˌkɒmpenˈseɪʃən]"
+  },
+  {
+    "name": "overemphasize",
+    "trans": [
+      "vt. 过分强调",
+      "vi. 过分强调",
+      "如何强调也不为过"
+    ],
+    "usphone": "[ˌoʊvərˈemfəsaɪz]",
+    "ukphone": "[ˌəʊvərˈemfəsaɪz]"
+  },
+  {
+    "name": "overexcite",
+    "trans": [
+      "vt. 使过于激动（或兴奋），过度刺激"
+    ],
+    "usphone": "[ˌoʊvərɪkˈsaɪt]",
+    "ukphone": "[ˌəʊvərɪkˈsaɪt]"
+  },
+  {
+    "name": "overjoy",
+    "trans": [
+      "vt. 使狂喜；使万分高兴"
+    ],
+    "usphone": "[ˌoʊvərˈdʒɔɪ]",
+    "ukphone": "[ˌəʊvəˈdʒɔi]"
+  },
+  {
+    "name": "overweigh",
+    "trans": [
+      "vt. 价值超出…；比…更重；使苦恼"
+    ],
+    "usphone": "[ˌoʊvərˈweɪ]",
+    "ukphone": "[ˌəʊvəˈweɪ]"
+  },
+  {
+    "name": "oxidizable",
+    "trans": [
+      "adj. 可氧化的"
+    ],
+    "usphone": "[ˈɑːksɪdaɪzəbl]",
+    "ukphone": "[ˈɒksɪˌdaɪzəb(ə)l]"
+  },
+  {
+    "name": "oxidization",
+    "trans": [
+      "n. 氧化作用",
+      "[医] 氧化[作用]"
+    ],
+    "usphone": "[ˌɑːksədaɪˈzeɪʃn]",
+    "ukphone": "[ˌɒksɪdaɪˈzeɪʃən]"
+  },
+  {
+    "name": "out-of-the-way",
+    "trans": [
+      "adj. 偏僻的；非凡的；不合常规的"
+    ],
+    "usphone": "[ˌaʊt əv ðə ˈweɪ]",
+    "ukphone": "[ˌaʊt əv ðə ˈweɪ]"
+  },
+  {
+    "name": "overheat",
+    "trans": [
+      "vi. 过热；愤怒起来",
+      "vt. 使过热；使愤怒",
+      "n. 过热；激烈"
+    ],
+    "usphone": "[ˌoʊvərˈhiːt]",
+    "ukphone": "[ˌəʊvəˈhiːt]"
+  },
+  {
+    "name": "outwash",
+    "trans": [
+      "n. 冰水沉积"
+    ],
+    "usphone": "[ˈaʊtˌwɔːʃ]",
+    "ukphone": "[ˈaʊtˌwɒʃ]"
+  },
+  {
+    "name": "outgo",
+    "trans": [
+      "v. 走得比…远或快，优于",
+      "n. 支出，消耗"
+    ],
+    "usphone": "[ˌaʊtˈɡoʊ]",
+    "ukphone": "[ˌaʊtˈɡəʊ]"
+  },
+  {
+    "name": "overgrow",
+    "trans": [
+      "vt. 长满于；长得超过",
+      "vi. 生长过度"
+    ],
+    "usphone": "[ˈoʊvərˌɡroʊ]",
+    "ukphone": "[ˌəʊvəˈɡrəʊ]"
+  },
+  {
+    "name": "oppositely",
+    "trans": [
+      "adv. 反向地；在相反的位置；面对面"
+    ],
+    "usphone": "['ɔpəzitli]",
+    "ukphone": "['ɔpəzitli]"
+  },
+  {
+    "name": "overshoot",
+    "trans": [
+      "vt. 超越；打过头；把…做过头",
+      "vi. 射击越标；（飞机）滑出跑道；行动过火",
+      "n. 超越目标；行动过火"
+    ],
+    "usphone": "[ˌoʊvərˈʃuːt]",
+    "ukphone": "[ˌəʊvəˈʃuːt]"
+  },
+  {
+    "name": "overemphasized",
+    "trans": [
+      "adj. 过分强调的",
+      "v. 过分强调( overemphasize的过去式和过去分词 )"
+    ],
+    "usphone": "[ˌovərˈemfəˌsaɪz]",
+    "ukphone": "[əʊvərˈemfəsaɪzd]"
+  },
+  {
+    "name": "overgrowth",
+    "trans": [
+      "n. 增生；繁茂；生长过度；过度发育"
+    ],
+    "usphone": "[ˈoʊvərɡroʊθ]",
+    "ukphone": "[ˈəʊvəɡrəʊθ]"
+  },
+  {
+    "name": "outbuilding",
+    "trans": [
+      "n. 附属建筑物；外屋",
+      "vt. 建造得比…更好或更多（outbuild的ing形式）"
+    ],
+    "usphone": "[ˈaʊtbɪldɪŋ]",
+    "ukphone": "[ˈaʊtbɪldɪŋ]"
+  },
+  {
+    "name": "outlier",
+    "trans": [
+      "n. [分化] 异常值；露宿者；局外人；离开本体的部分"
+    ],
+    "usphone": "[ˈaʊtlaɪər]",
+    "ukphone": "[ˈaʊtlaɪə(r)]"
+  },
+  {
+    "name": "overkill",
+    "trans": [
+      "vt. 过度地杀伤",
+      "n. 过度的杀伤威力"
+    ],
+    "usphone": "[ˈoʊvərkɪl]",
+    "ukphone": "[ˈəʊvəkɪl]"
+  },
+  {
+    "name": "onetime",
+    "trans": [
+      "adj. 从前的；一度的",
+      "adv. 一度；从前"
+    ],
+    "usphone": "[ˈwʌnˌtaɪm]",
+    "ukphone": "[ˈwʌntaɪm]"
+  },
+  {
+    "name": "onrushing",
+    "trans": [
+      "adj. 汹涌的；猛冲的；顾前不顾后奔跑的"
+    ],
+    "usphone": "[ˈɑːnˌrʌʃɪŋ]",
+    "ukphone": "[ˈɒnˌrʌʃɪŋ]"
+  },
+  {
+    "name": "overprint",
+    "trans": [
+      "vt. 套印，添印",
+      "n. 套印，印戳"
+    ],
+    "usphone": "[ˌoʊvərˈprɪnt]",
+    "ukphone": "[ˌəʊvəˈprɪnt]"
+  },
+  {
+    "name": "outrigger",
+    "trans": [
+      "n. 舷外支架；悬臂梁"
+    ],
+    "usphone": "[ˈaʊtrɪɡər]",
+    "ukphone": "[ˈaʊtrɪɡə(r)]"
+  },
+  {
+    "name": "outclass",
+    "trans": [
+      "vt. 远高于；远胜于"
+    ],
+    "usphone": "[ˌaʊtˈklæs]",
+    "ukphone": "[ˌaʊtˈklɑːs]"
+  },
+  {
+    "name": "outlast",
+    "trans": [
+      "vt. 比…长久；从…中逃生"
+    ],
+    "usphone": "[ˌaʊtˈlæst]",
+    "ukphone": "[ˌaʊtˈlɑːst]"
+  },
+  {
+    "name": "overgeneralize",
+    "trans": [
+      " 做过分概括的陈述；说话过于笼统"
+    ],
+    "usphone": "[ˌoʊvərˈdʒenrəlaɪz]",
+    "ukphone": "[ˌəʊvəˈdʒenrəlaɪz]"
+  },
+  {
+    "name": "orca",
+    "trans": [
+      "n. 逆戟鲸（等于Orcinus orca）；类逆戟鲸；兽人；魔鬼"
+    ],
+    "usphone": "[ˈɔːrkə]",
+    "ukphone": "[ˈɔːkə]"
+  },
+  {
+    "name": "off-balance",
+    "trans": [
+      "adj. 不平衡的",
+      "adv. 不平衡地"
+    ],
+    "usphone": "[ˈɔfbæləns]",
+    "ukphone": "['ɔfbæləns, 'ɔ:-]"
+  },
+  {
+    "name": "overspend",
+    "trans": [
+      "vt. 超支；过度使用；花费过多",
+      "vi. 超支，花钱过多"
+    ],
+    "usphone": "[ˈoʊvərspend]",
+    "ukphone": "[ˈəʊvəspend]"
+  },
+  {
+    "name": "overindulge",
+    "trans": [
+      "vt. 溺爱",
+      "vi. 溺爱"
+    ],
+    "usphone": "[ˌoʊvərɪnˈdʌldʒ]",
+    "ukphone": "[ˌəʊvərɪnˈdʌldʒ]"
+  },
+  {
+    "name": "oxidation",
+    "trans": [
+      "n. [化学] 氧化"
+    ],
+    "usphone": "[ˌɑːksɪˈdeɪʃn]",
+    "ukphone": "[ˌɒksɪˈdeɪʃn]"
+  },
+  {
+    "name": "Octopus",
+    "trans": [
+      "n. 章鱼",
+      "章鱼肉"
+    ],
+    "usphone": "[ˈɑːktəpʊs]",
+    "ukphone": "[ˈɒktəpəs]"
+  },
+  {
+    "name": "outstretch",
+    "trans": [
+      "v. 伸出，伸展"
+    ],
+    "usphone": "[ˌaʊtˈstretʃ]",
+    "ukphone": "[ˌaʊtˈstretʃ]"
+  },
+  {
+    "name": "ombudsman",
+    "trans": [
+      "n. 监察专员（专门负责调查人民对政府各部门控告案件的官员）；视察官"
+    ],
+    "usphone": "[ˈɑːmbʌdzmənˌˈɑːmbʌdzmæn]",
+    "ukphone": "[ˈɒmbʊdzmən; ˈɒmbʊdzmæn]"
+  },
+  {
+    "name": "off-line",
+    "trans": [
+      "adj. 离线的；[计] 脱机的；不连结到线上的",
+      "adv. 脱机地；脱线地；不实时地"
+    ],
+    "usphone": "[ˈɔfˈlaɪn]",
+    "ukphone": "['ɔf'lain, 'ɔ:-]"
+  },
+  {
+    "name": "oratorical",
+    "trans": [
+      "adj. 演说的；演说家的；雄辩的"
+    ],
+    "usphone": "[ˌɔːrəˈtɔːrɪkl]",
+    "ukphone": "[ˌɒrəˈtɒrɪkl]"
+  },
+  {
+    "name": "oxygenate",
+    "trans": [
+      "vt. 氧化，充氧；以氧处理；使…与氧化合"
+    ],
+    "usphone": "[ˈɑːksɪdʒəneɪt]",
+    "ukphone": "[ˈɒksɪdʒəneɪt]"
+  },
+  {
+    "name": "outbound",
+    "trans": [
+      "adj. 出站；驶向外国的，向外去的"
+    ],
+    "usphone": "[ˈaʊtbaʊnd]",
+    "ukphone": "[ˈaʊtbaʊnd]"
+  },
+  {
+    "name": "overpaid",
+    "trans": [
+      "adj. 多付款的，付得过多"
+    ],
+    "usphone": "[ˌoʊvərˈpeɪd]",
+    "ukphone": "[ˌəʊvəˈpeɪd]"
+  },
+  {
+    "name": "over-rate",
+    "trans": [
+      "vt. 过高估计；对…估价过高"
+    ],
+    "usphone": "[ˌoʊvərˈreɪt]",
+    "ukphone": "[ˌəʊvəˈreɪt]"
+  },
+  {
+    "name": "obliquely",
+    "trans": [
+      "adv. 倾斜地；转弯抹角地"
+    ],
+    "usphone": "[əˈbliːkli]",
+    "ukphone": "[əˈbliːkli]"
+  },
+  {
+    "name": "obliteration",
+    "trans": [
+      "n. 闭塞；涂去，删除；消灭"
+    ],
+    "usphone": "[əˌblɪtəˈreɪʃn]",
+    "ukphone": "[əˌblɪtəˈreɪʃn]"
+  },
+  {
+    "name": "occipital",
+    "trans": [
+      "adj. 枕骨的，枕部的",
+      "n. 枕骨"
+    ],
+    "usphone": "[ɑːkˈsɪpɪtl]",
+    "ukphone": "[ɒkˈsɪpɪtl]"
+  },
+  {
+    "name": "occlusal",
+    "trans": [
+      "adj. （上下齿）咬合（面）的"
+    ],
+    "usphone": "[əˈkluːzəl]",
+    "ukphone": "[əˈkluːsəl]"
+  },
+  {
+    "name": "occlusion",
+    "trans": [
+      "n. 闭塞；吸收；锢囚锋"
+    ],
+    "usphone": "[əˈkluːʒn]",
+    "ukphone": "[əˈkluːʒn]"
+  },
+  {
+    "name": "occlusive",
+    "trans": [
+      "adj. 咬合的；闭塞的",
+      "n. 闭塞音"
+    ],
+    "usphone": "[əˈklusɪv]",
+    "ukphone": "[əˈkluːsɪv]"
+  },
+  {
+    "name": "octapeptide",
+    "trans": [
+      "n. 八肽"
+    ],
+    "usphone": "[ˌɑːktəˈpeptaɪd]",
+    "ukphone": "[ˌɒktəˈpeptaɪd]"
+  },
+  {
+    "name": "odorless",
+    "trans": [
+      "adj. 没有气味的"
+    ],
+    "usphone": "[ˈoʊdərləs]",
+    "ukphone": "[ˈəʊdələs]"
+  },
+  {
+    "name": "oligohydramnios",
+    "trans": [
+      "[医] 羊水过少"
+    ],
+    "usphone": "[ɒlɪɡoʊhaɪdˈræmnɪoʊz]",
+    "ukphone": "[ɒlɪɡəʊhaɪdˈræmniːəʊz]"
+  },
+  {
+    "name": "oligomenorrhea",
+    "trans": [
+      " 月经稀发; 经量异常"
+    ],
+    "usphone": "[ɒlɪɡɒmɪnɔːˈrɪə]",
+    "ukphone": "[ɒlɪɡɒmɪnɔːˈrɪə]"
+  },
+  {
+    "name": "oligonucleotide",
+    "trans": [
+      "n. [生化] 寡核苷酸；[生化] 低核苷酸；[生化] 低聚核苷酸"
+    ],
+    "usphone": "[ˌɑːlɪɡoʊˈnuːkliətaɪd]",
+    "ukphone": "[ˌɒlɪɡəʊˈnjuːkliətaɪd]"
+  },
+  {
+    "name": "oliguria",
+    "trans": [
+      "n. 尿过少，少尿（症）"
+    ],
+    "usphone": "[ˌɑːlɪˈgjʊrɪə]",
+    "ukphone": "[ɒlɪ'ɡjʊərɪə]"
+  },
+  {
+    "name": "omasum",
+    "trans": [
+      "n. 重瓣胃"
+    ],
+    "usphone": "[oʊˈmeɪsəm]",
+    "ukphone": "[əʊˈmeɪsəm]"
+  },
+  {
+    "name": "omental",
+    "trans": [
+      "adj. 网膜的"
+    ],
+    "usphone": "[oʊˈmentəl]",
+    "ukphone": "[əʊˈmentəl]"
+  },
+  {
+    "name": "omentum",
+    "trans": [
+      "n. 网膜"
+    ],
+    "usphone": "[oʊˈmentəm]",
+    "ukphone": "[əʊˈmentəm]"
+  },
+  {
+    "name": "omphalocele",
+    "trans": [
+      "n. [医]脐突出"
+    ],
+    "usphone": "[ˈɒmfəloʊˌsiːl]",
+    "ukphone": "[ˈɒmfələʊsiːl]"
+  },
+  {
+    "name": "oncogenesis",
+    "trans": [
+      "n. [医]瘤形成"
+    ],
+    "usphone": "[ˌɒŋkoʊˈdʒenəsɪs]",
+    "ukphone": "[ɒŋkəˈdʒenɪsɪs]"
+  },
+  {
+    "name": "ontogeny",
+    "trans": [
+      "n. [生物] 个体发生；[生物] 个体发生学"
+    ],
+    "usphone": "[ɑːnˈtɑːdʒɪni]",
+    "ukphone": "[ɒnˈtɒdʒəni]"
+  },
+  {
+    "name": "oocyte",
+    "trans": [
+      "n. [细胞] 卵母细胞"
+    ],
+    "usphone": "[ˈoəˌsaɪt]",
+    "ukphone": "[ˈəʊəsaɪt]"
+  },
+  {
+    "name": "oogenesis",
+    "trans": [
+      "n. 卵子发生，成卵法"
+    ],
+    "usphone": "[ˌoəˈdʒenəsɪs]",
+    "ukphone": "[ˌəʊəˈdʒenɪsɪs]"
+  },
+  {
+    "name": "oophorectomy",
+    "trans": [
+      "n. 卵巢切除术"
+    ],
+    "usphone": "[,əuəfə'rektəmi]",
+    "ukphone": "[ˌəʊəfəˈrektəmi]"
+  },
+  {
+    "name": "opacification",
+    "trans": [
+      "n. [眼科] 浑浊化；不透明"
+    ],
+    "usphone": "[oʊpæsɪfɪˈkeɪʃən]",
+    "ukphone": "[əʊpæsɪfɪˈkeɪʃən]"
+  },
+  {
+    "name": "opalescent",
+    "trans": [
+      "adj. 乳白色的；发乳白光的"
+    ],
+    "usphone": "[ˌoʊpəˈlesnt]",
+    "ukphone": "[ˌəʊpəˈles(ə)nt]"
+  },
+  {
+    "name": "operability",
+    "trans": [
+      "n. 可操作性"
+    ],
+    "usphone": "[ɑːpərəˈbɪləti]",
+    "ukphone": "[ˌɒpərəˈbɪlɪti]"
+  },
+  {
+    "name": "operon",
+    "trans": [
+      "n. 操纵子"
+    ],
+    "usphone": "[ˈɑːpəˌrɑːn]",
+    "ukphone": "[ˈɒpəˌrɒn]"
+  },
+  {
+    "name": "ophthalmic",
+    "trans": [
+      "adj. 眼睛的，眼科的；眼炎的",
+      "n. 眼药"
+    ],
+    "usphone": "[ɑːfˈθælmɪkˌɑːpˈθælmɪk]",
+    "ukphone": "[ɒfˈθælmɪk; ɒpˈθælmɪk]"
+  },
+  {
+    "name": "ophthalmologic",
+    "trans": [
+      "adj. 眼科学的"
+    ],
+    "usphone": "[ɒfθælmɒˈlədʒɪk]",
+    "ukphone": "[ɒfˌθælməˈlɒdʒɪk]"
+  },
+  {
+    "name": "ophthalmologist",
+    "trans": [
+      "n. 眼科医师"
+    ],
+    "usphone": "[ˌɑːfθəˈmɑːlədʒɪstˌˌɑːpθəˈmɑːlədʒɪst]",
+    "ukphone": "[ˌɒfθælˈmɒlədʒɪst; ˌɒpθælˈmɒlədʒɪst]"
+  },
+  {
+    "name": "ophthalmoscope",
+    "trans": [
+      "n. 检眼镜"
+    ],
+    "usphone": "[ɑːfˈθælməˌskoʊp]",
+    "ukphone": "[ɒfˈθælməˌskəʊp]"
+  },
+  {
+    "name": "opioid",
+    "trans": [
+      "n. [生化] 阿片样物质；类鸦片"
+    ],
+    "usphone": "[ˈoʊpiˌɔɪd]",
+    "ukphone": "[əʊˈpiːəʊɪd]"
+  },
+  {
+    "name": "opsonin",
+    "trans": [
+      "n. 调理素"
+    ],
+    "usphone": "[ˈɑːpsənɪn]",
+    "ukphone": "[ˈɒpsənɪn]"
+  },
+  {
+    "name": "opsonization",
+    "trans": [
+      "[医] 调理素作用"
+    ],
+    "usphone": "[ˌɑːpsənaɪˈzeɪʃən]",
+    "ukphone": "[ˈɒpsəˌnaɪzeɪʃən]"
+  },
+  {
+    "name": "orchidectomy",
+    "trans": [
+      "n. 睾丸切除术"
+    ],
+    "usphone": "[ˌɔrkɪˈdektəmi]",
+    "ukphone": "[ˌɔːkɪˈdektəmi]"
+  },
+  {
+    "name": "orchitis",
+    "trans": [
+      "n. 睾丸炎"
+    ],
+    "usphone": "[ɔrˈkaɪtɪs]",
+    "ukphone": "[ɔːˈkaɪtɪs]"
+  },
+  {
+    "name": "organochlorine",
+    "trans": [
+      "n. 有机氯；有机氯杀虫剂",
+      "adj. 有机氯的；有机氯杀虫剂的"
+    ],
+    "usphone": "[ɔˌɡænəˈklɔrin]",
+    "ukphone": "[ɔːˌɡænəʊˈklɔːriːn]"
+  },
+  {
+    "name": "organogenesis",
+    "trans": [
+      "n. 器官发生，器官形成"
+    ],
+    "usphone": "[ɔˌɡænoˈdʒenɪsɪs]",
+    "ukphone": "[ˌɔːɡənəʊˈdʒenɪsɪs]"
+  },
+  {
+    "name": "organophosphate",
+    "trans": [
+      "n. 有机磷酸酯（肥料）",
+      "adj. 有机磷酸酯的"
+    ],
+    "usphone": "[ˌɔːrɡənoʊˈfɑːsfeɪtˌɔːrˌɡænoʊˈfɑːsfeɪt]",
+    "ukphone": "[ˌɔːɡənəʊˈfɒsfeɪt; ɔːˌɡænəʊˈfɒsfeɪt]"
+  },
+  {
+    "name": "ornithine",
+    "trans": [
+      "n. 鸟氨酸"
+    ],
+    "usphone": "[ˈɔnɪθɪn]",
+    "ukphone": "[ˈɔːnɪθiːn]"
+  },
+  {
+    "name": "oropharyngeal",
+    "trans": [
+      "adj. 口咽的"
+    ],
+    "usphone": "[ˌɔrofəˈrɪndʒɪəl]",
+    "ukphone": "[ˈɔːrəʊˌfærɪnˈdʒiːəl]"
+  },
+  {
+    "name": "oropharynx",
+    "trans": [
+      "n. [解剖] 口咽"
+    ],
+    "usphone": "[ˌɔroˈfærɪŋks]",
+    "ukphone": "[ˌɔːrə(ʊ)ˈfærɪŋks]"
+  },
+  {
+    "name": "orthostatic",
+    "trans": [
+      "adj. [医] 直立的；由正立位置引起的；正立位置的"
+    ],
+    "usphone": "[ˌɔrθəˈstætɪk]",
+    "ukphone": "[ˌɔːθəʊˈstætɪk]"
+  },
+  {
+    "name": "orthotopic",
+    "trans": [
+      " [医] 常位的，正位的"
+    ],
+    "usphone": "[ɔːrðəˈtɑːpɪk]",
+    "ukphone": "[ˌɔːθəˈtɒpɪk]"
+  },
+  {
+    "name": "oscillograph",
+    "trans": [
+      "n. [电子] 示波器；记录仪；波形图"
+    ],
+    "usphone": "[ɔ'siləuɡrɑ:f, ə-, -ɡræf]",
+    "ukphone": "[ɒˈsɪləˌɡrɑːf]"
+  },
+  {
+    "name": "osmolarity",
+    "trans": [
+      "n. 同渗容摩"
+    ],
+    "usphone": "[ˌɒzməˈlærətɪ]",
+    "ukphone": "[ˌɒzməʊˈlærəti]"
+  },
+  {
+    "name": "ossification",
+    "trans": [
+      "n. 骨化；成骨；（思想的）僵化"
+    ],
+    "usphone": "[ˌɑːsɪfɪˈkeɪʃn]",
+    "ukphone": "[ˌɒsɪfɪˈkeɪʃn]"
+  },
+  {
+    "name": "osteitis",
+    "trans": [
+      "n. 骨炎"
+    ],
+    "usphone": "[ˌɑstɪˈaɪtɪs]",
+    "ukphone": "[ˌɒstɪˈaɪtɪs]"
+  },
+  {
+    "name": "osteoblast",
+    "trans": [
+      "n. 成骨细胞; 造骨细胞"
+    ],
+    "usphone": "[ˈɑstɪəblæst]",
+    "ukphone": "[ˈɒstiəʊˌblæst]"
+  },
+  {
+    "name": "osteochondritis",
+    "trans": [
+      "n. [医]骨软骨炎"
+    ],
+    "usphone": "[ˌɑːstɪoʊkɑːnˈdraɪtɪs]",
+    "ukphone": "[ɒstɪəkɒnˈdraɪtɪs]"
+  },
+  {
+    "name": "osteochondroma",
+    "trans": [
+      "骨软骨瘤"
+    ],
+    "usphone": "[ɑːstɪoʊkɑːnˈdroʊmə]",
+    "ukphone": "[ɒstɪəʊkɒnˈdrəʊmə]"
+  },
+  {
+    "name": "osteoclast",
+    "trans": [
+      "n. 破骨细胞; 折骨器"
+    ],
+    "usphone": "[ˈɑstɪəklæst]",
+    "ukphone": "[ˈɒstiəʊˌklæst]"
+  },
+  {
+    "name": "osteochondrosis",
+    "trans": [
+      "n. [医]骨软骨病"
+    ],
+    "usphone": "[ɑːstɪoʊkɑːnˈdroʊsɪs]",
+    "ukphone": "[ɒstɪəʊkɒnˈdrəʊsɪs]"
+  },
+  {
+    "name": "osteogenesis",
+    "trans": [
+      "n. [生理] 骨生成"
+    ],
+    "usphone": "[ˌɑstɪəˈdʒenəsɪs]",
+    "ukphone": "[ˌɒstɪəʊˈdʒenɪsɪs]"
+  },
+  {
+    "name": "osteoid",
+    "trans": [
+      "adj. 骨样的"
+    ],
+    "usphone": "[ˈɑːstɪɔɪd]",
+    "ukphone": "[ˈɒstɪˌɔɪd]"
+  },
+  {
+    "name": "osteolytic",
+    "trans": [
+      " 溶骨的"
+    ],
+    "usphone": "[ˈɑːstɪəlɪtɪk]",
+    "ukphone": "[ˈɒstiəlɪtɪk]"
+  },
+  {
+    "name": "osteomalacia",
+    "trans": [
+      "n. 骨软化; 骨钙缺乏"
+    ],
+    "usphone": "[ˌɑːstɪoʊməˈleɪʃə]",
+    "ukphone": "[ˌɒstɪəʊməˈleɪʃɪə]"
+  },
+  {
+    "name": "osteomyelitis",
+    "trans": [
+      "n. [外科] 骨髓炎"
+    ],
+    "usphone": "[ˌɒstɪoʊˌmaɪəˈlaɪtɪs]",
+    "ukphone": "[ˌɒstɪəʊˌmaɪəˈlaɪtɪs]"
+  },
+  {
+    "name": "osteopathia",
+    "trans": [
+      "[医] 骨病"
+    ],
+    "usphone": "[ɑːstɪoʊˈpæθɪə]",
+    "ukphone": "[ɒstɪəˈpæθɪə]"
+  },
+  {
+    "name": "osteopathy",
+    "trans": [
+      "n. [外科] 骨病；整骨疗法"
+    ],
+    "usphone": "[ˌɑːstiˈɑːpəθi]",
+    "ukphone": "[ˌɒstiˈɒpəθi]"
+  },
+  {
+    "name": "osteophyte",
+    "trans": [
+      "n. 骨赘"
+    ],
+    "usphone": "[ˈɑstiəˌfaɪt]",
+    "ukphone": "[ˈɒstɪə(ʊ)faɪt]"
+  },
+  {
+    "name": "osteosarcoma",
+    "trans": [
+      "n. [肿瘤] 骨肉瘤"
+    ],
+    "usphone": "[ˌɑstiosɑrˈkomə]",
+    "ukphone": "[ˌɒstiəʊsɑːˈkəʊmə]"
+  },
+  {
+    "name": "osteosclerosis",
+    "trans": [
+      "n. [医]骨硬化"
+    ],
+    "usphone": "[,ɔstiəuskliə'rəusis]",
+    "ukphone": "[ˌɒstɪəʊsklɪəˈrəʊsɪs]"
+  },
+  {
+    "name": "osteotomy",
+    "trans": [
+      "n. 截骨术，骨切开术"
+    ],
+    "usphone": "[ˌɒstɪˈɑːtəmi]",
+    "ukphone": "[ˌɒstɪˈɒtəmi]"
+  },
+  {
+    "name": "otolaryngology",
+    "trans": [
+      "n. 耳鼻喉科学"
+    ],
+    "usphone": "[ˌoʊtoʊlærɪŋˈɡɑːlədʒi]",
+    "ukphone": "[ˌəʊtəʊlærɪŋˈɡɒlədʒi]"
+  },
+  {
+    "name": "otosclerosis",
+    "trans": [
+      "n. [耳鼻喉] 耳硬化症"
+    ],
+    "usphone": "[ˌoʊtəsklɪˈroʊsɪs]",
+    "ukphone": "[ˌəʊtəʊskləˈrəʊsɪs]"
+  },
+  {
+    "name": "otoscope",
+    "trans": [
+      "n. [耳鼻喉] 耳镜"
+    ],
+    "usphone": "[ˈoʊtəˌskoʊp]",
+    "ukphone": "[ˈəʊtəʊˌskəʊp]"
+  },
+  {
+    "name": "ovarian",
+    "trans": [
+      "adj. [解剖] 卵巢的；子房的"
+    ],
+    "usphone": "[oʊˈveriən]",
+    "ukphone": "[əʊˈveəriən]"
+  },
+  {
+    "name": "overactive",
+    "trans": [
+      "adj. 过于活跃的；活跃得不正常的"
+    ],
+    "usphone": "[ˌoʊvərˈæktɪv]",
+    "ukphone": "[ˌəʊvərˈæktɪv]"
+  },
+  {
+    "name": "overdosage",
+    "trans": [
+      "n. 过剂量"
+    ],
+    "usphone": "[ˈoʊvərˈdoʊsɪdʒ]",
+    "ukphone": "[ˌəʊvəˈdəʊsɪdʒ]"
+  },
+  {
+    "name": "overestimation",
+    "trans": [
+      "n. 过高的估计"
+    ],
+    "usphone": "[ˌoʊvərestɪˈmeɪʃn]",
+    "ukphone": "[ˌəʊvərestɪˈmeɪʃn]"
+  },
+  {
+    "name": "overproduce",
+    "trans": [
+      "vt. 过度生产",
+      "vi. 过度生产"
+    ],
+    "usphone": "[ˌoʊvərprəˈduːs]",
+    "ukphone": "[ˌəʊvəprəˈdjuːs]"
+  },
+  {
+    "name": "oviduct",
+    "trans": [
+      "n. [解剖] 输卵管"
+    ],
+    "usphone": "[ˈoʊvɪdʌkt]",
+    "ukphone": "[ˈəʊvɪdʌkt]"
+  },
+  {
+    "name": "ovulatory",
+    "trans": [
+      "adj. 产卵的，排卵的"
+    ],
+    "usphone": "[ˈɑːvjʊlətəri]",
+    "ukphone": "[ˈɒvjʊlətəri]"
+  },
+  {
+    "name": "oxacillin",
+    "trans": [
+      "n. 苯甲异噁唑青霉素，新青二"
+    ],
+    "usphone": "[ˌɑːksəˈsɪlɪn]",
+    "ukphone": "[ˌɒksəˈsɪlɪn]"
+  },
+  {
+    "name": "oxalate",
+    "trans": [
+      "n. 草酸；[有化] 草酸盐"
+    ],
+    "usphone": "[ˈɑːksəˌleɪt]",
+    "ukphone": "[ˈɒksəˌleɪt]"
+  },
+  {
+    "name": "oxidant",
+    "trans": [
+      "n. 氧化剂"
+    ],
+    "usphone": "[ˈɑːksɪdənt]",
+    "ukphone": "[ˈɒksɪdənt]"
+  },
+  {
+    "name": "oxidase",
+    "trans": [
+      "n. [生化] 氧化酶"
+    ],
+    "usphone": "[ˈɑːksədeɪs]",
+    "ukphone": "[ˈɒksɪˌdeɪs]"
+  },
+  {
+    "name": "oxidative",
+    "trans": [
+      "adj. [化学] 氧化的"
+    ],
+    "usphone": "[ɑːksɪˈdeɪtɪv]",
+    "ukphone": "[ˈɒksɪdeɪtɪv]"
+  },
+  {
+    "name": "oxidoreductase",
+    "trans": [
+      "n. 氧化还原酶"
+    ],
+    "usphone": "[ˌɑːksɪdoʊrɪˈdʌkˌteɪs]",
+    "ukphone": "[ˌɒksɪˌdəʊrɪˈdʌkteɪs]"
+  },
+  {
+    "name": "oxycodone",
+    "trans": [
+      "n. 氧可酮；羟考酮"
+    ],
+    "usphone": "[ˌɑːksɪˈkoʊdoʊn]",
+    "ukphone": "[ˌɒksɪˈkəʊdəʊn]"
+  },
+  {
+    "name": "oxygenation",
+    "trans": [
+      "n. 以氧处理，氧化作用"
+    ],
+    "usphone": "[ˌɑːksɪdʒəˈneɪʃn]",
+    "ukphone": "[ˌɒksɪdʒəˈneɪʃn]"
+  },
+  {
+    "name": "oxyhemoglobin",
+    "trans": [
+      "n. 氧基血红素"
+    ],
+    "usphone": "[ˌɑːksɪˈhiməˌɡloʊbɪn]",
+    "ukphone": "[ˌɒksɪˈhiːməˌɡləʊbɪn]"
+  },
+  {
+    "name": "oxyphil",
+    "trans": [
+      "n. 嗜酸细胞，嗜酸细菌",
+      "adj. 嗜酸的"
+    ],
+    "usphone": "[ˈɑːksɪfɪl]",
+    "ukphone": "[ˈɒksɪfɪl]"
+  },
+  {
+    "name": "oxytocic",
+    "trans": [
+      "adj. 阵痛促进的",
+      "n. 阵痛促进"
+    ],
+    "usphone": "[ˌɑːksɪˈtoʊsɪk]",
+    "ukphone": "[ˌɒksɪˈtəʊsɪk]"
+  },
+  {
+    "name": "Oscar",
+    "trans": [
+      "n. （美）奥斯卡金像奖；钱；奥斯卡（男子名）"
+    ],
+    "usphone": "[ˈɑːskər]",
+    "ukphone": "[ˈɒskə(r)]"
+  },
+  {
+    "name": "on-site",
+    "trans": [
+      "adj. 现场的"
+    ],
+    "usphone": "[ɑn saɪt]",
+    "ukphone": "[ɒn saɪt]"
+  },
+  {
+    "name": "open-ended",
+    "trans": [
+      "adj. 开放式的；无限制的；自由回答的；两端未封闭的"
+    ],
+    "usphone": "[ˌoʊpən ˈendɪd]",
+    "ukphone": "[ˌəʊpən ˈendɪd]"
+  },
+  {
+    "name": "one-on-one",
+    "trans": [
+      "adj. 一对一的；直接对立的",
+      "adv. 一对一；面对面",
+      "n. 一对一的比赛"
+    ],
+    "usphone": "[ˌwʌn ɑːn ˈwʌn]",
+    "ukphone": "[ˌwʌn ɒn ˈwʌn]"
+  },
+  {
+    "name": "ornately",
+    "trans": [
+      "adv. 装饰过分地；词藻华丽地"
+    ],
+    "usphone": "[ɔːrˈneɪtli]",
+    "ukphone": "[ɔːˈneɪtli]"
+  },
+  {
+    "name": "Odyssey",
+    "trans": [
+      "n. 奥德赛（古希腊史诗）"
+    ],
+    "usphone": "[ˈɑːdəsi]",
+    "ukphone": "[ˈɒdəsi]"
+  },
+  {
+    "name": "one-to-one",
+    "trans": [
+      "adj. 一对一的；一一对应的"
+    ],
+    "usphone": "[ˌwʌn tə ˈwʌn]",
+    "ukphone": "[ˌwʌn tə ˈwʌn]"
+  },
+  {
+    "name": "operable",
+    "trans": [
+      "adj. 可操作的；可动手术的"
+    ],
+    "usphone": "[ˈɑːpərəb(ə)l]",
+    "ukphone": "[ˈɒpərəb(ə)l]"
+  },
+  {
+    "name": "outrun",
+    "trans": [
+      "vt. 超过；跑得比…快；从…逃脱"
+    ],
+    "usphone": "[ˌaʊtˈrʌn]",
+    "ukphone": "[ˌaʊtˈrʌn]"
+  },
+  {
+    "name": "oceanarium",
+    "trans": [
+      "n. 海洋水族馆"
+    ],
+    "usphone": "[ˌoʊʃəˈneriəm]",
+    "ukphone": "[ˌəʊʃəˈneəriəm]"
+  },
+  {
+    "name": "Ontario",
+    "trans": [
+      "n. 安大略湖（北美五大湖之一）"
+    ],
+    "usphone": "[ɑːnˈterioʊ]",
+    "ukphone": "[ɒnˈteəriəʊ]"
+  },
+  {
+    "name": "oxen",
+    "trans": [
+      "n. 牛（ox的复数）"
+    ],
+    "usphone": "[ˈɑːksn]",
+    "ukphone": "[ˈɒks(ə)n]"
+  },
+  {
+    "name": "obligated",
+    "trans": [
+      "adj. 有义务的；责无旁贷的",
+      "v. 使负义务（obligate的过去式）"
+    ],
+    "usphone": "[ˈɑːblɪɡeɪtɪd]",
+    "ukphone": "[ˈɒblɪɡeɪtɪd]"
+  },
+  {
+    "name": "overage",
+    "trans": [
+      "n. 过于老化；商品过剩；人工时效过度",
+      "adj. 超龄的；过老的"
+    ],
+    "usphone": "[ˌoʊvərˈeɪdʒ]",
+    "ukphone": "[ˌəʊvərˈeɪdʒ]"
+  },
+  {
+    "name": "on-line",
+    "trans": [
+      "adj. 在线的；即时的"
+    ],
+    "usphone": "[ˈɔnˈlaɪn]",
+    "ukphone": "[ɒnlaɪn]"
+  },
+  {
+    "name": "organiser",
+    "trans": [
+      "n. 组织者；发起人；形成体（等于organizer）"
+    ],
+    "usphone": "['ɔ:gənaizə]",
+    "ukphone": "['ɔ:gənaizə]"
+  },
+  {
+    "name": "older",
+    "trans": [
+      "adj. 年长的；较旧的"
+    ],
+    "usphone": "[ˈoʊldər]",
+    "ukphone": "['əʊldə]"
+  },
+  {
+    "name": "outwear",
+    "trans": [
+      "vt. 穿破，穿坏；比…经久耐用；用旧；使筋疲力尽"
+    ],
+    "usphone": "[aʊtˈwer]",
+    "ukphone": "[ˌaʊtˈweə(r)]"
+  },
+  {
+    "name": "outbid",
+    "trans": [
+      "vt. 在开价上战胜；出价高于"
+    ],
+    "usphone": "[ˌaʊtˈbɪd]",
+    "ukphone": "[ˌaʊtˈbɪd]"
+  },
+  {
+    "name": "overstudy",
+    "trans": [
+      "vt. 使…用功过度",
+      "vi. 用功过度",
+      "n. 过度用功"
+    ],
+    "usphone": "[ˈoʊvərˌstʌdi]",
+    "ukphone": "[ˈəʊvəˌstʌdi]"
+  },
+  {
+    "name": "overbridge",
+    "trans": [
+      "n. 天桥；旱桥"
+    ],
+    "usphone": "[ˈoʊvərbrɪdʒ]",
+    "ukphone": "[ˈəʊvəbrɪdʒ]"
+  },
+  {
+    "name": "obscured",
+    "trans": [
+      "adj. 遮蔽的；湮没的",
+      "v. 掩盖；使含混；变得模糊（obscure的过去分词）"
+    ],
+    "usphone": "[əb'skjuəd]",
+    "ukphone": "[əb'skjuəd]"
+  },
+  {
+    "name": "overwhelmed",
+    "trans": [
+      "v. 受打击，压倒（overwhelm的过去式）；淹没",
+      "adj. 受宠若惊的，使不知所措"
+    ],
+    "usphone": "[ˌoʊvərˈwelmd]",
+    "ukphone": "[ˌəʊvəˈwelmd]"
+  },
+  {
+    "name": "optimally",
+    "trans": [
+      "adv. 最佳；最适宜"
+    ],
+    "usphone": "[ˈɑːptɪməli]",
+    "ukphone": "[ˈɒptɪməli]"
+  },
+  {
+    "name": "overloaded",
+    "trans": [
+      "adj. 超载的；超负荷的；超重的",
+      "v. 使超载；使负担过重（overload的过去分词）"
+    ],
+    "usphone": "[ˈovərˈlod]",
+    "ukphone": "[ˌəʊvəˈləʊdɪd]"
+  },
+  {
+    "name": "offhanded",
+    "trans": [
+      "adj. 立即的，即席的"
+    ],
+    "usphone": "[ˈɔfˈhændɪd]",
+    "ukphone": "[ˈɒfˈhændɪd]"
+  },
+  {
+    "name": "obsessing",
+    "trans": [
+      "v. 时刻困扰( obsess的现在分词 ); 缠住; 使痴迷; 使迷恋"
+    ],
+    "usphone": "[əbˈsesɪŋ]",
+    "ukphone": "[əbˈsesɪŋ]"
+  },
+  {
+    "name": "oleaginous",
+    "trans": [
+      "adj. 油质的；油腻的"
+    ],
+    "usphone": "[ˌoʊliˈædʒɪnəs]",
+    "ukphone": "[ˌəʊliˈædʒɪnəs]"
+  },
+  {
+    "name": "OECD",
+    "trans": [
+      "abbr. 经济合作与发展组织（Organization for Economic Co-operation and Development）"
+    ],
+    "usphone": "[ˌoʊ iː siː ˈdiː]",
+    "ukphone": "[ˌəʊ iː siː ˈdiː]"
+  },
+  {
+    "name": "ommatidium",
+    "trans": [
+      "n. 小眼"
+    ],
+    "usphone": "[ˌɑməˈtɪdɪəm]",
+    "ukphone": "[ˌɒməˈtɪdiəm]"
+  },
+  {
+    "name": "odorant",
+    "trans": [
+      "n. 有气味的东西",
+      "adj. 有气味的；有香气的"
+    ],
+    "usphone": "[ˈoʊdərənt]",
+    "ukphone": "[ˈəʊdərənt]"
+  },
+  {
+    "name": "orthopedist",
+    "trans": [
+      "n. 整形外科医师（等于 orthopaedist）"
+    ],
+    "usphone": "[ɔ:θəu'pi:dist]",
+    "ukphone": "[ɔ:θəu'pi:dist]"
+  },
+  {
+    "name": "outscore",
+    "trans": [
+      "vt. 得分超过"
+    ],
+    "usphone": "[aut'skɔ:]",
+    "ukphone": "[aʊtˈskɔː(r)]"
+  },
+  {
+    "name": "overcame",
+    "trans": [
+      "v. 克服（overcome的过去式）"
+    ],
+    "usphone": "[ˌoʊvərˈkeɪm]",
+    "ukphone": "[ˌəʊvəˈkeɪm]"
+  },
+  {
+    "name": "one-sided",
+    "trans": [
+      "adj. 片面的，单方面的；不公正的"
+    ],
+    "usphone": "[ˌwʌn ˈsaɪdɪd]",
+    "ukphone": "[ˌwʌn ˈsaɪdɪd]"
+  },
+  {
+    "name": "Ohio",
+    "trans": [
+      "n. 俄亥俄州（美国一个州）"
+    ],
+    "usphone": "[oʊˈhaɪoʊ]",
+    "ukphone": "[əʊˈhaɪəʊ]"
+  },
+  {
+    "name": "observed",
+    "trans": [
+      "adj. 观察的；观测的",
+      "v. 观察；遵守；注意到；庆祝（observe的过去分词形式）"
+    ],
+    "usphone": "[əbˈzɜːrvd]",
+    "ukphone": "[əb'zɜːvd]"
+  },
+  {
+    "name": "outfielder",
+    "trans": [
+      "n. 外场手"
+    ],
+    "usphone": "[ˈaʊtfiːlder]",
+    "ukphone": "[ˈaʊtfiːlde(r)]"
+  },
+  {
+    "name": "oversized",
+    "trans": [
+      "adj. 过大的，极大的"
+    ],
+    "usphone": "[ˈoʊvərsaɪzd]",
+    "ukphone": "[ˈəʊvəsaɪzd]"
+  },
+  {
+    "name": "outstretched",
+    "trans": [
+      "adj. 伸开的；扩张的",
+      "v. 伸出；扩大；伸展得超出…的范围（outstretch的过去分词形式）"
+    ],
+    "usphone": "[ˌaʊtˈstretʃt]",
+    "ukphone": "[ˌaʊtˈstretʃt]"
+  },
+  {
+    "name": "oregano",
+    "trans": [
+      "n. 牛至"
+    ],
+    "usphone": "[əˈreɡənoʊ]",
+    "ukphone": "[ˌɒrɪˈɡɑːnəʊ]"
+  },
+  {
+    "name": "oppressed",
+    "trans": [
+      "adj. 受压制的，受压迫的",
+      "v. 压迫；折磨（oppress的过去分词）"
+    ],
+    "usphone": "[əˈprest]",
+    "ukphone": "[əˈprest]"
+  },
+  {
+    "name": "one-man",
+    "trans": [
+      "adj. 个人的；仅一人的；仅供一人的"
+    ],
+    "usphone": "[ˌwʌn ˈmæn]",
+    "ukphone": "[ˌwʌn ˈmæn]"
+  },
+  {
+    "name": "ordering",
+    "trans": [
+      "n. 订购；[计] 排序；[计] 定序",
+      "v. 订购（order的ing形式）；命令；指挥"
+    ],
+    "usphone": "[ˈɔːrdərɪŋ]",
+    "ukphone": "[ˈɔːdərɪŋ]"
+  },
+  {
+    "name": "organizing",
+    "trans": [
+      "v. 组织（organize的ing形式）；使有机化",
+      "n. 组织",
+      "adj. 组织上的"
+    ],
+    "usphone": "['ɔɡənaɪzɪŋ]",
+    "ukphone": "['ɔ:ɡənaɪzɪŋ]"
+  },
+  {
+    "name": "old-time",
+    "trans": [
+      "adj. 从前的；旧式的；资深的"
+    ],
+    "usphone": "[ˈoʊld taɪm]",
+    "ukphone": "[ˈəʊld taɪm]"
+  },
+  {
+    "name": "offending",
+    "trans": [
+      "adj. 不愉快的；厌恶的",
+      "v. 冒犯（offend的ing形式）"
+    ],
+    "usphone": "[əˈfendɪŋ]",
+    "ukphone": "[əˈfendɪŋ]"
+  },
+  {
+    "name": "open-air",
+    "trans": [
+      "adj. 露天的；户外的，野外的"
+    ],
+    "usphone": "[ˌoʊpən ˈer]",
+    "ukphone": "[ˌəʊpən ˈeə(r)]"
+  },
+  {
+    "name": "others",
+    "trans": [
+      "pron. 其他人"
+    ],
+    "usphone": "[ˈʌðər]",
+    "ukphone": "[ˈʌðə(r)z]"
+  },
+  {
+    "name": "opportunism",
+    "trans": [
+      "n. 机会主义；投机主义"
+    ],
+    "usphone": "[ˌɑːpərˈtuːnɪzəm]",
+    "ukphone": "[ˌɒpəˈtjuːnɪzəm]"
+  },
+  {
+    "name": "overalls",
+    "trans": [
+      "n. [服装] 工装裤；工作裤"
+    ],
+    "usphone": "['ovərɔlz]",
+    "ukphone": "['əʊvərɔːlz]"
+  },
+  {
+    "name": "obstinately",
+    "trans": [
+      "adv. 顽固地；固执地"
+    ],
+    "usphone": "[ˈɑːbstɪnətli]",
+    "ukphone": "[ˈɒbstɪnətli]"
+  },
+  {
+    "name": "overbalance",
+    "trans": [
+      "n. 超额；超量；不平衡",
+      "vt. 使失去均衡；使过重",
+      "vi. 失去平衡"
+    ],
+    "usphone": "[ˌoʊvərˈbæləns]",
+    "ukphone": "[ˌəʊvəˈbæləns]"
+  },
+  {
+    "name": "overpopulated",
+    "trans": [
+      "adj. 人口过多的",
+      "v. 使人口过密（overpopulate的过去分词）"
+    ],
+    "usphone": "[ˌoʊvərˈpɑːpjuleɪtɪd]",
+    "ukphone": "[ˌəʊvəˈpɒpjuleɪtɪd]"
+  },
+  {
+    "name": "overcharged",
+    "trans": [
+      "v. 对…要价过高( overcharge的过去式和过去分词 )"
+    ],
+    "usphone": "[ˌoʊvərˈtʃɑːrdʒd]",
+    "ukphone": "[ˌəʊvəˈtʃɑːdʒd]"
+  },
+  {
+    "name": "overturned",
+    "trans": [
+      "adj. 倾覆的，倒转的",
+      "v. 颠覆（overturn的过去式）"
+    ],
+    "usphone": "[ˌovərˈtɜːrn]",
+    "ukphone": "[ˌəʊvəˈtɜːnd]"
+  },
+  {
+    "name": "owned",
+    "trans": [
+      "v. 拥有；承认（own的过去分词）",
+      "adj. 自身拥有的"
+    ],
+    "usphone": "[oʊnd]",
+    "ukphone": "[əʊnd]"
+  },
+  {
+    "name": "operating",
+    "trans": [
+      "adj. 操作的；[外科] 外科手术的",
+      "v. 操作（operate的ing形式）；动手术"
+    ],
+    "usphone": "[ˈɑpəretɪŋ]",
+    "ukphone": "[ˈɒpəreɪtɪŋ]"
+  },
+  {
+    "name": "oriole",
+    "trans": [
+      "n. 金莺（白头翁科的小鸟）"
+    ],
+    "usphone": "[ˈɔːrioʊl]",
+    "ukphone": "[ˈɔːriəʊl]"
+  },
+  {
+    "name": "overfatigue",
+    "trans": [
+      "vt. 使疲劳过度",
+      "n. 过劳"
+    ],
+    "usphone": "[ˈovərfəˈtiɡ]",
+    "ukphone": "[əʊvəfəˈtiːɡ]"
+  },
+  {
+    "name": "overspeed",
+    "trans": [
+      "n. 超速",
+      "adj. 超速的",
+      "vi. 超速运行",
+      "vt. （使）超速运行"
+    ],
+    "usphone": "[ˌoʊvərˈspiːd]",
+    "ukphone": "[ˌəʊvəˈspiːd]"
+  },
+  {
+    "name": "outport",
+    "trans": [
+      "n. 大港外的独立小港"
+    ],
+    "usphone": "[ˈaʊtˌpɔːrt]",
+    "ukphone": "[ˈaʊtpɔːt]"
+  },
+  {
+    "name": "obsequiousness",
+    "trans": [
+      "n. 谄媚；奉承"
+    ],
+    "usphone": "[əbˈsiːkwiəsnəs]",
+    "ukphone": "[əbˈsiːkwiəsnəs]"
+  },
+  {
+    "name": "obstinateness",
+    "trans": [
+      " 固执; 顽固; 执拗; 顽强"
+    ],
+    "usphone": "[ˈɒbstɪnətnɪs]",
+    "ukphone": "[ˈɒbstɪnətnəs]"
+  },
+  {
+    "name": "oligarch",
+    "trans": [
+      "n. 寡头政治执政者"
+    ],
+    "usphone": "[ˈɑːləɡɑːrk]",
+    "ukphone": "[ˈɒlɪɡɑːk]"
+  },
+  {
+    "name": "overbear",
+    "trans": [
+      "v. 压服"
+    ],
+    "usphone": "[ˌoʊvərˈber]",
+    "ukphone": "[ˌəʊvəˈbeə]"
+  },
+  {
+    "name": "overinflated",
+    "trans": [
+      "adj. 过于膨胀的，特大的"
+    ],
+    "usphone": "[ˌoʊvərɪnˈfleɪtɪd]",
+    "ukphone": "[ˌəʊvərɪnˈfleɪtɪd]"
+  },
+  {
+    "name": "objectives",
+    "trans": [
+      "n. 目的（objective的复数形式）；目标；宗旨"
+    ],
+    "usphone": "[əbˈdʒektɪvz]",
+    "ukphone": "[əbˈdʒektɪvz]"
+  },
+  {
+    "name": "oldest",
+    "trans": [
+      "adj. 最老的（old的最高级）；最旧的"
+    ],
+    "usphone": "[oldɪst]",
+    "ukphone": "[ˈəʊldɪst]"
+  },
+  {
+    "name": "opportunities",
+    "trans": [
+      "n. 因素；机会；[数] 机遇"
+    ],
+    "usphone": "[ˌɑːpərˈtuːnətiz]",
+    "ukphone": "[ˌɒpəˈtjuːnətiz]"
+  },
+  {
+    "name": "origins",
+    "trans": [
+      "n. 起源（origin的复数）"
+    ],
+    "usphone": "['ɔridʒinz]",
+    "ukphone": "[ˈɒrɪdʒɪnz]"
+  },
+  {
+    "name": "ovens",
+    "trans": [
+      "n. 烤箱（oven的复数形式）"
+    ],
+    "usphone": "[ˈʌvnz]",
+    "ukphone": "['ʌvnz]"
+  },
+  {
+    "name": "orthopaedic",
+    "trans": [
+      "adj. 矫形的"
+    ],
+    "usphone": "[ˌɔːrθəˈpiːdɪk]",
+    "ukphone": "[ˌɔːθəˈpiːdɪk]"
+  },
+  {
+    "name": "occultation",
+    "trans": [
+      "n. [天] 掩星；掩蔽"
+    ],
+    "usphone": "[ˌɑːkʌlˈteɪʃən]",
+    "ukphone": "[ˌɒkʌlˈteɪʃən]"
+  },
+  {
+    "name": "osteopath",
+    "trans": [
+      "n. 整骨疗法家"
+    ],
+    "usphone": "[ˈɑːstiəpæθ]",
+    "ukphone": "[ˈɒstiəpæθ]"
+  },
+  {
+    "name": "Ouch!",
+    "trans": [
+      "n. 扣环",
+      "int. 哎哟（突然疼痛时发出的声音）"
+    ],
+    "usphone": "[aʊtʃ]",
+    "ukphone": "[aʊtʃ]"
+  },
+  {
+    "name": "out of town",
+    "trans": [
+      "na. 已离京[城市]；〔英国〕不在伦敦；已到乡下"
+    ],
+    "usphone": "[ˌaʊt əv ˈtaʊn]",
+    "ukphone": "[ˌaʊt əv ˈtaʊn]"
+  },
+  {
+    "name": "orthodontist",
+    "trans": [
+      "n. 正牙医生；牙齿矫正医师"
+    ],
+    "usphone": "[ˌɔːrθəˈdɑːntɪst]",
+    "ukphone": "[ˌɔːθəˈdɒntɪst]"
+  },
+  {
+    "name": "overgenerous",
+    "trans": [
+      " （施与某物时）过于慷慨的，过分大方的"
+    ],
+    "usphone": "[ˌoʊvərˈdʒenərəs]",
+    "ukphone": "[ˌəʊvəˈdʒenərəs]"
+  },
+  {
+    "name": "olio",
+    "trans": [
+      "n. 什锦菜，（文艺方面的）杂录，杂集"
+    ],
+    "usphone": "[ˈoʊlɪˌoʊ]",
+    "ukphone": "[ˈəʊlɪˌəʊ]"
+  },
+  {
+    "name": "Oates",
+    "trans": [
+      "奥茨(姓氏)"
+    ],
+    "usphone": "[oʊts]",
+    "ukphone": "[əʊts]"
+  },
+  {
+    "name": "objecting",
+    "trans": [
+      "v. 不赞成( object的现在分词 ); 抗议; 拒绝接受; 抱反感"
+    ],
+    "usphone": "[ˈɑːbdʒɪkt]",
+    "ukphone": "[ˈɒbdʒɪkt]"
+  },
+  {
+    "name": "organist",
+    "trans": [
+      "n. 风琴演奏者"
+    ],
+    "usphone": "[ˈɔːrɡənɪst]",
+    "ukphone": "[ˈɔːɡənɪst]"
+  },
+  {
+    "name": "obligee",
+    "trans": [
+      "n. [法] 权利人；[法] 债权人；债主；[法] 受惠人"
+    ],
+    "usphone": "[ˌɑblɪˈdʒi]",
+    "ukphone": "[ˌɒblɪˈdʒiː]"
+  },
+  {
+    "name": "obligor",
+    "trans": [
+      "n. 债务人；义务人"
+    ],
+    "usphone": "['ɒblɪgɔː]",
+    "ukphone": "[ˌɒblɪˈɡɔː(r)]"
+  },
+  {
+    "name": "offeree",
+    "trans": [
+      "n. 受要约人；接盘人，[贸易] 受盘人；[贸易] 被发价人"
+    ],
+    "usphone": "[ˌɔːfəˈriː]",
+    "ukphone": "[ˌɒfəˈriː]"
+  },
+  {
+    "name": "offerer",
+    "trans": [
+      "n. <经> 发价人; 发盘人"
+    ],
+    "usphone": "[ˈɔːfərər]",
+    "ukphone": "[ˈɒfərə(r)]"
+  },
+  {
+    "name": "one-of-a-kind",
+    "trans": [
+      "adj. 每种只有一个的"
+    ],
+    "usphone": "['wʌn'əvə'kaind]",
+    "ukphone": "[ˈwʌn ˈəv ə ˈkaɪnd]"
+  },
+  {
+    "name": "one-stop",
+    "trans": [
+      "adj. 一站式的；（美）能提供各种商品的"
+    ],
+    "usphone": "[ˈwʌn stɑːp]",
+    "ukphone": "[ˈwʌn stɒp]"
+  },
+  {
+    "name": "open-hearted",
+    "trans": [
+      "直率的",
+      "adj. 坦率的"
+    ],
+    "usphone": "[ˌoʊpən ˈhɑːrtɪd]",
+    "ukphone": "[ˌəʊpən ˈhɑːtɪd]"
+  },
+  {
+    "name": "overstrain",
+    "trans": [
+      "n. 过度紧张；过劳",
+      "vt. 使过度紧张；使工作过度；伸张过度",
+      "vi. 过度紧张"
+    ],
+    "usphone": "[ˌoʊvərˈstreɪn]",
+    "ukphone": "[ˈəʊvəstreɪn]"
+  },
+  {
+    "name": "overfulfill",
+    "trans": [
+      "vt. 超额生产，超额完成"
+    ],
+    "usphone": "[ˌoʊvərfʊlˈfɪl]",
+    "ukphone": "[ˌəʊvəfʊlˈfɪl]"
+  },
+  {
+    "name": "oversimplification",
+    "trans": [
+      "n. 过度单纯化；过分简单化"
+    ],
+    "usphone": "[ˌoʊvərˌsɪmplɪfɪˈkeɪʃn]",
+    "ukphone": "[ˌəʊvəˌsɪmplɪfɪˈkeɪʃn]"
+  },
+  {
+    "name": "outvote",
+    "trans": [
+      "vt. 以多数票击败"
+    ],
+    "usphone": "[ˌaʊtˈvoʊt]",
+    "ukphone": "[ˌaʊtˈvəʊt]"
+  },
+  {
+    "name": "Oh!",
+    "trans": [
+      "abbr. on-Hudson 邻近哈得逊河"
+    ],
+    "usphone": "[oʊ]",
+    "ukphone": "[əʊ]"
+  },
+  {
+    "name": "orogeny",
+    "trans": [
+      "n. [地质] 造山运动，造山作用；山岳的形成"
+    ],
+    "usphone": "[ɔːˈrɑːdʒəni]",
+    "ukphone": "[ɒˈrɒdʒəni]"
+  },
+  {
+    "name": "oxidise",
+    "trans": [
+      "vt.& vi. （使某物）氧化，（使某物）生锈"
+    ],
+    "usphone": "[ˈɑːksɪdaɪz]",
+    "ukphone": "[ˈɒksɪdaɪz]"
+  },
+  {
+    "name": "OTC",
+    "trans": [
+      "abbr. 技术合作处（Office of Technical Cooperation）"
+    ],
+    "usphone": "[ˌoʊ tiː ˈsiː]",
+    "ukphone": "[ˌəʊ tiː ˈsiː]"
+  },
+  {
+    "name": "offsite",
+    "trans": [
+      "n. 装置外，厂区外"
+    ],
+    "usphone": "[ˌɔːfˈsaɪt]",
+    "ukphone": "[ɒfˈsaɪt]"
+  },
+  {
+    "name": "overleap",
+    "trans": [
+      "v. 越过"
+    ],
+    "usphone": "[ˌovərˈlip]",
+    "ukphone": "[ˌəʊvəˈliːp]"
+  },
+  {
+    "name": "obsequies",
+    "trans": [
+      "n. 葬礼"
+    ],
+    "usphone": "[ˈɑːbsəkwiz]",
+    "ukphone": "[ˈɒbsəkwiz]"
+  },
+  {
+    "name": "omnibus",
+    "trans": [
+      "n. 公共汽车；精选集；文集",
+      "adj. 综合性的；总括的；（包括）多项的"
+    ],
+    "usphone": "[ˈɑːmnɪbəs]",
+    "ukphone": "[ˈɒmnɪbəs]"
+  },
+  {
+    "name": "openhanded",
+    "trans": [
+      "adj. 大方的，豪爽的; 手松"
+    ],
+    "usphone": "[ˌoʊpənˈhændɪd]",
+    "ukphone": "[ˈəʊpənhændɪd]"
+  },
+  {
+    "name": "overstride",
+    "trans": [
+      "vt. 跨过，超过，越过"
+    ],
+    "usphone": "[ˌoʊvərˈstraɪd]",
+    "ukphone": "[ˌəʊvəˈstraɪd]"
+  },
+  {
+    "name": "Oxygen",
+    "trans": [
+      "n. [化学] 氧气，[化学] 氧"
+    ],
+    "usphone": "[ˈɑːksɪdʒən]",
+    "ukphone": "[ˈɒksɪdʒən]"
+  },
+  {
+    "name": "O",
+    "trans": [
+      "int. 哦，啊（表示惊讶、痛苦、恐惧、赞叹等）",
+      "n. 零；英语字母中的第十五个字母",
+      "symb. 氧（oxygen）"
+    ],
+    "usphone": "[oʊ]",
+    "ukphone": "[əʊ]"
+  },
+  {
+    "name": "oxidizer",
+    "trans": [
+      "n. [助剂] 氧化剂"
+    ],
+    "usphone": "[ˈɑːksɪˌdaizər]",
+    "ukphone": "[ˈɒksɪˌdaɪzə(r)]"
+  },
+  {
+    "name": "Osmium",
+    "trans": [
+      "n. [化学] 锇"
+    ],
+    "usphone": "[ˈɑːzmiəm]",
+    "ukphone": "[ˈɒzmiəm]"
+  },
+  {
+    "name": "Os",
+    "trans": [
+      "abbr. 操作系统（Operating System）；西洋旧历（Old Style）"
+    ],
+    "usphone": "[ˌoʊ ˈes]",
+    "ukphone": "[ˌəʊ ˈes]"
+  },
+  {
+    "name": "oxy acid",
+    "trans": [
+      "un. 含氧酸"
+    ],
+    "usphone": "[ˌɑksɪˈæsɪd]",
+    "ukphone": "[ˈɒksɪˌæsɪd]"
+  },
+  {
+    "name": "ohmmeter",
+    "trans": [
+      "n. 欧姆计，欧姆表"
+    ],
+    "usphone": "[ˈoʊmmiːtər]",
+    "ukphone": "[ˈəʊmmiːtə(r)]"
+  },
+  {
+    "name": "oriel",
+    "trans": [
+      "n. 凸出壁外的窗"
+    ],
+    "usphone": "[ˈɔːriəl]",
+    "ukphone": "[ˈɔːriəl]"
+  },
+  {
+    "name": "outstay",
+    "trans": [
+      "vt. 逗留得比…久"
+    ],
+    "usphone": "[ˌaʊtˈsteɪ]",
+    "ukphone": "[ˌaʊtˈsteɪ]"
+  },
+  {
+    "name": "outsit",
+    "trans": [
+      "v. 比…坐得更久，坐得超过…时间限度"
+    ],
+    "usphone": "[aʊtˈsɪt]",
+    "ukphone": "[ˌaʊtˈsɪt]"
+  },
+  {
+    "name": "outspend",
+    "trans": [
+      "vt. 开支比…更大"
+    ],
+    "usphone": "[aʊtˈspend]",
+    "ukphone": "[ˌaʊtˈspend]"
+  },
+  {
+    "name": "overpraise",
+    "trans": [
+      "vt. 过度称赞，过奖",
+      "n. 过奖"
+    ],
+    "usphone": "[ˌoʊvərˈpreɪz]",
+    "ukphone": "[ˌəʊvəˈpreɪz]"
+  },
+  {
+    "name": "overset",
+    "trans": [
+      "v. 打翻; 颠覆; 推翻; 为…排版过密"
+    ],
+    "usphone": "[ˌoʊvəˈset]",
+    "ukphone": "[ˌəʊvəˈset]"
+  },
+  {
+    "name": "orate",
+    "trans": [
+      "vi. 演说，大言不惭的演说"
+    ],
+    "usphone": "[ˈoʊreɪt; ˈɔːrˌæt]",
+    "ukphone": "[ˈɔːreɪt; ɒˈreɪt]"
+  },
+  {
+    "name": "officialdom",
+    "trans": [
+      "n. 官场；官员（总称）；官僚作风"
+    ],
+    "usphone": "[əˈfɪʃldəm]",
+    "ukphone": "[əˈfɪʃldəm]"
+  },
+  {
+    "name": "olive-wood",
+    "trans": [
+      "na. 橄榄木"
+    ],
+    "usphone": "[ˈɑːlɪvˌwʊd]",
+    "ukphone": "[ˈɒlɪvwʊd]"
+  },
+  {
+    "name": "outboard",
+    "trans": [
+      "adj. 外侧的；船外的",
+      "adv. 在舷外，在外部"
+    ],
+    "usphone": "[ˈaʊtbɔːrd]",
+    "ukphone": "[ˈaʊtbɔːd]"
+  },
+  {
+    "name": "ouster",
+    "trans": [
+      "n. 驱逐；剥夺；罢黜"
+    ],
+    "usphone": "[ˈaʊstər]",
+    "ukphone": "[ˈaʊstə(r)]"
+  },
+  {
+    "name": "outage",
+    "trans": [
+      "n. 储运损耗；中断供应；运行中断"
+    ],
+    "usphone": "[ˈaʊtɪdʒ]",
+    "ukphone": "[ˈaʊtɪdʒ]"
+  },
+  {
+    "name": "Olivia",
+    "trans": [
+      "n. 奥利维亚（女子名）"
+    ],
+    "usphone": "[oʊˈlɪviə; əˈlɪviə]",
+    "ukphone": "[əˈlɪviə]"
+  },
+  {
+    "name": "o",
+    "trans": [
+      "int. 哦，啊（表示惊讶、痛苦、恐惧、赞叹等）",
+      "n. 零；英语字母中的第十五个字母",
+      "symb. 氧（oxygen）"
+    ],
+    "usphone": "[oʊ]",
+    "ukphone": "[əʊ]"
+  },
+  {
+    "name": "oolong",
+    "trans": [
+      "n. 乌龙茶（中国名茶之一）"
+    ],
+    "usphone": "[ˈʊlɔŋ]",
+    "ukphone": "[ˈuːlɒŋ]"
+  },
+  {
+    "name": "oeuvre",
+    "trans": [
+      "n. （法）全部作品；毕生之作"
+    ],
+    "usphone": "[ˈɜːvrə]",
+    "ukphone": "[ˈɜːvrə]"
+  },
+  {
+    "name": "outrush",
+    "trans": [
+      "n. 冲出，涌出"
+    ],
+    "usphone": "[ˈaʊtˌrʌʃ]",
+    "ukphone": "[ˈaʊtˌrʌʃ]"
+  },
+  {
+    "name": "outroot",
+    "trans": [
+      "vt. 根绝"
+    ],
+    "usphone": "[ˌaʊtˈrʊt]",
+    "ukphone": "[ˌaʊtˈruːt]"
+  },
+  {
+    "name": "oldie",
+    "trans": [
+      "n. 陈旧的东西；老人"
+    ],
+    "usphone": "[ˈoʊldi]",
+    "ukphone": "[ˈəʊldi]"
+  },
+  {
+    "name": "operose",
+    "trans": [
+      "adj. 费力的；勤勉的；吃力的；困难的；辛勤的"
+    ],
+    "usphone": "[ˈɒpəˌroʊs]",
+    "ukphone": "[ˈɒpəˌrəʊs]"
+  },
+  {
+    "name": "obfuscation",
+    "trans": [
+      "n. 困惑；模糊；昏迷"
+    ],
+    "usphone": "[ˌɑːbfʌsˈkeɪʃn]",
+    "ukphone": "[ˌɒbfʌsˈkeɪʃn]"
+  },
+  {
+    "name": "ostensive",
+    "trans": [
+      "adj. 以事实例证的，清晰显示的"
+    ],
+    "usphone": "[ɑːsˈtensɪv]",
+    "ukphone": "[ɒˈstensɪv]"
+  },
+  {
+    "name": "oxyacid",
+    "trans": [
+      "n. 含氧酸"
+    ],
+    "usphone": "[ˌɑksɪˈæsɪd]",
+    "ukphone": "[ˈɒksɪˌæsɪd]"
+  },
+  {
+    "name": "outfitter",
+    "trans": [
+      "n. [贸易] 旅行用品商；运动用具商；[贸易] 装饰用品商店；机器安装工"
+    ],
+    "usphone": "[ˈaʊtfɪtər]",
+    "ukphone": "[ˈaʊtfɪtə(r)]"
+  },
+  {
+    "name": "old-timer",
+    "trans": [
+      "n. 老前辈；旧式的人；老人；老资格的人"
+    ],
+    "usphone": "[ˌoʊld ˈtaɪmər]",
+    "ukphone": "[ˌəʊld ˈtaɪmə(r)]"
+  },
+  {
+    "name": "ontological",
+    "trans": [
+      "adj. 本体论的；存在论的"
+    ],
+    "usphone": "[ˌɑːntəˈlɑːdʒɪkl]",
+    "ukphone": "[ˌɒntəˈlɒdʒɪkl]"
+  },
+  {
+    "name": "off-road",
+    "trans": [
+      "adj. 越野的",
+      "adv. 越野地"
+    ],
+    "usphone": "[ˈɔːf roʊd]",
+    "ukphone": "[ˈɒf rəʊd]"
+  },
+  {
+    "name": "okra",
+    "trans": [
+      "n. 秋葵荚，秋葵"
+    ],
+    "usphone": "[ˈoʊkrə]",
+    "ukphone": "[ˈəʊkrə; ˈɒkrə]"
+  },
+  {
+    "name": "ordered",
+    "trans": [
+      "adj. [数] 有序的；整齐的；安排好的",
+      "v. 命令；点餐（order的过去式和过去分词）"
+    ],
+    "usphone": "[ˈɔːrdərd]",
+    "ukphone": "[ˈɔːdəd]"
+  },
+  {
+    "name": "oppositional",
+    "trans": [
+      "adj. 对抗的；反对的"
+    ],
+    "usphone": "[ˌɑːpəˈzɪʃənl]",
+    "ukphone": "[ˌɒpəˈzɪʃənl]"
+  },
+  {
+    "name": "Olympian",
+    "trans": [
+      "adj. 威严的；奥林匹克竞赛的；奥林匹斯山的",
+      "n. 奥运会选手"
+    ],
+    "usphone": "[əˈlɪmpiən]",
+    "ukphone": "[əˈlɪmpiən]"
+  },
+  {
+    "name": "operatic",
+    "trans": [
+      "adj. 歌剧的；歌剧风格的"
+    ],
+    "usphone": "[ˌɑːpəˈrætɪk]",
+    "ukphone": "[ˌɒpəˈrætɪk]"
+  },
+  {
+    "name": "outhouse",
+    "trans": [
+      "n. 外屋；屋外厕所；附属建筑物"
+    ],
+    "usphone": "[ˈaʊthaʊs]",
+    "ukphone": "[ˈaʊthaʊs]"
+  },
+  {
+    "name": "overpriced",
+    "trans": [
+      "adj. 定价过高的",
+      "n. 对…定价过高（overprice的过去分词）"
+    ],
+    "usphone": "[ˌoʊvərˈpraɪst]",
+    "ukphone": "[ˌəʊvəˈpraɪst]"
+  },
+  {
+    "name": "obsessively",
+    "trans": [
+      "adv. 过分地；着迷地，着魔似地"
+    ],
+    "usphone": "[əbˈsesɪvli]",
+    "ukphone": "[əbˈsesɪvli]"
+  },
+  {
+    "name": "one-dimensional",
+    "trans": [
+      "adj. 肤浅的；单面的；幻想的"
+    ],
+    "usphone": "[ˌwʌn dɪˈmenʃənl; ˌwʌn daɪˈmenʃənl]",
+    "ukphone": "['wʌndai'menʃənəl, -di-]"
+  },
+  {
+    "name": "off-duty",
+    "trans": [
+      "adj. 下了班的"
+    ],
+    "usphone": "[ˌɔːf ˈduːti]",
+    "ukphone": "[ˌɒf ˈdjuːti]"
+  },
+  {
+    "name": "offensively",
+    "trans": [
+      "adv. 冒犯地；讨厌地"
+    ],
+    "usphone": "[əˈfensɪvli]",
+    "ukphone": "[əˈfensɪvli]"
+  },
+  {
+    "name": "overzealous",
+    "trans": [
+      "adj. 过分热心的"
+    ],
+    "usphone": "[ˌoʊvərˈzeləs]",
+    "ukphone": "[ˌəʊvəˈzeləs]"
+  },
+  {
+    "name": "offered",
+    "trans": [
+      "v. 提供，提议；奉献（offer过去时态）",
+      "adj. 提供的，提议的"
+    ],
+    "usphone": "[ˈɔːfərd]",
+    "ukphone": "[ˈɒfəd]"
+  },
+  {
+    "name": "overdrive",
+    "trans": [
+      "vt. 驱使过度；虐待；工作过度",
+      "n. 超速档；[机] 超速传动"
+    ],
+    "usphone": "[ˈoʊvərdraɪv]",
+    "ukphone": "[ˈəʊvədraɪv]"
+  },
+  {
+    "name": "operationalize",
+    "trans": [
+      "vt. 使开始运转；实施；使用于操作"
+    ],
+    "usphone": "[ˌɑːpəˈreɪʃənəlaɪz]",
+    "ukphone": "[ɒpəˈreɪʃənlaɪz]"
+  },
+  {
+    "name": "old-style",
+    "trans": [
+      "adj. 旧式的；老派的"
+    ],
+    "usphone": "[ˈoʊld staɪl]",
+    "ukphone": "[ˈəʊld staɪl]"
+  },
+  {
+    "name": "overwinter",
+    "trans": [
+      "vi. 过冬",
+      "vt. 过冬"
+    ],
+    "usphone": "[ˌoʊvərˈwɪntər]",
+    "ukphone": "[ˌəʊvəˈwɪntə(r)]"
+  },
+  {
+    "name": "overladen",
+    "trans": [
+      "adj. 装载过多的，过分的",
+      "v. 使装载过多，使超载，使负担过重( overlade的过去分词 )"
+    ],
+    "usphone": "[ˌoʊvərˈleɪdən]",
+    "ukphone": "[ˌəʊvəˈleɪd(ə)n]"
+  },
+  {
+    "name": "oceangoing",
+    "trans": [
+      "adj. 远洋航行的；海上运输的"
+    ],
+    "usphone": "[ˈoʊʃənˌɡoʊɪŋ]",
+    "ukphone": "[ˈəʊʃənˌɡəʊɪŋ]"
+  },
+  {
+    "name": "oases",
+    "trans": [
+      "n. 绿洲（oasis的复数形式）"
+    ],
+    "usphone": "[ˈoəsiz]",
+    "ukphone": "[əʊˈeɪsiːz]"
+  },
+  {
+    "name": "open-source",
+    "trans": [
+      "adj. （计算机） 开放源代码"
+    ],
+    "usphone": "[ˌoʊpən ˈsɔːrs]",
+    "ukphone": "[ˌəʊpən ˈsɔːs]"
+  },
+  {
+    "name": "offside",
+    "trans": [
+      "n. 越位",
+      "adj. 越位的",
+      "adv. 越位地"
+    ],
+    "usphone": "[ˌɔːfˈsaɪd]",
+    "ukphone": "[ˌɒfˈsaɪd]"
+  },
+  {
+    "name": "oligophagous",
+    "trans": [
+      "adj. 寡食性的，狭食性的"
+    ],
+    "usphone": "[ˌɑːlɪˈɡɑːfəɡəs]",
+    "ukphone": "[ˌɒlɪˈɡɒfəɡəs]"
+  },
+  {
+    "name": "optometry",
+    "trans": [
+      "n. 验光；[眼科] 视力测定法"
+    ],
+    "usphone": "[ɑːpˈtɑːmətri]",
+    "ukphone": "[ɒpˈtɒmətri]"
+  },
+  {
+    "name": "ostosis",
+    "trans": [
+      "n. 骨质生成; 骨生成; 骨发生"
+    ],
+    "usphone": "[ɑːsˈtoʊsɪs]",
+    "ukphone": "[ɒsˈtəʊsɪs]"
+  },
+  {
+    "name": "opaline",
+    "trans": [
+      "adj. 蛋白石状的",
+      "n. 乳白玻璃，乳白色"
+    ],
+    "usphone": "[ˈoʊpəlɪn]",
+    "ukphone": "[ˈəʊp(ə)laɪn; -lɪn]"
+  },
+  {
+    "name": "ole",
+    "trans": [
+      "abbr. 对象链接和嵌入（Object Linkingand Embedding）"
+    ],
+    "usphone": "[oʊl]",
+    "ukphone": "[əʊl]"
+  },
+  {
+    "name": "ogre",
+    "trans": [
+      "n. 食人魔鬼，怪物（童话等中的）；令人害怕的人"
+    ],
+    "usphone": "[ˈoʊɡər]",
+    "ukphone": "[ˈəʊɡə(r)]"
+  },
+  {
+    "name": "oversell",
+    "trans": [
+      "vt. 销售过多",
+      "vi. 卖空；过分吹嘘",
+      "n. 过分的推销；过多的销售"
+    ],
+    "usphone": "[ˌoʊvərˈsel]",
+    "ukphone": "[ˌəʊvəˈsel]"
+  },
+  {
+    "name": "overcook",
+    "trans": [
+      "vt. 烹调过度"
+    ],
+    "usphone": "[ˌoʊvərˈkʊk]",
+    "ukphone": "[ˌəʊvəˈkʊk]"
+  },
+  {
+    "name": "overwater",
+    "trans": [
+      "adj. 水上的；越过水域的"
+    ],
+    "usphone": "[ˈovəˈwɔtər]",
+    "ukphone": "[ˌəʊvəˈwɔːtə(r)]"
+  },
+  {
+    "name": "oystercatcher",
+    "trans": [
+      "n. （美）蛎鹬"
+    ],
+    "usphone": "[ˈɔɪstərkætʃərˌˈɔɪstərketʃər]",
+    "ukphone": "[ˈɔɪstəkætʃə(r)]"
+  },
+  {
+    "name": "outback",
+    "trans": [
+      "n. 内地",
+      "adv. 在内地；往内地",
+      "adj. 内地的"
+    ],
+    "usphone": "[ˈaʊtbæk]",
+    "ukphone": "[ˈaʊtbæk]"
+  },
+  {
+    "name": "overachieve",
+    "trans": [
+      "vi. 完成得比预期要好",
+      "vt. 做得比预期的更好"
+    ],
+    "usphone": "[ˌoʊvərəˈtʃiːv]",
+    "ukphone": "[ˌəʊvərəˈtʃiːv]"
+  },
+  {
+    "name": "Ozone",
+    "trans": [
+      "n. [化学] 臭氧；新鲜的空气"
+    ],
+    "usphone": "[ˈoʊzoʊn]",
+    "ukphone": "[ˈəʊzəʊn]"
+  }
+]

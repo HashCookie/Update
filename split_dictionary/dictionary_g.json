@@ -1,0 +1,9723 @@
+[
+  {
+    "name": "government",
+    "trans": [
+      "n. 政府；政体；管辖"
+    ],
+    "usphone": "[ˈɡʌvərnmənt]",
+    "ukphone": "[ˈɡʌvənmənt]"
+  },
+  {
+    "name": "govern",
+    "trans": [
+      "vt. 管理；支配；统治；控制",
+      "vi. 居支配地位；进行统治"
+    ],
+    "usphone": "[ˈɡʌvərn]",
+    "ukphone": "[ˈɡʌv(ə)n]"
+  },
+  {
+    "name": "governor",
+    "trans": [
+      "n. 主管人员；统治者，管理者；[自] 调节器；地方长官"
+    ],
+    "usphone": "[ˈɡʌvərnər]",
+    "ukphone": "[ˈɡʌvənə(r)]"
+  },
+  {
+    "name": "governance",
+    "trans": [
+      "n. 管理；统治；支配"
+    ],
+    "usphone": "[ˈɡʌvərnəns]",
+    "ukphone": "[ˈɡʌvənəns]"
+  },
+  {
+    "name": "graph",
+    "trans": [
+      "n. 图表；曲线图",
+      "vt. 用曲线图表示"
+    ],
+    "usphone": "[ɡræf]",
+    "ukphone": "[ɡrɑːf]"
+  },
+  {
+    "name": "graphic",
+    "trans": [
+      "adj. 形象的；图表的；绘画似的"
+    ],
+    "usphone": "[ˈɡræfɪk]",
+    "ukphone": "[ˈɡræfɪk]"
+  },
+  {
+    "name": "glance",
+    "trans": [
+      "n. 一瞥；一滑；闪光",
+      "vt. 扫视；瞥见；擦过",
+      "vi. 扫视，匆匆一看；反光；瞥闪，瞥见"
+    ],
+    "usphone": "[ɡlæns]",
+    "ukphone": "[ɡlɑːns]"
+  },
+  {
+    "name": "glimpse",
+    "trans": [
+      "n. 一瞥，一看",
+      "vt. 瞥见",
+      "vi. 瞥见"
+    ],
+    "usphone": "[ɡlɪmps]",
+    "ukphone": "[ɡlɪmps]"
+  },
+  {
+    "name": "gaze",
+    "trans": [
+      "n. 凝视；注视",
+      "vi. 凝视；注视"
+    ],
+    "usphone": "[ɡeɪz]",
+    "ukphone": "[ɡeɪz]"
+  },
+  {
+    "name": "glare",
+    "trans": [
+      "n. 刺眼；耀眼的光；受公众注目",
+      "vt. 瞪视；发眩光",
+      "vi. 瞪眼表示"
+    ],
+    "usphone": "[ɡler]",
+    "ukphone": "[ɡleə(r)]"
+  },
+  {
+    "name": "grasp",
+    "trans": [
+      "n. 抓住；理解；控制",
+      "vi. 抓",
+      "vt. 抓住；领会"
+    ],
+    "usphone": "[ɡræsp]",
+    "ukphone": "[ɡrɑːsp]"
+  },
+  {
+    "name": "generation",
+    "trans": [
+      "n. 一代；产生；一代人；生殖"
+    ],
+    "usphone": "[ˌdʒenəˈreɪʃn]",
+    "ukphone": "[ˌdʒenəˈreɪʃn]"
+  },
+  {
+    "name": "generate",
+    "trans": [
+      "vt. 使形成；发生；生殖；产生物理反应"
+    ],
+    "usphone": "[ˈdʒenəreɪt]",
+    "ukphone": "[ˈdʒenəreɪt]"
+  },
+  {
+    "name": "generative",
+    "trans": [
+      "adj. 生殖的；生产的；有生殖力的；有生产力的"
+    ],
+    "usphone": "[ˈdʒenərətɪv]",
+    "ukphone": "[ˈdʒenərətɪv]"
+  },
+  {
+    "name": "gear",
+    "trans": [
+      "n. 齿轮；装置，工具；传动装置",
+      "adj. 好极了",
+      "vt. 开动；搭上齿轮；使……适合；使……准备好",
+      "vi. 适合；搭上齿轮；开始工作"
+    ],
+    "usphone": "[ɡɪr]",
+    "ukphone": "[ɡɪə(r)]"
+  },
+  {
+    "name": "global",
+    "trans": [
+      "adj. 全球的；总体的；球形的"
+    ],
+    "usphone": "[ˈɡloʊbl]",
+    "ukphone": "[ˈɡləʊb(ə)l]"
+  },
+  {
+    "name": "globally",
+    "trans": [
+      "adv. 全球地；全局地；世界上"
+    ],
+    "usphone": "[ˈɡloʊbəli]",
+    "ukphone": "[ˈɡləʊbəli]"
+  },
+  {
+    "name": "globalization",
+    "trans": [
+      "n. 全球化"
+    ],
+    "usphone": "[ˌɡloʊbələˈzeɪʃn]",
+    "ukphone": "[ˌɡləʊbəlaɪˈzeɪʃn]"
+  },
+  {
+    "name": "globe",
+    "trans": [
+      "n. 地球；地球仪；球体",
+      "vt. 使…成球形",
+      "vi. 成球状"
+    ],
+    "usphone": "[ɡloʊb]",
+    "ukphone": "[ɡləʊb]"
+  },
+  {
+    "name": "generally",
+    "trans": [
+      "adv. 通常；普遍地，一般地"
+    ],
+    "usphone": "[ˈdʒenrəli]",
+    "ukphone": "[ˈdʒenrəli]"
+  },
+  {
+    "name": "general",
+    "trans": [
+      "n. 一般；将军，上将；常规",
+      "adj. 一般的，普通的；综合的；大体的"
+    ],
+    "usphone": "[ˈdʒen(ə)rəl]",
+    "ukphone": "[ˈdʒen(ə)rəl]"
+  },
+  {
+    "name": "generous",
+    "trans": [
+      "adj. 慷慨的，大方的；宽宏大量的；有雅量的"
+    ],
+    "usphone": "[ˈdʒenərəs]",
+    "ukphone": "[ˈdʒenərəs]"
+  },
+  {
+    "name": "genius",
+    "trans": [
+      "n. 天才，天赋；精神"
+    ],
+    "usphone": "[ˈdʒiːniəs]",
+    "ukphone": "[ˈdʒiːniəs]"
+  },
+  {
+    "name": "genuinely",
+    "trans": [
+      "adv. 真诚地；诚实地"
+    ],
+    "usphone": "[ˈdʒenjuɪnli]",
+    "ukphone": "[ˈdʒenjuɪnli]"
+  },
+  {
+    "name": "grammar",
+    "trans": [
+      "n. 语法；语法书"
+    ],
+    "usphone": "[ˈɡræmər]",
+    "ukphone": "[ˈɡræmə(r)]"
+  },
+  {
+    "name": "grammatical",
+    "trans": [
+      "adj. 文法的；符合语法规则的"
+    ],
+    "usphone": "[ɡrəˈmætɪkl]",
+    "ukphone": "[ɡrəˈmætɪkl]"
+  },
+  {
+    "name": "gymnasium",
+    "trans": [
+      "n. 体育馆；健身房"
+    ],
+    "usphone": "[dʒɪmˈneɪziəm]",
+    "ukphone": "[dʒɪmˈneɪziəm]"
+  },
+  {
+    "name": "gene",
+    "trans": [
+      "n. [遗] 基因，遗传因子"
+    ],
+    "usphone": "[dʒiːn]",
+    "ukphone": "[dʒiːn]"
+  },
+  {
+    "name": "genetic",
+    "trans": [
+      "adj. 遗传的；基因的；起源的"
+    ],
+    "usphone": "[dʒəˈnetɪk]",
+    "ukphone": "[dʒəˈnetɪk]"
+  },
+  {
+    "name": "genetics",
+    "trans": [
+      "n. 遗传学"
+    ],
+    "usphone": "[dʒəˈnetɪks]",
+    "ukphone": "[dʒəˈnetɪks]"
+  },
+  {
+    "name": "geneticist",
+    "trans": [
+      "n. 遗传学者"
+    ],
+    "usphone": "[dʒəˈnetɪsɪst]",
+    "ukphone": "[dʒəˈnetɪsɪst]"
+  },
+  {
+    "name": "genetically",
+    "trans": [
+      "adv. 从遗传学角度；从基因方面"
+    ],
+    "usphone": "[dʒəˈnetɪkli]",
+    "ukphone": "[dʒəˈnetɪkli]"
+  },
+  {
+    "name": "gender",
+    "trans": [
+      "n. 性；性别；性交",
+      "vt. 生（过去式gendered，过去分词gendered，现在分词gendering，第三人称单数genders，形容词genderless）"
+    ],
+    "usphone": "[ˈdʒendər]",
+    "ukphone": "[ˈdʒendə(r)]"
+  },
+  {
+    "name": "gentleman",
+    "trans": [
+      "n. 先生；绅士；有身份的人"
+    ],
+    "usphone": "[ˈdʒent(ə)lmən]",
+    "ukphone": "[ˈdʒentlmən]"
+  },
+  {
+    "name": "glue",
+    "trans": [
+      "n. 胶；各种胶合物",
+      "vt. 粘合；似胶般固着于"
+    ],
+    "usphone": "[ɡluː]",
+    "ukphone": "[ɡluː]"
+  },
+  {
+    "name": "graduate",
+    "trans": [
+      "n. 研究生；毕业生",
+      "adj. 毕业的；研究生的",
+      "vt. 授予…学位；分等级；标上刻度",
+      "vi. 毕业；渐变"
+    ],
+    "usphone": "[ˈɡrædʒuət]",
+    "ukphone": "[ˈɡrædʒuət]"
+  },
+  {
+    "name": "graduation",
+    "trans": [
+      "n. 毕业；毕业典礼；刻度，分度；分等级"
+    ],
+    "usphone": "[ˌɡrædʒuˈeɪʃn]",
+    "ukphone": "[ˌɡrædʒuˈeɪʃ(ə)n]"
+  },
+  {
+    "name": "grade",
+    "trans": [
+      "n. 年级；等级；成绩；级别；阶段",
+      "vt. 评分；把…分等级",
+      "vi. 分等级；逐渐变化"
+    ],
+    "usphone": "[ɡreɪd]",
+    "ukphone": "[ɡreɪd]"
+  },
+  {
+    "name": "gradual",
+    "trans": [
+      "n. 弥撒升阶圣歌集",
+      "adj. 逐渐的；平缓的"
+    ],
+    "usphone": "[ˈɡrædʒuəl]",
+    "ukphone": "[ˈɡrædʒuəl]"
+  },
+  {
+    "name": "gradually",
+    "trans": [
+      "adv. 逐步地；渐渐地"
+    ],
+    "usphone": "[ˈɡrædʒuəli]",
+    "ukphone": "[ˈɡrædʒuəli]"
+  },
+  {
+    "name": "grant",
+    "trans": [
+      "n. 拨款；[法] 授予物",
+      "vt. 授予；允许；承认",
+      "vi. 同意"
+    ],
+    "usphone": "[ɡrænt]",
+    "ukphone": "[ɡrɑːnt]"
+  },
+  {
+    "name": "grand",
+    "trans": [
+      "n. 大钢琴；一千美元",
+      "adj. 宏伟的；豪华的；极重要的"
+    ],
+    "usphone": "[ɡrænd]",
+    "ukphone": "[ɡrænd]"
+  },
+  {
+    "name": "garment",
+    "trans": [
+      "n. 衣服，服装；外表，外观",
+      "vt. 给…穿衣服"
+    ],
+    "usphone": "[ˈɡɑːrmənt]",
+    "ukphone": "[ˈɡɑːmənt]"
+  },
+  {
+    "name": "giant",
+    "trans": [
+      "n. 巨人；伟人；[动] 巨大的动物",
+      "adj. 巨大的；巨人般的"
+    ],
+    "usphone": "[ˈdʒaɪənt]",
+    "ukphone": "[ˈdʒaɪənt]"
+  },
+  {
+    "name": "gigantic",
+    "trans": [
+      "adj. 巨大的，庞大的"
+    ],
+    "usphone": "[dʒaɪˈɡæntɪk]",
+    "ukphone": "[dʒaɪˈɡæntɪk]"
+  },
+  {
+    "name": "guide",
+    "trans": [
+      "n. 指南；向导；入门书",
+      "vt. 引导；带领；操纵",
+      "vi. 担任向导"
+    ],
+    "usphone": "[ɡaɪd]",
+    "ukphone": "[ɡaɪd]"
+  },
+  {
+    "name": "guideline",
+    "trans": [
+      "n. 指导方针",
+      "参考"
+    ],
+    "usphone": "[ˈɡaɪdlaɪn]",
+    "ukphone": "[ˈɡaɪdlaɪn]"
+  },
+  {
+    "name": "guidance",
+    "trans": [
+      "n. 指导，引导；领导"
+    ],
+    "usphone": "[ˈɡaɪdns]",
+    "ukphone": "[ˈɡaɪdns]"
+  },
+  {
+    "name": "guarantee",
+    "trans": [
+      "n. 保证；担保；保证人；保证书；抵押品",
+      "vt. 保证；担保"
+    ],
+    "usphone": "[ˌɡærənˈtiː]",
+    "ukphone": "[ˌɡærənˈtiː]"
+  },
+  {
+    "name": "guard",
+    "trans": [
+      "n. 守卫；警戒；护卫队；防护装置",
+      "vi. 警惕",
+      "vt. 保卫；监视"
+    ],
+    "usphone": "[ɡɑːrd]",
+    "ukphone": "[ɡɑːd]"
+  },
+  {
+    "name": "guardian",
+    "trans": [
+      "n. [法] 监护人，保护人；守护者",
+      "adj. 守护的"
+    ],
+    "usphone": "[ˈɡɑːrdiən]",
+    "ukphone": "[ˈɡɑːdiən]"
+  },
+  {
+    "name": "guardianship",
+    "trans": [
+      "n. 监护；监护人的责任"
+    ],
+    "usphone": "[ˈɡɑːrdiənʃɪp]",
+    "ukphone": "[ˈɡɑːdiənʃɪp]"
+  },
+  {
+    "name": "gap",
+    "trans": [
+      "n. 间隙；缺口；差距；分歧",
+      "vt. 使形成缺口",
+      "vi. 裂开"
+    ],
+    "usphone": "[ɡæp]",
+    "ukphone": "[ɡæp]"
+  },
+  {
+    "name": "gather",
+    "trans": [
+      "n. 聚集；衣褶；收获量",
+      "vt. 收集；收割；使…聚集；使…皱起",
+      "vi. 聚集；化脓；皱起"
+    ],
+    "usphone": "[ˈɡæðər]",
+    "ukphone": "[ˈɡæðə(r)]"
+  },
+  {
+    "name": "glory",
+    "trans": [
+      "n. 光荣，荣誉；赞颂",
+      "vi. 自豪，骄傲；狂喜"
+    ],
+    "usphone": "[ˈɡlɔːri]",
+    "ukphone": "[ˈɡlɔːri]"
+  },
+  {
+    "name": "glorious",
+    "trans": [
+      "adj. 光荣的；辉煌的；极好的"
+    ],
+    "usphone": "[ˈɡlɔːriəs]",
+    "ukphone": "[ˈɡlɔːriəs]"
+  },
+  {
+    "name": "grateful",
+    "trans": [
+      "adj. 感谢的；令人愉快的，宜人的"
+    ],
+    "usphone": "[ˈɡreɪtfl]",
+    "ukphone": "[ˈɡreɪtf(ə)l]"
+  },
+  {
+    "name": "gratitude",
+    "trans": [
+      "n. 感谢（的心情）；感激"
+    ],
+    "usphone": "[ˈɡrætɪtuːd]",
+    "ukphone": "[ˈɡrætɪtjuːd]"
+  },
+  {
+    "name": "grave",
+    "trans": [
+      "n. 墓穴，坟墓；死亡",
+      "adj. 重大的；严肃的；黯淡的",
+      "vt. 雕刻；铭记"
+    ],
+    "usphone": "[ɡreɪv; ɡrɑːv]",
+    "ukphone": "[ɡreɪv]"
+  },
+  {
+    "name": "glamor",
+    "trans": [
+      "n. 魅力；魔法；迷人的美（等于glamour）",
+      "vt. 迷惑；使有魅力（等于glamour）"
+    ],
+    "usphone": "[ˈɡlæmər]",
+    "ukphone": "[ˈɡlæmə(r)]"
+  },
+  {
+    "name": "glamour",
+    "trans": [
+      "n. 魅力，魔力；迷人的美",
+      "vt. 迷惑，迷住"
+    ],
+    "usphone": "[ˈɡlæmər]",
+    "ukphone": "[ˈɡlæmə(r)]"
+  },
+  {
+    "name": "gesture",
+    "trans": [
+      "n. 姿态；手势",
+      "vt. 用动作表示",
+      "vi. 作手势；用动作示意"
+    ],
+    "usphone": "[ˈdʒestʃər]",
+    "ukphone": "[ˈdʒestʃə(r)]"
+  },
+  {
+    "name": "guy",
+    "trans": [
+      "n. 男人，家伙",
+      "vt. 嘲弄，取笑",
+      "vi. 逃跑"
+    ],
+    "usphone": "[ɡaɪ]",
+    "ukphone": "[ɡaɪ]"
+  },
+  {
+    "name": "gum",
+    "trans": [
+      "n. 口香糖；树胶；橡皮",
+      "vt. 用胶粘，涂以树胶；使…有粘性"
+    ],
+    "usphone": "[ɡʌm]",
+    "ukphone": "[ɡʌm]"
+  },
+  {
+    "name": "gulf",
+    "trans": [
+      "n. 海湾；深渊；分歧；漩涡",
+      "vt. 吞没"
+    ],
+    "usphone": "[ɡʌlf]",
+    "ukphone": "[ɡʌlf]"
+  },
+  {
+    "name": "grieve",
+    "trans": [
+      "vi. 悲痛，哀悼",
+      "vt. 使悲伤，使苦恼"
+    ],
+    "usphone": "[ɡriːv]",
+    "ukphone": "[ɡriːv]"
+  },
+  {
+    "name": "geographic",
+    "trans": [
+      "adj. 地理的；地理学的"
+    ],
+    "usphone": "[,dʒiə'ɡræfɪk]",
+    "ukphone": "[ˌdʒiːəˈɡræfɪk]"
+  },
+  {
+    "name": "geography",
+    "trans": [
+      "n. 地理；地形"
+    ],
+    "usphone": "[dʒiˈɑːɡrəfi]",
+    "ukphone": "[dʒiˈɒɡrəfi]"
+  },
+  {
+    "name": "geometry",
+    "trans": [
+      "n. 几何学",
+      "几何结构"
+    ],
+    "usphone": "[dʒiˈɑːmətri]",
+    "ukphone": "[dʒiˈɒmətri]"
+  },
+  {
+    "name": "grace",
+    "trans": [
+      "n. 优雅；恩惠；魅力；慈悲",
+      "vt. 使优美"
+    ],
+    "usphone": "[ɡreɪs]",
+    "ukphone": "[ɡreɪs]"
+  },
+  {
+    "name": "groan",
+    "trans": [
+      "n. 呻吟；叹息；吱嘎声",
+      "vt. 呻吟；抱怨",
+      "vi. 呻吟；抱怨；发吱嘎声"
+    ],
+    "usphone": "[ɡroʊn]",
+    "ukphone": "[ɡrəʊn]"
+  },
+  {
+    "name": "greet",
+    "trans": [
+      "vt. 欢迎，迎接；致敬，致意；映入眼帘"
+    ],
+    "usphone": "[ɡriːt]",
+    "ukphone": "[ɡriːt]"
+  },
+  {
+    "name": "greeting",
+    "trans": [
+      "n. 问候，招呼；祝贺",
+      "v. 致敬，欢迎（greet的现在分词）"
+    ],
+    "usphone": "[ˈɡriːtɪŋ]",
+    "ukphone": "[ˈɡriːtɪŋ]"
+  },
+  {
+    "name": "gossip",
+    "trans": [
+      "n. 小道传闻；随笔；爱说长道短的人",
+      "vi. 闲聊；传播流言蜚语"
+    ],
+    "usphone": "[ˈɡɑːsɪp]",
+    "ukphone": "[ˈɡɒsɪp]"
+  },
+  {
+    "name": "gadget",
+    "trans": [
+      "n. 小玩意；小器具；小配件；诡计"
+    ],
+    "usphone": "[ˈɡædʒɪt]",
+    "ukphone": "[ˈɡædʒɪt]"
+  },
+  {
+    "name": "galaxy",
+    "trans": [
+      "n. 银河；[天] 星系；银河系；一群显赫的人",
+      "n. 三星智能手机品牌 2015年三星中国公布Galaxy的中文名称为“盖乐世”（Galaxy）",
+      "[ 复数galaxies ]"
+    ],
+    "usphone": "[ˈɡæləksi]",
+    "ukphone": "[ˈɡæləksi]"
+  },
+  {
+    "name": "gaol",
+    "trans": [
+      "n. 监狱",
+      "vt. 监禁"
+    ],
+    "usphone": "[dʒeɪl]",
+    "ukphone": "[dʒeɪl]"
+  },
+  {
+    "name": "gauge",
+    "trans": [
+      "n. 计量器；标准尺寸；容量规格",
+      "vt. 测量；估计；给…定规格"
+    ],
+    "usphone": "[ɡeɪdʒ]",
+    "ukphone": "[ɡeɪdʒ]"
+  },
+  {
+    "name": "generalize",
+    "trans": [
+      "vi. 形成概念",
+      "vt. 概括；推广；使...一般化"
+    ],
+    "usphone": "[ˈdʒenrəlaɪz]",
+    "ukphone": "[ˈdʒenrəlaɪz]"
+  },
+  {
+    "name": "generator",
+    "trans": [
+      "n. 发电机；发生器；生产者"
+    ],
+    "usphone": "[ˈdʒenəreɪtər]",
+    "ukphone": "[ˈdʒenəreɪtə(r)]"
+  },
+  {
+    "name": "gentle",
+    "trans": [
+      "n. 蛆，饵",
+      "adj. 温和的；文雅的",
+      "vt. 使温和，使驯服"
+    ],
+    "usphone": "[ˈdʒentl]",
+    "ukphone": "[ˈdʒent(ə)l]"
+  },
+  {
+    "name": "gently",
+    "trans": [
+      "adv. 轻轻地；温柔地，温和地"
+    ],
+    "usphone": "[ˈdʒentli]",
+    "ukphone": "[ˈdʒentli]"
+  },
+  {
+    "name": "geology",
+    "trans": [
+      "n. 地质学；地质情况"
+    ],
+    "usphone": "[dʒiˈɑːlədʒi]",
+    "ukphone": "[dʒiˈɒlədʒi]"
+  },
+  {
+    "name": "germ",
+    "trans": [
+      "n. [植] 胚芽，萌芽；细菌",
+      "vi. 萌芽"
+    ],
+    "usphone": "[dʒɜːrm]",
+    "ukphone": "[dʒɜːm]"
+  },
+  {
+    "name": "giggle",
+    "trans": [
+      "n. 吃吃的笑",
+      "vt. 咯咯地笑着说",
+      "vi. 傻笑；咯咯地笑"
+    ],
+    "usphone": "[ˈɡɪɡl]",
+    "ukphone": "[ˈɡɪɡ(ə)l]"
+  },
+  {
+    "name": "glide",
+    "trans": [
+      "vi. 滑翔；滑行；悄悄地走；消逝",
+      "vt. 使滑行；使滑动",
+      "n. 滑翔；滑行；滑移；滑音"
+    ],
+    "usphone": "[ɡlaɪd]",
+    "ukphone": "[ɡlaɪd]"
+  },
+  {
+    "name": "glitter",
+    "trans": [
+      "vi. 闪光；闪烁",
+      "n. 闪光；灿烂"
+    ],
+    "usphone": "[ˈɡlɪtər]",
+    "ukphone": "[ˈɡlɪtə(r)]"
+  },
+  {
+    "name": "gloomy",
+    "trans": [
+      "adj. 黑暗的；沮丧的；阴郁的"
+    ],
+    "usphone": "[ˈɡluːmi]",
+    "ukphone": "[ˈɡluːmi]"
+  },
+  {
+    "name": "glow",
+    "trans": [
+      "n. 灼热；色彩鲜艳；兴高采烈",
+      "vi. 发热；洋溢；绚丽夺目"
+    ],
+    "usphone": "[ɡloʊ]",
+    "ukphone": "[ɡləʊ]"
+  },
+  {
+    "name": "gorgeous",
+    "trans": [
+      "adj. 华丽的，灿烂的；极好的"
+    ],
+    "usphone": "[ˈɡɔːrdʒəs]",
+    "ukphone": "[ˈɡɔːdʒəs]"
+  },
+  {
+    "name": "gown",
+    "trans": [
+      "n. 长袍，长外衣；礼服；睡袍；法衣",
+      "vt. 使穿睡衣"
+    ],
+    "usphone": "[ɡaʊn]",
+    "ukphone": "[ɡaʊn]"
+  },
+  {
+    "name": "grab",
+    "trans": [
+      "n. 攫取；霸占；夺取之物",
+      "vt. 攫取；霸占；将…深深吸引",
+      "vi. 攫取；夺取"
+    ],
+    "usphone": "[ɡræb]",
+    "ukphone": "[ɡræb]"
+  },
+  {
+    "name": "graceful",
+    "trans": [
+      "adj. 优雅的；优美的"
+    ],
+    "usphone": "[ˈɡreɪsfl]",
+    "ukphone": "[ˈɡreɪsf(ə)l]"
+  },
+  {
+    "name": "gracious",
+    "trans": [
+      "adj. 亲切的；高尚的；和蔼的；雅致的",
+      "int. 天哪；哎呀"
+    ],
+    "usphone": "[ˈɡreɪʃəs]",
+    "ukphone": "[ˈɡreɪʃəs]"
+  },
+  {
+    "name": "gravity",
+    "trans": [
+      "n. 重力，地心引力；严重性；庄严"
+    ],
+    "usphone": "[ˈɡrævəti]",
+    "ukphone": "[ˈɡrævəti]"
+  },
+  {
+    "name": "grease",
+    "trans": [
+      "n. 油脂；贿赂",
+      "vt. 涂脂于；贿赂"
+    ],
+    "usphone": "[ɡriːs]",
+    "ukphone": "[ɡriːs]"
+  },
+  {
+    "name": "grief",
+    "trans": [
+      "n. 悲痛；忧伤；不幸"
+    ],
+    "usphone": "[ɡriːf]",
+    "ukphone": "[ɡriːf]"
+  },
+  {
+    "name": "grim",
+    "trans": [
+      "adj. 冷酷的；糟糕的；残忍的"
+    ],
+    "usphone": "[ɡrɪm]",
+    "ukphone": "[ɡrɪm]"
+  },
+  {
+    "name": "grin",
+    "trans": [
+      "n. 露齿笑",
+      "v. 露齿而笑，咧着嘴笑"
+    ],
+    "usphone": "[ɡrɪn]",
+    "ukphone": "[ɡrɪn]"
+  },
+  {
+    "name": "grind",
+    "trans": [
+      "n. 磨；苦工作",
+      "vt. 磨碎；磨快",
+      "vi. 磨碎；折磨"
+    ],
+    "usphone": "[ɡraɪnd]",
+    "ukphone": "[ɡraɪnd]"
+  },
+  {
+    "name": "grip",
+    "trans": [
+      "n. 紧握；柄；支配；握拍方式；拍柄绷带",
+      "vt. 紧握；夹紧",
+      "vi. 抓住"
+    ],
+    "usphone": "[ɡrɪp]",
+    "ukphone": "[ɡrɪp]"
+  },
+  {
+    "name": "grope",
+    "trans": [
+      "n. 摸索；触摸",
+      "vt. 摸索",
+      "vi. 摸索；探索"
+    ],
+    "usphone": "[ɡroʊp]",
+    "ukphone": "[ɡrəʊp]"
+  },
+  {
+    "name": "gross",
+    "trans": [
+      "n. 总额，总数",
+      "adj. 总共的；粗野的；恶劣的；显而易见的",
+      "vt. 总共收入"
+    ],
+    "usphone": "[ɡroʊs]",
+    "ukphone": "[ɡrəʊs]"
+  },
+  {
+    "name": "gun",
+    "trans": [
+      "n. 枪支；枪状物；持枪歹徒",
+      "vt. 向…开枪；开大油门",
+      "vi. 用枪射击；加大油门快速前进"
+    ],
+    "usphone": "[ɡʌn]",
+    "ukphone": "[ɡʌn]"
+  },
+  {
+    "name": "gut",
+    "trans": [
+      "n. 内脏；肠子；剧情；胆量；海峡；勇气；直觉；肠",
+      "vt. 取出内脏；摧毁（建筑物等）的内部",
+      "adj. 简单的；本质的，根本的；本能的，直觉的"
+    ],
+    "usphone": "[ɡʌt]",
+    "ukphone": "[ɡʌt]"
+  },
+  {
+    "name": "gain",
+    "trans": [
+      "n. 增加；利润；收获",
+      "vi. 增加；获利",
+      "vt. 获得；增加；赚到"
+    ],
+    "usphone": "[ɡeɪn]",
+    "ukphone": "[ɡeɪn]"
+  },
+  {
+    "name": "gallery",
+    "trans": [
+      "n. 画廊；走廊；旁听席；地道",
+      "vt. 在…修建走廊；在…挖地道",
+      "vi. 挖地道"
+    ],
+    "usphone": "[ˈɡæləri]",
+    "ukphone": "[ˈɡæləri]"
+  },
+  {
+    "name": "gallon",
+    "trans": [
+      "n. 加仑（容量单位）"
+    ],
+    "usphone": "[ˈɡælən]",
+    "ukphone": "[ˈɡælən]"
+  },
+  {
+    "name": "gamble",
+    "trans": [
+      "n. 赌博；冒险；打赌",
+      "vi. 赌博；孤注一掷；投机；打赌",
+      "vt. 赌博；孤注一掷；冒险假设"
+    ],
+    "usphone": "[ˈɡæmbl]",
+    "ukphone": "[ˈɡæmb(ə)l]"
+  },
+  {
+    "name": "game",
+    "trans": [
+      "n. 游戏；比赛",
+      "adj. 勇敢的",
+      "vi. 赌博"
+    ],
+    "usphone": "[ɡeɪm]",
+    "ukphone": "[ɡeɪm]"
+  },
+  {
+    "name": "gang",
+    "trans": [
+      "n. 群；一伙；一组",
+      "vt. 使成群结队；结伙伤害或恐吓某人",
+      "vi. 成群结队"
+    ],
+    "usphone": "[ɡæŋ]",
+    "ukphone": "[ɡæŋ]"
+  },
+  {
+    "name": "garage",
+    "trans": [
+      "n. 车库；汽车修理厂；飞机库",
+      "vt. 把……送入车库；把（汽车）开进车库"
+    ],
+    "usphone": "[ɡəˈrɑːʒ; ɡəˈrɑːdʒ]",
+    "ukphone": "[ˈɡærɑːʒ]"
+  },
+  {
+    "name": "garbage",
+    "trans": [
+      "n. 垃圾；废物"
+    ],
+    "usphone": "[ˈɡɑːrbɪdʒ]",
+    "ukphone": "[ˈɡɑːbɪdʒ]"
+  },
+  {
+    "name": "garden",
+    "trans": [
+      "n. 花园；菜园",
+      "vt. 栽培花木",
+      "vi. 从事园艺；在园中种植"
+    ],
+    "usphone": "[ˈɡɑːrdn]",
+    "ukphone": "[ˈɡɑːdn]"
+  },
+  {
+    "name": "garlic",
+    "trans": [
+      "n. 大蒜；蒜头"
+    ],
+    "usphone": "[ˈɡɑːrlɪk]",
+    "ukphone": "[ˈɡɑːlɪk]"
+  },
+  {
+    "name": "gas",
+    "trans": [
+      "n. 气体；[矿业] 瓦斯；汽油；毒气",
+      "vt. 加油；毒（死）",
+      "vi. 加油；放出气体；空谈"
+    ],
+    "usphone": "[ɡæs]",
+    "ukphone": "[ɡæs]"
+  },
+  {
+    "name": "gasp",
+    "trans": [
+      "n. 喘气",
+      "vi. 喘气；喘息；渴望",
+      "vt. 气喘吁吁地说；喘着气说话"
+    ],
+    "usphone": "[ɡæsp]",
+    "ukphone": "[ɡɑːsp]"
+  },
+  {
+    "name": "gate",
+    "trans": [
+      "n. 大门；出入口；门道",
+      "vt. 给…装大门"
+    ],
+    "usphone": "[ɡeɪt]",
+    "ukphone": "[ɡeɪt]"
+  },
+  {
+    "name": "gay",
+    "trans": [
+      "n. 同性恋者",
+      "adj. 快乐的；放荡的；艳丽的"
+    ],
+    "usphone": "[ɡeɪ]",
+    "ukphone": "[ɡeɪ]"
+  },
+  {
+    "name": "geocentric",
+    "trans": [
+      "adj. 以地球为中心的；由地心开始测量的"
+    ],
+    "usphone": "[ˌdʒiːoʊˈsentrɪk]",
+    "ukphone": "[ˌdʒiːəʊˈsentrɪk]"
+  },
+  {
+    "name": "get",
+    "trans": [
+      "n. 生殖；幼兽",
+      "vi. 成为；变得；到达",
+      "vt. 使得；获得；受到；变成"
+    ],
+    "usphone": "[ɡet]",
+    "ukphone": "[ɡet]"
+  },
+  {
+    "name": "ghost",
+    "trans": [
+      "n. 鬼，幽灵",
+      "vt. 作祟于；替…捉刀；为人代笔",
+      "vi. 替人代笔"
+    ],
+    "usphone": "[ɡoʊst]",
+    "ukphone": "[ɡəʊst]"
+  },
+  {
+    "name": "gift",
+    "trans": [
+      "n. 礼物；天赋；赠品",
+      "vt. 赋予；向…赠送"
+    ],
+    "usphone": "[ɡɪft]",
+    "ukphone": "[ɡɪft]"
+  },
+  {
+    "name": "girl",
+    "trans": [
+      "n. 女孩；姑娘，未婚女子；女职员，女演员；（男人的）女朋友",
+      "n. （捷）吉尔"
+    ],
+    "usphone": "[ɡɜːrl]",
+    "ukphone": "[ɡɜːl]"
+  },
+  {
+    "name": "give",
+    "trans": [
+      "n. 弹性；弯曲；伸展性",
+      "vi. 捐赠；面向；有弹性；气候转暖",
+      "vt. 给；产生；让步；举办；授予"
+    ],
+    "usphone": "[ɡɪv]",
+    "ukphone": "[ɡɪv]"
+  },
+  {
+    "name": "glad",
+    "trans": [
+      "adj. 高兴的；乐意的；令人高兴的；灿烂美丽的",
+      "vt. 使高兴"
+    ],
+    "usphone": "[ɡlæd]",
+    "ukphone": "[ɡlæd]"
+  },
+  {
+    "name": "glass",
+    "trans": [
+      "n. 玻璃；玻璃制品；镜子",
+      "vt. 反映；给某物加玻璃",
+      "vi. 成玻璃状"
+    ],
+    "usphone": "[ɡlæs]",
+    "ukphone": "[ɡlɑːs]"
+  },
+  {
+    "name": "glove",
+    "trans": [
+      "n. 手套",
+      "vt. 给…戴手套"
+    ],
+    "usphone": "[ɡlʌv]",
+    "ukphone": "[ɡlʌv]"
+  },
+  {
+    "name": "go",
+    "trans": [
+      "n. 去；进行；尝试",
+      "vi. 走；达到；运转；趋于",
+      "vt. 忍受；出产；以…打赌",
+      "[复数 goes 第三人称单数 goes 过去式 went 过去分词 gone 现在分词 going]"
+    ],
+    "usphone": "[ɡoʊ]",
+    "ukphone": "[ɡəʊ]"
+  },
+  {
+    "name": "goal",
+    "trans": [
+      "n. 目标；球门，得分数；终点",
+      "vi. 攻门，射门得分"
+    ],
+    "usphone": "[ɡoʊl]",
+    "ukphone": "[ɡəʊl]"
+  },
+  {
+    "name": "goat",
+    "trans": [
+      "n. 山羊；替罪羊（美俚）；色鬼（美俚）"
+    ],
+    "usphone": "[goʊt]",
+    "ukphone": "[ɡəʊt]"
+  },
+  {
+    "name": "god",
+    "trans": [
+      "n. 神；（大写首字母时）上帝",
+      "vt. 膜拜，崇拜"
+    ],
+    "usphone": "[ɡɑːd]",
+    "ukphone": "[ɡɒd]"
+  },
+  {
+    "name": "gold",
+    "trans": [
+      "n. 金，黄金；金色；金币",
+      "adj. 金的，金制的；金色的"
+    ],
+    "usphone": "[ɡoʊld]",
+    "ukphone": "[ɡəʊld]"
+  },
+  {
+    "name": "golden",
+    "trans": [
+      "adj. 金色的，黄金般的；珍贵的；金制的"
+    ],
+    "usphone": "[ˈɡoʊldən]",
+    "ukphone": "[ˈɡəʊldən]"
+  },
+  {
+    "name": "golf",
+    "trans": [
+      "n. 高尔夫球；高尔夫球运动",
+      "vi. 打高尔夫球"
+    ],
+    "usphone": "[ɡɑːlf]",
+    "ukphone": "[ɡɒlf]"
+  },
+  {
+    "name": "good",
+    "trans": [
+      "n. 好处；善行；慷慨的行为",
+      "adj. 好的；优良的；愉快的；虔诚的",
+      "adv. 好"
+    ],
+    "usphone": "[ɡʊd]",
+    "ukphone": "[ɡʊd]"
+  },
+  {
+    "name": "goodbye",
+    "trans": [
+      "int. 再见",
+      "放弃",
+      "告别"
+    ],
+    "usphone": "[ˌɡʊdˈbaɪ]",
+    "ukphone": "[ˌɡʊdˈbaɪ]"
+  },
+  {
+    "name": "goodness",
+    "trans": [
+      "n. 善良，优秀 ；精华，养分",
+      "int. 天哪"
+    ],
+    "usphone": "[ˈɡʊdnəs]",
+    "ukphone": "[ˈɡʊdnəs]"
+  },
+  {
+    "name": "goods",
+    "trans": [
+      "n. 商品；动产；合意的人；真本领"
+    ],
+    "usphone": "[ɡʊdz]",
+    "ukphone": "[ɡʊdz]"
+  },
+  {
+    "name": "goose",
+    "trans": [
+      "n. 鹅；鹅肉；傻瓜；雌鹅",
+      "vt. 突然加大油门；嘘骂"
+    ],
+    "usphone": "[ɡuːs]",
+    "ukphone": "[ɡuːs]"
+  },
+  {
+    "name": "grain",
+    "trans": [
+      "n. 粮食；颗粒；[作物] 谷物；纹理",
+      "vt. 使成谷粒",
+      "vi. 成谷粒"
+    ],
+    "usphone": "[ɡreɪn]",
+    "ukphone": "[ɡreɪn]"
+  },
+  {
+    "name": "gramme",
+    "trans": [
+      "n. 克"
+    ],
+    "usphone": "[ɡræm]",
+    "ukphone": "[ɡræm]"
+  },
+  {
+    "name": "grandmother",
+    "trans": [
+      "n. 祖母；女祖先",
+      "vt. 当…的祖母",
+      "vi. 当祖母"
+    ],
+    "usphone": "[ˈɡrænmʌðər]",
+    "ukphone": "[ˈɡrænmʌðə(r)]"
+  },
+  {
+    "name": "grape",
+    "trans": [
+      "n. 葡萄；葡萄酒；葡萄树；葡萄色"
+    ],
+    "usphone": "[ɡreɪp]",
+    "ukphone": "[ɡreɪp]"
+  },
+  {
+    "name": "grass",
+    "trans": [
+      "n. 草；草地，草坪",
+      "vt. 放牧；使……长满草；使……吃草",
+      "vi. 长草"
+    ],
+    "usphone": "[ɡræs]",
+    "ukphone": "[ɡrɑːs]"
+  },
+  {
+    "name": "graze",
+    "trans": [
+      "n. 放牧；轻擦",
+      "vi. 吃草；擦伤",
+      "vt. 放牧；擦伤"
+    ],
+    "usphone": "[ɡreɪz]",
+    "ukphone": "[ɡreɪz]"
+  },
+  {
+    "name": "great",
+    "trans": [
+      "n. 大师；大人物；伟人们",
+      "adj. 伟大的，重大的；极好的，好的；主要的"
+    ],
+    "usphone": "[ɡreɪt]",
+    "ukphone": "[ɡreɪt]"
+  },
+  {
+    "name": "greedy",
+    "trans": [
+      "adj. 贪婪的；贪吃的；渴望的"
+    ],
+    "usphone": "[ˈɡriːdi]",
+    "ukphone": "[ˈɡriːdi]"
+  },
+  {
+    "name": "green",
+    "trans": [
+      "n. 绿色；青春",
+      "adj. 绿色的；青春的",
+      "vt. 使…变绿色",
+      "vi. 变绿色"
+    ],
+    "usphone": "[ɡriːn]",
+    "ukphone": "[ɡriːn]"
+  },
+  {
+    "name": "greenhouse",
+    "trans": [
+      "n. 温室",
+      "造成温室效应的"
+    ],
+    "usphone": "[ˈɡriːnhaʊs]",
+    "ukphone": "[ˈɡriːnhaʊs]"
+  },
+  {
+    "name": "grey",
+    "trans": [
+      "n. 灰色",
+      "adj. 灰色的；灰白的",
+      "vt. 使变成灰色；使变老",
+      "vi. 变成灰色；老化"
+    ],
+    "usphone": "[ɡreɪ]",
+    "ukphone": "[ɡreɪ]"
+  },
+  {
+    "name": "grocer",
+    "trans": [
+      "n. 杂货店；食品商"
+    ],
+    "usphone": "[ˈɡroʊsər]",
+    "ukphone": "[ˈɡrəʊsə(r)]"
+  },
+  {
+    "name": "ground",
+    "trans": [
+      "n. 地面；土地；范围；战场;根据",
+      "v. 研磨（grind的过去分词）；压迫",
+      "adj. 土地的；地面上的；磨碎的；磨过的",
+      "vt. 使接触地面；打基础；使搁浅",
+      "vi. 着陆；搁浅"
+    ],
+    "usphone": "[ɡraʊnd]",
+    "ukphone": "[ɡraʊnd]"
+  },
+  {
+    "name": "group",
+    "trans": [
+      "n. 组；团体",
+      "adj. 群的；团体的",
+      "vt. 把…聚集；把…分组",
+      "vi. 聚合"
+    ],
+    "usphone": "[ɡruːp]",
+    "ukphone": "[ɡruːp]"
+  },
+  {
+    "name": "grown-up",
+    "trans": [
+      "n. 成年人",
+      "adj. 成熟的"
+    ],
+    "usphone": "['ɡrəun'ʌp]",
+    "ukphone": "['ɡrəun'ʌp]"
+  },
+  {
+    "name": "growth",
+    "trans": [
+      "n. 增长；发展；生长；种植"
+    ],
+    "usphone": "[ɡroʊθ]",
+    "ukphone": "[ɡrəʊθ]"
+  },
+  {
+    "name": "guess",
+    "trans": [
+      "n. 猜测；推测",
+      "vi. 猜；推测；猜中",
+      "vt. 猜测；认为；推测；猜中",
+      "n. 盖尔斯（美国服装品牌）"
+    ],
+    "usphone": "[ɡes]",
+    "ukphone": "[ɡes]"
+  },
+  {
+    "name": "guest",
+    "trans": [
+      "n. 客人，宾客；顾客",
+      "adj. 客人的；特邀的，客座的",
+      "vt. 款待，招待",
+      "vi. 作客，寄宿"
+    ],
+    "usphone": "[ɡest]",
+    "ukphone": "[ɡest]"
+  },
+  {
+    "name": "guilt",
+    "trans": [
+      "n. 犯罪，过失；内疚"
+    ],
+    "usphone": "[ɡɪlt]",
+    "ukphone": "[ɡɪlt]"
+  },
+  {
+    "name": "guilty",
+    "trans": [
+      "adj. 有罪的；内疚的"
+    ],
+    "usphone": "[ˈɡɪlti]",
+    "ukphone": "[ˈɡɪlti]"
+  },
+  {
+    "name": "guitar",
+    "trans": [
+      "n. 吉他，六弦琴",
+      "vi. 弹吉他"
+    ],
+    "usphone": "[ɡɪˈtɑːr]",
+    "ukphone": "[ɡɪˈtɑː(r)]"
+  },
+  {
+    "name": "grill",
+    "trans": [
+      "n. 烤架，铁格子；烤肉",
+      "vi. 拷问，严加盘问",
+      "vt. 烧，烤；"
+    ],
+    "usphone": "[ɡrɪl]",
+    "ukphone": "[ɡrɪl]"
+  },
+  {
+    "name": "geographical",
+    "trans": [
+      "adj. 地理的；地理学的"
+    ],
+    "usphone": "[ˌdʒiːəˈɡræfɪkl]",
+    "ukphone": "[ˌdʒiːəˈɡræfɪk(ə)l]"
+  },
+  {
+    "name": "greed",
+    "trans": [
+      "n. 贪婪，贪心"
+    ],
+    "usphone": "[ɡriːd]",
+    "ukphone": "[ɡriːd]"
+  },
+  {
+    "name": "given",
+    "trans": [
+      "prep. 考虑到",
+      "v. 给予（give的过去分词）",
+      "adj. 赠予的；沉溺的；规定的"
+    ],
+    "usphone": "[ˈɡɪvn]",
+    "ukphone": "[ˈɡɪv(ə)n]"
+  },
+  {
+    "name": "gram",
+    "trans": [
+      "n. 克；鹰嘴豆（用作饲料）"
+    ],
+    "usphone": "[ɡræm]",
+    "ukphone": "[ɡræm]"
+  },
+  {
+    "name": "gender-neutral",
+    "trans": [
+      "adj. 性别中立的；不分性别的"
+    ],
+    "usphone": "[ˌdʒendər ˈnuːtrəl]",
+    "ukphone": "[ˌdʒendə ˈnjuːtrəl]"
+  },
+  {
+    "name": "genome",
+    "trans": [
+      "n. 基因组；染色体组"
+    ],
+    "usphone": "[ˈdʒiːnoʊm]",
+    "ukphone": "[ˈdʒiːnəʊm]"
+  },
+  {
+    "name": "greengrocer",
+    "trans": [
+      "n. 蔬菜水果商；菜贩"
+    ],
+    "usphone": "[ˈɡriːnɡroʊsər]",
+    "ukphone": "[ˈɡriːnɡrəʊsə(r)]"
+  },
+  {
+    "name": "gravitate",
+    "trans": [
+      "vi. 受引力作用；被吸引"
+    ],
+    "usphone": "[ˈɡrævɪteɪt]",
+    "ukphone": "[ˈɡrævɪteɪt]"
+  },
+  {
+    "name": "generational",
+    "trans": [
+      "adj. 一代的；生育的"
+    ],
+    "usphone": "[ˌdʒenəˈreɪʃənl]",
+    "ukphone": "[ˌdʒenəˈreɪʃənl]"
+  },
+  {
+    "name": "grownup",
+    "trans": [
+      " 成人"
+    ],
+    "usphone": "[ˌɡroʊnˈʌp]",
+    "ukphone": "['ɡrəʊn,ʌp]"
+  },
+  {
+    "name": "games",
+    "trans": [
+      "n. 游戏；比赛（game的复数形式）；游戏程序",
+      "v. 赌博（game的第三人称单数）"
+    ],
+    "usphone": "[ɡeɪmz]",
+    "ukphone": "[ɡeɪmz]"
+  },
+  {
+    "name": "grassroots",
+    "trans": [
+      "n. 草根；基础",
+      "adj. 基层的；草根的；乡村的"
+    ],
+    "usphone": "[ˈɡræsˈrʊts]",
+    "ukphone": "[ˈɡraːsruːts]"
+  },
+  {
+    "name": "grapple",
+    "trans": [
+      "n. 抓住；格斗",
+      "vi. 抓住；格斗；抓斗机",
+      "vt. 抓住；与…格斗"
+    ],
+    "usphone": "[ˈɡræpl]",
+    "ukphone": "[ˈɡræpl]"
+  },
+  {
+    "name": "grapes",
+    "trans": [
+      "n. [园艺] 葡萄（grape的复数）"
+    ],
+    "usphone": "[ɡreɪps]",
+    "ukphone": "[ɡreɪps]"
+  },
+  {
+    "name": "grow up",
+    "trans": [
+      "na. 长大"
+    ],
+    "usphone": "[ɡroʊ ʌp]",
+    "ukphone": "[ɡrəʊ ʌp]"
+  },
+  {
+    "name": "get married",
+    "trans": [
+      "na. 结婚"
+    ],
+    "usphone": "[ɡet ˈmærid]",
+    "ukphone": "[ɡet ˈmærid]"
+  },
+  {
+    "name": "gas station",
+    "trans": [
+      "n. （汽车）加油站"
+    ],
+    "usphone": "[ˈɡæs steɪʃn]",
+    "ukphone": "[ˈɡæs steɪʃ(ə)n]"
+  },
+  {
+    "name": "gracefully",
+    "trans": [
+      "adv. 优雅地；温文地"
+    ],
+    "usphone": "[ˈɡreɪsfəli]",
+    "ukphone": "[ˈɡreɪsfəli]"
+  },
+  {
+    "name": "grapefruit",
+    "trans": [
+      "n. 西柚；葡萄柚；葡萄柚树"
+    ],
+    "usphone": "[ˈɡreɪpfruːt]",
+    "ukphone": "[ˈɡreɪpfruːt]"
+  },
+  {
+    "name": "GPA",
+    "trans": [
+      "abbr. 通用放大器（General Purpose Amplifier）；客运总经纪人（General Procurement Agent）；平均分数（Grade-Point Average）"
+    ],
+    "usphone": "[ˌdʒiː piː ˈeɪ]",
+    "ukphone": "[ˌdʒiː piː ˈeɪ]"
+  },
+  {
+    "name": "gym",
+    "trans": [
+      "n. 健身房；体育；体育馆"
+    ],
+    "usphone": "[dʒɪm]",
+    "ukphone": "[dʒɪm]"
+  },
+  {
+    "name": "ghetto",
+    "trans": [
+      "n. 犹太人区；贫民区",
+      "vt. 使集中居住"
+    ],
+    "usphone": "[ˈɡetoʊ]",
+    "ukphone": "[ˈɡetəʊ]"
+  },
+  {
+    "name": "ground rule",
+    "trans": [
+      "n. 基本原则；基本准则；（某一体育运动场地等的）比赛规则"
+    ],
+    "usphone": "[ˈɡraʊnd ruːl]",
+    "ukphone": "[ˈɡraʊnd ruːl]"
+  },
+  {
+    "name": "gallant",
+    "trans": [
+      "adj. 英勇的，勇敢的；华丽的；雄伟的"
+    ],
+    "usphone": "[ˈɡælənt]",
+    "ukphone": "[ˈɡælənt]"
+  },
+  {
+    "name": "growl",
+    "trans": [
+      "n. 咆哮声；吠声；不平",
+      "vt. 咆哮；（雷电，炮等）轰鸣",
+      "vi. 咆哮着说"
+    ],
+    "usphone": "[ɡraʊl]",
+    "ukphone": "[ɡraʊl]"
+  },
+  {
+    "name": "glacier",
+    "trans": [
+      "n. 冰河，冰川"
+    ],
+    "usphone": "[ˈɡleɪʃər]",
+    "ukphone": "[ˈɡlæsiə(r)]"
+  },
+  {
+    "name": "groundwater",
+    "trans": [
+      "n. 地下水"
+    ],
+    "usphone": "[ˈɡraʊndwɔːtər]",
+    "ukphone": "[ˈɡraʊndwɔːtə(r)]"
+  },
+  {
+    "name": "grow",
+    "trans": [
+      "vi. 发展；生长；渐渐变得…",
+      "vt. 使生长；种植；扩展"
+    ],
+    "usphone": "[ɡroʊ]",
+    "ukphone": "[ɡrəʊ]"
+  },
+  {
+    "name": "gasolene",
+    "trans": [
+      "n. 汽油，挥发油"
+    ],
+    "usphone": "[ˈɡæsəlin]",
+    "ukphone": "[ˈɡæsəliːn]"
+  },
+  {
+    "name": "genuine",
+    "trans": [
+      "adj. 真实的，真正的；诚恳的"
+    ],
+    "usphone": "[ˈdʒenjuɪn]",
+    "ukphone": "[ˈdʒenjuɪn]"
+  },
+  {
+    "name": "generalise",
+    "trans": [
+      "vi. 推广；笼统地讲；概括（等于generalize）",
+      "vt. 概括；归纳；普及"
+    ],
+    "usphone": "[ˈdʒen(ə)rəlaɪz]",
+    "ukphone": "[ˈdʒen(ə)rəlaɪz]"
+  },
+  {
+    "name": "genre",
+    "trans": [
+      "n. 类型；种类；体裁；样式；流派；风俗画",
+      "adj. 风俗画的；以日常情景为主题的"
+    ],
+    "usphone": "[ˈʒɑːnrə]",
+    "ukphone": "[ˈʒɒnrə]"
+  },
+  {
+    "name": "gallop",
+    "trans": [
+      "n. 疾驰；飞奔",
+      "vi. 飞驰；急速进行；急急忙忙地说",
+      "vt. 使飞跑；迅速运输"
+    ],
+    "usphone": "[ˈɡæləp]",
+    "ukphone": "[ˈɡæləp]"
+  },
+  {
+    "name": "guild",
+    "trans": [
+      "n. 协会，行会；同业公会"
+    ],
+    "usphone": "[ɡɪld]",
+    "ukphone": "[ɡɪld]"
+  },
+  {
+    "name": "goes",
+    "trans": [
+      "vi. 前进；行走（go的第三人称单数形式"
+    ],
+    "usphone": "[ɡoʊz]",
+    "ukphone": "[ɡəʊz]"
+  },
+  {
+    "name": "gloom",
+    "trans": [
+      "n. 昏暗；阴暗"
+    ],
+    "usphone": "[ɡluːm]",
+    "ukphone": "[ɡluːm]"
+  },
+  {
+    "name": "gloss",
+    "trans": [
+      "n. 光彩；注释；假象",
+      "vt. 使光彩；掩盖；注释"
+    ],
+    "usphone": "[ɡlɑːs]",
+    "ukphone": "[ɡlɒs]"
+  },
+  {
+    "name": "grudge",
+    "trans": [
+      "n. 怨恨；恶意；妒忌",
+      "vt. 怀恨；吝惜；妒忌；不情愿做"
+    ],
+    "usphone": "[ɡrʌdʒ]",
+    "ukphone": "[ɡrʌdʒ]"
+  },
+  {
+    "name": "grumble",
+    "trans": [
+      "n. 怨言",
+      "adv. 抱怨地表示；嘟囔地说",
+      "vi. 抱怨；嘟囔",
+      "vt. 喃喃地说出"
+    ],
+    "usphone": "[ˈɡrʌmbl]",
+    "ukphone": "[ˈɡrʌmb(ə)l]"
+  },
+  {
+    "name": "grunt",
+    "trans": [
+      "n. 咕哝；呼噜声",
+      "vt. 咕哝着说",
+      "vi. 作呼噜声；发哼声"
+    ],
+    "usphone": "[ɡrʌnt]",
+    "ukphone": "[ɡrʌnt]"
+  },
+  {
+    "name": "gleam",
+    "trans": [
+      "n. 微光；闪光；瞬息的一现",
+      "vt. 使闪烁；使发微光",
+      "vi. 闪烁；隐约地闪现"
+    ],
+    "usphone": "[ɡliːm]",
+    "ukphone": "[ɡliːm]"
+  },
+  {
+    "name": "glimmer",
+    "trans": [
+      "n. 微光；闪光；少许",
+      "vi. 闪烁；发微光"
+    ],
+    "usphone": "[ˈɡlɪmər]",
+    "ukphone": "[ˈɡlɪmə(r)]"
+  },
+  {
+    "name": "glint",
+    "trans": [
+      "n. 闪烁；闪光",
+      "vt. 使闪光；使发光",
+      "vi. 闪烁；（光线）反射；闪闪发光"
+    ],
+    "usphone": "[ɡlɪnt]",
+    "ukphone": "[ɡlɪnt]"
+  },
+  {
+    "name": "glisten",
+    "trans": [
+      "n. 闪光，闪耀",
+      "vi. 闪光，闪亮"
+    ],
+    "usphone": "[ˈɡlɪsn]",
+    "ukphone": "[ˈɡlɪs(ə)n]"
+  },
+  {
+    "name": "gnaw",
+    "trans": [
+      "vt. 咬；折磨；侵蚀",
+      "vi. 咬；折磨；侵蚀"
+    ],
+    "usphone": "[nɔː]",
+    "ukphone": "[nɔː]"
+  },
+  {
+    "name": "grit",
+    "trans": [
+      "n. 粗砂，砂砾砂砾，粗砂石；勇气；决心",
+      "vt. 研磨；在…上铺砂砾，覆以砂砾；咬紧牙关",
+      "vi. 摩擦作声"
+    ],
+    "usphone": "[ɡrɪt]",
+    "ukphone": "[ɡrɪt]"
+  },
+  {
+    "name": "groom",
+    "trans": [
+      "vi. 打扮",
+      "vt. 整饰；推荐；喂马；刷洗（马等）",
+      "n. 新郎；马夫；男仆"
+    ],
+    "usphone": "[ɡruːm]",
+    "ukphone": "[ɡruːm]"
+  },
+  {
+    "name": "guillotine",
+    "trans": [
+      "n. 断头台；切纸机；截止辩论以付表决法",
+      "vt. 于断头台斩首；终止辩论将议案付诸表决"
+    ],
+    "usphone": "[ˈɡɪlətiːn]",
+    "ukphone": "[ˈɡɪlətiːn]"
+  },
+  {
+    "name": "gullible",
+    "trans": [
+      "adj. 易受骗的；轻信的"
+    ],
+    "usphone": "[ˈɡʌləbl]",
+    "ukphone": "[ˈɡʌləb(ə)l]"
+  },
+  {
+    "name": "gulp",
+    "trans": [
+      "n. 一大口（尤指液体）；吞咽",
+      "vi. 哽住；喘不过气",
+      "vt. 狼吞虎咽地吃；大口地吸"
+    ],
+    "usphone": "[ɡʌlp]",
+    "ukphone": "[ɡʌlp]"
+  },
+  {
+    "name": "gust",
+    "trans": [
+      "n. 风味；一阵狂风；趣味",
+      "vi. 一阵阵地劲吹"
+    ],
+    "usphone": "[ɡʌst]",
+    "ukphone": "[ɡʌst]"
+  },
+  {
+    "name": "get ahead",
+    "trans": [
+      "na. 获得成功；前进"
+    ],
+    "usphone": "[ɡet əˈhed]",
+    "ukphone": "[ɡet əˈhed]"
+  },
+  {
+    "name": "get at",
+    "trans": [
+      "na. 抓住；了解；到达；拿得到"
+    ],
+    "usphone": "[ɡet æt]",
+    "ukphone": "[ɡet æt]"
+  },
+  {
+    "name": "get back",
+    "trans": [
+      "na. 取回；回来；送回；〈俚〉报复"
+    ],
+    "usphone": "[ɡet bæk]",
+    "ukphone": "[ɡet bæk]"
+  },
+  {
+    "name": "get out",
+    "trans": [
+      "na. 摆脱；走出；〔命令语气〕出去!"
+    ],
+    "usphone": "[ɡet aʊt]",
+    "ukphone": "[ˈɡet aʊt]"
+  },
+  {
+    "name": "get up",
+    "trans": [
+      "na. 起床；起身；站起来；叫…起床"
+    ],
+    "usphone": "[ɡet ʌp]",
+    "ukphone": "[ɡet ʌp]"
+  },
+  {
+    "name": "give away",
+    "trans": [
+      "na. 赠送；分发；放弃；露马脚"
+    ],
+    "usphone": "[ɡɪv əˈweɪ]",
+    "ukphone": "['givə,wei]"
+  },
+  {
+    "name": "go over",
+    "trans": [
+      "na. 仔细查看；仔细搜查；排练；重温"
+    ],
+    "usphone": "[ɡoʊ ˈoʊvər]",
+    "ukphone": "[ɡəʊ ˈəʊvə(r)]"
+  },
+  {
+    "name": "grader",
+    "trans": [
+      "n. 分级机；分类机；（美）（中小学的）…年级学生"
+    ],
+    "usphone": "[ˈɡreɪdər]",
+    "ukphone": "[ˈɡreɪdə(r)]"
+  },
+  {
+    "name": "grocery",
+    "trans": [
+      "n. 食品杂货店",
+      "食品杂货"
+    ],
+    "usphone": "[ˈɡroʊsəri]",
+    "ukphone": "[ˈɡrəʊsəri]"
+  },
+  {
+    "name": "greatly",
+    "trans": [
+      "adv. 很，大大地；非常"
+    ],
+    "usphone": "[ˈɡreɪtli]",
+    "ukphone": "[ˈɡreɪtli]"
+  },
+  {
+    "name": "grid",
+    "trans": [
+      "n. 网格；格子，栅格；输电网"
+    ],
+    "usphone": "[ɡrɪd]",
+    "ukphone": "[ɡrɪd]"
+  },
+  {
+    "name": "geological",
+    "trans": [
+      "adj. 地质的，地质学的"
+    ],
+    "usphone": "[ˌdʒiːəˈlɑːdʒɪkl]",
+    "ukphone": "[ˌdʒiːəˈlɒdʒɪkl]"
+  },
+  {
+    "name": "greyhound",
+    "trans": [
+      "n. 灰狗（一种猎犬）；快速船"
+    ],
+    "usphone": "[ˈɡreɪhaʊnd]",
+    "ukphone": "[ˈɡreɪhaʊnd]"
+  },
+  {
+    "name": "girlfriend",
+    "trans": [
+      "n. 女朋友",
+      "女伴"
+    ],
+    "usphone": "[ˈɡɜːrlfrend]",
+    "ukphone": "[ˈɡɜːlfrend]"
+  },
+  {
+    "name": "general election",
+    "trans": [
+      "n. 大选；普选"
+    ],
+    "usphone": "[ˌdʒenrəl ɪˈlekʃn]",
+    "ukphone": "[ˌdʒenrəl ɪˈlekʃən]"
+  },
+  {
+    "name": "Germany",
+    "trans": [
+      "n. 德国"
+    ],
+    "usphone": "[ˈdʒɜːrməni]",
+    "ukphone": "[ˈdʒɜːməni]"
+  },
+  {
+    "name": "Greece",
+    "trans": [
+      "希腊（欧洲南部国家）"
+    ],
+    "usphone": "[ɡriːs]",
+    "ukphone": "[ɡriːs]"
+  },
+  {
+    "name": "Greek",
+    "trans": [
+      "n. 希腊语；希腊人",
+      "adj. 希腊的；希腊人的，希腊语的"
+    ],
+    "usphone": "[ɡriːk]",
+    "ukphone": "[ɡriːk]"
+  },
+  {
+    "name": "gadgetry",
+    "trans": [
+      "n. 小配件；小玩意；小机件"
+    ],
+    "usphone": "[ˈɡædʒɪtri]",
+    "ukphone": "[ˈɡædʒɪtri]"
+  },
+  {
+    "name": "gangster",
+    "trans": [
+      "n. 歹徒，流氓；恶棍"
+    ],
+    "usphone": "[ˈɡæŋstər]",
+    "ukphone": "[ˈɡæŋstə(r)]"
+  },
+  {
+    "name": "gardener",
+    "trans": [
+      "n. 园丁；花匠；园艺家"
+    ],
+    "usphone": "[ˈɡɑːrdnər]",
+    "ukphone": "[ˈɡɑːdnə(r)]"
+  },
+  {
+    "name": "gardening",
+    "trans": [
+      "n. 园艺；园林工人的工作"
+    ],
+    "usphone": "[ˈɡɑːrdnɪŋ]",
+    "ukphone": "[ˈɡɑːdnɪŋ]"
+  },
+  {
+    "name": "gasoline",
+    "trans": [
+      "n. 汽油"
+    ],
+    "usphone": "[ˈɡæsəliːn; ˌɡæsəˈliːn]",
+    "ukphone": "[ˈɡæsəliːn]"
+  },
+  {
+    "name": "gathering",
+    "trans": [
+      "n. 聚集；集会；收款",
+      "v. 聚集（gather的ing形式）"
+    ],
+    "usphone": "[ˈɡæðərɪŋ]",
+    "ukphone": "[ˈɡæðərɪŋ]"
+  },
+  {
+    "name": "generosity",
+    "trans": [
+      "n. 慷慨，大方；宽宏大量"
+    ],
+    "usphone": "[ˌdʒenəˈrɑːsəti]",
+    "ukphone": "[ˌdʒenəˈrɒsəti]"
+  },
+  {
+    "name": "geographically",
+    "trans": [
+      "adv. 在地理上；地理学上"
+    ],
+    "usphone": "[ˌdʒiːəˈɡræfɪkli]",
+    "ukphone": "[ˌdʒiːəˈɡræfɪkli]"
+  },
+  {
+    "name": "geologically",
+    "trans": [
+      "adv. 从地质学角度"
+    ],
+    "usphone": "[ˌdʒiːəˈlɑːdʒɪkli]",
+    "ukphone": "[ˌdʒiːəˈlɒdʒɪkli]"
+  },
+  {
+    "name": "geometric",
+    "trans": [
+      "adj. 几何学的；[数] 几何学图形的"
+    ],
+    "usphone": "[ˌdʒiːəˈmetrɪk]",
+    "ukphone": "[ˌdʒiːəˈmetrɪk]"
+  },
+  {
+    "name": "geometrically",
+    "trans": [
+      "adv. 用几何学；几何学上地；按几何级数地"
+    ],
+    "usphone": "[ˌdʒiːəˈmetrɪkli]",
+    "ukphone": "[ˌdʒiːəˈmetrɪkli]"
+  },
+  {
+    "name": "gifted",
+    "trans": [
+      "adj. 有天赋的；有才华的",
+      "v. 给予（gift的过去分词）"
+    ],
+    "usphone": "[ˈɡɪftɪd]",
+    "ukphone": "[ˈɡɪftɪd]"
+  },
+  {
+    "name": "glamorous",
+    "trans": [
+      "adj. 迷人的，富有魅力的"
+    ],
+    "usphone": "[ˈɡlæmərəs]",
+    "ukphone": "[ˈɡlæmərəs]"
+  },
+  {
+    "name": "glamourous",
+    "trans": [
+      "adj. 富有魅力的；迷人的"
+    ],
+    "usphone": "[ˈɡlæmərəs]",
+    "ukphone": "[ˈɡlæmərəs]"
+  },
+  {
+    "name": "gland",
+    "trans": [
+      "n. 腺",
+      "密封压盖"
+    ],
+    "usphone": "[ɡlænd]",
+    "ukphone": "[ɡlænd]"
+  },
+  {
+    "name": "glider",
+    "trans": [
+      "n. [航] 滑翔机；滑翔员；滑翔导弹"
+    ],
+    "usphone": "[ˈɡlaɪdər]",
+    "ukphone": "[ˈɡlaɪdə(r)]"
+  },
+  {
+    "name": "globalize",
+    "trans": [
+      "vt. 使全球化"
+    ],
+    "usphone": "[ˈɡloʊbəlaɪz]",
+    "ukphone": "[ˈɡləʊbəlaɪz]"
+  },
+  {
+    "name": "glossary",
+    "trans": [
+      "n. 术语（特殊用语）表；词汇表；专业词典"
+    ],
+    "usphone": "[ˈɡlɑːsəri]",
+    "ukphone": "[ˈɡlɒsəri]"
+  },
+  {
+    "name": "gorge",
+    "trans": [
+      "n. 峡谷；胃；暴食；咽喉；障碍物",
+      "vt. 使吃饱；吞下；使扩张",
+      "vi. 拚命吃；狼吞虎咽"
+    ],
+    "usphone": "[ɡɔːrdʒ]",
+    "ukphone": "[ɡɔːdʒ]"
+  },
+  {
+    "name": "gospel",
+    "trans": [
+      "n. 真理；信条",
+      "adj. 传播福音的；福音赞美诗的"
+    ],
+    "usphone": "[ˈɡɑːspl]",
+    "ukphone": "[ˈɡɒsp(ə)l]"
+  },
+  {
+    "name": "grandchild",
+    "trans": [
+      "n. 孙子；孙女；外孙；外孙女"
+    ],
+    "usphone": "[ˈɡræntʃaɪld]",
+    "ukphone": "[ˈɡræntʃaɪld]"
+  },
+  {
+    "name": "grandchildren",
+    "trans": [
+      "n. 孙子；孙（女），外孙（女）( grandchild的名词复数 )"
+    ],
+    "usphone": "['græn'tʃɪldrən]",
+    "ukphone": "['græn'tʃɪldrən]"
+  },
+  {
+    "name": "grandson",
+    "trans": [
+      "n. 孙子；外孙"
+    ],
+    "usphone": "[ˈɡrænsʌn]",
+    "ukphone": "[ˈɡrænsʌn]"
+  },
+  {
+    "name": "granddaughter",
+    "trans": [
+      "n. 孙女；外孙女"
+    ],
+    "usphone": "[ˈɡrændɔːtər]",
+    "ukphone": "[ˈɡrændɔːtə(r)]"
+  },
+  {
+    "name": "grandparent",
+    "trans": [
+      "n. 祖父母；祖父或祖母；外祖父母；外祖父或外祖母"
+    ],
+    "usphone": "[ˈɡrænperənt]",
+    "ukphone": "[ˈɡrænpeərənt]"
+  },
+  {
+    "name": "grandfather",
+    "trans": [
+      "n. 祖父；始祖",
+      "vt. 不受新规定限制"
+    ],
+    "usphone": "[ˈɡrænfɑːðər]",
+    "ukphone": "[ˈɡrænfɑːðə(r)]"
+  },
+  {
+    "name": "granted",
+    "trans": [
+      "conj. 诚然",
+      "adv. 的确",
+      "vt. grant的过去式"
+    ],
+    "usphone": "[ˈɡræntɪd]",
+    "ukphone": "[ˈɡrɑːntɪd]"
+  },
+  {
+    "name": "graphically",
+    "trans": [
+      "adv. 生动地；活灵活现地；用图表表示；轮廓分明地"
+    ],
+    "usphone": "[ˈɡræfɪkli]",
+    "ukphone": "[ˈɡræfɪkli]"
+  },
+  {
+    "name": "grassy",
+    "trans": [
+      "adj. 长满草的；草绿色的"
+    ],
+    "usphone": "[ˈɡræsi]",
+    "ukphone": "[ˈɡrɑːsi]"
+  },
+  {
+    "name": "gravitation",
+    "trans": [
+      "n. 重力；万有引力；地心吸力"
+    ],
+    "usphone": "[ˌɡrævɪˈteɪʃn]",
+    "ukphone": "[ˌɡrævɪˈteɪʃn]"
+  },
+  {
+    "name": "gray",
+    "trans": [
+      "n. 灰色；暗淡的光线",
+      "adj. 灰色的；苍白的；灰白头发的；阴郁的",
+      "vt. 使成灰色或灰白",
+      "vi. 成为灰色或灰白"
+    ],
+    "usphone": "[ɡreɪ]",
+    "ukphone": "[ɡreɪ]"
+  },
+  {
+    "name": "greasy",
+    "trans": [
+      "adj. 油腻的；含脂肪多的；谄媚的"
+    ],
+    "usphone": "[ˈɡriːsi; ˈɡriːzi]",
+    "ukphone": "[ˈɡriːsi]"
+  },
+  {
+    "name": "grievous",
+    "trans": [
+      "adj. 痛苦的；剧烈的"
+    ],
+    "usphone": "[ˈɡriːvəs]",
+    "ukphone": "[ˈɡriːvəs]"
+  },
+  {
+    "name": "groove",
+    "trans": [
+      "n. [建] 凹槽，槽；最佳状态；惯例",
+      "vt. 开槽于",
+      "vi. 形成沟槽"
+    ],
+    "usphone": "[ɡruːv]",
+    "ukphone": "[ɡruːv]"
+  },
+  {
+    "name": "guitarist",
+    "trans": [
+      "n. 吉他弹奏者"
+    ],
+    "usphone": "[ɡɪˈtɑːrɪst]",
+    "ukphone": "[ɡɪˈtɑːrɪst]"
+  },
+  {
+    "name": "glacial",
+    "trans": [
+      "adj. 冰的；冰冷的；冰河时代的"
+    ],
+    "usphone": "[ˈɡleɪʃl]",
+    "ukphone": "[ˈɡleɪʃ(ə)l]"
+  },
+  {
+    "name": "geologist",
+    "trans": [
+      "n. 地质学家，地质学者"
+    ],
+    "usphone": "[dʒiˈɑːlədʒɪst]",
+    "ukphone": "[dʒiˈɒlədʒɪst]"
+  },
+  {
+    "name": "geothermal",
+    "trans": [
+      "adj. [地物] 地热的；[地物] 地温的"
+    ],
+    "usphone": "[ˌdʒiːoʊˈθɜːrml]",
+    "ukphone": "[ˌdʒiːəʊˈθɜːml]"
+  },
+  {
+    "name": "gazelle",
+    "trans": [
+      "n. 瞪羚；小羚羊",
+      "vi. 似瞪羚般跳跃"
+    ],
+    "usphone": "[ɡəˈzel]",
+    "ukphone": "[ɡəˈzel]"
+  },
+  {
+    "name": "glaciation",
+    "trans": [
+      "n. [地质] 冰川作用；冻结成冰"
+    ],
+    "usphone": "[ˌɡleɪʃiˈeɪʃn]",
+    "ukphone": "[ˌɡleɪsiˈeɪʃn]"
+  },
+  {
+    "name": "galley",
+    "trans": [
+      "n. [船] 船上的厨房；单层甲板的大帆船；活版盘，长条校样"
+    ],
+    "usphone": "[ˈɡæli]",
+    "ukphone": "[ˈɡæli]"
+  },
+  {
+    "name": "gypsum",
+    "trans": [
+      "n. 石膏；石膏肥料",
+      "vt. 用石膏处理；施石膏肥料于"
+    ],
+    "usphone": "[ˈdʒɪpsəm]",
+    "ukphone": "[ˈdʒɪpsəm]"
+  },
+  {
+    "name": "gravel",
+    "trans": [
+      "n. 碎石；砂砾",
+      "vt. 用碎石铺；使船搁浅在沙滩上；使困惑"
+    ],
+    "usphone": "[ˈɡrævl]",
+    "ukphone": "[ˈɡræv(ə)l]"
+  },
+  {
+    "name": "glaze",
+    "trans": [
+      "n. 釉；光滑面",
+      "vt. 装以玻璃；上釉于",
+      "vi. 变呆滞；变得光滑"
+    ],
+    "usphone": "[ɡleɪz]",
+    "ukphone": "[ɡleɪz]"
+  },
+  {
+    "name": "gravitational",
+    "trans": [
+      "adj. [力] 重力的，[力] 引力的"
+    ],
+    "usphone": "[ˌɡrævɪˈteɪʃənl]",
+    "ukphone": "[ˌɡrævɪˈteɪʃən(ə)l]"
+  },
+  {
+    "name": "germinate",
+    "trans": [
+      "vt. 使发芽；使生长",
+      "vi. 发芽；生长"
+    ],
+    "usphone": "[ˈdʒɜːrmɪneɪt]",
+    "ukphone": "[ˈdʒɜːmɪneɪt]"
+  },
+  {
+    "name": "gourmet",
+    "trans": [
+      "n. 美食家",
+      "菜肴精美的"
+    ],
+    "usphone": "[ˈɡʊrmeɪ]",
+    "ukphone": "[ˈɡʊəmeɪ]"
+  },
+  {
+    "name": "grained",
+    "trans": [
+      "adj. 有木纹的；除去毛的；漆成木纹的"
+    ],
+    "usphone": "[ɡreɪnd]",
+    "ukphone": "[ɡreɪnd]"
+  },
+  {
+    "name": "garrison",
+    "trans": [
+      "n. 要塞；卫戍部队",
+      "vt. 驻防；守卫"
+    ],
+    "usphone": "[ˈɡærɪsn]",
+    "ukphone": "[ˈɡærɪsn]"
+  },
+  {
+    "name": "glassy",
+    "trans": [
+      "adj. 像玻璃的；光亮透明的；呆滞的"
+    ],
+    "usphone": "[ˈɡlæsi]",
+    "ukphone": "[ˈɡlɑːsi]"
+  },
+  {
+    "name": "grassland",
+    "trans": [
+      "n. 草原；牧草地"
+    ],
+    "usphone": "[ˈɡræslænd]",
+    "ukphone": "[ˈɡrɑːslænd]"
+  },
+  {
+    "name": "gaseous",
+    "trans": [
+      "adj. 气态的，气体的；无实质的"
+    ],
+    "usphone": "[ˈɡæsiəsˌˈɡeɪsiəs]",
+    "ukphone": "[ˈɡæsiəs]"
+  },
+  {
+    "name": "geyser",
+    "trans": [
+      "n. 喷泉；[水文] 间歇泉；（英）烧水锅炉"
+    ],
+    "usphone": "[ˈɡaɪzər]",
+    "ukphone": "[ˈɡiːzə(r)]"
+  },
+  {
+    "name": "gill",
+    "trans": [
+      "n. 鳃；菌褶；（山谷中的）沟壑，峡流；及耳（容量单位）",
+      "vi. 被刺网捕住",
+      "vt. 用刺网捕鱼；去除内脏"
+    ],
+    "usphone": "[ɡɪl; dʒɪl]",
+    "ukphone": "[ɡɪl]"
+  },
+  {
+    "name": "granule",
+    "trans": [
+      "n. 颗粒"
+    ],
+    "usphone": "[ˈɡrænjuːl]",
+    "ukphone": "[ˈɡrænjuːl]"
+  },
+  {
+    "name": "gull",
+    "trans": [
+      "n. [鸟] 鸥；笨人；易受骗之人",
+      "vt. 骗；欺诈"
+    ],
+    "usphone": "[ɡʌl]",
+    "ukphone": "[ɡʌl]"
+  },
+  {
+    "name": "glee",
+    "trans": [
+      "n. 快乐；欢欣；重唱歌曲"
+    ],
+    "usphone": "[ɡliː]",
+    "ukphone": "[ɡliː]"
+  },
+  {
+    "name": "gee",
+    "trans": [
+      "n. 马；字母G；一千美元（美俚）",
+      "v. 向右转",
+      "int. 向右！前进！快！（驾驭马牛等的吆喝声）"
+    ],
+    "usphone": "[dʒiː]",
+    "ukphone": "[dʒiː]"
+  },
+  {
+    "name": "grandma",
+    "trans": [
+      "n. 奶奶；外婆"
+    ],
+    "usphone": "[ˈɡrænmɑː]",
+    "ukphone": "[ˈɡrænmɑː]"
+  },
+  {
+    "name": "grandpa",
+    "trans": [
+      "n. 爷爷；外公"
+    ],
+    "usphone": "[ˈɡrænpɑː]",
+    "ukphone": "[ˈɡrænpɑː]"
+  },
+  {
+    "name": "girder",
+    "trans": [
+      "n. [建] 大梁，纵梁"
+    ],
+    "usphone": "[ˈɡɜːrdər]",
+    "ukphone": "[ˈɡɜːdə(r)]"
+  },
+  {
+    "name": "gibbon",
+    "trans": [
+      "n. [脊椎] 长臂猿"
+    ],
+    "usphone": "[ˈɡɪbən]",
+    "ukphone": "[ˈɡɪbən]"
+  },
+  {
+    "name": "glitzy",
+    "trans": [
+      "adj. 眩目的；（美、加）闪光的；耀眼的"
+    ],
+    "usphone": "[ˈɡlɪtsi]",
+    "ukphone": "[ˈɡlɪtsi]"
+  },
+  {
+    "name": "generalisation",
+    "trans": [
+      "n. 一般化;  普通化;  归纳;  概论"
+    ],
+    "usphone": "[,dʒenərəlai'zeiʃən, -li'z-]",
+    "ukphone": "[ˌdʒenərəlaɪˈzeɪʃən]"
+  },
+  {
+    "name": "generic",
+    "trans": [
+      "adj. 类的；一般的；属的；非商标的"
+    ],
+    "usphone": "[dʒəˈnerɪk]",
+    "ukphone": "[dʒəˈnerɪk]"
+  },
+  {
+    "name": "globalisation",
+    "trans": [
+      "n. 全球化，=globalization"
+    ],
+    "usphone": "[ˌɡloʊbələˈzeɪʃn; ˌɡloʊbəlaɪˈzeɪʃən]",
+    "ukphone": "[ˌɡləʊbəlaɪˈzeɪʃ(ə)n]"
+  },
+  {
+    "name": "grimy",
+    "trans": [
+      "adj. 肮脏的，污秽的"
+    ],
+    "usphone": "[ˈɡraɪmi]",
+    "ukphone": "[ˈɡraɪmi]"
+  },
+  {
+    "name": "guzzle",
+    "trans": [
+      "n. 狂饮；豪饮作乐",
+      "vt. 狂饮；暴食",
+      "vi. 狂饮；暴食；狼吞虎咽"
+    ],
+    "usphone": "[ˈɡʌzl]",
+    "ukphone": "[ˈɡʌz(ə)l]"
+  },
+  {
+    "name": "gradient",
+    "trans": [
+      "n. [数][物] 梯度；坡度；倾斜度",
+      "adj. 倾斜的；步行的"
+    ],
+    "usphone": "[ˈɡreɪdiənt]",
+    "ukphone": "[ˈɡreɪdiənt]"
+  },
+  {
+    "name": "grasshopper",
+    "trans": [
+      "n. 蚱蜢；[植保] 蝗虫；小型侦察机",
+      "vi. 见异思迁；蚱蜢似地跳"
+    ],
+    "usphone": "[ˈɡræshɑːpər]",
+    "ukphone": "[ˈɡrɑːshɒpə(r)]"
+  },
+  {
+    "name": "goody",
+    "trans": [
+      "n. 糖果；身份低微之老妇；吸引人的东西；伪君子",
+      "adj. 感伤的；伪善的；假正经的",
+      "int. 太好啦"
+    ],
+    "usphone": "[ˈɡʊdi]",
+    "ukphone": "[ˈɡʊdi]"
+  },
+  {
+    "name": "geranium",
+    "trans": [
+      "n. 天竺葵"
+    ],
+    "usphone": "[dʒəˈreɪniəm]",
+    "ukphone": "[dʒəˈreɪniəm]"
+  },
+  {
+    "name": "giddy",
+    "trans": [
+      "adj. 头晕的；眼花的；令人眼花缭乱的；轻浮的",
+      "vt. 使晕眩；使眼花缭乱",
+      "vi. 眼花；眩晕"
+    ],
+    "usphone": "[ˈɡɪdi]",
+    "ukphone": "[ˈɡɪdi]"
+  },
+  {
+    "name": "glutton",
+    "trans": [
+      "n. 酷爱…的人；贪吃的人"
+    ],
+    "usphone": "[ˈɡlʌtn]",
+    "ukphone": "[ˈɡlʌtn]"
+  },
+  {
+    "name": "gusto",
+    "trans": [
+      "n. 爱好；由衷的高兴；嗜好"
+    ],
+    "usphone": "[ˈɡʌstoʊ]",
+    "ukphone": "[ˈɡʌstəʊ]"
+  },
+  {
+    "name": "gunwale",
+    "trans": [
+      "n. 舷缘；船舷上缘"
+    ],
+    "usphone": "[ˈɡʌnl]",
+    "ukphone": "[ˈɡʌnl]"
+  },
+  {
+    "name": "guts",
+    "trans": [
+      "n. 内脏；飞碟游戏（比赛双方每组5人，相距15码，互相掷接飞碟）；狭道；贪食者（gut的复数）",
+      "v. 取出…的内脏；毁坏…的内部；贪婪地吃（gut的第三人称单数）",
+      "n. （俚语）勇气；决心"
+    ],
+    "usphone": "[ɡʌts]",
+    "ukphone": "[ɡʌts]"
+  },
+  {
+    "name": "grueling",
+    "trans": [
+      "n. 惩罚；劳累",
+      "adj. 累垮人的；折磨人的",
+      "v. 使极度疲劳；累垮（gruel的ing形式）"
+    ],
+    "usphone": "[ˈɡruːəlɪŋ]",
+    "ukphone": "['ɡruəliŋ]"
+  },
+  {
+    "name": "grime",
+    "trans": [
+      "n. 尘垢；污点；煤尘",
+      "vt. 使污秽；使…弄脏"
+    ],
+    "usphone": "[ɡraɪm]",
+    "ukphone": "[ɡraɪm]"
+  },
+  {
+    "name": "glowing",
+    "trans": [
+      "adj. 灼热的；热情洋溢的；鲜艳的",
+      "v. 发光；容光焕发（glow的ing形式）；发热"
+    ],
+    "usphone": "[ˈɡloʊɪŋ]",
+    "ukphone": "[ˈɡləʊɪŋ]"
+  },
+  {
+    "name": "get well",
+    "trans": [
+      "na. 复原"
+    ],
+    "usphone": "[ɡet wel]",
+    "ukphone": "[ɡet wel]"
+  },
+  {
+    "name": "gentility",
+    "trans": [
+      "n. 有教养，文雅；上流阶层"
+    ],
+    "usphone": "[dʒenˈtɪləti]",
+    "ukphone": "[dʒenˈtɪləti]"
+  },
+  {
+    "name": "genial",
+    "trans": [
+      "adj. 亲切的，友好的；和蔼的；适宜的"
+    ],
+    "usphone": "[ˈdʒiːniəl]",
+    "ukphone": "[ˈdʒiːniəl]"
+  },
+  {
+    "name": "gratuitous",
+    "trans": [
+      "adj. 无理由的，无端的；免费的"
+    ],
+    "usphone": "[ɡrəˈtuːɪtəs]",
+    "ukphone": "[ɡrəˈtjuːɪtəs]"
+  },
+  {
+    "name": "grumpy",
+    "trans": [
+      "n. 脾气坏的人；爱抱怨的人",
+      "adj. 脾气暴躁的；性情乖戾的"
+    ],
+    "usphone": "[ˈɡrʌmpi]",
+    "ukphone": "[ˈɡrʌmpi]"
+  },
+  {
+    "name": "gesticulate",
+    "trans": [
+      "vt. 用手势谈话；做姿势表达",
+      "vi. 用姿势示意；（讲话时）做手势"
+    ],
+    "usphone": "[dʒeˈstɪkjuleɪt]",
+    "ukphone": "[dʒeˈstɪkjuleɪt]"
+  },
+  {
+    "name": "glum",
+    "trans": [
+      "adj. 阴沉的；忧郁的"
+    ],
+    "usphone": "[ɡlʌm]",
+    "ukphone": "[ɡlʌm]"
+  },
+  {
+    "name": "galvanize",
+    "trans": [
+      "vt. 镀锌；通电；刺激"
+    ],
+    "usphone": "[ˈɡælvənaɪz]",
+    "ukphone": "[ˈɡælvənaɪz]"
+  },
+  {
+    "name": "grovel",
+    "trans": [
+      "vi. 匍匐；卑躬屈膝；趴"
+    ],
+    "usphone": "[ˈɡrɑːvl]",
+    "ukphone": "[ˈɡrɒv(ə)l]"
+  },
+  {
+    "name": "grisly",
+    "trans": [
+      "adj. 可怕的；厉害的；严重的"
+    ],
+    "usphone": "[ˈɡrɪzli]",
+    "ukphone": "[ˈɡrɪzli]"
+  },
+  {
+    "name": "gallantry",
+    "trans": [
+      "n. 勇敢；殷勤；风流；勇敢的行为"
+    ],
+    "usphone": "[ˈɡæləntri]",
+    "ukphone": "[ˈɡæləntri]"
+  },
+  {
+    "name": "grotesque",
+    "trans": [
+      "n. 奇异风格；怪异的东西",
+      "adj. 奇形怪状的；奇怪的；可笑的"
+    ],
+    "usphone": "[ɡroʊˈtesk]",
+    "ukphone": "[ɡrəʊˈtesk]"
+  },
+  {
+    "name": "gobble",
+    "trans": [
+      "n. 火鸡叫声",
+      "vt. 狼吞虎咽",
+      "vi. 贪食；咯咯叫"
+    ],
+    "usphone": "[ˈɡɑːbl]",
+    "ukphone": "[ˈɡɒb(ə)l]"
+  },
+  {
+    "name": "gruesome",
+    "trans": [
+      "adj. 可怕的；阴森的"
+    ],
+    "usphone": "[ˈɡruːsəm]",
+    "ukphone": "[ˈɡruːsəm]"
+  },
+  {
+    "name": "gnarled",
+    "trans": [
+      "adj. [木] 多节的；粗糙的；多瘤的",
+      "v. 把…扭曲；长木瘤（gnarl的过去分词）"
+    ],
+    "usphone": "[nɑːrld]",
+    "ukphone": "[nɑːld]"
+  },
+  {
+    "name": "gape",
+    "trans": [
+      "n. 裂口，张嘴；呵欠",
+      "vi. 裂开，张开；打呵欠"
+    ],
+    "usphone": "[ɡeɪp]",
+    "ukphone": "[ɡeɪp]"
+  },
+  {
+    "name": "graft",
+    "trans": [
+      "n. 移植；嫁接；渎职",
+      "vt. 移植；嫁接；贪污",
+      "vi. 移植；嫁接；贪污",
+      "n. （非正式）脚踏实地地埋头苦干"
+    ],
+    "usphone": "[ɡræft]",
+    "ukphone": "[ɡrɑːft]"
+  },
+  {
+    "name": "goggle",
+    "trans": [
+      "n. 护目镜，风镜；眼睛睁视",
+      "adj. 瞪眼的，睁眼的",
+      "vt. 使瞪眼；使眼珠转动",
+      "vi. 眼珠转动；瞪眼看"
+    ],
+    "usphone": "[ˈɡɑːɡl]",
+    "ukphone": "[ˈɡɒɡ(ə)l]"
+  },
+  {
+    "name": "glean",
+    "trans": [
+      "vt. 收集（资料）；拾（落穗）",
+      "vi. 收集；拾落穗"
+    ],
+    "usphone": "[ɡliːn]",
+    "ukphone": "[ɡliːn]"
+  },
+  {
+    "name": "genteel",
+    "trans": [
+      "adj. 有教养的，文雅的；上流社会的"
+    ],
+    "usphone": "[dʒenˈtiːl]",
+    "ukphone": "[dʒenˈtiːl]"
+  },
+  {
+    "name": "granular",
+    "trans": [
+      "adj. 颗粒的；粒状的"
+    ],
+    "usphone": "[ˈɡrænjələr]",
+    "ukphone": "[ˈɡrænjələ(r)]"
+  },
+  {
+    "name": "gurgle",
+    "trans": [
+      "n. 咯咯声；汩汩声",
+      "vt. 用咯咯声表示",
+      "vi. 作汩汩声；作咯咯声"
+    ],
+    "usphone": "[ˈɡɜːrɡl]",
+    "ukphone": "[ˈɡɜːɡl]"
+  },
+  {
+    "name": "gaunt",
+    "trans": [
+      "adj. 憔悴的；荒凉的；枯瘦的"
+    ],
+    "usphone": "[ɡɔːnt]",
+    "ukphone": "[ɡɔːnt]"
+  },
+  {
+    "name": "grandiose",
+    "trans": [
+      "adj. 宏伟的；堂皇的；浮夸的；宏大的"
+    ],
+    "usphone": "[ˈɡrændioʊs]",
+    "ukphone": "[ˈɡrændiəʊs]"
+  },
+  {
+    "name": "gruff",
+    "trans": [
+      "adj. 粗暴的；粗哑的；脾气坏的",
+      "vt. 粗鲁地说；生硬地说",
+      "vi. 粗鲁地说；生硬地说话",
+      "n. 格拉夫（英国珠宝品牌）"
+    ],
+    "usphone": "[ɡrʌf]",
+    "ukphone": "[ɡrʌf]"
+  },
+  {
+    "name": "gratify",
+    "trans": [
+      "vt. 使满足；使满意，使高兴"
+    ],
+    "usphone": "[ˈɡrætɪfaɪ]",
+    "ukphone": "[ˈɡrætɪfaɪ]"
+  },
+  {
+    "name": "gripe",
+    "trans": [
+      "n. 发牢骚；肠绞痛",
+      "vt. 绞痛；握紧；惹恼",
+      "vi. 抱怨，发牢骚；肠绞痛"
+    ],
+    "usphone": "[ɡraɪp]",
+    "ukphone": "[ɡraɪp]"
+  },
+  {
+    "name": "ghastly",
+    "trans": [
+      "adj. 可怕的；惨白的；惊人的；极坏的",
+      "adv. 恐怖地；惨白地"
+    ],
+    "usphone": "[ˈɡæstli]",
+    "ukphone": "[ˈɡɑːstli]"
+  },
+  {
+    "name": "gabble",
+    "trans": [
+      "n. 急促不清的话",
+      "vt. 喋喋不休地说；七嘴八嘴地说",
+      "vi. 急促而含糊地说话"
+    ],
+    "usphone": "[ˈɡæbl]",
+    "ukphone": "[ˈɡæb(ə)l]"
+  },
+  {
+    "name": "gregarious",
+    "trans": [
+      "adj. 社交的；群居的"
+    ],
+    "usphone": "[ɡrɪˈɡeriəs]",
+    "ukphone": "[ɡrɪˈɡeəriəs]"
+  },
+  {
+    "name": "gaiety",
+    "trans": [
+      "n. 快乐，兴高采烈；庆祝活动，喜庆；（服饰）华丽，艳丽"
+    ],
+    "usphone": "[ˈɡeɪəti]",
+    "ukphone": "[ˈɡeɪəti]"
+  },
+  {
+    "name": "gush",
+    "trans": [
+      "n. 涌出；迸发",
+      "v. 涌出；迸出"
+    ],
+    "usphone": "[ɡʌʃ]",
+    "ukphone": "[ɡʌʃ]"
+  },
+  {
+    "name": "gloat",
+    "trans": [
+      "vi. 幸灾乐祸；心满意足地注视",
+      "n. 幸灾乐祸；贪婪的盯视；洋洋得意"
+    ],
+    "usphone": "[ɡloʊt]",
+    "ukphone": "[ɡləʊt]"
+  },
+  {
+    "name": "gable",
+    "trans": [
+      "n. 山形墙；三角形饰物",
+      "vt. 在…上砌三角墙；在…安装三角形饰物",
+      "vi. 形成三角墙；形成三角形饰物"
+    ],
+    "usphone": "[ˈɡeɪbl]",
+    "ukphone": "[ˈɡeɪbl]"
+  },
+  {
+    "name": "gag",
+    "trans": [
+      "n. 塞口物；讨论终结；箝制言论",
+      "vt. 塞住…的口；钳制…的言论；使窒息",
+      "vi. 插科打诨；窒息；作呕"
+    ],
+    "usphone": "[ɡæɡ]",
+    "ukphone": "[ɡæɡ]"
+  },
+  {
+    "name": "gala",
+    "trans": [
+      "n. 祝贺，庆祝；节日，特别娱乐",
+      "adj. 节日的，欢庆的；欢乐的"
+    ],
+    "usphone": "[ˈɡeɪlə]",
+    "ukphone": "[ˈɡɑːlə]"
+  },
+  {
+    "name": "gambit",
+    "trans": [
+      "n. 话题；开始；以取得优势的开局棋法；开场白"
+    ],
+    "usphone": "[ˈɡæmbɪt]",
+    "ukphone": "[ˈɡæmbɪt]"
+  },
+  {
+    "name": "garland",
+    "trans": [
+      "n. 花环",
+      "vt. 戴花环"
+    ],
+    "usphone": "[ˈɡɑːrlənd]",
+    "ukphone": "[ˈɡɑːlənd]"
+  },
+  {
+    "name": "gastric",
+    "trans": [
+      "adj. 胃的；胃部的"
+    ],
+    "usphone": "[ˈɡæstrɪk]",
+    "ukphone": "[ˈɡæstrɪk]"
+  },
+  {
+    "name": "gastritis",
+    "trans": [
+      "n. [内科] 胃炎"
+    ],
+    "usphone": "[ɡæˈstraɪtɪs]",
+    "ukphone": "[ɡæˈstraɪtɪs]"
+  },
+  {
+    "name": "gazette",
+    "trans": [
+      "n. （英）公报；报纸",
+      "vt. 在报上刊载"
+    ],
+    "usphone": "[ɡəˈzet]",
+    "ukphone": "[ɡəˈzet]"
+  },
+  {
+    "name": "gearbox",
+    "trans": [
+      "n. 变速箱；齿轮箱"
+    ],
+    "usphone": "[ˈɡɪrbɑːks]",
+    "ukphone": "[ˈɡɪəbɒks]"
+  },
+  {
+    "name": "genesis",
+    "trans": [
+      "n. 发生；起源"
+    ],
+    "usphone": "[ˈdʒenəsɪs]",
+    "ukphone": "[ˈdʒenəsɪs]"
+  },
+  {
+    "name": "gibber",
+    "trans": [
+      "n. 三棱石；无法听懂的话",
+      "vi. 喋喋而言；胡扯"
+    ],
+    "usphone": "[ˈdʒɪbər]",
+    "ukphone": "[ˈdʒɪbə(r)]"
+  },
+  {
+    "name": "gimmick",
+    "trans": [
+      "n. 暗机关；骗人的玩意；花招",
+      "vt. 使暗机关；搞骗人的玩意"
+    ],
+    "usphone": "[ˈɡɪmɪk]",
+    "ukphone": "[ˈɡɪmɪk]"
+  },
+  {
+    "name": "girdle",
+    "trans": [
+      "n. 腰带；围绕物；妇女紧身褡",
+      "vt. 围绕；绕…而行；用带子捆扎"
+    ],
+    "usphone": "[ˈɡɜːrdl]",
+    "ukphone": "[ˈɡɜːdl]"
+  },
+  {
+    "name": "gladiator",
+    "trans": [
+      "n. 斗剑者；古罗马公开表演的格斗者；争论者"
+    ],
+    "usphone": "[ˈɡlædieɪtər]",
+    "ukphone": "[ˈɡlædieɪtə(r)]"
+  },
+  {
+    "name": "graffiti",
+    "trans": [
+      "n. 墙上乱写乱画的东西（graffito的复数形式）"
+    ],
+    "usphone": "[ɡrəˈfiːti]",
+    "ukphone": "[ɡrəˈfiːti]"
+  },
+  {
+    "name": "grandeur",
+    "trans": [
+      "n. 壮丽；庄严；宏伟"
+    ],
+    "usphone": "[ˈɡrændʒərˌˈɡrændjər]",
+    "ukphone": "[ˈɡrændʒə(r)]"
+  },
+  {
+    "name": "grate",
+    "trans": [
+      "n. 壁炉；格栅",
+      "vi. 发摩擦声",
+      "vt. 装格栅于；磨擦"
+    ],
+    "usphone": "[ɡreɪt]",
+    "ukphone": "[ɡreɪt]"
+  },
+  {
+    "name": "grievance",
+    "trans": [
+      "n. 不满，不平；委屈；冤情"
+    ],
+    "usphone": "[ˈɡriːvəns]",
+    "ukphone": "[ˈɡriːvəns]"
+  },
+  {
+    "name": "grounding",
+    "trans": [
+      "n. [电] 接地；基础；搁浅；（染色的）底色",
+      "v. [电] 接地（ground的ing形式）；搁浅"
+    ],
+    "usphone": "[ˈɡraʊndɪŋ]",
+    "ukphone": "[ˈɡraʊndɪŋ]"
+  },
+  {
+    "name": "grove",
+    "trans": [
+      "n. 小树林；果园"
+    ],
+    "usphone": "[ɡroʊv]",
+    "ukphone": "[ɡrəʊv]"
+  },
+  {
+    "name": "guise",
+    "trans": [
+      "n. 伪装；装束；外观",
+      "vt. 使化装",
+      "vi. 伪装"
+    ],
+    "usphone": "[ɡaɪz]",
+    "ukphone": "[ɡaɪz]"
+  },
+  {
+    "name": "guru",
+    "trans": [
+      "n. 古鲁（指印度教等宗教的宗师或领袖）；领袖；专家"
+    ],
+    "usphone": "[ˈɡuːruː]",
+    "ukphone": "[ˈɡʊruː]"
+  },
+  {
+    "name": "guttural",
+    "trans": [
+      "n. 喉音；喉音字",
+      "adj. 咽喉的；喉咙的；喉音的"
+    ],
+    "usphone": "[ˈɡʌtərəl]",
+    "ukphone": "[ˈɡʌtərəl]"
+  },
+  {
+    "name": "gynecology",
+    "trans": [
+      "n. 妇科学，妇科医学"
+    ],
+    "usphone": "[ˌɡaɪnəˈkɑːlədʒi]",
+    "ukphone": "[,ɡaini'kɔlədʒi]"
+  },
+  {
+    "name": "gynaecology",
+    "trans": [
+      "n. 妇科医学",
+      "妇科医生"
+    ],
+    "usphone": "[ˌɡaɪnəˈkɑːlədʒi]",
+    "ukphone": "[ˌɡaɪnəˈkɒlədʒi]"
+  },
+  {
+    "name": "glaring",
+    "trans": [
+      "adj. 耀眼的；瞪视的；炯炯的"
+    ],
+    "usphone": "[ˈɡlerɪŋ]",
+    "ukphone": "[ˈɡleərɪŋ]"
+  },
+  {
+    "name": "glorify",
+    "trans": [
+      "vt. 赞美；美化；崇拜（神）；使更壮丽"
+    ],
+    "usphone": "[ˈɡlɔːrɪfaɪ]",
+    "ukphone": "[ˈɡlɔːrɪfaɪ]"
+  },
+  {
+    "name": "grimace",
+    "trans": [
+      "n. 鬼脸；怪相；痛苦的表情",
+      "vi. 扮鬼脸；作怪相；作苦相"
+    ],
+    "usphone": "[ˈɡrɪməsˌɡrɪˈmeɪs]",
+    "ukphone": "[ˈɡrɪməs]"
+  },
+  {
+    "name": "got",
+    "trans": [
+      "v. 得到，明白（get的过去式和过去分词）"
+    ],
+    "usphone": "[ɡɑːt]",
+    "ukphone": "[ɡɒt]"
+  },
+  {
+    "name": "gotten",
+    "trans": [
+      "v. 得到；达到（get的过去分词）"
+    ],
+    "usphone": "[ˈɡɑːtn]",
+    "ukphone": "[ˈɡɒtn]"
+  },
+  {
+    "name": "gave",
+    "trans": [
+      "v. 给予（give的过去式）"
+    ],
+    "usphone": "[ɡeɪv]",
+    "ukphone": "[ɡeɪv]"
+  },
+  {
+    "name": "gone",
+    "trans": [
+      "v. 去（go的过去分词）",
+      "adj. 离去的；死去的；用光的"
+    ],
+    "usphone": "[ɡɔːn]",
+    "ukphone": "[ɡɒn]"
+  },
+  {
+    "name": "get ready",
+    "trans": [
+      " 准备好；预备；做好准备"
+    ],
+    "usphone": "[ɡet ˈredi]",
+    "ukphone": "[ɡet ˈredi]"
+  },
+  {
+    "name": "gem",
+    "trans": [
+      "n. 宝石，珍宝； 精华；受人重视者",
+      "vi. 点缀； 用宝石装饰； 饰以宝石",
+      "adj. 最佳品质的"
+    ],
+    "usphone": "[dʒem]",
+    "ukphone": "[dʒem]"
+  },
+  {
+    "name": "geek",
+    "trans": [
+      "n. 做低级滑稽表演的人，反常的人；畸形人；野人",
+      "n. （俚）极客，即智力超群，善于钻研但不懂与人交往的怪才"
+    ],
+    "usphone": "[ɡiːk]",
+    "ukphone": "[ɡiːk]"
+  },
+  {
+    "name": "garner",
+    "trans": [
+      "n. 谷仓",
+      "vt. 获得；储存；把…储入谷仓"
+    ],
+    "usphone": "[ˈɡɑːrnər]",
+    "ukphone": "[ˈɡɑːnə(r)]"
+  },
+  {
+    "name": "gold-plate",
+    "trans": [
+      "vt. 镀金"
+    ],
+    "usphone": "[ˌɡoʊld ˈpleɪt]",
+    "ukphone": "[ˌɡəʊld ˈpleɪt]"
+  },
+  {
+    "name": "gossamer",
+    "trans": [
+      "n. 蛛丝；薄纱；小蜘蛛网",
+      "adj. 轻飘飘的；薄弱的"
+    ],
+    "usphone": "[ˈɡɑːsəmər]",
+    "ukphone": "[ˈɡɒsəmə(r)]"
+  },
+  {
+    "name": "glistening",
+    "trans": [
+      "adj. 闪亮的；闪耀的；白花花的",
+      "v. 反光，闪耀（glisten的现在分词形式）"
+    ],
+    "usphone": "[ˈɡlɪsnɪŋ]",
+    "ukphone": "[ˈɡlɪsnɪŋ]"
+  },
+  {
+    "name": "gleaming",
+    "trans": [
+      "adj. 闪闪发光的",
+      "n. 微弱的闪光，瞬息的一现",
+      "v. 闪烁， 隐约地闪现（gleam的ing形式）"
+    ],
+    "usphone": "[ˈɡliːmɪŋ]",
+    "ukphone": "[ˈɡliːmɪŋ]"
+  },
+  {
+    "name": "goldenrod",
+    "trans": [
+      "n. 秋麒麟草属植物"
+    ],
+    "usphone": "[ˈɡoʊldənrɑːd]",
+    "ukphone": "[ˈɡəʊld(ə)nrɒd]"
+  },
+  {
+    "name": "grossly",
+    "trans": [
+      "adv. 很；非常"
+    ],
+    "usphone": "[ˈɡroʊsli]",
+    "ukphone": "[ˈɡrəʊsli]"
+  },
+  {
+    "name": "gorilla",
+    "trans": [
+      "n. 大猩猩"
+    ],
+    "usphone": "[ɡəˈrɪlə]",
+    "ukphone": "[ɡəˈrɪlə]"
+  },
+  {
+    "name": "graduate school",
+    "trans": [
+      "n. 研究生院"
+    ],
+    "usphone": "[ˈɡrædʒuət skuːl]",
+    "ukphone": "[ˈɡrædʒuət skuːl]"
+  },
+  {
+    "name": "grudgingly",
+    "trans": [
+      "adv. 勉强地；不情愿地"
+    ],
+    "usphone": "[ˈɡrʌdʒɪŋli]",
+    "ukphone": "[ˈɡrʌdʒɪŋli]"
+  },
+  {
+    "name": "genocide",
+    "trans": [
+      "n. 种族灭绝；灭绝整个种族的大屠杀"
+    ],
+    "usphone": "[ˈdʒenəsaɪd]",
+    "ukphone": "[ˈdʒenəsaɪd]"
+  },
+  {
+    "name": "grower",
+    "trans": [
+      "n. 栽培者；生长物"
+    ],
+    "usphone": "[ˈɡroʊər]",
+    "ukphone": "[ˈɡrəʊə(r)]"
+  },
+  {
+    "name": "granny",
+    "trans": [
+      "n. 奶奶；外婆；婆婆妈妈的人"
+    ],
+    "usphone": "[ˈɡræni]",
+    "ukphone": "[ˈɡræni]"
+  },
+  {
+    "name": "good-looking",
+    "trans": [
+      "adj. 好看的；美貌的"
+    ],
+    "usphone": "[ˌɡʊd ˈlʊkɪŋ]",
+    "ukphone": "[ˌɡʊd ˈlʊkɪŋ]"
+  },
+  {
+    "name": "German",
+    "trans": [
+      "n. 德语；德国人",
+      "adj. 德国的；德语的，德国人的"
+    ],
+    "usphone": "[ˈdʒɜːrmən]",
+    "ukphone": "[ˈdʒɜːmən]"
+  },
+  {
+    "name": "green thumb",
+    "trans": [
+      "n. 园艺技能；种植技能"
+    ],
+    "usphone": "[ˌɡriːn ˈθʌm]",
+    "ukphone": "[ˌɡriːn ˈθʌm]"
+  },
+  {
+    "name": "green belt",
+    "trans": [
+      "n. （城市周围的）绿化地带"
+    ],
+    "usphone": "[ˈɡriːn belt]",
+    "ukphone": "[ˈɡriːn belt]"
+  },
+  {
+    "name": "GDP",
+    "trans": [
+      "abbr. 国内生产总值（Gross Domestic Product）；辉光放电聚合物（Glow Discharge Polymer）"
+    ],
+    "usphone": "[ˌdʒiː diː ˈpiː]",
+    "ukphone": "[ˌdʒiː diː ˈpiː]"
+  },
+  {
+    "name": "groundbreaking",
+    "trans": [
+      "n. 动工",
+      "adj. 开创性的"
+    ],
+    "usphone": "[ˈɡraʊndbreɪkɪŋ]",
+    "ukphone": "[ˈɡraʊndbreɪkɪŋ]"
+  },
+  {
+    "name": "genealogist",
+    "trans": [
+      "n. 系谱学者；系谱专家"
+    ],
+    "usphone": "[ˌdʒiːniˈælədʒɪst]",
+    "ukphone": "[ˌdʒiːniˈælədʒɪst]"
+  },
+  {
+    "name": "gatherer",
+    "trans": [
+      "n. 采集者，收集器"
+    ],
+    "usphone": "[ˈɡæðərər]",
+    "ukphone": "[ˈɡæðərə(r)]"
+  },
+  {
+    "name": "gloominess",
+    "trans": [
+      "n. 黑暗；沮丧"
+    ],
+    "usphone": "[ˈɡluːminəs]",
+    "ukphone": "[ˈɡluːminəs]"
+  },
+  {
+    "name": "glowingly",
+    "trans": [
+      "adv. 热心地；白热地；灼热地"
+    ],
+    "usphone": "[ˈɡloʊɪŋli]",
+    "ukphone": "[ˈɡləʊɪŋli]"
+  },
+  {
+    "name": "guaranteed",
+    "trans": [
+      "v. 担保（guarantee的过去式和过去分词）",
+      "adj. 有保证的，；有人担保的"
+    ],
+    "usphone": "[ˌɡærənˈtiːd]",
+    "ukphone": "[ˌɡærənˈtiːd]"
+  },
+  {
+    "name": "gratification",
+    "trans": [
+      "n. 满意；喜悦；使人满意之事"
+    ],
+    "usphone": "[ˌɡrætɪfɪˈkeɪʃn]",
+    "ukphone": "[ˌɡrætɪfɪˈkeɪʃ(ə)n]"
+  },
+  {
+    "name": "gentleness",
+    "trans": [
+      "n. 温顺；亲切；高贵；彬彬有礼"
+    ],
+    "usphone": "[ˈdʒentlnəs]",
+    "ukphone": "[ˈdʒentlnəs]"
+  },
+  {
+    "name": "geophysical",
+    "trans": [
+      "adj. 地球物理学的"
+    ],
+    "usphone": "[ˌdʒiːoʊˈfɪzɪkl]",
+    "ukphone": "[ˌdʒiːəʊˈfɪzɪkl]"
+  },
+  {
+    "name": "go-ahead",
+    "trans": [
+      "n. 前进，进步；放行信号",
+      "adj. 前进着的"
+    ],
+    "usphone": "[ˈɡoʊ əhed]",
+    "ukphone": "[ˈɡəʊ əhed]"
+  },
+  {
+    "name": "grown",
+    "trans": [
+      "v. 生长；变成；栽培（grow的过去分词）",
+      "adj. 长大的；成年的；长满某物的"
+    ],
+    "usphone": "[ɡroʊn]",
+    "ukphone": "[ɡrəʊn]"
+  },
+  {
+    "name": "gourd",
+    "trans": [
+      "n. 葫芦，葫芦属植物；脑瓜"
+    ],
+    "usphone": "[ɡʊrd; ɡɔːrd]",
+    "ukphone": "[ɡʊəd]"
+  },
+  {
+    "name": "grief-stricken",
+    "trans": [
+      "adj. 极度悲伤的"
+    ],
+    "usphone": "[ˈɡriːf strɪkən]",
+    "ukphone": "[ˈɡriːf strɪkən]"
+  },
+  {
+    "name": "geometric mean",
+    "trans": [
+      "n. 几何平均；等比中数"
+    ],
+    "usphone": "[ˌdʒiːəˌmetrɪk ˈmiːn]",
+    "ukphone": "[ˌdʒiːəˌmetrɪk ˈmiːn]"
+  },
+  {
+    "name": "geometric progression",
+    "trans": [
+      "n. 几何数列；等比数列"
+    ],
+    "usphone": "[ˌdʒiːəˌmetrɪk prəˈɡreʃn]",
+    "ukphone": "[ˌdʒiːəˌmetrɪk prəˈɡreʃ(ə)n]"
+  },
+  {
+    "name": "glycerol",
+    "trans": [
+      "n. [有化] 甘油；丙三醇"
+    ],
+    "usphone": "[ˈɡlɪsərɔːl; ˈɡlɪsəroʊl]",
+    "ukphone": "[ˈɡlɪsərɒl]"
+  },
+  {
+    "name": "graphite",
+    "trans": [
+      "n. 石墨；黑铅",
+      "n. 用石墨涂（或掺入等）"
+    ],
+    "usphone": "[ˈɡræfaɪt]",
+    "ukphone": "[ˈɡræfaɪt]"
+  },
+  {
+    "name": "gel",
+    "trans": [
+      "n. [物化] 凝胶，胶体",
+      "vi. 胶化"
+    ],
+    "usphone": "[dʒel]",
+    "ukphone": "[dʒel]"
+  },
+  {
+    "name": "globular",
+    "trans": [
+      "adj. 球状的；由小球形成的；闻名世界的"
+    ],
+    "usphone": "[ˈɡlɑːbjələr]",
+    "ukphone": "[ˈɡlɒbjələ(r)]"
+  },
+  {
+    "name": "graphics",
+    "trans": [
+      "n. [测] 制图学；制图法；图表算法"
+    ],
+    "usphone": "[ˈɡræfɪks]",
+    "ukphone": "[ˈɡræfɪks]"
+  },
+  {
+    "name": "gymnast",
+    "trans": [
+      "n. 体操运动员"
+    ],
+    "usphone": "[ˈdʒɪmnæst]",
+    "ukphone": "[ˈdʒɪmnæst]"
+  },
+  {
+    "name": "gynecologist",
+    "trans": [
+      "n. 妇科医生"
+    ],
+    "usphone": "[ˌɡaɪnəˈkɑːlədʒɪst]",
+    "ukphone": "[ˌɡaɪnɪˈkɒlədʒɪst]"
+  },
+  {
+    "name": "gypsy",
+    "trans": [
+      "n. 吉卜赛人；吉卜赛语；像吉布赛的人；歌舞剧中的歌舞队员",
+      "adj. 象吉卜赛人的；吉卜赛人的；无照的",
+      "vi. 流浪"
+    ],
+    "usphone": "[ˈdʒɪpsi]",
+    "ukphone": "[ˈdʒɪpsi]"
+  },
+  {
+    "name": "granite",
+    "trans": [
+      "n. 花岗岩；坚毅；冷酷无情"
+    ],
+    "usphone": "[ˈɡrænɪt]",
+    "ukphone": "[ˈɡrænɪt]"
+  },
+  {
+    "name": "grade school",
+    "trans": [
+      "na. 〈美〉小学"
+    ],
+    "usphone": "[ˈɡreɪd skuːl]",
+    "ukphone": "[ˈɡreɪd skuːl]"
+  },
+  {
+    "name": "gymnastics",
+    "trans": [
+      "n. 体操；体育；体操运动"
+    ],
+    "usphone": "[dʒɪmˈnæstɪks]",
+    "ukphone": "[dʒɪmˈnæstɪks]"
+  },
+  {
+    "name": "grandparents",
+    "trans": [
+      "n. 祖父母（grandparent的复数）；外祖父母"
+    ],
+    "usphone": "[ˈɡrænperənts]",
+    "ukphone": "[ˈɡrænpeərənts]"
+  },
+  {
+    "name": "giraffe",
+    "trans": [
+      "n. 长颈鹿"
+    ],
+    "usphone": "[dʒəˈræf]",
+    "ukphone": "[dʒəˈrɑːf]"
+  },
+  {
+    "name": "gage",
+    "trans": [
+      "n. 计量器；挑战；抵押品",
+      "vt. 以…为担保；以…为赌注"
+    ],
+    "usphone": "[ɡeɪdʒ]",
+    "ukphone": "[ɡeɪdʒ]"
+  },
+  {
+    "name": "gizmo",
+    "trans": [
+      "n. 小发明（等于gismo ）"
+    ],
+    "usphone": "[ˈɡɪzmoʊ]",
+    "ukphone": "[ˈɡɪzməʊ]"
+  },
+  {
+    "name": "gunpowder",
+    "trans": [
+      "n. 火药；有烟火药"
+    ],
+    "usphone": "[ˈɡʌnpaʊdər]",
+    "ukphone": "[ˈɡʌnpaʊdə(r)]"
+  },
+  {
+    "name": "glossy",
+    "trans": [
+      "adj. 光滑的；有光泽的"
+    ],
+    "usphone": "[ˈɡlɑːsi]",
+    "ukphone": "[ˈɡlɒsi]"
+  },
+  {
+    "name": "grub",
+    "trans": [
+      "n. 蛆，幼虫；食物",
+      "vt. 挖掘寻找；将某物挖出；根除",
+      "vi. 翻掘；搜寻；挖土"
+    ],
+    "usphone": "[ɡrʌb]",
+    "ukphone": "[ɡrʌb]"
+  },
+  {
+    "name": "glib",
+    "trans": [
+      "adj. 口齿伶俐的，油嘴滑舌的"
+    ],
+    "usphone": "[ɡlɪb]",
+    "ukphone": "[ɡlɪb]"
+  },
+  {
+    "name": "glamorize",
+    "trans": [
+      "vt. 美化；使有魅力"
+    ],
+    "usphone": "[ˈɡlæməraɪz]",
+    "ukphone": "[ˈɡlæməraɪz]"
+  },
+  {
+    "name": "gory",
+    "trans": [
+      "adj. 血淋淋的；残酷的"
+    ],
+    "usphone": "[ˈɡɔːri]",
+    "ukphone": "[ˈɡɔːri]"
+  },
+  {
+    "name": "gadfly",
+    "trans": [
+      "n. [昆] 牛虻；讨厌的人"
+    ],
+    "usphone": "[ˈɡædflaɪ]",
+    "ukphone": "[ˈɡædflaɪ]"
+  },
+  {
+    "name": "gait",
+    "trans": [
+      "n. 步法，步态",
+      "vt. 训练步法"
+    ],
+    "usphone": "[ɡeɪt]",
+    "ukphone": "[ɡeɪt]"
+  },
+  {
+    "name": "galactic",
+    "trans": [
+      "adj. 银河的；乳汁的"
+    ],
+    "usphone": "[ɡəˈlæktɪk]",
+    "ukphone": "[ɡəˈlæktɪk]"
+  },
+  {
+    "name": "gale",
+    "trans": [
+      "n. [气象] 大风，狂风；（突发的）一阵"
+    ],
+    "usphone": "[ɡeɪl]",
+    "ukphone": "[ɡeɪl]"
+  },
+  {
+    "name": "gallbladder",
+    "trans": [
+      "n. [解剖] 胆囊"
+    ],
+    "usphone": "[ˈɡɔːlˌblædər]",
+    "ukphone": "[ˈɡɔːlˌblædə(r)]"
+  },
+  {
+    "name": "gallstone",
+    "trans": [
+      "n. [病理] 胆石"
+    ],
+    "usphone": "[ˈɡɔːlstoʊn]",
+    "ukphone": "[ˈɡɔːlstəʊn]"
+  },
+  {
+    "name": "ganglion",
+    "trans": [
+      "n. [组织] 神经节；[医] 腱鞘囊肿"
+    ],
+    "usphone": "[ˈɡæŋɡliən]",
+    "ukphone": "[ˈɡæŋɡliən]"
+  },
+  {
+    "name": "gangrene",
+    "trans": [
+      "n. [外科] 坏疽",
+      "vt. 使生坏疽",
+      "vi. 生坏疽；腐败"
+    ],
+    "usphone": "[ˈɡæŋɡriːn]",
+    "ukphone": "[ˈɡæŋɡriːn]"
+  },
+  {
+    "name": "garb",
+    "trans": [
+      "n. 服装；装束；打扮",
+      "vt. 装扮；穿衣"
+    ],
+    "usphone": "[ɡɑːrb]",
+    "ukphone": "[ɡɑːb]"
+  },
+  {
+    "name": "gastroenterology",
+    "trans": [
+      "n. 肠胃病学"
+    ],
+    "usphone": "[ˌɡæstroʊˌentəˈrɑːlədʒi]",
+    "ukphone": "[ˌɡæstrəʊˌentərˈɒlədʒi]"
+  },
+  {
+    "name": "gastrointestinal",
+    "trans": [
+      "adj. 胃肠的"
+    ],
+    "usphone": "[ˌɡæstroʊɪnˈtestɪnl]",
+    "ukphone": "[ˌɡæstrəʊɪnˈtestɪnl; ˌɡæstrəʊɪnteˈstaɪnl]"
+  },
+  {
+    "name": "gastroscope",
+    "trans": [
+      "n. 胃窥镜（用以检查胃内部情形），胃窥器; 胃镜"
+    ],
+    "usphone": "[ˈɡæstrəˌskoʊp]",
+    "ukphone": "[ˈɡæstrəskəʊp]"
+  },
+  {
+    "name": "gauche",
+    "trans": [
+      "adj. 笨拙的；粗鲁的；不善交际的；偏转的"
+    ],
+    "usphone": "[ɡoʊʃ]",
+    "ukphone": "[ɡəʊʃ]"
+  },
+  {
+    "name": "gaudy",
+    "trans": [
+      "n. 盛大宴会",
+      "adj. 华而不实的；俗丽的"
+    ],
+    "usphone": "[ˈɡɔːdi]",
+    "ukphone": "[ˈɡɔːdi]"
+  },
+  {
+    "name": "gauze",
+    "trans": [
+      "n. 纱布；薄纱；薄雾"
+    ],
+    "usphone": "[ɡɔːz]",
+    "ukphone": "[ɡɔːz]"
+  },
+  {
+    "name": "gelatin",
+    "trans": [
+      "n. 明胶；动物胶；胶制品"
+    ],
+    "usphone": "[ˈdʒelətɪn]",
+    "ukphone": "[ˈdʒelətɪn]"
+  },
+  {
+    "name": "gemstone",
+    "trans": [
+      "n. （经雕琢的）宝石"
+    ],
+    "usphone": "[ˈdʒemˌstoʊn]",
+    "ukphone": "[ˈdʒemstəʊn]"
+  },
+  {
+    "name": "generalist",
+    "trans": [
+      "n. （有多方面知识和经验的）通才；多面手"
+    ],
+    "usphone": "[ˈdʒenrəlɪst]",
+    "ukphone": "[ˈdʒenrəlɪst]"
+  },
+  {
+    "name": "general-purpose",
+    "trans": [
+      "adj. 多用途的；一般用途的"
+    ],
+    "usphone": "[ˌdʒenrəl ˈpɜːrpəs]",
+    "ukphone": "[ˌdʒenrəl ˈpɜːpəs]"
+  },
+  {
+    "name": "genital",
+    "trans": [
+      "n. 生殖器；外阴部",
+      "adj. 生殖的；生殖器的"
+    ],
+    "usphone": "[ˈdʒenɪtl]",
+    "ukphone": "[ˈdʒenɪtl]"
+  },
+  {
+    "name": "genuflexion",
+    "trans": [
+      "n. 曲膝, 跪拜"
+    ],
+    "usphone": "[ˌdʒenjʊˈflekʃən]",
+    "ukphone": "[ˌdʒenjʊ（ː）ˈflekʃən]"
+  },
+  {
+    "name": "genuflection",
+    "trans": [
+      "n. 曲膝；屈从"
+    ],
+    "usphone": "[ˌdʒenjuˈflekʃn]",
+    "ukphone": "[ˌdʒenjuˈflekʃn]"
+  },
+  {
+    "name": "genus",
+    "trans": [
+      "n. 类，种；[生物] 属"
+    ],
+    "usphone": "[ˈdʒiːnəs]",
+    "ukphone": "[ˈdʒiːnəs]"
+  },
+  {
+    "name": "geriatric",
+    "trans": [
+      "n. 老年病人；衰老老人",
+      "adj. 老人的；老年医学的"
+    ],
+    "usphone": "[ˌdʒeriˈætrɪk]",
+    "ukphone": "[ˌdʒeriˈætrɪk]"
+  },
+  {
+    "name": "germicide",
+    "trans": [
+      "n. 杀菌剂，杀菌物"
+    ],
+    "usphone": "[ˈdʒɜːrmɪsaɪd]",
+    "ukphone": "[ˈdʒɜːmɪsaɪd]"
+  },
+  {
+    "name": "gerontology",
+    "trans": [
+      "n. 老年医学；老年病学；老人学"
+    ],
+    "usphone": "[ˌdʒerənˈtɑːlədʒi]",
+    "ukphone": "[ˌdʒerɒnˈtɒlədʒi]"
+  },
+  {
+    "name": "Ghana",
+    "trans": [
+      "n. 加纳（非洲西部国家）"
+    ],
+    "usphone": "[ˈɡɑːnə]",
+    "ukphone": "[ˈɡɑːnə]"
+  },
+  {
+    "name": "gibe",
+    "trans": [
+      "n. 嘲讽话",
+      "vt. 嘲笑；愚弄",
+      "vi. 嘲笑；嘲弄"
+    ],
+    "usphone": "[dʒaɪb]",
+    "ukphone": "[dʒaɪb]"
+  },
+  {
+    "name": "gigantism",
+    "trans": [
+      "n. 巨大；[内科] 巨人症；巨大畸形"
+    ],
+    "usphone": "[dʒaɪˈɡæntɪzəmˌˈdʒaɪɡæntɪzəm]",
+    "ukphone": "[dʒaɪˈɡæntɪzəm; ˈdʒaɪɡæntɪzəm]"
+  },
+  {
+    "name": "gild",
+    "trans": [
+      "vt. 镀金；虚饰；供给钱"
+    ],
+    "usphone": "[ɡɪld]",
+    "ukphone": "[ɡɪld]"
+  },
+  {
+    "name": "ginger",
+    "trans": [
+      "n. 姜；姜黄色；精力；有姜味",
+      "vt. 用姜给…调味；使某人有活力",
+      "adj. 姜黄色的"
+    ],
+    "usphone": "[ˈdʒɪndʒər]",
+    "ukphone": "[ˈdʒɪndʒə(r)]"
+  },
+  {
+    "name": "glaciated",
+    "trans": [
+      "adj. 受到冰河作用的；冻结成冰的",
+      "v. 被冰冻盖（glaciate的过去分词）"
+    ],
+    "usphone": "[ˈɡleɪʃɪˌeɪtɪd]",
+    "ukphone": "[ˈɡleɪsɪeɪtɪd]"
+  },
+  {
+    "name": "glaucoma",
+    "trans": [
+      "n. [眼科] 青光眼；绿内障"
+    ],
+    "usphone": "[ɡlaʊˈkoʊməˌɡlɔːˈkoʊmə]",
+    "ukphone": "[ɡlaʊˈkəʊmə; ɡlɔːˈkəʊmə]"
+  },
+  {
+    "name": "globule",
+    "trans": [
+      "n. 水珠；药丸；血球；小球体"
+    ],
+    "usphone": "[ˈɡlɑːbjuːl]",
+    "ukphone": "[ˈɡlɒbjuːl]"
+  },
+  {
+    "name": "globulin",
+    "trans": [
+      "n. [生化] 球蛋白；血球素"
+    ],
+    "usphone": "[ˈɡlɑbjəlɪn]",
+    "ukphone": "[ˈɡlɒbjʊlɪn]"
+  },
+  {
+    "name": "glossal",
+    "trans": [
+      "a. 舌的",
+      "[医] 舌的"
+    ],
+    "usphone": "[ˈɡlɔːsəl]",
+    "ukphone": "[ˈɡlɔːsəl]"
+  },
+  {
+    "name": "glossitis",
+    "trans": [
+      "n. 舌炎"
+    ],
+    "usphone": "[ɡlɑːˈsaɪtɪs]",
+    "ukphone": "[ɡlɒˈsaɪtɪs]"
+  },
+  {
+    "name": "glottis",
+    "trans": [
+      "n. [解剖] 声门"
+    ],
+    "usphone": "[ˈɡlɑːtɪs]",
+    "ukphone": "[ˈɡlɒtɪs]"
+  },
+  {
+    "name": "glycogen",
+    "trans": [
+      "n. 糖原；动物淀粉"
+    ],
+    "usphone": "[ˈɡlaɪkodʒən]",
+    "ukphone": "[ˈglaɪkədʒ(ə)n]"
+  },
+  {
+    "name": "glycosuria",
+    "trans": [
+      "n. 糖尿"
+    ],
+    "usphone": "[ˌɡlaɪkoˈsjʊrɪə]",
+    "ukphone": "[ˌɡlaɪkəʊˈsjʊəriə]"
+  },
+  {
+    "name": "goiter",
+    "trans": [
+      "n. [内科] 甲状腺肿"
+    ],
+    "usphone": "[ˈɡɔɪtər]",
+    "ukphone": "[ˈɡɒɪtə]"
+  },
+  {
+    "name": "gonad",
+    "trans": [
+      "n. [解剖] 性腺；[解剖] 生殖腺"
+    ],
+    "usphone": "[ˈɡoʊnæd]",
+    "ukphone": "[ˈɡəʊnæd]"
+  },
+  {
+    "name": "Gothic",
+    "trans": [
+      "n. 哥特式",
+      "adj. 哥特式的；野蛮的"
+    ],
+    "usphone": "[ˈɡɑːθɪk]",
+    "ukphone": "[ˈɡɒθɪk]"
+  },
+  {
+    "name": "gout",
+    "trans": [
+      "n. [遗][外科] 痛风；一滴；一团"
+    ],
+    "usphone": "[ɡaʊt]",
+    "ukphone": "[ɡaʊt]"
+  },
+  {
+    "name": "gram-negative",
+    "trans": [
+      "adj. [微] 革兰氏阴性的"
+    ],
+    "usphone": "[ɡræm ˈneɡətɪv]",
+    "ukphone": "['ɡræm'neɡətiv]"
+  },
+  {
+    "name": "gramophone",
+    "trans": [
+      "n. 留声机",
+      "vt. 用唱片录制；用唱机播放"
+    ],
+    "usphone": "[ˈɡræməfoʊn]",
+    "ukphone": "[ˈɡræməfəʊn]"
+  },
+  {
+    "name": "granary",
+    "trans": [
+      "n. 谷仓，粮仓；盛产粮食的地区"
+    ],
+    "usphone": "[ˈɡreɪnəriˌˈɡrænəri]",
+    "ukphone": "[ˈɡrænəri]"
+  },
+  {
+    "name": "granola",
+    "trans": [
+      "n. （早餐营养食品）格兰诺拉燕麦卷"
+    ],
+    "usphone": "[ɡrəˈnoʊlə]",
+    "ukphone": "[ɡrəˈnəʊlə]"
+  },
+  {
+    "name": "gridlock",
+    "trans": [
+      "n. 僵局；极端严重的全面交通壅塞",
+      "vi. 交通阻塞"
+    ],
+    "usphone": "[ˈɡrɪdlɑːk]",
+    "ukphone": "[ˈɡrɪdlɒk]"
+  },
+  {
+    "name": "grouping",
+    "trans": [
+      "n. 分组，分类",
+      "v. 分组（group的现在分词）"
+    ],
+    "usphone": "[ˈɡruːpɪŋ]",
+    "ukphone": "[ˈɡruːpɪŋ]"
+  },
+  {
+    "name": "grubby",
+    "trans": [
+      "adj. 肮脏的；生蛆的；卑鄙的；矮小的"
+    ],
+    "usphone": "[ˈɡrʌbi]",
+    "ukphone": "[ˈɡrʌbi]"
+  },
+  {
+    "name": "guinea pig",
+    "trans": [
+      "n. 实验对象；【动】豚鼠；天竺鼠"
+    ],
+    "usphone": "[ˈɡɪni pɪɡ]",
+    "ukphone": "[ˈɡɪni pɪɡ]"
+  },
+  {
+    "name": "gymnastic",
+    "trans": [
+      "adj. 体操的，体育的"
+    ],
+    "usphone": "[dʒɪmˈnæstɪk]",
+    "ukphone": "[dʒɪmˈnæstɪk]"
+  },
+  {
+    "name": "gimp",
+    "trans": [
+      "n. 瘸子；花边；绒丝带",
+      "vt. 用镶边带装饰",
+      "vi. 跛行"
+    ],
+    "usphone": "[ɡɪmp]",
+    "ukphone": "[ɡɪmp]"
+  },
+  {
+    "name": "glassware",
+    "trans": [
+      "n. 玻璃器皿；玻璃器具类"
+    ],
+    "usphone": "[ˈɡlæswer]",
+    "ukphone": "[ˈɡlɑːsweə(r)]"
+  },
+  {
+    "name": "goddess",
+    "trans": [
+      "n. 女神，受崇拜的女性"
+    ],
+    "usphone": "[ˈɡɑːdəs]",
+    "ukphone": "[ˈɡɒdes; ˈɡɒdəs]"
+  },
+  {
+    "name": "goodwill",
+    "trans": [
+      "n. [贸易] 商誉；友好；好意"
+    ],
+    "usphone": "[ˌɡʊdˈwɪl]",
+    "ukphone": "[ˌɡʊdˈwɪl]"
+  },
+  {
+    "name": "guaranty",
+    "trans": [
+      "n. 保证；抵押；担保物",
+      "vt. 保证；担保；抵押（等于guarantee）"
+    ],
+    "usphone": "[ˈɡærənti]",
+    "ukphone": "[ˈɡærənti]"
+  },
+  {
+    "name": "gutter",
+    "trans": [
+      "n. 排水沟；槽；贫民区",
+      "vi. 流；形成沟",
+      "vt. 开沟于…；弄熄",
+      "adj. 贫贱的；粗俗的；耸人听闻的"
+    ],
+    "usphone": "[ˈɡʌtər]",
+    "ukphone": "[ˈɡʌtə(r)]"
+  },
+  {
+    "name": "gaffe",
+    "trans": [
+      "n. 失态；过失"
+    ],
+    "usphone": "[ɡæf]",
+    "ukphone": "[ɡæf]"
+  },
+  {
+    "name": "gainsay",
+    "trans": [
+      "n. 否认；反对",
+      "vt. 反驳；否定"
+    ],
+    "usphone": "[ˌɡeɪnˈseɪ]",
+    "ukphone": "[ˌɡeɪnˈseɪ]"
+  },
+  {
+    "name": "gall",
+    "trans": [
+      "n. 胆汁；五倍子；怨恨；苦味",
+      "vt. 烦恼；屈辱；磨伤",
+      "vi. 被磨伤"
+    ],
+    "usphone": "[ɡɔːl]",
+    "ukphone": "[ɡɔːl]"
+  },
+  {
+    "name": "gamely",
+    "trans": [
+      "adv. 勇敢地；不屈地"
+    ],
+    "usphone": "[ˈɡeɪmli]",
+    "ukphone": "[ˈɡeɪmli]"
+  },
+  {
+    "name": "gamut",
+    "trans": [
+      "n. 全音阶；全音域；整个范围"
+    ],
+    "usphone": "[ˈɡæmət]",
+    "ukphone": "[ˈɡæmət]"
+  },
+  {
+    "name": "garbled",
+    "trans": [
+      "adj. 篡改的；混乱的；引起误解的",
+      "v. 断章取义（garble的过去式和过去分词）"
+    ],
+    "usphone": "[ˈɡɑːrbld]",
+    "ukphone": "[ˈɡɑːb(ə)ld]"
+  },
+  {
+    "name": "gargantuan",
+    "trans": [
+      "adj. 庞大的，巨大的"
+    ],
+    "usphone": "[ɡɑːrˈɡæntʃuən]",
+    "ukphone": "[ɡɑːˈɡæntʃuən]"
+  },
+  {
+    "name": "garish",
+    "trans": [
+      "adj. 炫耀的；过分装饰的；过分鲜艳的"
+    ],
+    "usphone": "[ˈɡerɪʃ]",
+    "ukphone": "[ˈɡeərɪʃ]"
+  },
+  {
+    "name": "garnish",
+    "trans": [
+      "n. 为增加色香味而添加的配菜；装饰品",
+      "vt. 装饰"
+    ],
+    "usphone": "[ˈɡɑːrnɪʃ]",
+    "ukphone": "[ˈɡɑːnɪʃ]"
+  },
+  {
+    "name": "garrulous",
+    "trans": [
+      "adj. 唠叨的；喋喋不休的；多嘴的"
+    ],
+    "usphone": "[ˈɡærələs]",
+    "ukphone": "[ˈɡærələs]"
+  },
+  {
+    "name": "genealogy",
+    "trans": [
+      "n. 宗谱；血统；家系；系谱学"
+    ],
+    "usphone": "[ˌdʒiːniˈælədʒi]",
+    "ukphone": "[ˌdʒiːniˈælədʒi]"
+  },
+  {
+    "name": "generality",
+    "trans": [
+      "n. 概论；普遍性；大部分"
+    ],
+    "usphone": "[ˌdʒenəˈræləti]",
+    "ukphone": "[ˌdʒenəˈræləti]"
+  },
+  {
+    "name": "geniality",
+    "trans": [
+      "n. 亲切；温暖；舒适"
+    ],
+    "usphone": "[ˌdʒiːniˈæləti]",
+    "ukphone": "[ˌdʒiːniˈæləti]"
+  },
+  {
+    "name": "germinal",
+    "trans": [
+      "adj. 胚种的；幼芽的；原始的"
+    ],
+    "usphone": "[ˈdʒɜːrmənl]",
+    "ukphone": "[ˈdʒɜːmɪnəl]"
+  },
+  {
+    "name": "gesticulation",
+    "trans": [
+      "n. 手势；姿势；示意动作"
+    ],
+    "usphone": "[dʒeˌstɪkjuˈleɪʃn]",
+    "ukphone": "[dʒeˌstɪkjuˈleɪʃn]"
+  },
+  {
+    "name": "gingerly",
+    "trans": [
+      "adj. 谨慎的；轻手轻脚的；慎重的",
+      "adv. 小心翼翼地；慎重地"
+    ],
+    "usphone": "[ˈdʒɪndʒərli]",
+    "ukphone": "[ˈdʒɪndʒəli]"
+  },
+  {
+    "name": "girth",
+    "trans": [
+      "n. 周长；围长；肚带",
+      "vt. 围绕；包围",
+      "vi. 围长为"
+    ],
+    "usphone": "[ɡɜːrθ]",
+    "ukphone": "[ɡɜːθ]"
+  },
+  {
+    "name": "gist",
+    "trans": [
+      "n. 主旨，要点；依据"
+    ],
+    "usphone": "[dʒɪst]",
+    "ukphone": "[dʒɪst]"
+  },
+  {
+    "name": "glower",
+    "trans": [
+      "n. 怒视；热切的注视；灯丝",
+      "vi. 怒目而视；瞪眼"
+    ],
+    "usphone": "[ˈɡlaʊər]",
+    "ukphone": "[ˈɡlaʊə(r)]"
+  },
+  {
+    "name": "glut",
+    "trans": [
+      "n. （商品）供过于求；大量",
+      "vt. 使…充满；使…吃饱；过多供应",
+      "vi. 吃得过多"
+    ],
+    "usphone": "[ɡlʌt]",
+    "ukphone": "[ɡlʌt]"
+  },
+  {
+    "name": "gnome",
+    "trans": [
+      "n. 土地神；格言；箴言",
+      "linux下的桌面环境"
+    ],
+    "usphone": "[noʊm]",
+    "ukphone": "[nəʊm]"
+  },
+  {
+    "name": "goad",
+    "trans": [
+      "n. 刺激；（赶牲口用的）刺棒；激励",
+      "vt. 刺激；激励；用刺棒驱赶；煽动"
+    ],
+    "usphone": "[ɡoʊd]",
+    "ukphone": "[ɡəʊd]"
+  },
+  {
+    "name": "gouge",
+    "trans": [
+      "n. 沟；圆凿；以圆凿刨",
+      "vt. 用半圆凿子挖；欺骗"
+    ],
+    "usphone": "[ɡaʊdʒ]",
+    "ukphone": "[ɡaʊdʒ]"
+  },
+  {
+    "name": "grandiloquent",
+    "trans": [
+      "adj. 夸张的；夸大的；大言不惭的"
+    ],
+    "usphone": "[ɡrænˈdɪləkwənt]",
+    "ukphone": "[ɡrænˈdɪləkwənt]"
+  },
+  {
+    "name": "grouse",
+    "trans": [
+      "n. 松鸡；雷鸟科的猎鸟；怨言",
+      "vi. 埋怨"
+    ],
+    "usphone": "[ɡraʊs]",
+    "ukphone": "[ɡraʊs]"
+  },
+  {
+    "name": "grudging",
+    "trans": [
+      "adj. 勉强的；吝啬的"
+    ],
+    "usphone": "[ˈɡrʌdʒɪŋ]",
+    "ukphone": "[ˈɡrʌdʒɪŋ]"
+  },
+  {
+    "name": "guffaw",
+    "trans": [
+      "n. 哄笑；狂笑",
+      "vi. 哄笑",
+      "vt. 大笑着说"
+    ],
+    "usphone": "[ɡəˈfɔː]",
+    "ukphone": "[ɡəˈfɔː]"
+  },
+  {
+    "name": "guile",
+    "trans": [
+      "n. 狡猾；诡计；欺诈"
+    ],
+    "usphone": "[ɡaɪl]",
+    "ukphone": "[ɡaɪl]"
+  },
+  {
+    "name": "gustatory",
+    "trans": [
+      "adj. 味的，味觉的"
+    ],
+    "usphone": "[ˈɡʌstətɔːri]",
+    "ukphone": "[ˈɡʌstətəri]"
+  },
+  {
+    "name": "gusty",
+    "trans": [
+      "adj. 阵风的；突发的；阵阵猛急的"
+    ],
+    "usphone": "[ˈɡʌsti]",
+    "ukphone": "[ˈɡʌsti]"
+  },
+  {
+    "name": "grooming",
+    "trans": [
+      "n. 修饰",
+      "v. 喂马；整饰；推荐（groom的ing形式）"
+    ],
+    "usphone": "[ˈɡruːmɪŋ]",
+    "ukphone": "[ˈɡruːmɪŋ]"
+  },
+  {
+    "name": "glittering",
+    "trans": [
+      "adj. 闪闪发光的",
+      "v. 闪闪发光（glitter的ing形式）"
+    ],
+    "usphone": "[ˈɡlɪtərɪŋ]",
+    "ukphone": "[ˈɡlɪtərɪŋ]"
+  },
+  {
+    "name": "Germanic",
+    "trans": [
+      "n. 日耳曼语",
+      "adj. 德国的；德语的；日耳曼人的；日耳曼语的"
+    ],
+    "usphone": "[dʒɜːrˈmænɪk]",
+    "ukphone": "[dʒɜːˈmænɪk]"
+  },
+  {
+    "name": "Gypsy",
+    "trans": [
+      "n. 吉卜赛人；吉卜赛语；像吉布赛的人；歌舞剧中的歌舞队员",
+      "adj. 象吉卜赛人的；吉卜赛人的；无照的",
+      "vi. 流浪"
+    ],
+    "usphone": "[ˈdʒɪpsi]",
+    "ukphone": "[ˈdʒɪpsi]"
+  },
+  {
+    "name": "gainful",
+    "trans": [
+      "adj. 唯利是图的；有利益的；赚钱的"
+    ],
+    "usphone": "[ˈɡeɪnfl]",
+    "ukphone": "[ˈɡeɪnfl]"
+  },
+  {
+    "name": "generously",
+    "trans": [
+      "adv. 慷慨地；宽大地；丰盛地"
+    ],
+    "usphone": "[ˈdʒenərəsli]",
+    "ukphone": "[ˈdʒenərəsli]"
+  },
+  {
+    "name": "glassful",
+    "trans": [
+      "n. 一杯的容量"
+    ],
+    "usphone": "[ˈɡlæsfʊl]",
+    "ukphone": "[ˈɡlɑːsfʊl]"
+  },
+  {
+    "name": "gloved",
+    "trans": [
+      "adj. 带有手套的",
+      "v. 给…戴手套；给…当手套用（glove的过去分词）"
+    ],
+    "usphone": "[ɡlʌvd]",
+    "ukphone": "[ɡlʌvd]"
+  },
+  {
+    "name": "governing",
+    "trans": [
+      "v. 统治（govern的ing形式）；支配",
+      "adj. 有统治、控制或治理权力的"
+    ],
+    "usphone": "[ˈɡʌvərnɪŋ]",
+    "ukphone": "[ˈɡʌvənɪŋ]"
+  },
+  {
+    "name": "grilled",
+    "trans": [
+      "adj. 烤的；有格子的",
+      "v. 炙烤（grill的过去式和过去分词）"
+    ],
+    "usphone": "[ɡrɪld]",
+    "ukphone": "[ɡrɪld]"
+  },
+  {
+    "name": "groundless",
+    "trans": [
+      "adj. 无理由的"
+    ],
+    "usphone": "[ˈɡraʊndləs]",
+    "ukphone": "[ˈɡraʊndləs]"
+  },
+  {
+    "name": "guided",
+    "trans": [
+      "v. 指导（guide的过去分词）",
+      "adj. 有指导的；有向导的"
+    ],
+    "usphone": "[ˈɡaɪdɪd]",
+    "ukphone": "[ˈɡaɪdɪd]"
+  },
+  {
+    "name": "get dressed",
+    "trans": [
+      "v. 穿衣服"
+    ],
+    "usphone": "[ɡet drest]",
+    "ukphone": "[ɡet drest]"
+  },
+  {
+    "name": "guest house",
+    "trans": [
+      "n. 小旅馆；（大房子旁供客人居住的）客房"
+    ],
+    "usphone": "[ˈɡest haʊs]",
+    "ukphone": "[ˈɡest haʊs]"
+  },
+  {
+    "name": "grandad",
+    "trans": [
+      "n. 爷爷；外公"
+    ],
+    "usphone": "[ˈɡrændæd]",
+    "ukphone": "[ˈɡrændæd]"
+  },
+  {
+    "name": "granddad",
+    "trans": [
+      "n. 爷爷；外公"
+    ],
+    "usphone": "[ˈɡrændæd]",
+    "ukphone": "[ˈɡrændæd]"
+  },
+  {
+    "name": "glasses",
+    "trans": [
+      "n. [轻] 眼镜；玻璃（glass的复数形式）；双筒望远镜",
+      "v. 把…装入玻璃容器内；给…装上玻璃（glass的第三人称单数形式）"
+    ],
+    "usphone": "[ˈɡlæsɪz]",
+    "ukphone": "[ˈɡlɑːsɪz]"
+  },
+  {
+    "name": "goalkeeper",
+    "trans": [
+      "n. 守门员"
+    ],
+    "usphone": "[ˈɡoʊlkiːpər]",
+    "ukphone": "[ˈɡəʊlkiːpə(r)]"
+  },
+  {
+    "name": "graciously",
+    "trans": [
+      "adv. 和蔼地；仁慈地；雅致地"
+    ],
+    "usphone": "[ˈɡreɪʃəsli]",
+    "ukphone": "[ˈɡreɪʃəsli]"
+  },
+  {
+    "name": "gravely",
+    "trans": [
+      "adv. 严重地；严肃地；严峻地；沉重地"
+    ],
+    "usphone": "[ˈɡreɪvli]",
+    "ukphone": "[ˈɡreɪvli]"
+  },
+  {
+    "name": "grass-roots",
+    "trans": [
+      "adj. 基层的；基本的；一般民众的"
+    ],
+    "usphone": "[ˌɡræs ˈruːts]",
+    "ukphone": "[ˌɡrɑːs ˈruːts]"
+  },
+  {
+    "name": "gerontocracy",
+    "trans": [
+      "n. 老人政治；老人政府"
+    ],
+    "usphone": "[ˌdʒerənˈtɑːkrəsi]",
+    "ukphone": "[ˌdʒerənˈtɒkrəsi]"
+  },
+  {
+    "name": "generalization",
+    "trans": [
+      "n. 概括；普遍化；一般化"
+    ],
+    "usphone": "[ˌdʒenrələˈzeɪʃn]",
+    "ukphone": "[ˌdʒenrəlaɪˈzeɪʃn]"
+  },
+  {
+    "name": "gratis",
+    "trans": [
+      "adj. 免费的",
+      "adv. 免费地"
+    ],
+    "usphone": "[ˈɡrætɪsˌˈɡreɪtɪs]",
+    "ukphone": "[ˈɡrætɪs; ˈɡreɪtɪs; ˈɡrɑːtɪs]"
+  },
+  {
+    "name": "gratuity",
+    "trans": [
+      "n. 赏钱，小费；赠物；[劳经] 退职金"
+    ],
+    "usphone": "[ɡrəˈtuːəti]",
+    "ukphone": "[ɡrəˈtjuːəti]"
+  },
+  {
+    "name": "germination",
+    "trans": [
+      "n. 发芽；发生；伟晶作用"
+    ],
+    "usphone": "[ˌdʒɜːrmɪˈneɪʃn]",
+    "ukphone": "[ˌdʒɜːmɪˈneɪʃn]"
+  },
+  {
+    "name": "grinding",
+    "trans": [
+      "adj. 磨的；刺耳的；令人难以忍受的"
+    ],
+    "usphone": "[ˈɡraɪndɪŋ]",
+    "ukphone": "[ˈɡraɪndɪŋ]"
+  },
+  {
+    "name": "guidebook",
+    "trans": [
+      "n. 旅行指南；指导手册"
+    ],
+    "usphone": "[ˈɡaɪdbʊk]",
+    "ukphone": "[ˈɡaɪdbʊk]"
+  },
+  {
+    "name": "governmental",
+    "trans": [
+      "adj. 政府的；政治的；统治上的"
+    ],
+    "usphone": "[ˌɡʌvərnˈmentl]",
+    "ukphone": "[ˌɡʌvnˈmentl]"
+  },
+  {
+    "name": "gliding",
+    "trans": [
+      "adj. 滑行的；流畅的；滑顺的",
+      "v. 滑翔；消逝；溜走（glide的ing形式）"
+    ],
+    "usphone": "[ˈɡlaɪdɪŋ]",
+    "ukphone": "[ˈɡlaɪdɪŋ]"
+  },
+  {
+    "name": "garret",
+    "trans": [
+      "n. 阁楼；顶楼"
+    ],
+    "usphone": "[ˈɡærət]",
+    "ukphone": "[ˈɡærət]"
+  },
+  {
+    "name": "grenade",
+    "trans": [
+      "n. 手榴弹；灭火弹",
+      "vt. 扔手榴弹；用催泪弹攻击"
+    ],
+    "usphone": "[ɡrəˈneɪd]",
+    "ukphone": "[ɡrəˈneɪd]"
+  },
+  {
+    "name": "gatekeeper",
+    "trans": [
+      "n. 看门人"
+    ],
+    "usphone": "[ˈɡeɪtkiːpər]",
+    "ukphone": "[ˈɡeɪtkiːpə(r)]"
+  },
+  {
+    "name": "guarding",
+    "trans": [
+      "adj. 保护的；监护的",
+      "v. 守护（guard的ing形式）"
+    ],
+    "usphone": "['ga:diŋ]",
+    "ukphone": "['ga:diŋ]"
+  },
+  {
+    "name": "guiltily",
+    "trans": [
+      "adv. 内疚地；有罪地"
+    ],
+    "usphone": "[ˈɡɪltɪli]",
+    "ukphone": "[ˈɡɪltɪli]"
+  },
+  {
+    "name": "geese",
+    "trans": [
+      "n. 鹅（goose复数）"
+    ],
+    "usphone": "[ɡiːs]",
+    "ukphone": "[ɡiːs]"
+  },
+  {
+    "name": "gateway",
+    "trans": [
+      "n. 门；网关；方法；通道；途径"
+    ],
+    "usphone": "[ˈɡeɪtweɪ]",
+    "ukphone": "[ˈɡeɪtweɪ]"
+  },
+  {
+    "name": "geopolitics",
+    "trans": [
+      "n. 地缘政治学；地理政治论"
+    ],
+    "usphone": "[ˌdʒiːoʊˈpɑːlətɪks]",
+    "ukphone": "[ˌdʒiːəʊˈpɒlətɪks]"
+  },
+  {
+    "name": "gambler",
+    "trans": [
+      "n. 赌徒；投机商人"
+    ],
+    "usphone": "[ˈɡæmblər]",
+    "ukphone": "[ˈɡæmblə(r)]"
+  },
+  {
+    "name": "gaoler",
+    "trans": [
+      "n. 监狱看守；监狱长"
+    ],
+    "usphone": "[ˈdʒeɪlər]",
+    "ukphone": "[ˈdʒeɪlə(r)]"
+  },
+  {
+    "name": "gaily",
+    "trans": [
+      "adv. 华丽地；欢乐地"
+    ],
+    "usphone": "[ˈɡeɪli]",
+    "ukphone": "[ˈɡeɪli]"
+  },
+  {
+    "name": "ghostly",
+    "trans": [
+      "adj. 幽灵的；可怕的；影子似的"
+    ],
+    "usphone": "[ˈɡoʊstli]",
+    "ukphone": "[ˈɡəʊstli]"
+  },
+  {
+    "name": "golfer",
+    "trans": [
+      "n. 高尔夫球手"
+    ],
+    "usphone": "[ˈɡɑːlfər]",
+    "ukphone": "[ˈɡɒlfə(r)]"
+  },
+  {
+    "name": "governess",
+    "trans": [
+      "n. 女家庭教师"
+    ],
+    "usphone": "[ˈɡʌvərnəs]",
+    "ukphone": "[ˈɡʌvənəs]"
+  },
+  {
+    "name": "graveyard",
+    "trans": [
+      "n. 墓地"
+    ],
+    "usphone": "[ˈɡreɪvjɑːrd]",
+    "ukphone": "[ˈɡreɪvjɑːd]"
+  },
+  {
+    "name": "gunfire",
+    "trans": [
+      "n. 炮火；炮火声"
+    ],
+    "usphone": "[ˈɡʌnfaɪər]",
+    "ukphone": "[ˈɡʌnfaɪə(r)]"
+  },
+  {
+    "name": "good-hearted",
+    "trans": [
+      "adj. 好心肠的；仁慈的；宽厚的"
+    ],
+    "usphone": "[ˌɡʊd ˈhɑːrtɪd]",
+    "ukphone": "[ˌɡʊd ˈhɑːtɪd]"
+  },
+  {
+    "name": "grapevine",
+    "trans": [
+      "n. 葡萄树；葡萄藤；小道消息；秘密情报网"
+    ],
+    "usphone": "[ˈɡreɪpvaɪn]",
+    "ukphone": "[ˈɡreɪpvaɪn]"
+  },
+  {
+    "name": "grandstand",
+    "trans": [
+      "n. 正面看台；观众；哗众取宠的表演",
+      "adj. 看台上的",
+      "vi. 做博取观众喝采的演技"
+    ],
+    "usphone": "[ˈɡrænstænd]",
+    "ukphone": "[ˈɡrænstænd]"
+  },
+  {
+    "name": "genuineness",
+    "trans": [
+      "n. 真实，真正；真诚，真挚"
+    ],
+    "usphone": "[ˈdʒenjuɪnnəs]",
+    "ukphone": "[ˈdʒenjuɪnnəs]"
+  },
+  {
+    "name": "Godspeed",
+    "trans": [
+      "n. 祝成功"
+    ],
+    "usphone": "[ˌɡɑːdˈspiːd]",
+    "ukphone": "[ˌɡɒdˈspiːd]"
+  },
+  {
+    "name": "graciousness",
+    "trans": [
+      "n. 亲切，和蔼；好心"
+    ],
+    "usphone": "[ˈɡreɪʃəsnəs]",
+    "ukphone": "[ˈɡreɪʃəsnəs]"
+  },
+  {
+    "name": "gambling",
+    "trans": [
+      "n. 赌博；投机",
+      "v. 赌博；打赌（gamble的ing形式）"
+    ],
+    "usphone": "[ˈɡæmblɪŋ]",
+    "ukphone": "[ˈɡæmblɪŋ]"
+  },
+  {
+    "name": "greenhorn",
+    "trans": [
+      "n. 生手；不懂世故的人；易受骗的人"
+    ],
+    "usphone": "[ˈɡriːnhɔːrn]",
+    "ukphone": "[ˈɡriːnhɔːn]"
+  },
+  {
+    "name": "goanna",
+    "trans": [
+      "n. 巨蜥"
+    ],
+    "usphone": "[ˈɡoʊnə]",
+    "ukphone": "[ɡəʊˈænə]"
+  },
+  {
+    "name": "gum tree",
+    "trans": [
+      "n. 桉树；树胶树"
+    ],
+    "usphone": "[ˈɡʌm triː]",
+    "ukphone": "[ˈɡʌm triː]"
+  },
+  {
+    "name": "geomagnetic",
+    "trans": [
+      "adj. 地磁的；地磁气的"
+    ],
+    "usphone": "[ˌdʒiːoʊmæɡˈnetɪk]",
+    "ukphone": "[ˌdʒiːəʊmæɡˈnetɪk]"
+  },
+  {
+    "name": "gillnet",
+    "trans": [
+      "v. 以刺网捕鱼"
+    ],
+    "usphone": "[ˈɡɪlˌnet]",
+    "ukphone": "[ˈɡɪlnet]"
+  },
+  {
+    "name": "groundfish",
+    "trans": [
+      "n. 底栖鱼；底层鱼（指生活于海底的鱼，如鳕等）"
+    ],
+    "usphone": "[ˈɡraʊndfɪʃ]",
+    "ukphone": "[ˈɡraʊndˌfɪʃ]"
+  },
+  {
+    "name": "genotype",
+    "trans": [
+      "n. 基因型；遗传型"
+    ],
+    "usphone": "[ˈdʒenətaɪp]",
+    "ukphone": "[ˈdʒenətaɪp]"
+  },
+  {
+    "name": "geophysicist",
+    "trans": [
+      "n. [地物] 地球物理学者"
+    ],
+    "usphone": "[ˌdʒiːoʊˈfɪzɪsɪst]",
+    "ukphone": "[ˌdʒiːəʊˈfɪzɪsɪst]"
+  },
+  {
+    "name": "greenhouse gas",
+    "trans": [
+      "n. 温室气体（尤指二氧化碳）"
+    ],
+    "usphone": "[ˌɡriːnhaʊs ˈɡæs]",
+    "ukphone": "[ˌɡriːnhaʊs ˈɡæs]"
+  },
+  {
+    "name": "geologic",
+    "trans": [
+      "adj. 地质的；地质学上的"
+    ],
+    "usphone": "[ˌdʒiːəˈlɑːdʒɪk]",
+    "ukphone": "[ˌdʒiːəˈlɒdʒɪk]"
+  },
+  {
+    "name": "granitic",
+    "trans": [
+      "adj. 花岗石的；由花岗岩形成的"
+    ],
+    "usphone": "[ɡræˈnɪtɪk]",
+    "ukphone": "[ɡræˈnɪtɪk]"
+  },
+  {
+    "name": "grazing",
+    "trans": [
+      "n. 放牧；牧草",
+      "v. 擦过；抓伤（graze的现在分词）"
+    ],
+    "usphone": "[ˈɡreɪzɪŋ]",
+    "ukphone": "[ˈɡreɪzɪŋ]"
+  },
+  {
+    "name": "glycoside",
+    "trans": [
+      "n. 配醣；配糖体；配糖类"
+    ],
+    "usphone": "[ˈɡlaɪkəˌsaɪd]",
+    "ukphone": "[ˈɡlaɪkəʊˌsaɪd]"
+  },
+  {
+    "name": "geographer",
+    "trans": [
+      "n. 地理学者"
+    ],
+    "usphone": "[dʒiˈɑːɡrəfər]",
+    "ukphone": "[dʒiˈɒɡrəfə(r)]"
+  },
+  {
+    "name": "goldfield",
+    "trans": [
+      "n. 采金的区域"
+    ],
+    "usphone": "[ˈɡoʊldfiːld]",
+    "ukphone": "[ˈɡəʊldfiːld]"
+  },
+  {
+    "name": "geochemistry",
+    "trans": [
+      "n. 地球化学"
+    ],
+    "usphone": "[ˌdʒɪoˈkeməstri]",
+    "ukphone": "[dʒiːəʊˈkemɪstrɪ]"
+  },
+  {
+    "name": "glorification",
+    "trans": [
+      "n. 赞颂"
+    ],
+    "usphone": "[ˌɡlɔːrɪfɪˈkeɪʃn]",
+    "ukphone": "[ˌɡlɔːrɪfɪˈkeɪʃn]"
+  },
+  {
+    "name": "Georgian",
+    "trans": [
+      "n. 乔治亚州人；乔治亚人",
+      "adj. （英）乔治亚的；英国乔治王朝时代的；乔治王时代艺术风格的"
+    ],
+    "usphone": "[ˈdʒɔːrdʒən]",
+    "ukphone": "[ˈdʒɔːdʒən]"
+  },
+  {
+    "name": "Glasgow",
+    "trans": [
+      "n. 格拉斯哥（英国城市名）"
+    ],
+    "usphone": "['ɡlɑ:sɡəu]",
+    "ukphone": "[ˈɡlɑːzɡəʊ]"
+  },
+  {
+    "name": "girlhood",
+    "trans": [
+      "n. 少女时期"
+    ],
+    "usphone": "[ˈɡɜːrlhʊd]",
+    "ukphone": "[ˈɡɜːlhʊd]"
+  },
+  {
+    "name": "geoscientist",
+    "trans": [
+      "n. 地球学家"
+    ],
+    "usphone": "[dʒɪoʊˈsaɪəntɪst]",
+    "ukphone": "[dʒɪ（ː）əʊˈsaɪəntɪst]"
+  },
+  {
+    "name": "guinea",
+    "trans": [
+      "n. 几内亚；基尼（英国旧时金币名）"
+    ],
+    "usphone": "[ˈɡɪni]",
+    "ukphone": "[ˈɡɪni]"
+  },
+  {
+    "name": "guarded",
+    "trans": [
+      "v. 保卫，看守（guard的过去式）",
+      "adj. 谨慎的；被监视着的；警戒着的；被看守著的"
+    ],
+    "usphone": "[ˈɡɑːrdɪd]",
+    "ukphone": "[ˈɡɑːdɪd]"
+  },
+  {
+    "name": "grieved",
+    "trans": [
+      "v. 悲伤（grieve的过去式）",
+      "adj. 伤心的"
+    ],
+    "usphone": "[ɡriːvd]",
+    "ukphone": "[ɡriːvd]"
+  },
+  {
+    "name": "gerocomium",
+    "trans": [
+      "敬老院, 养老院"
+    ],
+    "usphone": "[dʒerəu'kəumiəm]",
+    "ukphone": "[dʒerəʊˈkəʊmɪəm]"
+  },
+  {
+    "name": "giggling",
+    "trans": [
+      "咯咯地笑（giggle的现在分词）"
+    ],
+    "usphone": "[ˈɡɪɡlɪŋ]",
+    "ukphone": "[ˈɡɪɡlɪŋ]"
+  },
+  {
+    "name": "gruel",
+    "trans": [
+      "n. 稀粥",
+      "vt. 使极度疲劳；累垮"
+    ],
+    "usphone": "[ˈɡruːəl]",
+    "ukphone": "[ˈɡruːəl]"
+  },
+  {
+    "name": "groundhog",
+    "trans": [
+      "n. 土拨鼠"
+    ],
+    "usphone": "[ˈɡraʊndhɑːɡ]",
+    "ukphone": "[ˈɡraʊndhɒɡ]"
+  },
+  {
+    "name": "gangway",
+    "trans": [
+      "n. 舷梯；跳板；进出通路；座间过道",
+      "int. 让路"
+    ],
+    "usphone": "[ˈɡæŋweɪ]",
+    "ukphone": "[ˈɡæŋweɪ]"
+  },
+  {
+    "name": "gazump",
+    "trans": [
+      "n. 敲诈；欺诈",
+      "vt. 抬高原本约定的价格；向…索要高价",
+      "vi. 欺骗；抬价敲诈"
+    ],
+    "usphone": "[ɡəˈzʌmp]",
+    "ukphone": "[ɡəˈzʌmp]"
+  },
+  {
+    "name": "gearing",
+    "trans": [
+      "n. 传动装置",
+      "vt. 以齿轮连起；配搭活动（gear的ing形式）"
+    ],
+    "usphone": "[ˈɡɪrɪŋ]",
+    "ukphone": "[ˈɡɪərɪŋ]"
+  },
+  {
+    "name": "germane",
+    "trans": [
+      "adj. 有密切关系的；贴切的；恰当的"
+    ],
+    "usphone": "[dʒɜːrˈmeɪn]",
+    "ukphone": "[dʒɜːˈmeɪn]"
+  },
+  {
+    "name": "gilt-edged",
+    "trans": [
+      "adj. 金边的；最上等的"
+    ],
+    "usphone": "[ˌɡɪlt ˈedʒd]",
+    "ukphone": "[ˌɡɪlt ˈedʒd]"
+  },
+  {
+    "name": "glibly",
+    "trans": [
+      "adv. 流畅地；流利地；油嘴滑舌地"
+    ],
+    "usphone": "[ˈɡlɪbli]",
+    "ukphone": "[ˈɡlɪbli]"
+  },
+  {
+    "name": "glitch",
+    "trans": [
+      "n. 小故障；失灵；[电子] 短时脉冲波干扰"
+    ],
+    "usphone": "[ɡlɪtʃ]",
+    "ukphone": "[ɡlɪtʃ]"
+  },
+  {
+    "name": "goalpost",
+    "trans": [
+      "n. 球门柱；门柱"
+    ],
+    "usphone": "[ˈɡoʊlpoʊst]",
+    "ukphone": "[ˈɡəʊlpəʊst]"
+  },
+  {
+    "name": "greenmail",
+    "trans": [
+      "n. 绿票讹诈"
+    ],
+    "usphone": "[ˈɡriːnmeɪl]",
+    "ukphone": "[ˈɡriːnmeɪl]"
+  },
+  {
+    "name": "greeter",
+    "trans": [
+      "n. （在酒店、超市等门口迎接顾客的）接待员"
+    ],
+    "usphone": "[ˈɡriːtər]",
+    "ukphone": "[ˈɡriːtə(r)]"
+  },
+  {
+    "name": "guilder",
+    "trans": [
+      "n. 荷兰盾（荷兰货币单位，等于Florin）；金币（或银币，等于gilder或gulden）"
+    ],
+    "usphone": "[ˈɡɪldər]",
+    "ukphone": "[ˈɡɪldə(r)]"
+  },
+  {
+    "name": "gummed",
+    "trans": [
+      "adj. 涂胶的",
+      "v. 用牙床咬；使有黏性（gum的过去分词）"
+    ],
+    "usphone": "[ɡʌmd]",
+    "ukphone": "[ɡʌmd]"
+  },
+  {
+    "name": "glorified",
+    "trans": [
+      "adj. 变荣耀的，美其名的",
+      "v. 赞美；美化（glorify的过去分词）"
+    ],
+    "usphone": "[ˈɡlɔːrɪfaɪd]",
+    "ukphone": "[ˈɡlɔːrɪfaɪd]"
+  },
+  {
+    "name": "garble",
+    "trans": [
+      "n. 断章取义；混淆；篡改",
+      "vt. 断章取义；歪曲；混淆"
+    ],
+    "usphone": "[ˈɡɑːrbəl]",
+    "ukphone": "[ˈɡɑːb(ə)l]"
+  },
+  {
+    "name": "goldbrick",
+    "trans": [
+      "n. 懒汉；假金砖；赝品",
+      "vt. 欺诈；偷懒",
+      "vi. 称病"
+    ],
+    "usphone": "[ˈɡoʊldbrɪk]",
+    "ukphone": "[ˈɡəʊldbrɪk]"
+  },
+  {
+    "name": "gambol",
+    "trans": [
+      "n. 雀跃；嬉戏",
+      "vi. 雀跃；耍闹"
+    ],
+    "usphone": "[ˈɡæmbl]",
+    "ukphone": "[ˈɡæmb(ə)l]"
+  },
+  {
+    "name": "glutinous",
+    "trans": [
+      "adj. 粘的；粘性的；胶状的"
+    ],
+    "usphone": "[ˈɡluːtənəs]",
+    "ukphone": "[ˈɡluːtənəs]"
+  },
+  {
+    "name": "groggy",
+    "trans": [
+      "adj. 酒醉的，无力的；东歪西倒的"
+    ],
+    "usphone": "[ˈɡrɑːɡi]",
+    "ukphone": "[ˈɡrɒɡi]"
+  },
+  {
+    "name": "gawky",
+    "trans": [
+      "n. 笨拙的人",
+      "adj. 笨拙的，鲁钝的"
+    ],
+    "usphone": "[ˈɡɔːki]",
+    "ukphone": "[ˈɡɔːki]"
+  },
+  {
+    "name": "growing",
+    "trans": [
+      "v. 生长（grow的ing形式）",
+      "adj. 发展的；成长的"
+    ],
+    "usphone": "[ˈɡroʊɪŋ]",
+    "ukphone": "[ˈɡrəʊɪŋ]"
+  },
+  {
+    "name": "goodnight",
+    "trans": [
+      "int. 晚安；再见"
+    ],
+    "usphone": "[ˌɡʊdˈnaɪt]",
+    "ukphone": "[ˌɡʊdˈnaɪt]"
+  },
+  {
+    "name": "Guatemalan",
+    "trans": [
+      "n. 危地马拉人",
+      "adj. 危地马拉的（中美洲的一个国家）"
+    ],
+    "usphone": "[ˌɡwɑːtəˈmɑːlən]",
+    "ukphone": "[ˌɡwɑːtəˈmɑːlən; ˌɡwætəˈmɑːlən]"
+  },
+  {
+    "name": "get fat",
+    "trans": [
+      "na. 发胖"
+    ],
+    "usphone": "[ɡet fæt]",
+    "ukphone": "[ɡet fæt]"
+  },
+  {
+    "name": "gloaming",
+    "trans": [
+      "n. 黄昏；夕幕",
+      "v. 日落；天变黑（gloam的现在分词）"
+    ],
+    "usphone": "[ˈɡloʊmɪŋ]",
+    "ukphone": "[ˈɡləʊmɪŋ]"
+  },
+  {
+    "name": "giant panda",
+    "trans": [
+      "na. 大熊猫"
+    ],
+    "usphone": "[ˌdʒaɪənt ˈpændə]",
+    "ukphone": "[ˌdʒaɪənt ˈpændə]"
+  },
+  {
+    "name": "grew",
+    "trans": [
+      "v. 成长，种植（grow的过去式）"
+    ],
+    "usphone": "[ɡruː]",
+    "ukphone": "[ɡruː]"
+  },
+  {
+    "name": "get paid",
+    "trans": [
+      "un. 领工资"
+    ],
+    "usphone": "[ɡet peɪd]",
+    "ukphone": "[ɡet peɪd]"
+  },
+  {
+    "name": "goggles",
+    "trans": [
+      "n. [安全] 护目镜；防护眼镜；瞪视（goggle的复数）",
+      "v. 瞪大眼睛看；转动眼珠（goggle的三单形式）"
+    ],
+    "usphone": "[ˈɡɑːɡlz]",
+    "ukphone": "[ˈɡɒɡ(ə)lz]"
+  },
+  {
+    "name": "graphology",
+    "trans": [
+      "n. 笔迹学；笔迹相法；图表法"
+    ],
+    "usphone": "[ɡræˈfɑːlədʒi]",
+    "ukphone": "[ɡræˈfɒlədʒi]"
+  },
+  {
+    "name": "gullibly",
+    "trans": [
+      "易受骗地",
+      "轻信地"
+    ],
+    "usphone": "[ˈɡʌləbli]",
+    "ukphone": "[ˈɡʌləbli]"
+  },
+  {
+    "name": "glutamate",
+    "trans": [
+      "n. [生化] 谷氨酸盐；[生化] 谷氨酸酯"
+    ],
+    "usphone": "[ˈɡluːtəmeɪt]",
+    "ukphone": "[ˈɡluːtəmeɪt]"
+  },
+  {
+    "name": "gelatine",
+    "trans": [
+      "n. 胶质；果子冻；白明胶"
+    ],
+    "usphone": "[ˈdʒelətn]",
+    "ukphone": "[ˌdʒeləˈtiːn]"
+  },
+  {
+    "name": "go-slow",
+    "trans": [
+      "n. 怠工",
+      "adj. 怠工的"
+    ],
+    "usphone": "[ˈɡoʊ sloʊ]",
+    "ukphone": "[ˈɡəʊ sləʊ]"
+  },
+  {
+    "name": "gazillion",
+    "trans": [
+      "n. 极大量"
+    ],
+    "usphone": "[ɡəˈzɪljən]",
+    "ukphone": "[ɡəˈzɪljən]"
+  },
+  {
+    "name": "guiltless",
+    "trans": [
+      "adj. 无罪的，无辜的；没有…的，不知…的"
+    ],
+    "usphone": "[ˈɡɪltləs]",
+    "ukphone": "[ˈɡɪltləs]"
+  },
+  {
+    "name": "gig",
+    "trans": [
+      "n. 旋转物；鱼叉；轻便双轮马车；现场演出；临时工作",
+      "vt. 使…起绒；用鱼叉叉；记过处分",
+      "vi. 乘轻便双轮马车；起绒；叉鱼"
+    ],
+    "usphone": "[ɡɪɡ]",
+    "ukphone": "[ɡɪɡ]"
+  },
+  {
+    "name": "gin",
+    "trans": [
+      "n. 杜松子酒；网；[机] 三角起重机",
+      "vi. 喝杜松子酒； 用陷阱(或网)捕捉，诱捕(猎物)"
+    ],
+    "usphone": "[dʒɪn]",
+    "ukphone": "[dʒɪn]"
+  },
+  {
+    "name": "goldsmith",
+    "trans": [
+      "n. 金匠"
+    ],
+    "usphone": "[ˈɡoʊldsmɪθ]",
+    "ukphone": "[ˈɡəʊldsmɪθ]"
+  },
+  {
+    "name": "gauntlet",
+    "trans": [
+      "n. 长手套；（古时士兵戴的）金属护手；夹道鞭笞的刑罚；交叉射击；严酷考验"
+    ],
+    "usphone": "[ˈɡɔːntlət]",
+    "ukphone": "[ˈɡɔːntlət]"
+  },
+  {
+    "name": "gilt",
+    "trans": [
+      "n. 镀金；小母猪；眩目的外表",
+      "v. 镀金（gild的过去式和过去分词）",
+      "adj. 镀金的"
+    ],
+    "usphone": "[ɡɪlt]",
+    "ukphone": "[ɡɪlt]"
+  },
+  {
+    "name": "goblin",
+    "trans": [
+      "n. 小妖精；顽皮的丑小鬼"
+    ],
+    "usphone": "[ˈɡɑːblɪn]",
+    "ukphone": "[ˈɡɒblɪn]"
+  },
+  {
+    "name": "gird",
+    "trans": [
+      "n. 嘲笑",
+      "vt. 束缚；佩带；做准备",
+      "vi. 准备；嘲骂"
+    ],
+    "usphone": "[ɡɜːrd]",
+    "ukphone": "[ɡɜːd]"
+  },
+  {
+    "name": "glucose",
+    "trans": [
+      "n. 葡萄糖；葡糖（等于dextrose）"
+    ],
+    "usphone": "[ˈɡluːkoʊsˌˈɡluːkoʊz]",
+    "ukphone": "[ˈɡluːkəʊs]"
+  },
+  {
+    "name": "groin",
+    "trans": [
+      "n. [解剖] 腹股沟；交叉拱",
+      "vt. 使成穹棱"
+    ],
+    "usphone": "[ɡrɔɪn]",
+    "ukphone": "[ɡrɔɪn]"
+  },
+  {
+    "name": "gully",
+    "trans": [
+      "n. 冲沟；水沟",
+      "vt. 在…上开沟",
+      "vi. 形成沟"
+    ],
+    "usphone": "[ˈɡʌli]",
+    "ukphone": "[ˈɡʌli]"
+  },
+  {
+    "name": "gentile",
+    "trans": [
+      "n. 非犹太人；异教徒；异邦人",
+      "adj. 非犹太人的；异教徒的；非摩门教徒的"
+    ],
+    "usphone": "[ˈdʒentaɪl]",
+    "ukphone": "[ˈdʒentaɪl]"
+  },
+  {
+    "name": "gal",
+    "trans": [
+      "n. 加仑（重力加速度单位）；姑娘"
+    ],
+    "usphone": "[ɡæl]",
+    "ukphone": "[ɡæl]"
+  },
+  {
+    "name": "GI",
+    "trans": [
+      "adj. 军用的；美国军人的",
+      "n. 美国兵",
+      "abbr. 镀锌铁，白铁皮（Galvanized Iron）；总输入量（General Input）；总投资（Gross Investment）"
+    ],
+    "usphone": "[ˌdʒiː ˈaɪ]",
+    "ukphone": "[ˌdʒiː ˈaɪ]"
+  },
+  {
+    "name": "glycerine",
+    "trans": [
+      "n. 丙三醇，[有化] 甘油"
+    ],
+    "usphone": "[ˈɡlɪsərɪn]",
+    "ukphone": "[ˈɡlɪsərɪn; ˈɡlɪsəriːn]"
+  },
+  {
+    "name": "gibberish",
+    "trans": [
+      "n. 乱语；快速而不清楚的言语"
+    ],
+    "usphone": "[ˈdʒɪbərɪʃ]",
+    "ukphone": "[ˈdʒɪbərɪʃ]"
+  },
+  {
+    "name": "gallows",
+    "trans": [
+      "n. 绞刑；绞刑架；承梁"
+    ],
+    "usphone": "[ˈɡæloʊz]",
+    "ukphone": "[ˈɡæləʊz]"
+  },
+  {
+    "name": "garrulously",
+    "trans": [
+      "adv. 啰嗦地；饶舌地"
+    ],
+    "usphone": "[ˈɡærələsli]",
+    "ukphone": "[ˈɡærələsli; ˈɡærjʊləsli]"
+  },
+  {
+    "name": "genially",
+    "trans": [
+      "adv. 和蔼地；快活地；亲切地"
+    ],
+    "usphone": "[ˈdʒiːniəli]",
+    "ukphone": "[ˈdʒiːniəli]"
+  },
+  {
+    "name": "gritty",
+    "trans": [
+      "adj. 坚韧不拔的；有砂砾的；多沙的；像砂的"
+    ],
+    "usphone": "[ˈɡrɪti]",
+    "ukphone": "[ˈɡrɪti]"
+  },
+  {
+    "name": "guesstimate",
+    "trans": [
+      "n. 瞎猜；依推测的估计",
+      "vt. 瞎猜；估计"
+    ],
+    "usphone": "[ˈɡestɪmət]",
+    "ukphone": "[ˈɡestɪmət]"
+  },
+  {
+    "name": "guesswork",
+    "trans": [
+      "n. 猜测；臆测；凭猜测所作之工作"
+    ],
+    "usphone": "[ˈɡeswɜːrk]",
+    "ukphone": "[ˈɡeswɜːk]"
+  },
+  {
+    "name": "gnawing",
+    "trans": [
+      "n. 咬；不断的苦痛",
+      "adj. 令人痛苦的；折磨人的",
+      "v. 咬；侵蚀（gnaw的ing形式）"
+    ],
+    "usphone": "[ˈnɔːɪŋ]",
+    "ukphone": "[ˈnɔːɪŋ]"
+  },
+  {
+    "name": "give-and-take",
+    "trans": [
+      "n. 妥协；互让；意见交换"
+    ],
+    "usphone": "[ˈgɪv ən ˈteɪk]",
+    "ukphone": "[,ɡivən'teik]"
+  },
+  {
+    "name": "gumbo",
+    "trans": [
+      "n. 秋葵；加有秋葵的浓汤；坚硬黏土",
+      "adj. 粘土的"
+    ],
+    "usphone": "[ˈɡʌmboʊ]",
+    "ukphone": "[ˈɡʌmbəʊ]"
+  },
+  {
+    "name": "GPS",
+    "trans": [
+      "abbr. 全球定位系统（Global Position System）；通用雷达（General Purpose Radar）；炮长主瞄准镜（Gunner's Primary Sight）"
+    ],
+    "usphone": "[ˌdʒiː piː ˈes]",
+    "ukphone": "[ˌdʒiː piː ˈes]"
+  },
+  {
+    "name": "gain ground",
+    "trans": [
+      " 前进;  有进展;  越来越为人们所接受; 逼近"
+    ],
+    "usphone": "[ɡeɪn ɡraʊnd]",
+    "ukphone": "[ɡeɪn ɡraʊnd]"
+  },
+  {
+    "name": "gratifying",
+    "trans": [
+      "adj. 悦人的；令人满足的",
+      "v. 使满意（gratify的现在分词）；使高兴"
+    ],
+    "usphone": "[ˈɡrætɪfaɪɪŋ]",
+    "ukphone": "[ˈɡrætɪfaɪɪŋ]"
+  },
+  {
+    "name": "Galaxy",
+    "trans": [
+      "n. 银河；[天] 星系；银河系；一群显赫的人",
+      "n. 三星智能手机品牌 2015年三星中国公布Galaxy的中文名称为“盖乐世”（Galaxy）",
+      "[ 复数galaxies ]"
+    ],
+    "usphone": "[ˈɡæləksi]",
+    "ukphone": "[ˈɡæləksi]"
+  },
+  {
+    "name": "groundwork",
+    "trans": [
+      "n. 基础；地基，根基"
+    ],
+    "usphone": "[ˈɡraʊndwɜːrk]",
+    "ukphone": "[ˈɡraʊndwɜːk]"
+  },
+  {
+    "name": "gilding",
+    "trans": [
+      "n. 镀金；虚饰的外观",
+      "v. 镀金；虚饰（gild的现在分词）"
+    ],
+    "usphone": "[ˈɡɪldɪŋ]",
+    "ukphone": "[ˈɡɪldɪŋ]"
+  },
+  {
+    "name": "grading",
+    "trans": [
+      "n. 分阶段；定等级；坡度缓和",
+      "v. 定等级；减缓坡度（grade的现在分词形式）"
+    ],
+    "usphone": "[ˈɡreɪdɪŋ]",
+    "ukphone": "[ˈɡreɪdɪŋ]"
+  },
+  {
+    "name": "grimly",
+    "trans": [
+      "adv. 可怕地；冷酷地；严格地"
+    ],
+    "usphone": "[ˈɡrɪmli]",
+    "ukphone": "[ˈɡrɪmli]"
+  },
+  {
+    "name": "groceries",
+    "trans": [
+      "n. 杂货；食品；生活用品"
+    ],
+    "usphone": "[ˈɡroʊsəriz]",
+    "ukphone": "[ˈɡrəʊsəriz]"
+  },
+  {
+    "name": "Geneva",
+    "trans": [
+      "n. 日内瓦（瑞士西南部城市）"
+    ],
+    "usphone": "[dʒəˈniːvə]",
+    "ukphone": "[dʒɪˈniːvə]"
+  },
+  {
+    "name": "gavel",
+    "trans": [
+      "n. （拍卖商、法官、议长用的）小木槌"
+    ],
+    "usphone": "[ˈɡævl]",
+    "ukphone": "[ˈɡæv(ə)l]"
+  },
+  {
+    "name": "grotesquerie",
+    "trans": [
+      "n. 怪异图案；滑稽可笑"
+    ],
+    "usphone": "[ɡroʊˈteskəri]",
+    "ukphone": "[ɡrəʊˈteskəri]"
+  },
+  {
+    "name": "gingko",
+    "trans": [
+      "n. 银杏，白果"
+    ],
+    "usphone": "[ˈɡɪŋko]",
+    "ukphone": "[ˈɡɪŋkəʊ]"
+  },
+  {
+    "name": "gallivant",
+    "trans": [
+      "vi. 闲逛；与异性闲荡"
+    ],
+    "usphone": "[ˈɡælɪvænt]",
+    "ukphone": "[ˈɡælɪvænt]"
+  },
+  {
+    "name": "goodly",
+    "trans": [
+      "adj. 漂亮的；优秀的；相当多的"
+    ],
+    "usphone": "[ˈɡʊdli]",
+    "ukphone": "[ˈɡʊdli]"
+  },
+  {
+    "name": "graceless",
+    "trans": [
+      "adj. 粗野的；不知礼的；不知耻的"
+    ],
+    "usphone": "[ˈɡreɪsləs]",
+    "ukphone": "[ˈɡreɪsləs]"
+  },
+  {
+    "name": "gladness",
+    "trans": [
+      "n. 愉快，高兴"
+    ],
+    "usphone": "[ˈɡlædnəs]",
+    "ukphone": "[ˈɡlædnəs]"
+  },
+  {
+    "name": "gladden",
+    "trans": [
+      "vt. 使喜悦，使高兴",
+      "vi. 喜悦"
+    ],
+    "usphone": "[ˈɡlædn]",
+    "ukphone": "[ˈɡlædn]"
+  },
+  {
+    "name": "gentry",
+    "trans": [
+      "n. 人们（多用贬义）；贵族们；（英）上流社会人士"
+    ],
+    "usphone": "[ˈdʒentri]",
+    "ukphone": "[ˈdʒentri]"
+  },
+  {
+    "name": "gash",
+    "trans": [
+      "n. 很深的裂缝；砍得很深的伤口",
+      "vt. 划开；砍入很深；（使）负深伤"
+    ],
+    "usphone": "[ɡæʃ]",
+    "ukphone": "[ɡæʃ]"
+  },
+  {
+    "name": "grouchy",
+    "trans": [
+      "adj. 不高兴的，不满的；不平的"
+    ],
+    "usphone": "[ˈɡraʊtʃi]",
+    "ukphone": "[ˈɡraʊtʃi]"
+  },
+  {
+    "name": "gleeful",
+    "trans": [
+      "adj. 愉快的"
+    ],
+    "usphone": "[ˈɡliːfl]",
+    "ukphone": "[ˈɡliːfl]"
+  },
+  {
+    "name": "guileless",
+    "trans": [
+      "adj. 诚实的"
+    ],
+    "usphone": "[ˈɡaɪlləs]",
+    "ukphone": "[ˈɡaɪlləs]"
+  },
+  {
+    "name": "God",
+    "trans": [
+      "n. 神；（大写首字母时）上帝",
+      "vt. 膜拜，崇拜"
+    ],
+    "usphone": "[ɡɑːd]",
+    "ukphone": "[ɡɒd]"
+  },
+  {
+    "name": "gadgeteering",
+    "trans": [
+      "n. 精巧机件的发明(设计)"
+    ],
+    "usphone": "[ˌɡædʒɪˈtɪrɪŋ]",
+    "ukphone": "[ˌɡædʒɪˈtɪərɪŋ]"
+  },
+  {
+    "name": "gyroscope",
+    "trans": [
+      "n. 陀螺仪；[航] 回转仪"
+    ],
+    "usphone": "[ˈdʒaɪrəskoʊp]",
+    "ukphone": "[ˈdʒaɪrəskəʊp]"
+  },
+  {
+    "name": "Gemini",
+    "trans": [
+      "n. [天] 双子座（星座）；双子宫"
+    ],
+    "usphone": "[ˈdʒemɪnaɪˌˈdʒemɪni]",
+    "ukphone": "[ˈdʒemɪnaɪ; ˈdʒemɪni]"
+  },
+  {
+    "name": "gecko",
+    "trans": [
+      "n. [脊椎] 壁虎"
+    ],
+    "usphone": "[ˈɡekoʊ]",
+    "ukphone": "[ˈɡekəʊ]"
+  },
+  {
+    "name": "guillemot",
+    "trans": [
+      "n. 海鸠；海雀"
+    ],
+    "usphone": "[ˈɡɪlɪmɑːt]",
+    "ukphone": "[ˈɡɪlɪmɒt]"
+  },
+  {
+    "name": "grout",
+    "trans": [
+      "n. 水泥浆；薄浆",
+      "vt. 灌浆；用薄泥浆填塞"
+    ],
+    "usphone": "[ɡraʊt]",
+    "ukphone": "[ɡraʊt]"
+  },
+  {
+    "name": "good-for-nothing",
+    "trans": [
+      "n. 废物，无用的人",
+      "adj. 无用的，无益的"
+    ],
+    "usphone": "[ˈɡʊd fər nʌθɪŋ]",
+    "ukphone": "[ˈɡʊd fə nʌθɪŋ]"
+  },
+  {
+    "name": "geometrical",
+    "trans": [
+      "adj. 几何的，几何学的"
+    ],
+    "usphone": "[ˌdʒiːəˈmetrɪkl]",
+    "ukphone": "[dʒɪə'metrɪkl]"
+  },
+  {
+    "name": "gang up",
+    "trans": [
+      "na. 成群结队；勾结起来；集合"
+    ],
+    "usphone": "[ɡæŋ ʌp]",
+    "ukphone": "[ɡæŋ ʌp]"
+  },
+  {
+    "name": "grab at",
+    "trans": [
+      "na. 抓住不放"
+    ],
+    "usphone": "[ɡræb æt]",
+    "ukphone": "[ɡræb æt]"
+  },
+  {
+    "name": "gonorrhea",
+    "trans": [
+      "n. [性病] 淋病"
+    ],
+    "usphone": "[ˌɡɑːnəˈriːə]",
+    "ukphone": "[ˌɡɒnəˈrɪə]"
+  },
+  {
+    "name": "gonorrhoea",
+    "trans": [
+      "n. 淋病（等于gonorrhea）"
+    ],
+    "usphone": "[ˌɡɑːnəˈriːə]",
+    "ukphone": "[ˌɡɒnəˈrɪə]"
+  },
+  {
+    "name": "gastronomy",
+    "trans": [
+      "n. 烹饪法，美食法；享乐主义"
+    ],
+    "usphone": "[ɡæˈstrɑːnəmi]",
+    "ukphone": "[ɡæˈstrɒnəmi]"
+  },
+  {
+    "name": "guesthouse",
+    "trans": [
+      "n. 宾馆；小型家庭旅馆"
+    ],
+    "usphone": "[ˈɡestˌhaʊs]",
+    "ukphone": "[ˈɡesthaʊs]"
+  },
+  {
+    "name": "garnet",
+    "trans": [
+      "n. [矿物] 石榴石；深红色；装货用的滑车",
+      "adj. 深红色的；暗红色的"
+    ],
+    "usphone": "[ˈɡɑːrnɪt]",
+    "ukphone": "[ˈɡɑːnɪt]"
+  },
+  {
+    "name": "goldfinch",
+    "trans": [
+      "n. 金翅雀"
+    ],
+    "usphone": "[ˈɡoʊldfɪntʃ]",
+    "ukphone": "[ˈɡəʊldfɪntʃ]"
+  },
+  {
+    "name": "guidelines",
+    "trans": [
+      "n. 指导方针",
+      "参考"
+    ],
+    "usphone": "[ˈɡaɪdlaɪnz]",
+    "ukphone": "['ɡaɪdlaɪnz]"
+  },
+  {
+    "name": "garments",
+    "trans": [
+      "n. [服装] 服装，衣着（garment的复数）"
+    ],
+    "usphone": "[ˈɡɑrmənt]",
+    "ukphone": "[ˈɡɑːmənts]"
+  },
+  {
+    "name": "gypsophila",
+    "trans": [
+      "n. 满天星；丝石竹"
+    ],
+    "usphone": "[dʒɪpˈsɑːfələ]",
+    "ukphone": "[dʒɪpˈsɒfɪlə]"
+  },
+  {
+    "name": "given name",
+    "trans": [
+      "na. 名字"
+    ],
+    "usphone": "[ˈɡɪvn neɪm]",
+    "ukphone": "[ˈɡɪv(ə)n neɪm]"
+  },
+  {
+    "name": "grape stone",
+    "trans": [
+      " 葡萄核"
+    ],
+    "usphone": "[ˈɡrepˈston]",
+    "ukphone": "[ˈɡreɪpstəʊn]"
+  },
+  {
+    "name": "green tea",
+    "trans": [
+      "n. 绿茶"
+    ],
+    "usphone": "[ˌɡriːn ˈtiː]",
+    "ukphone": "[ˌɡriːn ˈtiː]"
+  },
+  {
+    "name": "gloves",
+    "trans": [
+      "n. [服装] 手套（glove的复数）",
+      "v. 给…戴手套（glove的三单形式）"
+    ],
+    "usphone": "[ɡlʌvz]",
+    "ukphone": "[ɡlʌvz]"
+  },
+  {
+    "name": "gateman",
+    "trans": [
+      "n. 收票员"
+    ],
+    "usphone": "[ˈɡeɪtmən]",
+    "ukphone": "[ˈɡeɪtmən]"
+  },
+  {
+    "name": "greenish",
+    "trans": [
+      "adj. 呈绿色的"
+    ],
+    "usphone": "[ˈɡriːnɪʃ]",
+    "ukphone": "[ˈɡriːnɪʃ]"
+  },
+  {
+    "name": "gloriously",
+    "trans": [
+      "adv. 光荣地；辉煌地；壮观地，壮丽地"
+    ],
+    "usphone": "[ˈɡlɔːriəsli]",
+    "ukphone": "[ˈɡlɔːriəsli]"
+  },
+  {
+    "name": "glycerin",
+    "trans": [
+      "n. 甘油"
+    ],
+    "usphone": "[ˈɡlɪsərɪn]",
+    "ukphone": "[ˈɡlɪsərɪn]"
+  },
+  {
+    "name": "gubernatorial",
+    "trans": [
+      "adj. 州长的；统治者的；地方长官的；总督的"
+    ],
+    "usphone": "[ˌɡuːbərnəˈtɔːriəl]",
+    "ukphone": "[ˌɡuːbənəˈtɔːriəl]"
+  },
+  {
+    "name": "going",
+    "trans": [
+      "n. 行为；离去；工作情况；地面状况",
+      "v. 前进；出发；运转（go的ing形式）",
+      "adj. 流行的；进行中的；现存的"
+    ],
+    "usphone": "[ˈɡoʊɪŋ]",
+    "ukphone": "[ˈɡəʊɪŋ]"
+  },
+  {
+    "name": "gote",
+    "trans": [
+      "[英方]水道, 水路"
+    ],
+    "usphone": "[ˈɡoʊt]",
+    "ukphone": "[ˈɡəʊt]"
+  },
+  {
+    "name": "globalism",
+    "trans": [
+      "n. 全球主义；全球性干涉政策；世界化"
+    ],
+    "usphone": "[ˈɡloʊbəlɪzəm]",
+    "ukphone": "[ˈɡləʊbəlɪzəm]"
+  },
+  {
+    "name": "gutsy",
+    "trans": [
+      "adj. 勇敢的；贪婪的；有种的；胆大的"
+    ],
+    "usphone": "[ˈɡʌtsi]",
+    "ukphone": "[ˈɡʌtsi]"
+  },
+  {
+    "name": "grits",
+    "trans": [
+      "n. 粗磨粉；粗燕麦粉；（美）粗玉米粉"
+    ],
+    "usphone": "[ɡrɪts]",
+    "ukphone": "[ɡrɪts]"
+  },
+  {
+    "name": "grotto",
+    "trans": [
+      "n. 岩穴，洞穴；人工洞室"
+    ],
+    "usphone": "[ˈɡrɑːtoʊ]",
+    "ukphone": "[ˈɡrɒtəʊ]"
+  },
+  {
+    "name": "gulch",
+    "trans": [
+      "n. 峡谷；冲沟；干谷峡谷"
+    ],
+    "usphone": "[ɡʌltʃ]",
+    "ukphone": "[ɡʌltʃ]"
+  },
+  {
+    "name": "gasification",
+    "trans": [
+      "n. 气化"
+    ],
+    "usphone": "[ˌɡæsɪfəˈkeɪʃən]",
+    "ukphone": "[ˌɡæsɪfɪˈkeɪʃ(ə)n]"
+  },
+  {
+    "name": "gaggle",
+    "trans": [
+      "n. 一群；鹅群；咯咯声",
+      "vi. 嘎嘎叫"
+    ],
+    "usphone": "[ˈɡæɡl]",
+    "ukphone": "[ˈɡæɡl]"
+  },
+  {
+    "name": "gander",
+    "trans": [
+      "n. 雄鹅；呆子；一瞥",
+      "vi. 闲逛"
+    ],
+    "usphone": "[ˈɡændər]",
+    "ukphone": "[ˈɡændə(r)]"
+  },
+  {
+    "name": "gosling",
+    "trans": [
+      "n. 小鹅；年轻无知者"
+    ],
+    "usphone": "[ˈɡɑːzlɪŋ]",
+    "ukphone": "[ˈɡɒzlɪŋ]"
+  },
+  {
+    "name": "glade",
+    "trans": [
+      "n. 林间空地；沼泽地"
+    ],
+    "usphone": "[ɡleɪd]",
+    "ukphone": "[ɡleɪd]"
+  },
+  {
+    "name": "gardenia",
+    "trans": [
+      "n. 栀子花；栀子属"
+    ],
+    "usphone": "[ɡɑːrˈdiːniə]",
+    "ukphone": "[ɡɑːˈdiːniə]"
+  },
+  {
+    "name": "geriatrics",
+    "trans": [
+      "n. 老年病学；老年病人"
+    ],
+    "usphone": "[ˌdʒeriˈætrɪk]",
+    "ukphone": "[ˌdʒeriˈætrɪks]"
+  },
+  {
+    "name": "gynaecocracy",
+    "trans": [
+      "n. 妇女当政；女权政治"
+    ],
+    "usphone": "[ˌɡaɪnəˈkɑːkrəsi]",
+    "ukphone": "[dʒaɪnɪˈkɒkrəsi]"
+  },
+  {
+    "name": "gristle",
+    "trans": [
+      "n. 软骨；软骨结构"
+    ],
+    "usphone": "[ˈɡrɪsl]",
+    "ukphone": "[ˈɡrɪsl]"
+  },
+  {
+    "name": "gargoyle",
+    "trans": [
+      "n. 滴水嘴"
+    ],
+    "usphone": "[ˈɡɑːrɡɔɪl]",
+    "ukphone": "[ˈɡɑːɡɔɪl]"
+  },
+  {
+    "name": "geometrician",
+    "trans": [
+      "n. 几何学者"
+    ],
+    "usphone": "[ˌdʒɪəmeˈtrɪʃən]",
+    "ukphone": "[ˌdʒɪəʊmeˈtrɪʃən]"
+  },
+  {
+    "name": "gourmand",
+    "trans": [
+      "n. 美食家；贪食者",
+      "adj. 贪食的"
+    ],
+    "usphone": "[ˈɡʊrmɑːnd]",
+    "ukphone": "[ˈɡʊəmənd]"
+  },
+  {
+    "name": "gusher",
+    "trans": [
+      "n. 喷油井；说话滔滔不绝的人"
+    ],
+    "usphone": "[ˈɡʌʃər]",
+    "ukphone": "[ˈɡʌʃə(r)]"
+  },
+  {
+    "name": "ghostwriter",
+    "trans": [
+      "n. 捉刀人；撰文者；受雇代作文章的人"
+    ],
+    "usphone": "[ˈɡoʊstraɪtər]",
+    "ukphone": "[ˈɡəʊstraɪtə(r)]"
+  },
+  {
+    "name": "gridiron",
+    "trans": [
+      "n. 烤架；格状物；橄榄球场"
+    ],
+    "usphone": "[ˈɡrɪdaɪərn]",
+    "ukphone": "[ˈɡrɪdaɪən]"
+  },
+  {
+    "name": "goblet",
+    "trans": [
+      "n. 酒杯；高脚杯"
+    ],
+    "usphone": "[ˈɡɑːblət]",
+    "ukphone": "[ˈɡɒblət]"
+  },
+  {
+    "name": "gazetteer",
+    "trans": [
+      "n. 地名辞典；公报作者"
+    ],
+    "usphone": "[ˌɡæzəˈtɪr]",
+    "ukphone": "[ˌɡæzəˈtɪə(r)]"
+  },
+  {
+    "name": "galvanic",
+    "trans": [
+      "adj. 电流的；使人震惊的；触电似的"
+    ],
+    "usphone": "[ɡælˈvænɪk]",
+    "ukphone": "[ɡælˈvænɪk]"
+  },
+  {
+    "name": "galleon",
+    "trans": [
+      "n. 十五，十六世纪西班牙大型帆船"
+    ],
+    "usphone": "[ˈɡæliən]",
+    "ukphone": "[ˈɡæliən]"
+  },
+  {
+    "name": "gong",
+    "trans": [
+      "n. 锣；钟状物；奖章",
+      "vt. 鸣锣传唤；鸣锣命令驾车者停驶",
+      "vi. 鸣锣；发出铜锣般的声音"
+    ],
+    "usphone": "[ɡɔːŋ]",
+    "ukphone": "[ɡɒŋ]"
+  },
+  {
+    "name": "gnat",
+    "trans": [
+      "n. [昆] 小昆虫；小烦扰"
+    ],
+    "usphone": "[næt]",
+    "ukphone": "[næt]"
+  },
+  {
+    "name": "grounded",
+    "trans": [
+      "v. 停（ground的过去式）；触地",
+      "adj. 接地的；有基础的"
+    ],
+    "usphone": "[ˈɡraʊndɪd]",
+    "ukphone": "[ˈɡraʊndɪd]"
+  },
+  {
+    "name": "garrulity",
+    "trans": [
+      "n. 饶舌；多言；多嘴"
+    ],
+    "usphone": "[ɡæˈruːlɪti]",
+    "ukphone": "[ɡæˈruːlɪti]"
+  },
+  {
+    "name": "gustation",
+    "trans": [
+      "n. 味觉；品尝"
+    ],
+    "usphone": "[ɡəsˈteɪʃən]",
+    "ukphone": "[ɡʌˈsteɪʃən]"
+  },
+  {
+    "name": "gawk",
+    "trans": [
+      "n. 呆子；腼腆的人",
+      "vi. 呆呆地看着"
+    ],
+    "usphone": "[ɡɔːk]",
+    "ukphone": "[ɡɔːk]"
+  },
+  {
+    "name": "gutless",
+    "trans": [
+      "adj. 无胆量的；没勇气的；没有生气的"
+    ],
+    "usphone": "[ˈɡʌtləs]",
+    "ukphone": "[ˈɡʌtləs]"
+  },
+  {
+    "name": "grasping",
+    "trans": [
+      "v. 理解，领会（grasp的现在分词形式）；抓紧，抓牢",
+      "adj. 贪婪的；紧紧抓住的"
+    ],
+    "usphone": "[ˈɡræspɪŋ]",
+    "ukphone": "[ˈɡrɑːspɪŋ]"
+  },
+  {
+    "name": "grating",
+    "trans": [
+      "n. [光] 光栅；摩擦，摩擦声；格子",
+      "adj. 刺耳的；磨擦的",
+      "v. 磨碎；擦响；激怒（grate的ing形式）"
+    ],
+    "usphone": "[ˈɡreɪtɪŋ]",
+    "ukphone": "[ˈɡreɪtɪŋ]"
+  },
+  {
+    "name": "gangling",
+    "trans": [
+      "adj. 过分瘦长的；动作笨拙难看的",
+      "v. 笨拙地移动（gangle的ing形式）"
+    ],
+    "usphone": "[ˈɡæŋɡlɪŋ]",
+    "ukphone": "[ˈɡæŋɡlɪŋ]"
+  },
+  {
+    "name": "gangly",
+    "trans": [
+      "adj. 身材瘦长的"
+    ],
+    "usphone": "[ˈɡæŋɡli]",
+    "ukphone": "[ˈɡæŋɡli]"
+  },
+  {
+    "name": "grouch",
+    "trans": [
+      "n. 心怀不满；不高兴的人；抱怨",
+      "vi. 发牢骚；闹脾气；抱怨"
+    ],
+    "usphone": "[ɡraʊtʃ]",
+    "ukphone": "[ɡraʊtʃ]"
+  },
+  {
+    "name": "gab",
+    "trans": [
+      "n. 多嘴；饶舌；爱说话唠叨",
+      "vi. 空谈；瞎扯闲聊；唠叨"
+    ],
+    "usphone": "[ɡæb]",
+    "ukphone": "[ɡæb]"
+  },
+  {
+    "name": "gnomic",
+    "trans": [
+      "adj. 含格言的；精辟的"
+    ],
+    "usphone": "[ˈnoʊmɪk]",
+    "ukphone": "[ˈnəʊmɪk]"
+  },
+  {
+    "name": "graduated",
+    "trans": [
+      "v. 使毕业；毕业（graduate的过去分词）；使…升级",
+      "adj. 累进的；分等级的；毕了业的；为毕业生设立的"
+    ],
+    "usphone": "[ˈɡrædʒueɪtɪd]",
+    "ukphone": "[ˈɡrædʒueɪtɪd]"
+  },
+  {
+    "name": "genuflect",
+    "trans": [
+      "vi. 屈服；跪拜（尤指做宗教仪式时）"
+    ],
+    "usphone": "[ˈdʒenjuflekt]",
+    "ukphone": "[ˈdʒenjuflekt]"
+  },
+  {
+    "name": "gestate",
+    "trans": [
+      "vt. 使怀孕",
+      "vi. 孕育，创案"
+    ],
+    "usphone": "[ˈdʒesteɪt]",
+    "ukphone": "[dʒeˈsteɪt]"
+  },
+  {
+    "name": "gluttonous",
+    "trans": [
+      "adj. 贪吃的，暴食的；饕餮的"
+    ],
+    "usphone": "[ˈɡlʌtənəs]",
+    "ukphone": "[ˈɡlʌtənəs]"
+  },
+  {
+    "name": "gormandize",
+    "trans": [
+      "n. 大吃大喝；讲究饮食",
+      "vt. 狼吞虎咽",
+      "vi. 狼吞虎咽"
+    ],
+    "usphone": "[ˈɡɔːrmənˌdaɪz]",
+    "ukphone": "[ˈɡɔːmənˌdaɪz]"
+  },
+  {
+    "name": "guttle",
+    "trans": [
+      "vt. 贪婪大嚼，狼吞虎咽"
+    ],
+    "usphone": "[ˈɡʌtl]",
+    "ukphone": "[ˈɡʌt(ə)l]"
+  },
+  {
+    "name": "gripping",
+    "trans": [
+      "adj. 扣人心弦的；引人注意的；令人全神贯注的",
+      "v. 扣人心弦（grip的ing形式）；握紧"
+    ],
+    "usphone": "[ˈɡrɪpɪŋ]",
+    "ukphone": "[ˈɡrɪpɪŋ]"
+  },
+  {
+    "name": "gyrate",
+    "trans": [
+      "adj. 旋涡状的",
+      "vi. 旋转"
+    ],
+    "usphone": "[ˈdʒaɪreɪt]",
+    "ukphone": "[dʒaɪˈreɪt]"
+  },
+  {
+    "name": "gregariousness",
+    "trans": [
+      "n. 群集度；合群性"
+    ],
+    "usphone": "[ɡrɪˈɡeriəsnəs]",
+    "ukphone": "[ɡrɪˈɡeəriəsnəs]"
+  },
+  {
+    "name": "gerrymander",
+    "trans": [
+      "n. 改变选举区；选区不公正的重新划分",
+      "vt. 为政党利益改划选区；为一党私利而重新将划分选区",
+      "vi. 不公正地划分选区；弄虚作假"
+    ],
+    "usphone": "[ˈdʒerimændər]",
+    "ukphone": "[ˈdʒerimændə(r)]"
+  },
+  {
+    "name": "get mixed up",
+    "trans": [
+      "v. 搞不清"
+    ],
+    "usphone": "[ɡet mɪkst ʌp]",
+    "ukphone": "[ɡet mɪkst ʌp]"
+  },
+  {
+    "name": "get set",
+    "trans": [
+      "na. 预备"
+    ],
+    "usphone": "[ɡet set]",
+    "ukphone": "[ɡet set]"
+  },
+  {
+    "name": "get hell",
+    "trans": [
+      "na. 挨训斥"
+    ],
+    "usphone": "[ɡet hel]",
+    "ukphone": "[ɡet hel]"
+  },
+  {
+    "name": "get the sack",
+    "trans": [
+      "na. 被解雇；被拒绝"
+    ],
+    "usphone": "[ɡet ðə sæk]",
+    "ukphone": "[ɡet ðə sæk]"
+  },
+  {
+    "name": "get fresh",
+    "trans": [
+      "na. 厚脸起来；变得无礼"
+    ],
+    "usphone": "[ɡet freʃ]",
+    "ukphone": "[ɡet freʃ]"
+  },
+  {
+    "name": "get wet",
+    "trans": [
+      " 淋湿；弄湿；变湿"
+    ],
+    "usphone": "[ɡet wet]",
+    "ukphone": "[ɡet wet]"
+  },
+  {
+    "name": "gravy",
+    "trans": [
+      "n. 肉汁；不法利润；轻易得来的钱"
+    ],
+    "usphone": "[ˈɡreɪvi]",
+    "ukphone": "[ˈɡreɪvi]"
+  },
+  {
+    "name": "guerrilla",
+    "trans": [
+      "n. 游击战；游击队"
+    ],
+    "usphone": "[ɡəˈrɪlə]",
+    "ukphone": "[ɡəˈrɪlə]"
+  },
+  {
+    "name": "genomics",
+    "trans": [
+      "n. 基因组学；基因体学"
+    ],
+    "usphone": "[dʒiˈnɑːmɪks]",
+    "ukphone": "[dʒiˈnɒmɪks]"
+  },
+  {
+    "name": "gurney",
+    "trans": [
+      "n. （医院用来移动病人的）轮床"
+    ],
+    "usphone": "[ˈɡɜːrni]",
+    "ukphone": "[ˈɡɜːni]"
+  },
+  {
+    "name": "geopolitical",
+    "trans": [
+      "adj. 地理政治学的"
+    ],
+    "usphone": "[ˌdʒiːoʊpəˈlɪtɪkl]",
+    "ukphone": "[ˌdʒiːəʊpəˈlɪtɪkl]"
+  },
+  {
+    "name": "gerund",
+    "trans": [
+      "n. 动名词"
+    ],
+    "usphone": "[ˈdʒerənd]",
+    "ukphone": "[ˈdʒerənd]"
+  },
+  {
+    "name": "get-together",
+    "trans": [
+      "n. 聚会，联欢会"
+    ],
+    "usphone": "[ˈɡet təɡeðər]",
+    "ukphone": "[ˈɡet təɡeðə(r)]"
+  },
+  {
+    "name": "Gipsy",
+    "trans": [
+      "n. 吉普赛人（等于gypsy）；流浪汉",
+      "vi. 流浪"
+    ],
+    "usphone": "[ˈdʒɪpsi]",
+    "ukphone": "[ˈdʒɪpsi]"
+  },
+  {
+    "name": "glasshouse",
+    "trans": [
+      "n. 温室；暖房"
+    ],
+    "usphone": "[ˈɡlæshaʊs]",
+    "ukphone": "[ˈɡlɑːshaʊs]"
+  },
+  {
+    "name": "good-humoured",
+    "trans": [
+      "adj. 愉快的"
+    ],
+    "usphone": "[ˌɡʊd ˈhjuːmərd]",
+    "ukphone": "[ˌɡʊd ˈhjuːməd]"
+  },
+  {
+    "name": "gosh",
+    "trans": [
+      "int. 天啊；唉；糟了；必定"
+    ],
+    "usphone": "[ɡɑːʃ]",
+    "ukphone": "[ɡɒʃ]"
+  },
+  {
+    "name": "greenery",
+    "trans": [
+      "n. 绿色植物；温室"
+    ],
+    "usphone": "[ˈɡriːnəri]",
+    "ukphone": "[ˈɡriːnəri]"
+  },
+  {
+    "name": "grinder",
+    "trans": [
+      "n. [机] 研磨机；研磨者；磨工；臼齿"
+    ],
+    "usphone": "[ˈɡraɪndər]",
+    "ukphone": "[ˈɡraɪndə(r)]"
+  },
+  {
+    "name": "gladly",
+    "trans": [
+      "adv. 乐意地；高兴地；欢喜地"
+    ],
+    "usphone": "[ˈɡlædli]",
+    "ukphone": "[ˈɡlædli]"
+  },
+  {
+    "name": "geo-centric",
+    "trans": [
+      "adj. 以地球为中心的；由地心开始测量的"
+    ],
+    "usphone": "[ˌdʒiːoʊˈsentrɪk]",
+    "ukphone": "[ˌdʒiːəʊˈsentrɪk]"
+  },
+  {
+    "name": "gaping",
+    "trans": [
+      "adj. 多洞穴的"
+    ],
+    "usphone": "[ˈɡeɪpɪŋ]",
+    "ukphone": "[ˈɡeɪpɪŋ]"
+  },
+  {
+    "name": "good-natured",
+    "trans": [
+      "adj. 和蔼的；温厚的；脾气好的"
+    ],
+    "usphone": "[ˌɡʊd ˈneɪtʃərd]",
+    "ukphone": "[ˌɡʊd ˈneɪtʃəd]"
+  },
+  {
+    "name": "greedily",
+    "trans": [
+      "adv. 贪婪地；贪食地"
+    ],
+    "usphone": "[ˈɡriːdɪli]",
+    "ukphone": "[ˈɡriːdɪli]"
+  },
+  {
+    "name": "gall-bladder",
+    "trans": [
+      " 胆瓶"
+    ],
+    "usphone": "[ˈɡɔːl blædər]",
+    "ukphone": "[ˈɡɔːl blædə(r)]"
+  },
+  {
+    "name": "Goneril",
+    "trans": [
+      "贡纳莉(莎士比亚的《李尔王》中李尔的长女名, 是冷酷、不孝的典型)"
+    ],
+    "usphone": "['ɡɔnəril]",
+    "ukphone": "[ˈɡɒnərɪl]"
+  },
+  {
+    "name": "gipsy",
+    "trans": [
+      "n. 吉普赛人（等于gypsy）；流浪汉",
+      "vi. 流浪"
+    ],
+    "usphone": "[ˈdʒɪpsi]",
+    "ukphone": "[ˈdʒɪpsi]"
+  },
+  {
+    "name": "Georgia",
+    "trans": [
+      "n. 乔治亚州；格鲁吉亚（前苏联加盟共和国）；乔治娅（女子名）"
+    ],
+    "usphone": "[ˈdʒɔːrdʒə]",
+    "ukphone": "[ˈdʒɔːdʒə]"
+  },
+  {
+    "name": "gene therapy",
+    "trans": [
+      "n. 基因疗法；基因治疗"
+    ],
+    "usphone": "[ˈdʒiːn θerəpi]",
+    "ukphone": "[ˈdʒiːn θerəpi]"
+  },
+  {
+    "name": "gymnosperm",
+    "trans": [
+      "n. 裸子植物"
+    ],
+    "usphone": "[ˈdʒɪmnəˌspɜːrm]",
+    "ukphone": "[ˈdʒɪmnəʊˌspɜːm]"
+  },
+  {
+    "name": "gullet",
+    "trans": [
+      "n. 食道；海峡；咽喉"
+    ],
+    "usphone": "[ˈɡʌlɪt]",
+    "ukphone": "[ˈɡʌlɪt]"
+  },
+  {
+    "name": "gyre",
+    "trans": [
+      "n. 回转；旋回；旋转",
+      "vi. 旋回"
+    ],
+    "usphone": "[ˈdʒaɪər]",
+    "ukphone": "[dʒaɪə]"
+  },
+  {
+    "name": "glaciologist",
+    "trans": [
+      "n. 冰川学家"
+    ],
+    "usphone": "[ɡleɪsiˈɑːlədʒɪst]",
+    "ukphone": "[ɡleɪsɪˈɒlədʒɪst]"
+  },
+  {
+    "name": "gibbous",
+    "trans": [
+      "adj. 突起的；[天] 凸圆的；驼背的"
+    ],
+    "usphone": "[ˈɡɪbəs]",
+    "ukphone": "[ˈɡɪbəs]"
+  },
+  {
+    "name": "grizzly",
+    "trans": [
+      "n. 灰熊",
+      "adj. 灰色的"
+    ],
+    "usphone": "[ˈɡrɪzli]",
+    "ukphone": "[ˈɡrɪzli]"
+  },
+  {
+    "name": "gentlemanly",
+    "trans": [
+      "adj. 绅士的，绅士派头的"
+    ],
+    "usphone": "[ˈdʒentlmənli]",
+    "ukphone": "[ˈdʒentlmənli]"
+  },
+  {
+    "name": "greatness",
+    "trans": [
+      "n. 伟大；巨大"
+    ],
+    "usphone": "[ˈɡreɪtnəs]",
+    "ukphone": "[ˈɡreɪtnəs]"
+  },
+  {
+    "name": "goldfish",
+    "trans": [
+      "n. 金鱼"
+    ],
+    "usphone": "[ˈɡoʊldfɪʃ]",
+    "ukphone": "[ˈɡəʊldfɪʃ]"
+  },
+  {
+    "name": "gunshot",
+    "trans": [
+      "n. 射击；射程；炮击",
+      "adj. 射击的；枪炮射击所致的"
+    ],
+    "usphone": "[ˈɡʌnʃɑːt]",
+    "ukphone": "[ˈɡʌnʃɒt]"
+  },
+  {
+    "name": "get hooked",
+    "trans": [
+      " 上钩；钩住；迷上了"
+    ],
+    "usphone": "[ɡet hʊkt]",
+    "ukphone": "[ɡet hʊkt]"
+  },
+  {
+    "name": "gumption",
+    "trans": [
+      "n. 进取心；气概；精力"
+    ],
+    "usphone": "[ˈɡʌmpʃn]",
+    "ukphone": "[ˈɡʌmpʃn]"
+  },
+  {
+    "name": "godlike",
+    "trans": [
+      "adj. 上帝般的；似神的；庄严的"
+    ],
+    "usphone": "[ˈɡɑːdlaɪk]",
+    "ukphone": "[ˈɡɒdlaɪk]"
+  },
+  {
+    "name": "grandmotherly",
+    "trans": [
+      "adj. 慈祥的，老祖母似的；老祖母的"
+    ],
+    "usphone": "[ˈɡrændˌmʌðərli]",
+    "ukphone": "[ˈɡrænˌmʌðəli]"
+  },
+  {
+    "name": "good looks",
+    "trans": [
+      "n. 漂亮的外表；美貌"
+    ],
+    "usphone": "[ˌɡʊd ˈlʊks]",
+    "ukphone": "[ˌɡʊd ˈlʊks]"
+  },
+  {
+    "name": "gleefully",
+    "trans": [
+      "adv. 欢欣地；极快乐地"
+    ],
+    "usphone": "[ˈɡliːfəli]",
+    "ukphone": "[ˈɡliːfəli]"
+  },
+  {
+    "name": "gownsman",
+    "trans": [
+      "n. 可穿长袍表示其职位者(如法官律师等)",
+      "[法] 穿长袍式外衣的人"
+    ],
+    "usphone": "['ɡaunzmən]",
+    "ukphone": "[ˈɡaʊnzmən]"
+  },
+  {
+    "name": "gaffer",
+    "trans": [
+      "n. 领班；乡下老头；老人"
+    ],
+    "usphone": "[ˈɡæfər]",
+    "ukphone": "[ˈɡæfə(r)]"
+  },
+  {
+    "name": "get back at",
+    "trans": [
+      "na. 报复"
+    ],
+    "usphone": "[ɡet bæk æt]",
+    "ukphone": "[ɡet bæk æt]"
+  },
+  {
+    "name": "giver",
+    "trans": [
+      "n. 给予者，赠予人；送礼者"
+    ],
+    "usphone": "[ˈɡɪvər]",
+    "ukphone": "[ˈɡɪvə(r)]"
+  },
+  {
+    "name": "gangleader",
+    "trans": [
+      "n. 黑社会头目"
+    ],
+    "usphone": "['ɡæŋ,li:də]",
+    "ukphone": "[ˈɡæŋˌliːdə]"
+  },
+  {
+    "name": "goddamned",
+    "trans": [
+      "adj. 讨厌的；该死的",
+      "adv. 非常；极其"
+    ],
+    "usphone": "['ɡɔd'dæmd]",
+    "ukphone": "[ˈɡɒdˈdæmd]"
+  },
+  {
+    "name": "good-bye",
+    "trans": [
+      "n. 告辞",
+      "int. 再见"
+    ],
+    "usphone": "[ɡʊd baɪ]",
+    "ukphone": "[ˌɡʊd ˈbaɪ]"
+  },
+  {
+    "name": "getaway",
+    "trans": [
+      "n. 逃走；逃跑；短假；适合旅行的地方"
+    ],
+    "usphone": "[ˈɡetəweɪ]",
+    "ukphone": "[ˈɡetəweɪ]"
+  },
+  {
+    "name": "gainfully",
+    "trans": [
+      "adv. 有收入地；有利益地"
+    ],
+    "usphone": "[ˈɡeɪnfəli]",
+    "ukphone": "[ˈɡeɪnfəli]"
+  },
+  {
+    "name": "geezer",
+    "trans": [
+      "n. 古怪的人；老头儿"
+    ],
+    "usphone": "[ˈɡiːzər]",
+    "ukphone": "[ˈɡiːzə(r)]"
+  },
+  {
+    "name": "getter",
+    "trans": [
+      "n. 吸气剂；获得者；毒饵",
+      "vt. 消气；用吸气剂去除",
+      "vi. 使用杂质吸收剂"
+    ],
+    "usphone": "[ˈɡetər]",
+    "ukphone": "[ˈɡetə(r)]"
+  },
+  {
+    "name": "gigawatt",
+    "trans": [
+      "n. 千兆瓦；十亿瓦特"
+    ],
+    "usphone": "[ˈɡɪɡəˌwɑːt; ˈdʒɪɡəˌwɑːt]",
+    "ukphone": "[ˈɡɪɡəˌwɒt]"
+  },
+  {
+    "name": "gizzard",
+    "trans": [
+      "n. （鸟的）[鸟] 砂囊；胃；喉咙"
+    ],
+    "usphone": "[ˈɡɪzərd]",
+    "ukphone": "[ˈɡɪzəd]"
+  },
+  {
+    "name": "glassblower",
+    "trans": [
+      "n. 吹玻璃的人或机器"
+    ],
+    "usphone": "[ˈɡlæsˌblor]",
+    "ukphone": "[ˈɡlɑːsˌbləʊə]"
+  },
+  {
+    "name": "gloomily",
+    "trans": [
+      "adv. 沮丧地；黑暗地；阴沉地"
+    ],
+    "usphone": "[ˈɡluːmɪli]",
+    "ukphone": "[ˈɡluːmɪli]"
+  },
+  {
+    "name": "goof",
+    "trans": [
+      "n. 呆瓜",
+      "vt. 弄糟",
+      "vi. 打发时间；混；出大错"
+    ],
+    "usphone": "[ɡuːf]",
+    "ukphone": "[ɡuːf]"
+  },
+  {
+    "name": "grammarian",
+    "trans": [
+      "n. 文法学者，文法家；文法教师"
+    ],
+    "usphone": "[ɡrəˈmeriən]",
+    "ukphone": "[ɡrəˈmeəriən]"
+  },
+  {
+    "name": "graphical",
+    "trans": [
+      "adj. 图解的；绘画的；生动的"
+    ],
+    "usphone": "[ˈɡræfɪkl]",
+    "ukphone": "[ˈɡræfɪkl]"
+  },
+  {
+    "name": "grater",
+    "trans": [
+      "n. 摩擦器；磨光机；[木] 粗齿木锉"
+    ],
+    "usphone": "[ˈɡreɪtər]",
+    "ukphone": "[ˈɡreɪtə(r)]"
+  },
+  {
+    "name": "graver",
+    "trans": [
+      "n. 雕刻师，雕刻刀; 錾刀; 刻具"
+    ],
+    "usphone": "[ˈɡreɪvər]",
+    "ukphone": "[ˈɡreɪvə(r)]"
+  },
+  {
+    "name": "guarantor",
+    "trans": [
+      "n. [金融] 保证人"
+    ],
+    "usphone": "[ˌɡærənˈtɔːr]",
+    "ukphone": "[ˌɡærənˈtɔː(r)]"
+  },
+  {
+    "name": "gen",
+    "trans": [
+      "n. 情报；一般布告"
+    ],
+    "usphone": "[dʒen]",
+    "ukphone": "[dʒen]"
+  },
+  {
+    "name": "genera",
+    "trans": [
+      "n. [生物] 属（genus的复数形式）；种；类"
+    ],
+    "usphone": "[ˈdʒenərə]",
+    "ukphone": "[ˈdʒenərə]"
+  },
+  {
+    "name": "gestation",
+    "trans": [
+      "n. 酝酿；怀孕；妊娠期"
+    ],
+    "usphone": "[dʒeˈsteɪʃn]",
+    "ukphone": "[dʒeˈsteɪʃn]"
+  },
+  {
+    "name": "goo",
+    "trans": [
+      "n. 感伤；粘性物"
+    ],
+    "usphone": "[ɡuː]",
+    "ukphone": "[ɡuː]"
+  },
+  {
+    "name": "greener",
+    "trans": [
+      "n. 没经验的人，生手",
+      "adj. 绿色的（green的比较级）；未熟的"
+    ],
+    "usphone": "[ˈɡriːnər]",
+    "ukphone": "[ˈɡriːnə]"
+  },
+  {
+    "name": "Greenland",
+    "trans": [
+      "n. 格陵兰（北美东北的一大岛名，属丹麦）"
+    ],
+    "usphone": "[ˈɡriːnlənd]",
+    "ukphone": "[ˈɡriːnlənd]"
+  },
+  {
+    "name": "Greenville",
+    "trans": [
+      "n. 格林维尔（美国城市）"
+    ],
+    "usphone": "[ˈɡriːnvɪl]",
+    "ukphone": "[ˈɡriːnvɪl]"
+  },
+  {
+    "name": "Gregory",
+    "trans": [
+      "n. 格雷戈里（男子名， 古代罗马教皇之名）"
+    ],
+    "usphone": "[ˈɡreɡəri]",
+    "ukphone": "[ˈɡreɡəri]"
+  },
+  {
+    "name": "globetrotting",
+    "trans": [
+      "n. 自助游"
+    ],
+    "usphone": "[ˈɡloʊbtrɑːtɪŋ]",
+    "ukphone": "[ˈɡləʊbtrɒtɪŋ]"
+  },
+  {
+    "name": "glimmering",
+    "trans": [
+      "n. 微光；隐约的一瞥",
+      "adj. 微弱地发光的；薄弱地发光的"
+    ],
+    "usphone": "[ˈɡlɪmərɪŋ]",
+    "ukphone": "[ˈɡlɪmərɪŋ]"
+  },
+  {
+    "name": "guardsman",
+    "trans": [
+      "n. 卫兵；（英）禁卫军官兵；（美）国民警卫队士兵"
+    ],
+    "usphone": "[ˈɡɑːrdzmən]",
+    "ukphone": "[ˈɡɑːdzmən]"
+  },
+  {
+    "name": "guava",
+    "trans": [
+      "n. 番石榴"
+    ],
+    "usphone": "[ˈɡwɑːvə]",
+    "ukphone": "[ˈɡwɑːvə]"
+  },
+  {
+    "name": "graham",
+    "trans": [
+      "adj. 全麦的；粗面粉的；全麦粉制成的"
+    ],
+    "usphone": "[ˈɡreɪəm]",
+    "ukphone": "[ˈɡreɪəm]"
+  },
+  {
+    "name": "gradualism",
+    "trans": [
+      "n. 渐进主义；按步就班主义"
+    ],
+    "usphone": "[ˈɡrædʒuəlɪzəm]",
+    "ukphone": "[ˈɡrædʒuəlɪzəm]"
+  },
+  {
+    "name": "glandular",
+    "trans": [
+      "adj. 腺的，腺状的"
+    ],
+    "usphone": "[ˈɡlændʒələr]",
+    "ukphone": "[ˈɡlændʒələ(r)]"
+  },
+  {
+    "name": "guncotton",
+    "trans": [
+      "n. 强棉药; 火棉"
+    ],
+    "usphone": "[ˈɡʌnˌkɑtn]",
+    "ukphone": "[ˈɡʌnˌkɒtən]"
+  },
+  {
+    "name": "gravelly",
+    "trans": [
+      "adj. 多碎石的；铺有碎石的；碎石构成的；声音粗哑的"
+    ],
+    "usphone": "[ˈɡrævəli]",
+    "ukphone": "[ˈɡrævəli]"
+  },
+  {
+    "name": "glial",
+    "trans": [
+      "adj. 神经胶质的"
+    ],
+    "usphone": "[ˈɡlaɪəl]",
+    "ukphone": "[ˈɡlaɪəl]"
+  },
+  {
+    "name": "glasswork",
+    "trans": [
+      "n. 玻璃厂，玻璃制品"
+    ],
+    "usphone": "[ˈɡlæswɜːrk]",
+    "ukphone": "[ˈɡlɑːsˌwɜːk]"
+  },
+  {
+    "name": "glassmaking",
+    "trans": [
+      "n. 玻璃（或玻璃器皿等）制造（术）"
+    ],
+    "usphone": "[ˈɡlæsˌmekɪŋ]",
+    "ukphone": "[ˈɡlɑːsmeɪkɪŋ]"
+  },
+  {
+    "name": "gesso",
+    "trans": [
+      "n. 石膏，石膏粉；石膏底"
+    ],
+    "usphone": "[ˈdʒesoʊ]",
+    "ukphone": "[ˈdʒesəʊ]"
+  },
+  {
+    "name": "gannet",
+    "trans": [
+      "n. 塘鹅"
+    ],
+    "usphone": "[ˈɡænɪt]",
+    "ukphone": "[ˈɡænɪt]"
+  },
+  {
+    "name": "glycoprotein",
+    "trans": [
+      "n. [生化] 糖蛋白"
+    ],
+    "usphone": "[ˌɡlaɪkoˈproˌtin]",
+    "ukphone": "[ˌglaɪkə(ʊ)ˈprəʊtiːn]"
+  },
+  {
+    "name": "grainy",
+    "trans": [
+      "adj. 粒状的；木纹状的；多粒的；有纹理的"
+    ],
+    "usphone": "[ˈɡreɪni]",
+    "ukphone": "[ˈɡreɪni]"
+  },
+  {
+    "name": "gaslit",
+    "trans": [
+      "adj. 以煤气灯照明的"
+    ],
+    "usphone": "[ˈɡæsˌlɪt]",
+    "ukphone": "[ˈɡæslɪt]"
+  },
+  {
+    "name": "glaciate",
+    "trans": [
+      "vt. 使冰冻；被冰冻盖；使受冰川作用"
+    ],
+    "usphone": "[ˈɡleɪʃiˌeɪt]",
+    "ukphone": "[ˈɡleɪsɪˌeɪt]"
+  },
+  {
+    "name": "grandly",
+    "trans": [
+      "adv. 盛大地；宏伟地；堂皇地"
+    ],
+    "usphone": "[ˈɡrændli]",
+    "ukphone": "[ˈɡrændli]"
+  },
+  {
+    "name": "gene pool",
+    "trans": [
+      "n. 基因库（某物种的全部基因）"
+    ],
+    "usphone": "[ˈdʒiːn puːl]",
+    "ukphone": "[ˈdʒiːn puːl]"
+  },
+  {
+    "name": "get stuck",
+    "trans": [
+      "v. 上当"
+    ],
+    "usphone": "[ɡet stʌk]",
+    "ukphone": "[ɡet stʌk]"
+  },
+  {
+    "name": "general strike",
+    "trans": [
+      "n. 总罢工"
+    ],
+    "usphone": "[ˌdʒenrəl ˈstraɪk]",
+    "ukphone": "[ˌdʒenrəl ˈstraɪk]"
+  },
+  {
+    "name": "glinting",
+    "trans": [
+      "n. 闪烁；闪光",
+      "vi. 闪烁；（光线）反射；闪闪发光",
+      "vt. 使闪光；使发光"
+    ],
+    "usphone": "[ɡlɪnt]",
+    "ukphone": "[ɡlɪnt]"
+  },
+  {
+    "name": "goggle-eyed",
+    "trans": [
+      "adj. 突眼的；眼珠突出的"
+    ],
+    "usphone": "[ˌɡɑːɡl ˈaɪd]",
+    "ukphone": "[ˌɡɒɡl ˈaɪd]"
+  },
+  {
+    "name": "groveling",
+    "trans": [
+      "adj. 匍匐的，卑躬屈节的"
+    ],
+    "usphone": "[ˈɡrɑːvlɪŋ]",
+    "ukphone": "[ˈɡrɒvlɪŋ]"
+  },
+  {
+    "name": "go-cart",
+    "trans": [
+      "n. 早期的轻便马车；学走器；手推车；竞赛用的微型单座汽车"
+    ],
+    "usphone": "[ˈɡoʊ kɑːrt]",
+    "ukphone": "[ˈɡəʊ kɑːt]"
+  },
+  {
+    "name": "gelatinous",
+    "trans": [
+      "adj. 凝胶状的，胶状的"
+    ],
+    "usphone": "[dʒəˈlætɪnəs]",
+    "ukphone": "[dʒəˈlætɪnəs]"
+  },
+  {
+    "name": "go-to",
+    "trans": [
+      " （指对象）寻求协助的，征询意见的"
+    ],
+    "usphone": "[ˈɡoʊ tuː]",
+    "ukphone": "[ˈɡəʊ tuː]"
+  },
+  {
+    "name": "grizzled",
+    "trans": [
+      "adj. 灰色的；头发斑白的",
+      "v. 变成灰色；发脾气（grizzle的过去分词）"
+    ],
+    "usphone": "[ˈɡrɪzld]",
+    "ukphone": "[ˈɡrɪzld]"
+  },
+  {
+    "name": "guess at",
+    "trans": [
+      " 估计；猜测；靠猜"
+    ],
+    "usphone": "[ɡes æt]",
+    "ukphone": "[ɡes æt]"
+  },
+  {
+    "name": "good-tempered",
+    "trans": [
+      "adj. 宽容的；和蔼的；脾气好的"
+    ],
+    "usphone": "[ˌɡʊd ˈtempərd]",
+    "ukphone": "[ˌɡʊd ˈtempəd]"
+  },
+  {
+    "name": "girlish",
+    "trans": [
+      "adj. 少女的；适于女子的；少女似的"
+    ],
+    "usphone": "[ˈɡɜːrlɪʃ]",
+    "ukphone": "[ˈɡɜːlɪʃ]"
+  },
+  {
+    "name": "geocide",
+    "trans": [
+      "n. 地球的毁灭"
+    ],
+    "usphone": "[dʒiːəˈsaɪd]",
+    "ukphone": "[ˈdʒɪ（ː）əʊsaɪd]"
+  },
+  {
+    "name": "Georgetown",
+    "trans": [
+      "n. 乔治城（圭亚那首都）"
+    ],
+    "usphone": "[ˈdʒɔːrdʒtaʊn]",
+    "ukphone": "[ˈdʒɔːdʒtaʊn]"
+  },
+  {
+    "name": "go-getter",
+    "trans": [
+      "n. 老手；能干的人"
+    ],
+    "usphone": "[ˈɡoʊ ɡetər]",
+    "ukphone": "[ˈɡəʊ ɡetə(r)]"
+  },
+  {
+    "name": "gadolinium",
+    "trans": [
+      "n. 钆（专有符号缩写Gd）"
+    ],
+    "usphone": "[ˌɡædəˈlɪniəm]",
+    "ukphone": "[ˌɡædəˈlɪniəm]"
+  },
+  {
+    "name": "galactorrhea",
+    "trans": [
+      "[医] 乳溢"
+    ],
+    "usphone": "[ɡəˌlæktəˈriːə]",
+    "ukphone": "[ɡəˈlæktəriə]"
+  },
+  {
+    "name": "galactose",
+    "trans": [
+      "n. [有化] 半乳糖"
+    ],
+    "usphone": "[ɡəˈlæktoʊs]",
+    "ukphone": "[ɡəˈlæktəʊz]"
+  },
+  {
+    "name": "galactosemia",
+    "trans": [
+      "n. [遗] 半乳糖血（症）"
+    ],
+    "usphone": "[ɡəˌlæktəˈsɪmɪə]",
+    "ukphone": "[ɡəlæktəˈsiːmiə]"
+  },
+  {
+    "name": "gallium",
+    "trans": [
+      "n. [化学] 镓"
+    ],
+    "usphone": "[ˈɡæliəm]",
+    "ukphone": "[ˈɡæliəm]"
+  },
+  {
+    "name": "galvanometer",
+    "trans": [
+      "n. 检流计; 电流表"
+    ],
+    "usphone": "[ˌɡælvəˈnɑːmətər]",
+    "ukphone": "[ˌɡælvəˈnɒmɪtə(r)]"
+  },
+  {
+    "name": "gamete",
+    "trans": [
+      "n. [生物] 配子，配偶子"
+    ],
+    "usphone": "[ˈɡæmiːt]",
+    "ukphone": "[ˈɡæmiːt]"
+  },
+  {
+    "name": "gametogenesis",
+    "trans": [
+      "n. 配子形成，配子发育"
+    ],
+    "usphone": "[ɡəˌmitəˈdʒenɪsɪs]",
+    "ukphone": "[ˌɡæmɪtəʊˈdʒenɪsɪs]"
+  },
+  {
+    "name": "gamma",
+    "trans": [
+      "n. 微克；希腊语的第三个字母"
+    ],
+    "usphone": "[ˈɡæmə]",
+    "ukphone": "[ˈɡæmə]"
+  },
+  {
+    "name": "gammopathy",
+    "trans": [
+      " 丙种球蛋白病"
+    ],
+    "usphone": "[ɡæmˈɑːpəθi]",
+    "ukphone": "[ɡæˈmɒpəθi]"
+  },
+  {
+    "name": "ganglioside",
+    "trans": [
+      "n. 神经节苷脂"
+    ],
+    "usphone": "[ˈɡæŋɡliəˌsaɪd]",
+    "ukphone": "[ˈɡæŋɡlɪəʊˌsaɪd]"
+  },
+  {
+    "name": "gangrenous",
+    "trans": [
+      "adj. 坏疽的，腐败的；脱疽的"
+    ],
+    "usphone": "[ˈɡæŋɡrɪnəs]",
+    "ukphone": "[ˈɡæŋɡrɪnəs]"
+  },
+  {
+    "name": "gantry",
+    "trans": [
+      "n. 桶架；构台；起重机架（复数gantries）"
+    ],
+    "usphone": "[ˈɡæntri]",
+    "ukphone": "[ˈɡæntri]"
+  },
+  {
+    "name": "gargle",
+    "trans": [
+      "n. 漱口；含漱剂，漱口剂",
+      "vt. 漱",
+      "vi. 漱口"
+    ],
+    "usphone": "[ˈɡɑːrɡl]",
+    "ukphone": "[ˈɡɑːɡl]"
+  },
+  {
+    "name": "gastrectomy",
+    "trans": [
+      "n. 胃切除术"
+    ],
+    "usphone": "[ɡæsˈtrektəmi]",
+    "ukphone": "[ɡæsˈtrektəmi]"
+  },
+  {
+    "name": "gastrin",
+    "trans": [
+      "n. 胃泌激素; 促胃液素"
+    ],
+    "usphone": "[ˈɡæstrɪn]",
+    "ukphone": "[ˈɡæstrɪn]"
+  },
+  {
+    "name": "gastrinoma",
+    "trans": [
+      "n. [医]促胃液素瘤"
+    ],
+    "usphone": "[ɡæstrɪˈnoʊmə]",
+    "ukphone": "[ˌɡæstrɪˈnəʊmə]"
+  },
+  {
+    "name": "gastrocnemius",
+    "trans": [
+      "n. [解剖] 腓肠肌（位于小腿后方）"
+    ],
+    "usphone": "[ˌɡæstrɑːkˈniːmiəs]",
+    "ukphone": "[ˌɡæstrɒkˈniːmɪəs]"
+  },
+  {
+    "name": "gastroenteritis",
+    "trans": [
+      "n. 肠胃炎"
+    ],
+    "usphone": "[ˌɡæstroʊˌentəˈraɪtɪs]",
+    "ukphone": "[ˌɡæstrəʊˌentəˈraɪtɪs]"
+  },
+  {
+    "name": "gastrojejunostomy",
+    "trans": [
+      "n. [医]胃空肠吻合术"
+    ],
+    "usphone": "[ˈɡæstroʊdʒɪdʒuˈnɑːstəmi]",
+    "ukphone": "[ˈɡæstrəʊdʒɪdʒuːˈnɒstəmi]"
+  },
+  {
+    "name": "gastroschisis",
+    "trans": [
+      "n. [医]腹裂(畸形)"
+    ],
+    "usphone": "[ɡæsˈtrɑːskɪsɪs]",
+    "ukphone": "[ɡæsˈtrɒskɪsɪs]"
+  },
+  {
+    "name": "gastroscopy",
+    "trans": [
+      "n. 胃镜检查法",
+      "[医] 胃镜检查"
+    ],
+    "usphone": "[ɡæsˈtrɑːskəpi]",
+    "ukphone": "[ɡæsˈtrɒskəpi]"
+  },
+  {
+    "name": "gastrostomy",
+    "trans": [
+      "n. 胃造口术"
+    ],
+    "usphone": "[ɡæsˈtrɑːstəmi]",
+    "ukphone": "[ɡæsˈtrɒstəmi]"
+  },
+  {
+    "name": "gastrulation",
+    "trans": [
+      "n. 原肠胚形成"
+    ],
+    "usphone": "[ˌɡæstruˈleɪʃən]",
+    "ukphone": "[ˌɡæstrʊˈleɪʃən]"
+  },
+  {
+    "name": "gavage",
+    "trans": [
+      "n. 强饲法，填喂法"
+    ],
+    "usphone": "[ɡəˈvɑːʒ]",
+    "ukphone": "[ˈɡævɑːʒ]"
+  },
+  {
+    "name": "gelatinization",
+    "trans": [
+      "[化] 胶凝; 胶凝作用; 凝胶化; 凝胶化作用; 糊化; 淀粉糊化作用",
+      "[医] 胶凝[作用], 凝胶化胶的"
+    ],
+    "usphone": "[dʒəˌlætɪnɪˈzeʃən]",
+    "ukphone": "[dʒəˌlætɪnaɪˈzeɪʃən]"
+  },
+  {
+    "name": "generalizability",
+    "trans": [
+      "n. 普遍性；概括性"
+    ],
+    "usphone": "[dʒenərəlaɪzəˈbɪləti]",
+    "ukphone": "[dʒenərəˌlaɪzəˈbɪlɪti]"
+  },
+  {
+    "name": "genitalia",
+    "trans": [
+      "n. [解剖] 生殖器，外阴部"
+    ],
+    "usphone": "[ˌdʒenəˈteljə]",
+    "ukphone": "[ˌdʒenɪˈteɪliə]"
+  },
+  {
+    "name": "genitourinary",
+    "trans": [
+      "adj. [解剖] 泌尿生殖器的"
+    ],
+    "usphone": "[ˌdʒenɪtoʊˈjʊrɪneri]",
+    "ukphone": "[ˌdʒenɪtəʊˈjʊərɪnəri]"
+  },
+  {
+    "name": "genotoxicity",
+    "trans": [
+      " 基因毒性"
+    ],
+    "usphone": "[dʒɪnətɑːkˈsɪsɪti]",
+    "ukphone": "[dʒɪnətɒk'sɪsɪtɪ]"
+  },
+  {
+    "name": "gentamicin",
+    "trans": [
+      "n. [药] 庆大霉素；艮他霉素"
+    ],
+    "usphone": "[ˌdʒentəˈmaɪsɪn]",
+    "ukphone": "[dʒentəˈmaɪsɪn]"
+  },
+  {
+    "name": "gentian",
+    "trans": [
+      "n. 龙胆属的植物；龙胆根"
+    ],
+    "usphone": "[ˈdʒenʃn]",
+    "ukphone": "[ˈdʒenʃn]"
+  },
+  {
+    "name": "gestational",
+    "trans": [
+      "adj. 妊娠期的；受孕的"
+    ],
+    "usphone": "[dʒeˈsteɪʃənl]",
+    "ukphone": "[dʒeˈsteɪʃənəl]"
+  },
+  {
+    "name": "giardiasis",
+    "trans": [
+      "n. 梨形鞭毛虫病；贾第虫病"
+    ],
+    "usphone": "[ˈdʒiɑrˈdaɪəsɪs]",
+    "ukphone": "[ˌdʒɪɑːˈdaɪəsɪs]"
+  },
+  {
+    "name": "gingivitis",
+    "trans": [
+      "n. 齿龈炎"
+    ],
+    "usphone": "[ˌdʒɪndʒɪˈvaɪtɪs]",
+    "ukphone": "[ˌdʒɪndʒɪˈvaɪtɪs]"
+  },
+  {
+    "name": "ginseng",
+    "trans": [
+      "n. 高丽参，人参"
+    ],
+    "usphone": "[ˈdʒɪnseŋ]",
+    "ukphone": "[ˈdʒɪnseŋ]"
+  },
+  {
+    "name": "glibenclamide",
+    "trans": [
+      "[化] 格列本脲; 优降糖"
+    ],
+    "usphone": "[ɡlɪˈbenkləmɪd]",
+    "ukphone": "[ɡlɪˈbenkləmɪd]"
+  },
+  {
+    "name": "glidant",
+    "trans": [
+      "助流剂"
+    ],
+    "usphone": "[ˈɡlaɪdənt]",
+    "ukphone": "[ɡˈlɪdænt]"
+  },
+  {
+    "name": "glioma",
+    "trans": [
+      "n. 胶质瘤；[肿瘤] 神经胶质瘤"
+    ],
+    "usphone": "[ɡlaɪˈoʊmə]",
+    "ukphone": "[ɡlaɪˈəʊmə]"
+  },
+  {
+    "name": "glomerular",
+    "trans": [
+      "小球的；血管小球的"
+    ],
+    "usphone": "[ˈɡlɑːmrjʊlər]",
+    "ukphone": "[ɡlɒˈmerʊlə(r)]"
+  },
+  {
+    "name": "glomerulonephritis",
+    "trans": [
+      "n. 血管球性肾炎；[泌尿] 肾小球性肾炎"
+    ],
+    "usphone": "[ɡloˌmerjəlonəˈfraɪtɪs]",
+    "ukphone": "[ɡləʊmerjʊləʊnefˈraɪtɪs]"
+  },
+  {
+    "name": "glomerulus",
+    "trans": [
+      "n. [组织] 肾小球"
+    ],
+    "usphone": "[ɡloˈmerjʊləs]",
+    "ukphone": "[ɡlɒˈmerʊləs]"
+  },
+  {
+    "name": "glucagon",
+    "trans": [
+      "n. [生化] 胰高血糖素；[生化] 胰增血糖素；高血糖因子"
+    ],
+    "usphone": "[ˈɡluːkəˌɡɑːn]",
+    "ukphone": "[ˈɡluːkəˌɡɒn]"
+  },
+  {
+    "name": "glucocorticoid",
+    "trans": [
+      "n. [生化] 糖皮质激素"
+    ],
+    "usphone": "[ˌɡlʊkoˈkɔrtɪˌkɔɪd]",
+    "ukphone": "[ˌɡluːkəʊˈkɔːtɪˌkɔɪd]"
+  },
+  {
+    "name": "gluconate",
+    "trans": [
+      "n. 葡（萄）糖酸盐（或酯）"
+    ],
+    "usphone": "[ˈɡluːkəˌneɪt]",
+    "ukphone": "[ˈɡluːkəˌneɪt]"
+  },
+  {
+    "name": "gluconeogenesis",
+    "trans": [
+      "n. 糖质新生"
+    ],
+    "usphone": "[ˌɡlʊkoˌniəˈdʒenəsɪs]",
+    "ukphone": "[ˌɡluːkəʊˌniːəʊˈdʒenɪsɪs]"
+  },
+  {
+    "name": "glutaminase",
+    "trans": [
+      "n. 谷氨酰胺酶"
+    ],
+    "usphone": "[ɡlʊˈtæmɪneɪs]",
+    "ukphone": "[ɡluːˈtæmɪneɪz]"
+  },
+  {
+    "name": "glutamine",
+    "trans": [
+      "n. 谷氨酰胺"
+    ],
+    "usphone": "[ˈɡlʊtəmin]",
+    "ukphone": "[ˈɡluːtəˌmiːn]"
+  },
+  {
+    "name": "glutaraldehyde",
+    "trans": [
+      "n. [有化] 戊二醛"
+    ],
+    "usphone": "[ˌɡluːtəˈrældəˌhaɪd]",
+    "ukphone": "[ˌɡluːtəˈrældɪˌhaɪd]"
+  },
+  {
+    "name": "glutathione",
+    "trans": [
+      "n. [生化] 谷胱甘肽"
+    ],
+    "usphone": "[ˌɡlutəˈθaɪˌoʊn]",
+    "ukphone": "[ɡluːtəˈθaɪəʊn]"
+  },
+  {
+    "name": "gluteal",
+    "trans": [
+      "adj. 臀肌的；近臀肌的"
+    ],
+    "usphone": "[ɡluːˈtiəl]",
+    "ukphone": "[ɡluːˈtiːəl]"
+  },
+  {
+    "name": "glycan",
+    "trans": [
+      "n. 多糖，聚糖，多聚糖"
+    ],
+    "usphone": "[ˈɡlaɪkæn]",
+    "ukphone": "[ˈɡlaɪkæn]"
+  },
+  {
+    "name": "glycerite",
+    "trans": [
+      "n. [化]甘油溶液"
+    ],
+    "usphone": "[ˈɡlɪsəraɪt]",
+    "ukphone": "[ˈɡlɪsəraɪt]"
+  },
+  {
+    "name": "glycine",
+    "trans": [
+      "n. 甘氨酸；[有化] 氨基乙酸"
+    ],
+    "usphone": "[ˈɡlaɪsin]",
+    "ukphone": "[ˈɡlaɪsiːn; ɡlaɪˈsiːn]"
+  },
+  {
+    "name": "glycogenesis",
+    "trans": [
+      "n. 肝糖生成，糖原生成"
+    ],
+    "usphone": "[ˌɡlaɪkəˈdʒenəsɪs]",
+    "ukphone": "[ˌɡlaɪkəʊˈdʒenɪsɪs]"
+  },
+  {
+    "name": "glycogenolysis",
+    "trans": [
+      "n. 肝糖分解"
+    ],
+    "usphone": "[ˌɡlaɪkədʒəˈnɑːlɪsɪs]",
+    "ukphone": "[ˌɡlaɪkəʊdʒəˈnɒlɪsɪs]"
+  },
+  {
+    "name": "glycogenosis",
+    "trans": [
+      "n. [医]糖原贮积病,糖原病"
+    ],
+    "usphone": "[ɡlaɪkəˈdʒɪnoʊsɪs]",
+    "ukphone": "[ɡlaɪkəˈdʒɪnəʊsɪs]"
+  },
+  {
+    "name": "glycolipid",
+    "trans": [
+      "n. 醣脂类; 糖脂"
+    ],
+    "usphone": "[ˌɡlaɪkəˈlɪpɪd]",
+    "ukphone": "[ˌɡlaɪkəʊˈlɪpɪd]"
+  },
+  {
+    "name": "glycolysis",
+    "trans": [
+      "n. 醣酵解"
+    ],
+    "usphone": "[ɡlaɪˈkɑːlɪsɪs]",
+    "ukphone": "[ɡlaɪˈkɒlɪsɪs]"
+  },
+  {
+    "name": "glycosaminoglycan",
+    "trans": [
+      "n. 黏多糖"
+    ],
+    "usphone": "[ˌɡlaɪkoʊsəˌmiːnoʊˈɡlaɪkæn]",
+    "ukphone": "[ˌɡlaɪkəʊsəˌmiːnəʊˈɡlaɪkæn]"
+  },
+  {
+    "name": "glycosylation",
+    "trans": [
+      "n. 糖基化"
+    ],
+    "usphone": "[ɡlaɪkəsɪˈleɪʃən]",
+    "ukphone": "[ˌɡlaɪkəsəˈleɪʃən]"
+  },
+  {
+    "name": "glycyrrhizin",
+    "trans": [
+      "[化] 甘草酸; 甘草甜素",
+      "[医] 甘草甜素"
+    ],
+    "usphone": "[ɡlɪˈkeraɪzɪn]",
+    "ukphone": "[ɡlɪˈkɜːraɪzɪn]"
+  },
+  {
+    "name": "gnotobiology",
+    "trans": [
+      "n. 限菌生物学，无菌生物学"
+    ],
+    "usphone": "[,nəutəubai'ɔlədʒi]",
+    "ukphone": "[ˌnəʊtəʊbaɪˈɒlədʒɪ]"
+  },
+  {
+    "name": "gnotobiote",
+    "trans": [
+      "n. 不受已知微小动植物污染或与之有关联的（实验）动物"
+    ],
+    "usphone": "[,nəutə'baiəut]",
+    "ukphone": "[ˌnəʊtəˈbaɪəʊt]"
+  },
+  {
+    "name": "gonadal",
+    "trans": [
+      "adj. 性腺的"
+    ],
+    "usphone": "[ˈɡɒnædl]",
+    "ukphone": "[ˈɡɒnædl]"
+  },
+  {
+    "name": "gonadotrophic",
+    "trans": [
+      "a. 刺激生殖腺的"
+    ],
+    "usphone": "[ɡɑːnədəˈtrɑːfɪk]",
+    "ukphone": "[ˌɡɒnədəˈtrɒfɪk]"
+  },
+  {
+    "name": "gonococcus",
+    "trans": [
+      "n. 淋菌"
+    ],
+    "usphone": "[ˌɡɑːnəˈkɑːkəs]",
+    "ukphone": "[ˌɡɒnəʊˈkɒkəs]"
+  },
+  {
+    "name": "gouty",
+    "trans": [
+      "adj. 痛风的，易患痛风的，患了痛风的; 痛风性"
+    ],
+    "usphone": "[ˈɡaʊti]",
+    "ukphone": "[ˈɡaʊti]"
+  },
+  {
+    "name": "gradation",
+    "trans": [
+      "n. （色彩、颜色、次序、音调等的）渐变；分等级；（各种状态、性质等的）分阶段渐变；元音交替"
+    ],
+    "usphone": "[ɡrəˈdeɪʃn]",
+    "ukphone": "[ɡrəˈdeɪʃn]"
+  },
+  {
+    "name": "granula",
+    "trans": [
+      "(颗)粒"
+    ],
+    "usphone": "['grænjulə]",
+    "ukphone": "['grænjulə]"
+  },
+  {
+    "name": "granulocyte",
+    "trans": [
+      "n. [组织] 粒细胞；[组织] 粒性白细胞（细胞质中含有颗粒的一类白细胞）"
+    ],
+    "usphone": "[ˈɡrænjəloʊˌsaɪt; ˈɡrænjʊloʊˌsaɪt]",
+    "ukphone": "[ˈɡrænjʊləˌsaɪt]"
+  },
+  {
+    "name": "granuloma",
+    "trans": [
+      "n. 肉芽肿瘤"
+    ],
+    "usphone": "[ˌɡrænjəˈloʊmə]",
+    "ukphone": "[ˈɡrænjʊˈləʊmə]"
+  },
+  {
+    "name": "granulomatosis",
+    "trans": [
+      "n. 肉芽肿病"
+    ],
+    "usphone": "[ɡrænjʊloʊməˈtoʊsɪs]",
+    "ukphone": "[ˌɡrænjʊləʊməˈtəʊsɪs]"
+  },
+  {
+    "name": "granulomatous",
+    "trans": [
+      "adj. 肉芽肿的"
+    ],
+    "usphone": "[ˌɡrænjuˈloʊmətəs]",
+    "ukphone": "[ˌɡrænjʊˈlɒmətəs]"
+  },
+  {
+    "name": "granulopoiesis",
+    "trans": [
+      "粒细胞生成"
+    ],
+    "usphone": "[ɡrænjʊloʊpɔɪˈiːsɪs]",
+    "ukphone": "[ɡrænjʊləʊpɔɪˈiːsɪs]"
+  },
+  {
+    "name": "griseofulvin",
+    "trans": [
+      "n. 灰黄霉素"
+    ],
+    "usphone": "[ˈɡrɪziəˌfʌlvɪn]",
+    "ukphone": "[ˌɡrɪzɪəʊˈfʊlvɪn]"
+  },
+  {
+    "name": "guanine",
+    "trans": [
+      "n. [生化] 鸟嘌呤（核酸的基本成分）"
+    ],
+    "usphone": "[ˈɡwɑnin]",
+    "ukphone": "[ˈɡwɑːniːn]"
+  },
+  {
+    "name": "guinea-pig",
+    "trans": [
+      "n. 豚鼠，天竺鼠",
+      " [医] 豚鼠，天竺鼠，荷兰猪"
+    ],
+    "usphone": "[ˈɡɪni pɪɡ]",
+    "ukphone": "[ˈɡɪni pɪɡ]"
+  },
+  {
+    "name": "gumma",
+    "trans": [
+      "n. 梅毒瘤，树胶肿（梅毒性）"
+    ],
+    "usphone": "[ˈɡʌmə]",
+    "ukphone": "[ˈɡʌmə]"
+  },
+  {
+    "name": "gutta",
+    "trans": [
+      "n. 滴；雨珠饰"
+    ],
+    "usphone": "[ˈɡʌtə]",
+    "ukphone": "[ˈɡʌtə]"
+  },
+  {
+    "name": "gynecologic",
+    "trans": [
+      "adj. 妇产科医学的"
+    ],
+    "usphone": "[ˌɡaɪnɪkəˈlɑːdʒɪk]",
+    "ukphone": "[ˌɡaɪnəkəˈlɒdʒɪk]"
+  },
+  {
+    "name": "gynecomastia",
+    "trans": [
+      "adj. <美>男子女性型乳房"
+    ],
+    "usphone": "[ˌdʒɪnɪkoˈmæstiə; ˌɡaɪnɪkoˈmæstiə; ˌdʒaɪnɪkoˈmæstiə]",
+    "ukphone": "[ɡaɪnɪkəʊˈmæstɪə]"
+  },
+  {
+    "name": "gyration",
+    "trans": [
+      "n. 旋转，[力] 回转；螺层"
+    ],
+    "usphone": "[dʒaɪˈreɪʃn]",
+    "ukphone": "[dʒaɪˈreɪʃn]"
+  },
+  {
+    "name": "guiding",
+    "trans": [
+      "n. [航] 导向；控制；定向",
+      "adj. 引导的；控制的；制导的",
+      "v. 指导；管理（guide的ing形式）；支配"
+    ],
+    "usphone": "[ˈɡaɪdɪŋ]",
+    "ukphone": "[ˈɡaɪdɪŋ]"
+  },
+  {
+    "name": "gunman",
+    "trans": [
+      "n. 枪手；持枪歹徒"
+    ],
+    "usphone": "[ˈɡʌnmən]",
+    "ukphone": "[ˈɡʌnmən]"
+  },
+  {
+    "name": "goddamn",
+    "trans": [
+      "adj. 该死的；讨厌的；受诅咒的"
+    ],
+    "usphone": "['ɡɔd'dæm]",
+    "ukphone": "[ˈɡɒddæm]"
+  },
+  {
+    "name": "gaming",
+    "trans": [
+      "n. 赌博；赌胜负"
+    ],
+    "usphone": "[ˈɡeɪmɪŋ]",
+    "ukphone": "[ˈɡeɪmɪŋ]"
+  },
+  {
+    "name": "generating",
+    "trans": [
+      "n. 产生；发生",
+      "adj. 产生的；生成的",
+      "v. [计] 生成；引起（generate的现在分词）"
+    ],
+    "usphone": "[ˈdʒenəreɪtɪŋ]",
+    "ukphone": "['dʒenə,reitiŋ]"
+  },
+  {
+    "name": "granulate",
+    "trans": [
+      "vt. 使成粒状；使表面变粗糙",
+      "vi. 成为粒状；表面变粗糙"
+    ],
+    "usphone": "[ˈɡrænjəˌleɪt]",
+    "ukphone": "[ˈɡrænjʊˌleɪt]"
+  },
+  {
+    "name": "gluttony",
+    "trans": [
+      "n. 暴食，暴饮暴食；贪食，贪吃"
+    ],
+    "usphone": "[ˈɡlʌtəni]",
+    "ukphone": "[ˈɡlʌtəni]"
+  },
+  {
+    "name": "Grammy",
+    "trans": [
+      "n. 格兰密唱片奖"
+    ],
+    "usphone": "[ˈɡræmi]",
+    "ukphone": "[ˈɡræmi]"
+  },
+  {
+    "name": "godfather",
+    "trans": [
+      "n. 教父",
+      "vt. 当…的教父"
+    ],
+    "usphone": "[ˈɡɑːdfɑːðər]",
+    "ukphone": "[ˈɡɒdfɑːðə(r)]"
+  },
+  {
+    "name": "godmother",
+    "trans": [
+      "n. 教母",
+      "vt. 当…的教母；作…的女监护人"
+    ],
+    "usphone": "[ˈɡɑːdmʌðər]",
+    "ukphone": "[ˈɡɒdmʌðə(r)]"
+  },
+  {
+    "name": "good-humored",
+    "trans": [
+      "adj. 心情愉快的；脾气好的"
+    ],
+    "usphone": "['gud'hju:məd]",
+    "ukphone": "['gud'hju:məd]"
+  },
+  {
+    "name": "geode",
+    "trans": [
+      "n. 晶洞，异质晶簇；淋巴腔"
+    ],
+    "usphone": "[ˈdʒiːoʊd]",
+    "ukphone": "[ˈdʒiːəʊd]"
+  },
+  {
+    "name": "gas-guzzling",
+    "trans": [
+      "adj. 耗油的；高油耗的；吞油的"
+    ],
+    "usphone": "[ˈɡæs ɡʌzlɪŋ]",
+    "ukphone": "[ˈɡæs ɡʌzlɪŋ]"
+  },
+  {
+    "name": "Geography",
+    "trans": [
+      "n. 地理；地形"
+    ],
+    "usphone": "[dʒiˈɑːɡrəfi]",
+    "ukphone": "[dʒiˈɒɡrəfi]"
+  },
+  {
+    "name": "graffitied",
+    "trans": [
+      " 涂鸦"
+    ],
+    "usphone": "[ɡrəˈfiːti]",
+    "ukphone": "[ɡrəˈfiːti]"
+  },
+  {
+    "name": "geophysics",
+    "trans": [
+      "n. 地球物理；地球物理学"
+    ],
+    "usphone": "[ˌdʒiːoʊˈfɪzɪks]",
+    "ukphone": "[ˌdʒiːəʊˈfɪzɪks]"
+  },
+  {
+    "name": "guidepost",
+    "trans": [
+      "n. 路牌，路标"
+    ],
+    "usphone": "[ˈɡaɪdˌpoʊst]",
+    "ukphone": "[ˈɡaɪdpəʊst]"
+  },
+  {
+    "name": "grump",
+    "trans": [
+      "n. 一阵坏脾气；发火；闹情绪",
+      "vi. 发牢骚；闹情绪"
+    ],
+    "usphone": "[ɡrʌmp]",
+    "ukphone": "[ɡrʌmp]"
+  },
+  {
+    "name": "glazed",
+    "trans": [
+      "adj. 光滑的；像玻璃的；上过釉的；呆滞无神的",
+      "v. 上釉（glaze的过去分词）；装以玻璃"
+    ],
+    "usphone": "[ɡleɪzd]",
+    "ukphone": "[ɡleɪzd]"
+  },
+  {
+    "name": "gasify",
+    "trans": [
+      "vt.& vi. 使成为气体，使气化"
+    ],
+    "usphone": "[ˈɡæsəˌfai]",
+    "ukphone": "[ˈɡæsɪˌfaɪ]"
+  },
+  {
+    "name": "Goodness!",
+    "trans": [
+      "n. 善良，优秀 ；精华，养分",
+      "int. 天哪"
+    ],
+    "usphone": "[ˈɡʊdnəs]",
+    "ukphone": "[ˈɡʊdnəs]"
+  },
+  {
+    "name": "Good evening.",
+    "trans": [
+      "int. （晚上见面时用语）晚上好"
+    ],
+    "usphone": "[ˌɡʊd ˈiːvnɪŋ]",
+    "ukphone": "[ˌɡʊd ˈiːvnɪŋ]"
+  },
+  {
+    "name": "gearshift",
+    "trans": [
+      "n. 变速杆；换挡杆（等于gear lever）"
+    ],
+    "usphone": "[ˈɡɪrʃɪft]",
+    "ukphone": "[ˈɡɪəʃɪft]"
+  },
+  {
+    "name": "gracile",
+    "trans": [
+      "adj. 细长的，纤弱的"
+    ],
+    "usphone": "[ˈɡræsəl]",
+    "ukphone": "[ˈɡræsaɪl]"
+  },
+  {
+    "name": "gratefully",
+    "trans": [
+      "adv. 感激地；感谢地"
+    ],
+    "usphone": "[ˈɡreɪtfəli]",
+    "ukphone": "[ˈɡreɪtfəli]"
+  },
+  {
+    "name": "gruffly",
+    "trans": [
+      "adv. 粗暴地；粗声地；生硬地"
+    ],
+    "usphone": "[ˈɡrʌfli]",
+    "ukphone": "[ˈɡrʌfli]"
+  },
+  {
+    "name": "Ganymede",
+    "trans": [
+      "n. 木星的最大卫星；伽倪墨得斯（为众神酌酒的美少年, 等于Ganymedes）；侍童"
+    ],
+    "usphone": "[ˈɡænɪmiːd]",
+    "ukphone": "[ˈɡænimiːd]"
+  },
+  {
+    "name": "gibberellin",
+    "trans": [
+      "n. 赤霉素"
+    ],
+    "usphone": "[ˌdʒɪbəˈrelən]",
+    "ukphone": "[ˌdʒɪbəˈrelɪn]"
+  },
+  {
+    "name": "gas-station",
+    "trans": [
+      "加油站"
+    ],
+    "usphone": "[ˈɡæs steɪʃn]",
+    "ukphone": "[ˈɡæs steɪʃn]"
+  },
+  {
+    "name": "gene-therapy",
+    "trans": [
+      " 基因疗法"
+    ],
+    "usphone": "[ˈdʒiːn θerəpi]",
+    "ukphone": "[ˈdʒiːn θerəpi]"
+  },
+  {
+    "name": "glossarist",
+    "trans": [
+      "n. 注解者, 专业词典编纂者"
+    ],
+    "usphone": "[ˈɡlɑsərɪst]",
+    "ukphone": "[ˈɡlɒsərɪst]"
+  },
+  {
+    "name": "glittery",
+    "trans": [
+      "adj. 闪烁的，闪光的"
+    ],
+    "usphone": "[ˈɡlɪtəri]",
+    "ukphone": "[ˈɡlɪtəri]"
+  },
+  {
+    "name": "gothic",
+    "trans": [
+      "n. 哥特式",
+      "adj. 哥特式的；野蛮的"
+    ],
+    "usphone": "[ˈɡɑːθɪk]",
+    "ukphone": "[ˈɡɒθɪk]"
+  },
+  {
+    "name": "grad",
+    "trans": [
+      "n. 毕业生；校友"
+    ],
+    "usphone": "[ɡræd]",
+    "ukphone": "[ɡræd]"
+  },
+  {
+    "name": "grieving",
+    "trans": [
+      "v. 使悲伤；伤心（grieve的ing形式）"
+    ],
+    "usphone": "[ˈɡriːvɪŋ]",
+    "ukphone": "[ˈɡriːvɪŋ]"
+  },
+  {
+    "name": "generalized",
+    "trans": [
+      "adj. 广义的，普遍的；无显著特点的",
+      "v. 推广（generalize的过去分词）；对…进行概括；使…一般化"
+    ],
+    "usphone": "[ˈdʒenrəlaɪzd]",
+    "ukphone": "[ˈdʒenrəlaɪzd]"
+  },
+  {
+    "name": "gilded",
+    "trans": [
+      "adj. 镀金的，装饰的；富有的",
+      "v. 给…镀金（gild的过去分词）"
+    ],
+    "usphone": "[ˈɡɪldɪd]",
+    "ukphone": "[ˈɡɪldɪd]"
+  },
+  {
+    "name": "goofy",
+    "trans": [
+      "n. 高飞（迪士尼卡通人物）",
+      "adj. 傻瓜的，愚笨的"
+    ],
+    "usphone": "[ˈɡuːfi]",
+    "ukphone": "[ˈɡuːfi]"
+  },
+  {
+    "name": "gunner",
+    "trans": [
+      "n. 炮手，枪手；火炮瞄准手；经常投篮的投手"
+    ],
+    "usphone": "[ˈɡʌnər]",
+    "ukphone": "[ˈɡʌnə(r)]"
+  },
+  {
+    "name": "gathered",
+    "trans": [
+      "v. v.聚集（gather的过去分词）；集中"
+    ],
+    "usphone": "[ˈɡæðərd]",
+    "ukphone": "[ˈɡæðəd]"
+  },
+  {
+    "name": "giveaway",
+    "trans": [
+      "n. 泄漏；免费样品；不正当的交易；有奖问答节目",
+      "adj. 泄露真相的；赠送的；极便宜的"
+    ],
+    "usphone": "[ˈɡɪvəweɪ]",
+    "ukphone": "[ˈɡɪvəweɪ]"
+  },
+  {
+    "name": "grinning",
+    "trans": [
+      "n. 露底，露齿笑",
+      "v. 露齿而笑（grin的现在分词形式）"
+    ],
+    "usphone": "[ˈɡrɪnɪŋ]",
+    "ukphone": "[ˈɡrɪnɪŋ]"
+  },
+  {
+    "name": "get angry",
+    "trans": [
+      "v. 生气"
+    ],
+    "usphone": "[ɡet ˈæŋɡri]",
+    "ukphone": "[ɡet ˈæŋɡri]"
+  },
+  {
+    "name": "get annoyed",
+    "trans": [
+      " 生气；变得气恼；恼怒"
+    ],
+    "usphone": "[ɡet əˈnɔɪd]",
+    "ukphone": "[ɡet əˈnɔɪd]"
+  },
+  {
+    "name": "Good evening!",
+    "trans": [
+      "int. （晚上见面时用语）晚上好"
+    ],
+    "usphone": "[ˌɡʊd ˈiːvnɪŋ]",
+    "ukphone": "[ˌɡʊd ˈiːvnɪŋ]"
+  },
+  {
+    "name": "Great!",
+    "trans": [
+      "n. 大师；大人物；伟人们",
+      "adj. 伟大的，重大的；极好的，好的；主要的"
+    ],
+    "usphone": "[ɡreɪt]",
+    "ukphone": "[ɡreɪt]"
+  },
+  {
+    "name": "great auk",
+    "trans": [
+      " 大海雀（类似企鹅，已灭绝）"
+    ],
+    "usphone": "[ˌɡreɪt ˈɔːk]",
+    "ukphone": "[ˌɡreɪt ˈɔːk]"
+  },
+  {
+    "name": "grandiloquence",
+    "trans": [
+      "n. 豪言壮语，豪语；夸张之言"
+    ],
+    "usphone": "[ɡrænˈdɪləkwəns]",
+    "ukphone": "[ɡrænˈdɪləkwəns]"
+  },
+  {
+    "name": "guerilla",
+    "trans": [
+      "n. 游击队；游击队员",
+      "adj. 游击的"
+    ],
+    "usphone": "[ɡəˈrɪlə]",
+    "ukphone": "[ɡəˈrɪlə]"
+  },
+  {
+    "name": "guestroom",
+    "trans": [
+      "n. （家庭中的）来客住房"
+    ],
+    "usphone": "[ˈɡestrʊm; ˈɡestruːm]",
+    "ukphone": "[ˈɡestruːm; ˈɡestrʊm]"
+  },
+  {
+    "name": "Grenoble",
+    "trans": [
+      "n. 格勒诺布尔（法国东南部城市）"
+    ],
+    "usphone": "[ɡrəˈnoʊbəl]",
+    "ukphone": "[ɡrəˈnəubl]"
+  },
+  {
+    "name": "good-humouredly",
+    "trans": [
+      "adv. 和气地"
+    ],
+    "usphone": "[ˌɡʊd ˈhjuːmərdli]",
+    "ukphone": "[ˌɡʊd ˈhjuːmədli]"
+  },
+  {
+    "name": "greyish",
+    "trans": [
+      "adj. 淡灰色的，略灰的"
+    ],
+    "usphone": "[ˈɡreɪɪʃ]",
+    "ukphone": "[ˈɡreɪɪʃ]"
+  },
+  {
+    "name": "getting",
+    "trans": [
+      "n. 获得；采煤，采掘",
+      "v. 获得；了解（get的现在分词）；抓住"
+    ],
+    "usphone": "[ˈɡetɪŋ]",
+    "ukphone": "[ˈɡetɪŋ]"
+  },
+  {
+    "name": "giving",
+    "trans": [
+      "n. 给予；礼物；给予物",
+      "v. 给；赠送（give的ing形式）；付出；产生"
+    ],
+    "usphone": "[ˈɡɪvɪŋ]",
+    "ukphone": "[ˈɡɪvɪŋ]"
+  },
+  {
+    "name": "grand canyon",
+    "trans": [
+      "n. 【旅】亚利桑那州大峡谷"
+    ],
+    "usphone": "[ɡrænd ˈkænjən]",
+    "ukphone": "[ɡrænd ˈkænjən]"
+  },
+  {
+    "name": "gouache",
+    "trans": [
+      "n. 水粉画；树胶水彩画；水粉颜料"
+    ],
+    "usphone": "[ɡuˈɑːʃˌɡwɑːʃ]",
+    "ukphone": "[ɡuˈɑːʃ; ɡwɑːʃ]"
+  },
+  {
+    "name": "germfree",
+    "trans": [
+      "adj. 无菌的，在无菌状态下出生的"
+    ],
+    "usphone": "['dʒə:mfri:]",
+    "ukphone": "[ˈdʒɜːmfriː]"
+  },
+  {
+    "name": "genealogical",
+    "trans": [
+      "adj. 宗谱的；系谱的；家系的"
+    ],
+    "usphone": "[ˌdʒiːniəˈlɑːdʒɪkl]",
+    "ukphone": "[ˌdʒiːniəˈlɒdʒɪkl]"
+  },
+  {
+    "name": "glyph",
+    "trans": [
+      "n. 字形；图象字符；纵沟纹"
+    ],
+    "usphone": "[ɡlɪf]",
+    "ukphone": "[ɡlɪf]"
+  },
+  {
+    "name": "glockenspiel",
+    "trans": [
+      "n. 钟琴，铁琴；键盘式钟琴"
+    ],
+    "usphone": "[ˈɡlɑːkənʃpiːl]",
+    "ukphone": "[ˈɡlɒkənʃpiːl]"
+  },
+  {
+    "name": "geomorphic",
+    "trans": [
+      "adj. 地球形状的，地貌的"
+    ],
+    "usphone": "[ˌdʒiəˈmɔrfɪk]",
+    "ukphone": "[ˌdʒiːəʊˈmɔːfɪk]"
+  },
+  {
+    "name": "geosphere",
+    "trans": [
+      "n. 岩石圈; 陆界; 地层"
+    ],
+    "usphone": "[ˈdʒɪoʊsfɪr]",
+    "ukphone": "[ˈdʒiːəʊsfɪə]"
+  },
+  {
+    "name": "gobi",
+    "trans": [
+      "n. 戈壁沙漠"
+    ],
+    "usphone": "[ˈɡoʊbi]",
+    "ukphone": "[ˈɡəʊbi]"
+  },
+  {
+    "name": "ginkgo",
+    "trans": [
+      "n. [植] 银杏；银杏树"
+    ],
+    "usphone": "[ˈɡɪŋkoʊ]",
+    "ukphone": "[ˈɡɪŋkəʊ]"
+  },
+  {
+    "name": "gang rape",
+    "trans": [
+      "n. 轮奸"
+    ],
+    "usphone": "[ˈɡæŋ reɪp]",
+    "ukphone": "[ˈɡæŋ reɪp]"
+  },
+  {
+    "name": "gruesomely",
+    "trans": [
+      "adv. 可怖地"
+    ],
+    "usphone": "[ˈɡruːsəmli]",
+    "ukphone": "[ˈɡruːsəmli]"
+  },
+  {
+    "name": "germiculture",
+    "trans": [
+      "n. 细菌培养(法)",
+      "[医] 细菌培养法"
+    ],
+    "usphone": "[ˈdʒɜːrməˌkʌltʃər]",
+    "ukphone": "[ˈdʒɜːmɪˌkʌltʃə]"
+  },
+  {
+    "name": "gulley",
+    "trans": [
+      "n. 溪沟；隘谷",
+      "vt. 开槽（等于gully）"
+    ],
+    "usphone": "[ˈɡʌli]",
+    "ukphone": "[ˈɡʌli]"
+  },
+  {
+    "name": "glister",
+    "trans": [
+      "n. 闪烁；华丽；灿烂",
+      "vi. 闪烁"
+    ],
+    "usphone": "[ˈɡlɪstər]",
+    "ukphone": "[ˈɡlɪstə(r)]"
+  },
+  {
+    "name": "Guinea",
+    "trans": [
+      "n. 几内亚；基尼（英国旧时金币名）"
+    ],
+    "usphone": "[ˈɡɪni]",
+    "ukphone": "[ˈɡɪni]"
+  },
+  {
+    "name": "gabby",
+    "trans": [
+      "adj. 饶舌的，多嘴的"
+    ],
+    "usphone": "[ˈɡæbi]",
+    "ukphone": "[ˈɡæbi]"
+  },
+  {
+    "name": "gaff",
+    "trans": [
+      "n. 鱼叉；斜桁；低级娱乐场所",
+      "vt. 用鱼叉捉；用鱼钩拖上来；欺骗",
+      "vi. 赌博"
+    ],
+    "usphone": "[ɡæf]",
+    "ukphone": "[ɡæf]"
+  },
+  {
+    "name": "grasses",
+    "trans": [
+      "n. 草地（grass的复数）；稻科植物类；禾本种",
+      "v. 放牧（grass的三单形式）；使长满草"
+    ],
+    "usphone": "[ɡræs]",
+    "ukphone": "['gra:siz]"
+  },
+  {
+    "name": "ground plan",
+    "trans": [
+      "n. （建筑物的）底层平面图；计划；大纲"
+    ],
+    "usphone": "[ˈɡraʊnd plæn]",
+    "ukphone": "[ˈɡraʊnd plæn]"
+  },
+  {
+    "name": "groups",
+    "trans": [
+      "n. 群组，组；团体（group的复数形式）；用户组",
+      "v. 分组，归类（group的第三人称单数）；聚合"
+    ],
+    "usphone": "[ɡruːps]",
+    "ukphone": "[ɡruːps]"
+  },
+  {
+    "name": "gas tanks",
+    "trans": [
+      "un. 汽车上的油箱；煤气罐；储气罐；气柜"
+    ],
+    "usphone": "[ɡæs tæŋk]",
+    "ukphone": "[ɡæs tæŋk]"
+  },
+  {
+    "name": "gaps",
+    "trans": [
+      "n. 差异，缺口；缝隙（gap的复数形式）",
+      "v. 裂开；使豁裂（gap的第三人称单数形式）"
+    ],
+    "usphone": "[ɡæps]",
+    "ukphone": "[ɡæps]"
+  },
+  {
+    "name": "gifts",
+    "trans": [
+      "n. 礼品，[贸易] 赠品；礼物；天赋（gift的复数形式）",
+      "v. 赐予（gift的三单形式）；给与"
+    ],
+    "usphone": "[ɡɪfts]",
+    "ukphone": "[ɡɪfts]"
+  },
+  {
+    "name": "germs",
+    "trans": [
+      "n. [微] 细菌；[基医] 病菌（germ的复数形式）；致病菌",
+      "v. 发生（germ的单三形式）；萌芽"
+    ],
+    "usphone": "[dʒɜːrmz]",
+    "ukphone": "[dʒə:mz]"
+  },
+  {
+    "name": "galling",
+    "trans": [
+      "adj. 难堪的；使烦恼的；擦伤人的"
+    ],
+    "usphone": "[ˈɡɔːlɪŋ]",
+    "ukphone": "[ˈɡɔːlɪŋ]"
+  },
+  {
+    "name": "grandstanding",
+    "trans": [
+      "n. 哗众取宠；炫耀",
+      "v. 哗众取宠（grandstand的现在分词形式）"
+    ],
+    "usphone": "[ˈɡrænstændɪŋ]",
+    "ukphone": "[ˈɡrænstændɪŋ]"
+  },
+  {
+    "name": "glazing",
+    "trans": [
+      "n. 上釉；玻璃装配业",
+      "v. 上釉（glaze的ing形式）"
+    ],
+    "usphone": "[ˈɡleɪzɪŋ]",
+    "ukphone": "[ˈɡleɪzɪŋ]"
+  },
+  {
+    "name": "genetical",
+    "trans": [
+      "adj. 遗传的；起源的；创始的"
+    ],
+    "usphone": "[dʒi'netikəl]",
+    "ukphone": "[dʒɪˈnetɪkəl]"
+  },
+  {
+    "name": "grail",
+    "trans": [
+      "n. 杯；圣杯（传说中耶稣最后晚餐所用之杯）；大盘；长期以来梦寐以求的东西"
+    ],
+    "usphone": "[ɡreɪl]",
+    "ukphone": "[ɡreɪl]"
+  },
+  {
+    "name": "Guatemala",
+    "trans": [
+      "n. 危地马拉（拉丁美洲国家）；危地马拉人"
+    ],
+    "usphone": "[ˌɡwɑːtəˈmɑːlə]",
+    "ukphone": "[ˌɡwɑːtəˈmɑːlə; ˌɡwætəˈmɑːlə]"
+  },
+  {
+    "name": "guacamole",
+    "trans": [
+      "n. 鳄梨色拉酱（一种含鳄梨泥的墨西哥凉拌酱）"
+    ],
+    "usphone": "[ˌɡwækəˈmoʊleɪˌˌɡwækəˈmoʊli]",
+    "ukphone": "[ˌɡwækəˈməʊleɪ; ˌɡwækəˈməʊli]"
+  },
+  {
+    "name": "get left",
+    "trans": [
+      "na. 被遗弃；被打败；上当"
+    ],
+    "usphone": "[ɡet left]",
+    "ukphone": "[ɡet left]"
+  },
+  {
+    "name": "gonna",
+    "trans": [
+      "abbr. （美）将要（等于going to）"
+    ],
+    "usphone": "[ˈɡənə]",
+    "ukphone": "[ˈɡənə]"
+  },
+  {
+    "name": "gastronome",
+    "trans": [
+      "n. 爱吃的人；美食家；讲究饮食的人"
+    ],
+    "usphone": "['ɡæstrə,nəum]",
+    "ukphone": "[ˈɡæstrənəʊm]"
+  },
+  {
+    "name": "gendarme",
+    "trans": [
+      "n. （法）宪兵；近卫骑兵；警官"
+    ],
+    "usphone": "[ˈʒɑːndɑːrm]",
+    "ukphone": "[ˈʒɒndɑːm]"
+  },
+  {
+    "name": "gondola",
+    "trans": [
+      "n. 两头尖的平底船；狭长小船；无盖货车"
+    ],
+    "usphone": "[ˈɡɑːndələˌɡɑːnˈdoʊlə]",
+    "ukphone": "[ˈɡɒndələ]"
+  },
+  {
+    "name": "gaucho",
+    "trans": [
+      "n. 加乌乔人（居住于南美大草原上的印第安人和西班牙人的混血种族）"
+    ],
+    "usphone": "[ˈɡaʊtʃoʊ]",
+    "ukphone": "[ˈɡaʊtʃəʊ]"
+  },
+  {
+    "name": "grandee",
+    "trans": [
+      "n. 贵族；要人；大公（西班牙或葡萄牙最高爵位）"
+    ],
+    "usphone": "[ɡrænˈdiː]",
+    "ukphone": "[ɡrænˈdiː]"
+  },
+  {
+    "name": "ghoul",
+    "trans": [
+      "n. （东方神话中的）食尸鬼；盗墓者；以做恐怖事情为乐者"
+    ],
+    "usphone": "[ɡuːl]",
+    "ukphone": "[ɡuːl]"
+  },
+  {
+    "name": "Greenwood",
+    "trans": [
+      "n. 绿林，未枯干的树"
+    ],
+    "usphone": "[ˈɡriːnˌwʊd]",
+    "ukphone": "[ˈɡriːnwʊd]"
+  },
+  {
+    "name": "graffito",
+    "trans": [
+      "n. 乱画；（古罗马等石头、墙壁上的）粗糙雕画"
+    ],
+    "usphone": "[ɡrəˈfiːtoʊ]",
+    "ukphone": "[ɡrəˈfiːtəʊ]"
+  },
+  {
+    "name": "groundsman",
+    "trans": [
+      "n. 球场管理员；大花园的园丁"
+    ],
+    "usphone": "[ˈɡraʊndzmən]",
+    "ukphone": "[ˈɡraʊndzmən]"
+  },
+  {
+    "name": "graveside",
+    "trans": [
+      "n. 坟墓边"
+    ],
+    "usphone": "[ˈɡreɪvsaɪd]",
+    "ukphone": "[ˈɡreɪvsaɪd]"
+  },
+  {
+    "name": "galvanization",
+    "trans": [
+      "n. 镀锌，电镀；通流电"
+    ],
+    "usphone": "[ˌɡælvənɪˈzeɪʃən]",
+    "ukphone": "[ˌɡælvənɪˈzeɪʃən]"
+  },
+  {
+    "name": "good name",
+    "trans": [
+      "n. 好名声；好声誉"
+    ],
+    "usphone": "[ˌɡʊd ˈneɪm]",
+    "ukphone": "[ˌɡʊd ˈneɪm]"
+  },
+  {
+    "name": "grant-in-aid",
+    "trans": [
+      "n. 补助金, 赠予款",
+      "[法] 补助金, 中央给地方的拨款"
+    ],
+    "usphone": "[ˌɡrænt ɪn ˈeɪd]",
+    "ukphone": "[ˌɡrɑːnt ɪn ˈeɪd]"
+  },
+  {
+    "name": "greenback",
+    "trans": [
+      "n. 美钞；绿背动物"
+    ],
+    "usphone": "[ˈɡriːnbæk]",
+    "ukphone": "[ˈɡriːnbæk]"
+  },
+  {
+    "name": "gore",
+    "trans": [
+      "n. 淤血；三角形布；流出的血",
+      "vt. 刺伤；缝以补裆；顶"
+    ],
+    "usphone": "[ɡɔːr]",
+    "ukphone": "[ɡɔː(r)]"
+  },
+  {
+    "name": "gold-plated",
+    "trans": [
+      "adj. 镀金的"
+    ],
+    "usphone": "[ˌɡoʊld ˈpleɪtɪd]",
+    "ukphone": "[ˌɡəʊld ˈpleɪtɪd]"
+  },
+  {
+    "name": "genii",
+    "trans": [
+      "n. 鬼，（用魔法召来的）魔仆; （阿拉伯神话故事中的）神怪，妖怪( genie的名词复数 ); （形容将对人们的生活造成永久性的、尤指负面影响的事件已经发生）妖怪已经放出魔瓶了; 天才( genius的名词复数 ); 天赋; 天才人物; （特别的）才能"
+    ],
+    "usphone": "[ˈdʒiːnɪˌaɪ]",
+    "ukphone": "[ˈdʒiːnɪˌaɪ]"
+  },
+  {
+    "name": "gentlemen",
+    "trans": [
+      "n. 先生；绅士；有教养的人（gentleman的复数形式）"
+    ],
+    "usphone": "[ˈdʒent(ə)lmən]",
+    "ukphone": "[ˈdʒentlmən]"
+  },
+  {
+    "name": "goats",
+    "trans": [
+      "n. 山羊（goat的复数形式）"
+    ],
+    "usphone": "[goʊts]",
+    "ukphone": "[gəʊts]"
+  },
+  {
+    "name": "gymnasia",
+    "trans": [
+      "n. 室内体操场; 健身房，体育馆( gymnasium的名词复数 )"
+    ],
+    "usphone": "[dʒɪmˈnezɪəm]",
+    "ukphone": "[dʒɪmˈneɪzɪə]"
+  },
+  {
+    "name": "goings-on",
+    "trans": [
+      "n. 举动；发生的事情"
+    ],
+    "usphone": "[ˌɡoʊɪŋz ˈɑːn]",
+    "ukphone": "[ˌɡəʊɪŋz ˈɒn]"
+  },
+  {
+    "name": "geez",
+    "trans": [
+      "vt. 注射麻醉品",
+      "vi. 注射"
+    ],
+    "usphone": "[ɡi:'ez]",
+    "ukphone": "[dʒiːz]"
+  },
+  {
+    "name": "genie",
+    "trans": [
+      "n. 妖怪；鬼"
+    ],
+    "usphone": "[ˈdʒiːni]",
+    "ukphone": "[ˈdʒiːni]"
+  },
+  {
+    "name": "gravestone",
+    "trans": [
+      "n. 墓碑，墓石"
+    ],
+    "usphone": "[ˈɡreɪvstoʊn]",
+    "ukphone": "[ˈɡreɪvstəʊn]"
+  },
+  {
+    "name": "goatee",
+    "trans": [
+      "n. 山羊胡子"
+    ],
+    "usphone": "[ɡoʊˈtiː]",
+    "ukphone": "[ɡəʊˈtiː]"
+  },
+  {
+    "name": "galvanise",
+    "trans": [
+      "vt. 激励；镀锌；通电流于（等于galvanize）"
+    ],
+    "usphone": "[ˈɡælvənaɪz]",
+    "ukphone": "[ˈɡælvənaɪz]"
+  },
+  {
+    "name": "go ahead with",
+    "trans": [
+      "v. 继续"
+    ],
+    "usphone": "[ɡoʊ əˈhed wɪð]",
+    "ukphone": "[ɡəʊ əˈhed wɪð]"
+  },
+  {
+    "name": "George",
+    "trans": [
+      "n. 乔治（男子名）；自动操纵装置；英国最高勋爵勋章上的圣乔治诛龙图"
+    ],
+    "usphone": "[dʒɔːrdʒ]",
+    "ukphone": "[dʒɔːdʒ]"
+  },
+  {
+    "name": "galore",
+    "trans": [
+      "adv. 丰富地",
+      "adj. 丰富的；大量的"
+    ],
+    "usphone": "[ɡəˈlɔːr]",
+    "ukphone": "[ɡəˈlɔː(r)]"
+  },
+  {
+    "name": "gnash",
+    "trans": [
+      "vt. 咬牙切齿",
+      "vi. 咬牙切齿",
+      "n. 咬"
+    ],
+    "usphone": "[næʃ]",
+    "ukphone": "[næʃ]"
+  },
+  {
+    "name": "ghoulish",
+    "trans": [
+      "adj. 食尸鬼似的；令人毛骨悚然的"
+    ],
+    "usphone": "[ˈɡuːlɪʃ]",
+    "ukphone": "[ˈɡuːlɪʃ]"
+  },
+  {
+    "name": "gloating",
+    "trans": [
+      "adj. 沾沾自喜的；心满意足的"
+    ],
+    "usphone": "[ˈɡloʊtɪŋ]",
+    "ukphone": "[ˈɡləʊtɪŋ]"
+  },
+  {
+    "name": "gee-whiz",
+    "trans": [
+      "adj. 惊人的, 夸大其辞的"
+    ],
+    "usphone": "[ˌdʒiː ˈwɪz]",
+    "ukphone": "[ˌdʒiː ˈwɪz]"
+  },
+  {
+    "name": "gamer",
+    "trans": [
+      "n. 玩家，博弈者"
+    ],
+    "usphone": "[ˈɡeɪmər]",
+    "ukphone": "[ˈɡeɪmə(r)]"
+  },
+  {
+    "name": "gastrula",
+    "trans": [
+      "n. 胚囊，肠胚"
+    ],
+    "usphone": "[ˈɡæstrʊlə]",
+    "ukphone": "[ˈɡæstrʊlə]"
+  },
+  {
+    "name": "graphene",
+    "trans": [
+      "n. 石墨烯；单层石墨"
+    ],
+    "usphone": "[ˈɡræfiːn]",
+    "ukphone": "[ˈɡræfiːn]"
+  },
+  {
+    "name": "Gadolinium",
+    "trans": [
+      "n. 钆（专有符号缩写Gd）"
+    ],
+    "usphone": "[ˌɡædəˈlɪniəm]",
+    "ukphone": "[ˌɡædəˈlɪniəm]"
+  },
+  {
+    "name": "Gallium",
+    "trans": [
+      "n. [化学] 镓"
+    ],
+    "usphone": "[ˈɡæliəm]",
+    "ukphone": "[ˈɡæliəm]"
+  },
+  {
+    "name": "Germanium",
+    "trans": [
+      "n. [化学] 锗（32号元素，符号Ge）"
+    ],
+    "usphone": "[dʒɜːrˈmeɪniəm]",
+    "ukphone": "[dʒɜːˈmeɪniəm]"
+  },
+  {
+    "name": "glob",
+    "trans": [
+      "n. 一滴；水珠；一团"
+    ],
+    "usphone": "[ɡlɑːb]",
+    "ukphone": "[ɡlɒb]"
+  },
+  {
+    "name": "green belts",
+    "trans": [
+      "na. (环城)绿化地带"
+    ],
+    "usphone": "[ˈɡriːn belt]",
+    "ukphone": "[ˈɡriːn belt]"
+  },
+  {
+    "name": "Go",
+    "trans": [
+      "n. 去；进行；尝试",
+      "vi. 走；达到；运转；趋于",
+      "vt. 忍受；出产；以…打赌",
+      "[复数 goes 第三人称单数 goes 过去式 went 过去分词 gone 现在分词 going]"
+    ],
+    "usphone": "[ɡoʊ]",
+    "ukphone": "[ɡəʊ]"
+  },
+  {
+    "name": "googol",
+    "trans": [
+      "n. 10的100 次方；天文数字"
+    ],
+    "usphone": "[ˈɡuːɡɔːl]",
+    "ukphone": "[ˈɡuːɡɒl]"
+  },
+  {
+    "name": "gluttonize",
+    "trans": [
+      "v. 暴食"
+    ],
+    "usphone": "[ˈɡlʌtənˌaɪz]",
+    "ukphone": "[ˈɡlʌtənaɪz]"
+  },
+  {
+    "name": "governable",
+    "trans": [
+      "adj. 可控制的；可支配的；可统治的"
+    ],
+    "usphone": "[ˈɡʌvərnəbəl]",
+    "ukphone": "[ˈɡʌvənəb(ə)l]"
+  },
+  {
+    "name": "ginger ale",
+    "trans": [
+      "n. 姜味汽水；一瓶（或一杯）姜味汽水"
+    ],
+    "usphone": "[ˌdʒɪndʒər ˈeɪl]",
+    "ukphone": "[ˌdʒɪndʒə ˈeɪl]"
+  },
+  {
+    "name": "gassy",
+    "trans": [
+      "adj. 气体的；含气的；气状的；<口>夸夸其谈的"
+    ],
+    "usphone": "[ˈɡæsi]",
+    "ukphone": "[ˈɡæsi]"
+  },
+  {
+    "name": "ground-breaking",
+    "trans": [
+      "adj. 独创的；开拓性的"
+    ],
+    "usphone": "[ɡraʊnd ˈbreɪkɪŋ]",
+    "ukphone": "[ˈɡraʊnd breɪkɪŋ]"
+  },
+  {
+    "name": "generalship",
+    "trans": [
+      "n. 将才；将官的职位；将军任期"
+    ],
+    "usphone": "[ˈdʒenrəlʃɪp]",
+    "ukphone": "[ˈdʒenrəlʃɪp]"
+  },
+  {
+    "name": "godless",
+    "trans": [
+      "adj. 不信神的，无神论者的；不敬神的"
+    ],
+    "usphone": "[ˈɡɑːdləs]",
+    "ukphone": "[ˈɡɒdləs]"
+  },
+  {
+    "name": "greenwood",
+    "trans": [
+      "n. 绿林，未枯干的树"
+    ],
+    "usphone": "[ˈɡriːnˌwʊd]",
+    "ukphone": "[ˈɡriːnwʊd]"
+  },
+  {
+    "name": "gummy",
+    "trans": [
+      "adj. 粘性的，胶粘的；含树胶的；肿的（脚踝或腿）；拙劣的，讨厌的（俚语）"
+    ],
+    "usphone": "[ˈɡʌmi]",
+    "ukphone": "[ˈɡʌmi]"
+  },
+  {
+    "name": "glen",
+    "trans": [
+      "n. 峡谷；幽谷"
+    ],
+    "usphone": "[ɡlen]",
+    "ukphone": "[ɡlen]"
+  },
+  {
+    "name": "glaciology",
+    "trans": [
+      "n. 冰河学；冰川学"
+    ],
+    "usphone": "[ˌɡleɪʃiˈɑːlədʒi; ˌɡleɪsiˈɑːlədʒi]",
+    "ukphone": "[ˌɡlæsɪˈɒlədʒi]"
+  },
+  {
+    "name": "Gosh!",
+    "trans": [
+      "int. 天啊；唉；糟了；必定"
+    ],
+    "usphone": "[ɡɑːʃ]",
+    "ukphone": "[ɡɒʃ]"
+  },
+  {
+    "name": "girly",
+    "trans": [
+      "adj. 像少女的"
+    ],
+    "usphone": "[ˈɡɜːrli]",
+    "ukphone": "[ˈɡɜːli]"
+  },
+  {
+    "name": "gasket",
+    "trans": [
+      "n. [机] 垫圈；[机] 衬垫；束帆索"
+    ],
+    "usphone": "[ˈɡæskɪt]",
+    "ukphone": "[ˈɡæskɪt]"
+  },
+  {
+    "name": "Grace",
+    "trans": [
+      "n. 优雅；恩惠；魅力；慈悲",
+      "vt. 使优美"
+    ],
+    "usphone": "[ɡreɪs]",
+    "ukphone": "[ɡreɪs]"
+  },
+  {
+    "name": "gat",
+    "trans": [
+      "n. 手枪, 狭航道"
+    ],
+    "usphone": "[ɡæt]",
+    "ukphone": "[ɡæt]"
+  },
+  {
+    "name": "gremlin",
+    "trans": [
+      "n. 小精灵，小鬼；麻烦"
+    ],
+    "usphone": "[ˈɡremlɪn]",
+    "ukphone": "[ˈɡremlɪn]"
+  },
+  {
+    "name": "genitals",
+    "trans": [
+      "n. 生殖器；外阴部"
+    ],
+    "usphone": "[ˈdʒenɪtlz]",
+    "ukphone": "[ˈdʒenɪtlz]"
+  },
+  {
+    "name": "gigantesque",
+    "trans": [
+      "adj. 巨大的；巨人的"
+    ],
+    "usphone": "[ˌdʒaɪɡænˈtesk]",
+    "ukphone": "[ˌdʒaɪɡænˈtesk]"
+  },
+  {
+    "name": "globosity",
+    "trans": [
+      "n. 球形, 球状"
+    ],
+    "usphone": "[ɡloˈbɑsəti]",
+    "ukphone": "[ɡləʊˈbɒsɪtɪ]"
+  },
+  {
+    "name": "grandiosity",
+    "trans": [
+      "n. 宏伟；夸张"
+    ],
+    "usphone": "[ˌɡrændiˈɔːsəti]",
+    "ukphone": "[ˌɡrændɪˈɒsɪti]"
+  },
+  {
+    "name": "gynarchy",
+    "trans": [
+      "n. 妇女政治；女人当政"
+    ],
+    "usphone": "['ɡainɑ:ki]",
+    "ukphone": "[ˈdʒaɪˌnɑːki]"
+  },
+  {
+    "name": "gainst",
+    "trans": [
+      "prep. 反抗，抵抗"
+    ],
+    "usphone": "[ɡenst]",
+    "ukphone": "[ɡenst]"
+  },
+  {
+    "name": "gorget",
+    "trans": [
+      "n. 颈甲；饰领；（14-15世纪）妇女用护肩布；（鸟、兽类的）颈部斑纹"
+    ],
+    "usphone": "[ˈɡɔrdʒɪt]",
+    "ukphone": "[ˈɡɔːdʒɪt]"
+  },
+  {
+    "name": "gravid",
+    "trans": [
+      "adj. 妊娠的；怀孕的"
+    ],
+    "usphone": "[ˈɡrævɪd]",
+    "ukphone": "[ˈɡrævɪd]"
+  },
+  {
+    "name": "grossness",
+    "trans": [
+      "n. 粗野；肥满；粗劣"
+    ],
+    "usphone": "[ˈɡroʊsnəs]",
+    "ukphone": "[ˈɡrəʊsnəs]"
+  },
+  {
+    "name": "greased",
+    "trans": [
+      "adj. 灌足酒的；患踵炎症的；醉的；加过润滑脂的"
+    ],
+    "usphone": "[ɡriːst]",
+    "ukphone": "[ɡriːzd]"
+  },
+  {
+    "name": "goalie",
+    "trans": [
+      "n. 守门员（等于goalkeeper）"
+    ],
+    "usphone": "[ˈɡoli]",
+    "ukphone": "[ˈɡəʊli]"
+  },
+  {
+    "name": "gingerbread",
+    "trans": [
+      "n. 姜饼；华而不实的东西",
+      "adj. 华而不实的"
+    ],
+    "usphone": "[ˈdʒɪndʒərbred]",
+    "ukphone": "[ˈdʒɪndʒəbred]"
+  },
+  {
+    "name": "golfing",
+    "trans": [
+      "n. 打高尔夫球",
+      "v. 打高尔夫球（golf的ing形式）"
+    ],
+    "usphone": "[ˈɡɑːlfɪŋ]",
+    "ukphone": "[ˈɡɒlfɪŋ]"
+  },
+  {
+    "name": "grille",
+    "trans": [
+      "n. 格子；格子窗；（银行，邮局柜台上的）铁栅",
+      "vt. 给…装格栅"
+    ],
+    "usphone": "[ɡrɪl]",
+    "ukphone": "[ɡrɪl]"
+  },
+  {
+    "name": "ground-based",
+    "trans": [
+      "adj. 陆基的；以地面为基础的"
+    ],
+    "usphone": "[ɡraʊnd beɪst]",
+    "ukphone": "['ɡraundbeist]"
+  },
+  {
+    "name": "galvanized",
+    "trans": [
+      "adj. 镀锌的，电镀的",
+      "v. 电镀；刺激（galvanize的过去式和过去分词形式）"
+    ],
+    "usphone": "[ˈɡælvənaɪzd]",
+    "ukphone": "[ˈɡælvənaɪzd]"
+  },
+  {
+    "name": "gunpoint",
+    "trans": [
+      "n. 枪口"
+    ],
+    "usphone": "[ˈɡʌnpɔɪnt]",
+    "ukphone": "[ˈɡʌnpɔɪnt]"
+  },
+  {
+    "name": "grandkid",
+    "trans": [
+      "n. （外）孙；（外）孙女"
+    ],
+    "usphone": "[ˈɡrænkɪd]",
+    "ukphone": "[ˈɡræn(d)kɪd]"
+  },
+  {
+    "name": "gobbler",
+    "trans": [
+      "n. 雄火鸡；狼吞虎咽的人"
+    ],
+    "usphone": "[ˈɡɑːblər]",
+    "ukphone": "[ˈɡɒblə(r)]"
+  },
+  {
+    "name": "gendered",
+    "trans": [
+      "adj. 依照性别而分类的"
+    ],
+    "usphone": "[ˈdʒendərd]",
+    "ukphone": "[ˈdʒendəd]"
+  },
+  {
+    "name": "groupie",
+    "trans": [
+      "n. 仰慕并追随摇滚乐团之少女；仰慕并追随名人之少年"
+    ],
+    "usphone": "[ˈɡruːpi]",
+    "ukphone": "[ˈɡruːpi]"
+  },
+  {
+    "name": "gazebo",
+    "trans": [
+      "n. 露台，眺望台"
+    ],
+    "usphone": "[ɡəˈziːboʊ]",
+    "ukphone": "[ɡəˈziːbəʊ]"
+  },
+  {
+    "name": "goon",
+    "trans": [
+      "n. 受雇暴徒；愚笨者；呆子；怪诞的人"
+    ],
+    "usphone": "[ɡuːn]",
+    "ukphone": "[ɡuːn]"
+  },
+  {
+    "name": "gated",
+    "trans": [
+      "adj. 有关卡的；带栅门的",
+      "vt. 给…安装门（gate的过去分词）"
+    ],
+    "usphone": "[ˈɡeɪtɪd]",
+    "ukphone": "[ˈɡeɪtɪd]"
+  },
+  {
+    "name": "gooey",
+    "trans": [
+      "n. 胶粘物；蜜糖",
+      "adj. 胶粘的；感伤的"
+    ],
+    "usphone": "[ˈɡuːi]",
+    "ukphone": "[ˈɡuːi]"
+  },
+  {
+    "name": "governorship",
+    "trans": [
+      "n. 州长或总督等的职位；州长或总督等的任期"
+    ],
+    "usphone": "[ˈɡʌvərnərʃɪp]",
+    "ukphone": "[ˈɡʌvənəʃɪp]"
+  },
+  {
+    "name": "gent",
+    "trans": [
+      "n. 绅士；假绅士；男子；男厕"
+    ],
+    "usphone": "[dʒent]",
+    "ukphone": "[dʒent]"
+  },
+  {
+    "name": "glassmaker",
+    "trans": [
+      "n. 玻璃工人"
+    ],
+    "usphone": "[ˈɡlæsˌmekər]",
+    "ukphone": "[ˈɡlɑːsˌmeɪkə(r)]"
+  },
+  {
+    "name": "gas giant",
+    "trans": [
+      "n. 气体巨星（主要由氢气和氦气构成，如木星或土星）"
+    ],
+    "usphone": "[ˌɡæs ˈdʒaɪənt]",
+    "ukphone": "[ˌɡæs ˈdʒaɪənt]"
+  },
+  {
+    "name": "get-go",
+    "trans": [
+      "n. 开始；开端"
+    ],
+    "usphone": "[ˈɡet ɡoʊ]",
+    "ukphone": "[ˈɡet ɡəʊ]"
+  },
+  {
+    "name": "gruelling",
+    "trans": [
+      "n. 惩罚；痛打",
+      "adj. 折磨人的；繁重累人的；使人精疲力尽的",
+      "v. 累垮；惩罚（gruel的ing形式）"
+    ],
+    "usphone": "[ˈɡruːəlɪŋ]",
+    "ukphone": "[ˈɡruːəlɪŋ]"
+  },
+  {
+    "name": "gamic",
+    "trans": [
+      "adj. 性的，（需）受胎的，（需）受精的"
+    ],
+    "usphone": "[ˈɡæmɪk]",
+    "ukphone": "[ˈɡæmɪk]"
+  },
+  {
+    "name": "glossa",
+    "trans": [
+      "n. 舌，（昆虫的）中唇舌"
+    ],
+    "usphone": "[ˈɡlɑːsə]",
+    "ukphone": "[ˈɡlɒsə]"
+  },
+  {
+    "name": "glossolalia",
+    "trans": [
+      "n. 语意不清"
+    ],
+    "usphone": "[ˌɡlɑsoˈlelɪə]",
+    "ukphone": "[ˌɡlɒsəˈleɪlɪə]"
+  },
+  {
+    "name": "gravitas",
+    "trans": [
+      "n. （拉）庄严；庄重；庄严的举止"
+    ],
+    "usphone": "[ˈɡrævɪtɑːsˌˈɡrævɪtæs]",
+    "ukphone": "[ˈɡrævɪtɑːs; ˈɡrævɪtæs]"
+  },
+  {
+    "name": "gynecoid",
+    "trans": [
+      "adj. 有女性特征的；妇女的"
+    ],
+    "usphone": "[ˈdʒɪnəkɔɪd]",
+    "ukphone": "[ˈdʒɪnəkɔɪd]"
+  },
+  {
+    "name": "gastrotomy",
+    "trans": [
+      "n. 胃切开术"
+    ],
+    "usphone": "[ɡæsˈtrɑːtəmi]",
+    "ukphone": "[ɡæsˈtrɒtəmi]"
+  },
+  {
+    "name": "goer",
+    "trans": [
+      "n. 动态物；离去的人；常去…的人；有进取心的人"
+    ],
+    "usphone": "[ˈɡoʊər]",
+    "ukphone": "[ˈɡəʊə(r)]"
+  },
+  {
+    "name": "geoscience",
+    "trans": [
+      "n. 地球科学"
+    ],
+    "usphone": "[ˌdʒioˈsaɪəns]",
+    "ukphone": "[ˌdʒiːəʊˈsaɪəns]"
+  },
+  {
+    "name": "greenwashing",
+    "trans": [
+      "vt. 刷绿，粉饰，掩盖",
+      "n. 粉饰，掩盖"
+    ],
+    "usphone": "[ɡˈrinwɑːʃɪŋ]",
+    "ukphone": "[ˈɡriːnˌwɒʃɪŋ]"
+  },
+  {
+    "name": "guessing game",
+    "trans": [
+      "n. 猜谜游戏；捉摸不定的局面"
+    ],
+    "usphone": "[ˈɡesɪŋ ɡeɪm]",
+    "ukphone": "[ˈɡesɪŋ ɡeɪm]"
+  },
+  {
+    "name": "goal scorer",
+    "trans": [
+      "得分者"
+    ],
+    "usphone": "[ˈɡoʊlskɔːrər]",
+    "ukphone": "[ˈɡəʊlskɔːrə(r)]"
+  },
+  {
+    "name": "grammatically",
+    "trans": [
+      "adv. 从语法上讲"
+    ],
+    "usphone": "[ɡrəˈmætɪkli]",
+    "ukphone": "[ɡrəˈmætɪkli]"
+  },
+  {
+    "name": "gondolier",
+    "trans": [
+      "n. 威尼斯小划船的船夫",
+      "vt. 用凤尾船运送"
+    ],
+    "usphone": "[ˌɡɑːndəˈlɪr]",
+    "ukphone": "[ˌɡɒndəˈlɪə(r)]"
+  },
+  {
+    "name": "gutted",
+    "trans": [
+      "adj. 容易消化的",
+      "v. 取出…的内脏；毁坏…的内部（gut的过去式）"
+    ],
+    "usphone": "[ˈɡʌtɪd]",
+    "ukphone": "[ˈɡʌtɪd]"
+  }
+]

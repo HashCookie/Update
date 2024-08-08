@@ -1,0 +1,2529 @@
+[
+  {
+    "name": "justice",
+    "trans": [
+      "n. 司法，法律制裁；正义；法官，审判员"
+    ],
+    "usphone": "[ˈdʒʌstɪs]",
+    "ukphone": "[ˈdʒʌstɪs]"
+  },
+  {
+    "name": "justify",
+    "trans": [
+      "vi. 证明合法；整理版面",
+      "vt. 证明…是正当的；替…辩护"
+    ],
+    "usphone": "[ˈdʒʌstɪfaɪ]",
+    "ukphone": "[ˈdʒʌstɪfaɪ]"
+  },
+  {
+    "name": "jurisdiction",
+    "trans": [
+      "n. 司法权，审判权，管辖权；权限，权力"
+    ],
+    "usphone": "[ˌdʒʊrɪsˈdɪkʃn]",
+    "ukphone": "[ˌdʒʊərɪsˈdɪkʃn]"
+  },
+  {
+    "name": "journal",
+    "trans": [
+      "n. 日报，杂志；日记；分类账"
+    ],
+    "usphone": "[ˈdʒɜːrnl]",
+    "ukphone": "[ˈdʒɜːn(ə)l]"
+  },
+  {
+    "name": "journalist",
+    "trans": [
+      "n. 新闻工作者；报人；记日志者"
+    ],
+    "usphone": "[ˈdʒɜːrnəlɪst]",
+    "ukphone": "[ˈdʒɜːnəlɪst]"
+  },
+  {
+    "name": "journalism",
+    "trans": [
+      "n. 新闻业，新闻工作；报章杂志"
+    ],
+    "usphone": "[ˈdʒɜːrnəlɪzəm]",
+    "ukphone": "[ˈdʒɜːnəlɪz(ə)m]"
+  },
+  {
+    "name": "judge",
+    "trans": [
+      "vt. 判断；审判",
+      "n. 法官；裁判员",
+      "vi. 审判；判决"
+    ],
+    "usphone": "[dʒʌdʒ]",
+    "ukphone": "[dʒʌdʒ]"
+  },
+  {
+    "name": "joy",
+    "trans": [
+      "n. 欢乐，快乐；乐趣；高兴",
+      "vi. 欣喜，欢喜",
+      "vt. 高兴，使快乐"
+    ],
+    "usphone": "[dʒɔɪ]",
+    "ukphone": "[dʒɔɪ]"
+  },
+  {
+    "name": "join",
+    "trans": [
+      "vt. 参加；结合；连接",
+      "vi. 加入；参加；结合",
+      "n. 结合；连接；接合点"
+    ],
+    "usphone": "[dʒɔɪn]",
+    "ukphone": "[dʒɔɪn]"
+  },
+  {
+    "name": "joint",
+    "trans": [
+      "n. 关节；接缝；接合处，接合点；（牛，羊等的腿）大块肉",
+      "adj. 共同的；连接的；联合的，合办的",
+      "vt. 连接，贴合；接合；使有接头",
+      "vi. 贴合；生节"
+    ],
+    "usphone": "[dʒɔɪnt]",
+    "ukphone": "[dʒɔɪnt]"
+  },
+  {
+    "name": "jointly",
+    "trans": [
+      "adv. 共同地；连带地"
+    ],
+    "usphone": "[ˈdʒɔɪntli]",
+    "ukphone": "[ˈdʒɔɪntli]"
+  },
+  {
+    "name": "junk",
+    "trans": [
+      "n. 垃圾，废物；舢板"
+    ],
+    "usphone": "[dʒʌŋk]",
+    "ukphone": "[dʒʌŋk]"
+  },
+  {
+    "name": "junior",
+    "trans": [
+      "adj. 年少的；后进的；下级的",
+      "n. 年少者，晚辈；地位较低者；大学三年级学生"
+    ],
+    "usphone": "[ˈdʒuːniər]",
+    "ukphone": "[ˈdʒuːniə(r)]"
+  },
+  {
+    "name": "juvenile",
+    "trans": [
+      "adj. 青少年的；幼稚的",
+      "n. 青少年；少年读物"
+    ],
+    "usphone": "[ˈdʒuːvənl]",
+    "ukphone": "[ˈdʒuːvənaɪl]"
+  },
+  {
+    "name": "jealous",
+    "trans": [
+      "adj. 妒忌的；猜疑的；唯恐失去的；戒备的"
+    ],
+    "usphone": "[ˈdʒeləs]",
+    "ukphone": "[ˈdʒeləs]"
+  },
+  {
+    "name": "jazz",
+    "trans": [
+      "n. 爵士乐，爵士舞；喧闹",
+      "vi. 奏爵士乐，跳爵士舞；游荡",
+      "vt. 奏爵士乐；使活泼",
+      "adj. 爵士乐的；喧吵的"
+    ],
+    "usphone": "[dʒæz]",
+    "ukphone": "[dʒæz]"
+  },
+  {
+    "name": "judgment",
+    "trans": [
+      "n. 判断；裁判；判决书；辨别力"
+    ],
+    "usphone": "[ˈdʒʌdʒmənt]",
+    "ukphone": "[ˈdʒʌdʒmənt]"
+  },
+  {
+    "name": "judgement",
+    "trans": [
+      "n. 意见；判断力；[法] 审判；评价"
+    ],
+    "usphone": "[ˈdʒʌdʒmənt]",
+    "ukphone": "[ˈdʒʌdʒmənt]"
+  },
+  {
+    "name": "judicial",
+    "trans": [
+      "adj. 公正的，明断的；法庭的；审判上的"
+    ],
+    "usphone": "[dʒuˈdɪʃl]",
+    "ukphone": "[dʒuˈdɪʃl]"
+  },
+  {
+    "name": "junction",
+    "trans": [
+      "n. 连接，接合；交叉点；接合点"
+    ],
+    "usphone": "[ˈdʒʌŋkʃn]",
+    "ukphone": "[ˈdʒʌŋkʃn]"
+  },
+  {
+    "name": "jacket",
+    "trans": [
+      "n. 羽绒滑雪衫；西装短外套；短上衣，夹克；土豆皮；书籍的护封；文件套，公文夹",
+      "vt. 给…穿夹克；给…装护套；给…包上护封；〈口〉打"
+    ],
+    "usphone": "[ˈdʒækɪt]",
+    "ukphone": "[ˈdʒækɪt]"
+  },
+  {
+    "name": "jam",
+    "trans": [
+      "n. 果酱；拥挤；困境；扣篮",
+      "vt. 使堵塞；挤进，使塞满；混杂；压碎",
+      "vi. 堵塞；轧住"
+    ],
+    "usphone": "[dʒæm]",
+    "ukphone": "[dʒæm]"
+  },
+  {
+    "name": "January",
+    "trans": [
+      "n. 一月"
+    ],
+    "usphone": "[ˈdʒænjueri]",
+    "ukphone": "[ˈdʒænjuəri]"
+  },
+  {
+    "name": "jar",
+    "trans": [
+      "n. 罐；广口瓶；震动；刺耳声",
+      "vi. 冲突；不一致；震惊；发刺耳声",
+      "vt. 震动；刺激；使震动"
+    ],
+    "usphone": "[dʒɑːr]",
+    "ukphone": "[dʒɑː(r)]"
+  },
+  {
+    "name": "jargon",
+    "trans": [
+      "n. 行话，术语；黄锆石"
+    ],
+    "usphone": "[ˈdʒɑːrɡən]",
+    "ukphone": "[ˈdʒɑːɡən]"
+  },
+  {
+    "name": "jaw",
+    "trans": [
+      "n. 颌；下巴；狭窄入口；唠叨",
+      "vt. 教训；对…唠叨",
+      "vi. 教训；唠叨"
+    ],
+    "usphone": "[dʒɔː]",
+    "ukphone": "[dʒɔː]"
+  },
+  {
+    "name": "jet",
+    "trans": [
+      "n. 喷射，喷嘴；喷气式飞机；黑玉",
+      "adj. 墨黑的",
+      "vt. 射出",
+      "vi. 射出；[航] 乘喷气式飞机"
+    ],
+    "usphone": "[dʒet]",
+    "ukphone": "[dʒet]"
+  },
+  {
+    "name": "jewel",
+    "trans": [
+      "n. 宝石；珠宝",
+      "vt. 镶以宝石；饰以珠宝"
+    ],
+    "usphone": "[ˈdʒuːəl]",
+    "ukphone": "[ˈdʒuːəl]"
+  },
+  {
+    "name": "jewelry",
+    "trans": [
+      "n. 珠宝；珠宝类"
+    ],
+    "usphone": "[ˈdʒuːəlri]",
+    "ukphone": "['dʒuːəlrɪ]"
+  },
+  {
+    "name": "jewellery",
+    "trans": [
+      "n. 珠宝（等于jewelry）"
+    ],
+    "usphone": "[ˈdʒuːəlri]",
+    "ukphone": "[ˈdʒuːəlri]"
+  },
+  {
+    "name": "job",
+    "trans": [
+      "n. 工作；职业",
+      "vt. 承包；代客买卖",
+      "vi. 做零工"
+    ],
+    "usphone": "[dʒɑːb]",
+    "ukphone": "[dʒɒb]"
+  },
+  {
+    "name": "jog",
+    "trans": [
+      "vt. 慢跑；轻推；蹒跚行进；使颠簸",
+      "vi. 慢跑；轻推；蹒跚行进；颠簸着移动",
+      "n. 慢跑；轻推，轻撞"
+    ],
+    "usphone": "[dʒɑːɡ]",
+    "ukphone": "[dʒɒɡ]"
+  },
+  {
+    "name": "joke",
+    "trans": [
+      "n. 玩笑，笑话；笑柄",
+      "vt. 开…的玩笑",
+      "vi. 开玩笑"
+    ],
+    "usphone": "[dʒoʊk]",
+    "ukphone": "[dʒəʊk]"
+  },
+  {
+    "name": "jolly",
+    "trans": [
+      "adj. 愉快的；欢乐的；宜人的",
+      "adv. 很；非常",
+      "vt. （口）用好话劝某人做…；（口）用好话使高兴",
+      "vi. （口）开玩笑"
+    ],
+    "usphone": "[ˈdʒɑːli]",
+    "ukphone": "[ˈdʒɒli]"
+  },
+  {
+    "name": "journey",
+    "trans": [
+      "n. 旅行；行程",
+      "vi. 旅行"
+    ],
+    "usphone": "[ˈdʒɜːrni]",
+    "ukphone": "[ˈdʒɜːni]"
+  },
+  {
+    "name": "jug",
+    "trans": [
+      "n. [轻] 水壶；监牢",
+      "vt. 关押；放入壶中",
+      "vi. 模仿夜莺叫"
+    ],
+    "usphone": "[dʒʌɡ]",
+    "ukphone": "[dʒʌɡ]"
+  },
+  {
+    "name": "juice",
+    "trans": [
+      "n. （水果）汁，液；果汁"
+    ],
+    "usphone": "[dʒuːs]",
+    "ukphone": "[dʒuːs]"
+  },
+  {
+    "name": "July",
+    "trans": [
+      "n. 七月"
+    ],
+    "usphone": "[dʒʊˈlaɪ]",
+    "ukphone": "[dʒʊˈlaɪ]"
+  },
+  {
+    "name": "jump",
+    "trans": [
+      "n. 跳跃；暴涨；惊跳",
+      "vt. 跳跃；使跳跃；跳过；突升",
+      "vi. 跳跃；暴涨；猛增"
+    ],
+    "usphone": "[dʒʌmp]",
+    "ukphone": "[dʒʌmp]"
+  },
+  {
+    "name": "June",
+    "trans": [
+      "n. 六月；琼（人名，来源于拉丁语，含义是“年轻气盛的六月”）"
+    ],
+    "usphone": "[dʒuːn]",
+    "ukphone": "[dʒuːn]"
+  },
+  {
+    "name": "jungle",
+    "trans": [
+      "n. 丛林，密林；危险地带",
+      "adj. 丛林的；蛮荒的"
+    ],
+    "usphone": "[ˈdʒʌŋɡl]",
+    "ukphone": "[ˈdʒʌŋɡ(ə)l]"
+  },
+  {
+    "name": "jury",
+    "trans": [
+      "n. [法] 陪审团；评判委员会",
+      "adj. 应急的"
+    ],
+    "usphone": "[ˈdʒʊri]",
+    "ukphone": "[ˈdʒʊəri]"
+  },
+  {
+    "name": "just",
+    "trans": [
+      "adv. 只是，仅仅；刚才，刚刚；正好，恰好；实在；刚要",
+      "adj. 公正的，合理的；正直的，正义的；正确的；公平的；应得的"
+    ],
+    "usphone": "[dʒʌst]",
+    "ukphone": "[dʒʌst]"
+  },
+  {
+    "name": "juror",
+    "trans": [
+      "n. 审查委员，陪审员"
+    ],
+    "usphone": "[ˈdʒʊrər]",
+    "ukphone": "[ˈdʒʊərə(r)]"
+  },
+  {
+    "name": "jackpot",
+    "trans": [
+      "n. 头奖；累积赌注；十分成功",
+      "adj. 头奖的；累积赌注的；大笔收入的"
+    ],
+    "usphone": "[ˈdʒækpɑːt]",
+    "ukphone": "[ˈdʒækpɒt]"
+  },
+  {
+    "name": "jobless",
+    "trans": [
+      "adj. 失业的，无业的；（关于）失业者的",
+      "n. 失业者"
+    ],
+    "usphone": "[ˈdʒɑːbləs]",
+    "ukphone": "[ˈdʒɒbləs]"
+  },
+  {
+    "name": "janitor",
+    "trans": [
+      "n. 看门人；守卫；门警",
+      "n. 清洁工"
+    ],
+    "usphone": "[ˈdʒænɪtər]",
+    "ukphone": "[ˈdʒænɪtə(r)]"
+  },
+  {
+    "name": "jail",
+    "trans": [
+      "n. 监狱；监牢；拘留所",
+      "vt. 监禁；下狱"
+    ],
+    "usphone": "[dʒeɪl]",
+    "ukphone": "[dʒeɪl]"
+  },
+  {
+    "name": "jerk",
+    "trans": [
+      "n. 肌肉抽搐；性情古怪的人；蠢人；急拉",
+      "vi. 痉挛；急拉；颠簸地行进",
+      "vt. 猛拉"
+    ],
+    "usphone": "[dʒɜːrk]",
+    "ukphone": "[dʒɜːk]"
+  },
+  {
+    "name": "jot",
+    "trans": [
+      "vt. 略记；摘要记载下来",
+      "n. 少量；稍许"
+    ],
+    "usphone": "[dʒɑːt]",
+    "ukphone": "[dʒɒt]"
+  },
+  {
+    "name": "jogger",
+    "trans": [
+      "n. 慢跑者；[印刷] 撞纸机"
+    ],
+    "usphone": "[ˈdʒɑːɡər]",
+    "ukphone": "[ˈdʒɒɡə(r)]"
+  },
+  {
+    "name": "jealousy",
+    "trans": [
+      "n. 嫉妒；猜忌；戒备"
+    ],
+    "usphone": "[ˈdʒeləsi]",
+    "ukphone": "[ˈdʒeləsi]"
+  },
+  {
+    "name": "jeans",
+    "trans": [
+      "n. 牛仔裤；工装裤"
+    ],
+    "usphone": "[dʒiːnz]",
+    "ukphone": "[dʒiːnz]"
+  },
+  {
+    "name": "Japan",
+    "trans": [
+      "n. 日本（东亚国家名）"
+    ],
+    "usphone": "[dʒəˈpæn]",
+    "ukphone": "[dʒəˈpæn]"
+  },
+  {
+    "name": "jack",
+    "trans": [
+      "n. 千斤顶；[电] 插座；男人",
+      "adj. 雄的",
+      "vt. 增加；提醒；抬起；用千斤顶顶起某物"
+    ],
+    "usphone": "[dʒæk]",
+    "ukphone": "[dʒæk]"
+  },
+  {
+    "name": "jeep",
+    "trans": [
+      "n. 吉普车"
+    ],
+    "usphone": "[dʒiːp]",
+    "ukphone": "[dʒiːp]"
+  },
+  {
+    "name": "jelly",
+    "trans": [
+      "n. 果冻；胶状物",
+      "vi. 成胶状",
+      "vt. 使结冻"
+    ],
+    "usphone": "[ˈdʒeli]",
+    "ukphone": "[ˈdʒeli]"
+  },
+  {
+    "name": "jeopardize",
+    "trans": [
+      "vt. 危害；使陷危地；使受危困"
+    ],
+    "usphone": "[ˈdʒepərdaɪz]",
+    "ukphone": "[ˈdʒepədaɪz]"
+  },
+  {
+    "name": "jeopardise",
+    "trans": [
+      "vt. 危及（等于jeopardize）；使…受危险"
+    ],
+    "usphone": "[ˈdʒepərdaɪz]",
+    "ukphone": "[ˈdʒepədaɪz]"
+  },
+  {
+    "name": "jeopardy",
+    "trans": [
+      "n. 危险；（被告处于被判罪或受处罚的）危险境地"
+    ],
+    "usphone": "[ˈdʒepərdi]",
+    "ukphone": "[ˈdʒepədi]"
+  },
+  {
+    "name": "jetlag",
+    "trans": [
+      "n. 时差综合症（跨时区高速飞行后生理节奏的破坏）"
+    ],
+    "usphone": "[ˈdʒetlæɡ]",
+    "ukphone": "[ˈdʒetlæɡ]"
+  },
+  {
+    "name": "jockey",
+    "trans": [
+      "vt. 驾驶；欺骗；移动",
+      "n. 操作工；驾驶员；赛马的骑师",
+      "vi. 当赛马的骑师；耍手段图谋；搞欺骗"
+    ],
+    "usphone": "[ˈdʒɑːki]",
+    "ukphone": "[ˈdʒɒki]"
+  },
+  {
+    "name": "joyous",
+    "trans": [
+      "adj. 令人高兴的；充满欢乐的（等于joyful）"
+    ],
+    "usphone": "[ˈdʒɔɪəs]",
+    "ukphone": "[ˈdʒɔɪəs]"
+  },
+  {
+    "name": "joyful",
+    "trans": [
+      "adj. 欢喜的；令人高兴的"
+    ],
+    "usphone": "[ˈdʒɔɪfl]",
+    "ukphone": "[ˈdʒɔɪfl]"
+  },
+  {
+    "name": "judiciary",
+    "trans": [
+      "n. 司法部；法官；司法制度",
+      "adj. 司法的；法官的；法院的"
+    ],
+    "usphone": "[dʒuˈdɪʃieri]",
+    "ukphone": "[dʒuˈdɪʃəri]"
+  },
+  {
+    "name": "juicy",
+    "trans": [
+      "adj. 多汁的；利润多的；生动的"
+    ],
+    "usphone": "[ˈdʒuːsi]",
+    "ukphone": "[ˈdʒuːsi]"
+  },
+  {
+    "name": "justification",
+    "trans": [
+      "n. 理由；辩护；认为有理，认为正当；释罪"
+    ],
+    "usphone": "[ˌdʒʌstɪfɪˈkeɪʃn]",
+    "ukphone": "[ˌdʒʌstɪfɪˈkeɪʃn]"
+  },
+  {
+    "name": "jade",
+    "trans": [
+      "n. 翡翠；[宝] 碧玉；老马",
+      "adj. 玉制的；绿玉色的",
+      "vt. 使疲倦",
+      "vi. 疲倦"
+    ],
+    "usphone": "[dʒeɪd]",
+    "ukphone": "[dʒeɪd]"
+  },
+  {
+    "name": "jellyfish",
+    "trans": [
+      "n. 水母；[无脊椎] 海蜇；软弱无能的人"
+    ],
+    "usphone": "[ˈdʒelifɪʃ]",
+    "ukphone": "[ˈdʒelifɪʃ]"
+  },
+  {
+    "name": "jurassic",
+    "trans": [
+      "adj. 侏罗纪的；侏罗系的",
+      "n. [地质] 侏罗纪"
+    ],
+    "usphone": "[dʒʊˈræsɪk]",
+    "ukphone": "[dʒʊˈræsɪk]"
+  },
+  {
+    "name": "journeyman",
+    "trans": [
+      "n. [劳经] 熟练工人；短工；学徒期满的职工"
+    ],
+    "usphone": "[ˈdʒɜːrnimən]",
+    "ukphone": "[ˈdʒɜːnimən]"
+  },
+  {
+    "name": "juxtaposition",
+    "trans": [
+      "n. 并置，并列；毗邻"
+    ],
+    "usphone": "[ˌdʒʌkstəpəˈzɪʃn]",
+    "ukphone": "[ˌdʒʌkstəpəˈzɪʃ(ə)n]"
+  },
+  {
+    "name": "jocund",
+    "trans": [
+      "adj. 快活的；高兴的"
+    ],
+    "usphone": "[ˈdʒɑːkəndˌˈdʒoʊkənd]",
+    "ukphone": "[ˈdʒɒkənd; ˈdʒəʊkənd]"
+  },
+  {
+    "name": "junk food",
+    "trans": [
+      "n. 垃圾食品"
+    ],
+    "usphone": "[ˈdʒʌŋk fuːd]",
+    "ukphone": "[ˈdʒʌŋk fuːd]"
+  },
+  {
+    "name": "joyfully",
+    "trans": [
+      "adv. 高兴地，喜悦地"
+    ],
+    "usphone": "[ˈdʒɔɪfəli]",
+    "ukphone": "[ˈdʒɔɪfəli]"
+  },
+  {
+    "name": "jostle",
+    "trans": [
+      "vt. 推挤，撞；争夺",
+      "vi. 竞争，争夺；推挤",
+      "n. 推撞，挤拥"
+    ],
+    "usphone": "[ˈdʒɑːsl]",
+    "ukphone": "[ˈdʒɒs(ə)l]"
+  },
+  {
+    "name": "judicious",
+    "trans": [
+      "adj. 明智的；头脑精明的；判断正确的"
+    ],
+    "usphone": "[dʒuˈdɪʃəs]",
+    "ukphone": "[dʒuːˈdɪʃəs]"
+  },
+  {
+    "name": "jumble",
+    "trans": [
+      "n. 混乱；杂乱的一堆东西",
+      "vi. 混杂；搀杂",
+      "vt. 使混乱；搞乱"
+    ],
+    "usphone": "[ˈdʒʌmbl]",
+    "ukphone": "[ˈdʒʌmb(ə)l]"
+  },
+  {
+    "name": "Johannesburg",
+    "trans": [
+      "n. 约翰尼斯堡（位于南非东北部）"
+    ],
+    "usphone": "[dʒəu'hænisbə:ɡ]",
+    "ukphone": "[dʒəʊˈhænəsbɜːɡ]"
+  },
+  {
+    "name": "jasmine",
+    "trans": [
+      "n. 茉莉；淡黄色"
+    ],
+    "usphone": "[ˈdʒæzmɪn]",
+    "ukphone": "[ˈdʒæzmɪn]"
+  },
+  {
+    "name": "Jamaican",
+    "trans": [
+      "n. 牙买加人",
+      "adj. 牙买加的；牙买加人的"
+    ],
+    "usphone": "[dʒəˈmeɪkən]",
+    "ukphone": "[dʒəˈmeɪkən]"
+  },
+  {
+    "name": "jest",
+    "trans": [
+      "n. 笑话，俏皮话；玩笑",
+      "vi. 开玩笑；嘲笑",
+      "vt. 嘲笑"
+    ],
+    "usphone": "[dʒest]",
+    "ukphone": "[dʒest]"
+  },
+  {
+    "name": "juxtapose",
+    "trans": [
+      "vt. 并列；并置"
+    ],
+    "usphone": "[ˌdʒʌkstəˈpoʊz]",
+    "ukphone": "[ˌdʒʌkstəˈpəʊz]"
+  },
+  {
+    "name": "juggle",
+    "trans": [
+      "vi. 玩杂耍；欺骗；歪曲",
+      "vt. 歪曲；欺骗",
+      "n. 玩戏法；欺骗"
+    ],
+    "usphone": "[ˈdʒʌɡl]",
+    "ukphone": "[ˈdʒʌɡl]"
+  },
+  {
+    "name": "jolt",
+    "trans": [
+      "vt. 使颠簸；使震惊；使摇动",
+      "vi. 摇晃；颠簸而行",
+      "n. 颠簸；摇晃；震惊；严重挫折"
+    ],
+    "usphone": "[dʒoʊlt]",
+    "ukphone": "[dʒəʊlt]"
+  },
+  {
+    "name": "jeer",
+    "trans": [
+      "n. 嘲笑；戏弄；揶揄的言语",
+      "vi. 嘲笑；戏弄",
+      "vt. 嘲笑；戏弄"
+    ],
+    "usphone": "[dʒɪr]",
+    "ukphone": "[dʒɪə(r)]"
+  },
+  {
+    "name": "jubilant",
+    "trans": [
+      "adj. 欢呼的；喜洋洋的"
+    ],
+    "usphone": "[ˈdʒuːbɪlənt]",
+    "ukphone": "[ˈdʒuːbɪlənt]"
+  },
+  {
+    "name": "juncture",
+    "trans": [
+      "n. 接缝；连接；接合"
+    ],
+    "usphone": "[ˈdʒʌŋktʃər]",
+    "ukphone": "[ˈdʒʌŋktʃə(r)]"
+  },
+  {
+    "name": "jumbo",
+    "trans": [
+      "adj. 巨大的；特大的",
+      "n. 庞然大物；巨型喷气式飞机；体大而笨拙的人或物"
+    ],
+    "usphone": "[ˈdʒʌmboʊ]",
+    "ukphone": "[ˈdʒʌmbəʊ]"
+  },
+  {
+    "name": "jerky",
+    "trans": [
+      "adj. 抽筋的；急动的；不平稳的",
+      "n. 牛肉干"
+    ],
+    "usphone": "[ˈdʒɜːrki]",
+    "ukphone": "[ˈdʒɜːki]"
+  },
+  {
+    "name": "jab",
+    "trans": [
+      "n. 戳；猛击；注射",
+      "vi. 戳；刺；用拳猛击",
+      "vt. 戳；猛击；用拨火棒等捅"
+    ],
+    "usphone": "[dʒæb]",
+    "ukphone": "[dʒæb]"
+  },
+  {
+    "name": "jocular",
+    "trans": [
+      "adj. 爱开玩笑的；打趣的；滑稽的"
+    ],
+    "usphone": "[ˈdʒɑːkjələr]",
+    "ukphone": "[ˈdʒɒkjələ(r)]"
+  },
+  {
+    "name": "jack-in-the-box",
+    "trans": [
+      "n. 玩偶盒"
+    ],
+    "usphone": "[ˈdʒæk ɪn ðə bɑːks]",
+    "ukphone": "[ˈdʒæk ɪn ðə bɒks]"
+  },
+  {
+    "name": "jack-of-all-trades",
+    "trans": [
+      "na. 万能博士"
+    ],
+    "usphone": "[,dʒækəv'ɔ:ltreidz]",
+    "ukphone": "[,dʒækəv'ɔ:ltreidz]"
+  },
+  {
+    "name": "jagged",
+    "trans": [
+      "adj. 锯齿状的；参差不齐的",
+      "v. 使成缺口；使成锯齿状（jag的过去式）"
+    ],
+    "usphone": "[ˈdʒæɡɪd]",
+    "ukphone": "[ˈdʒæɡɪd]"
+  },
+  {
+    "name": "jasmin",
+    "trans": [
+      "n. 茉莉属，茉莉属的植物；茉莉花"
+    ],
+    "usphone": "[ˈdʒæsmɪn]",
+    "ukphone": "[ˈdʒæsmɪn]"
+  },
+  {
+    "name": "javelin",
+    "trans": [
+      "n. 标枪，投枪"
+    ],
+    "usphone": "[ˈdʒævlɪn]",
+    "ukphone": "[ˈdʒævlɪn]"
+  },
+  {
+    "name": "jaywalk",
+    "trans": [
+      "vi. 乱穿马路（不遵守交通规则）"
+    ],
+    "usphone": "[ˈdʒeɪwɔːk]",
+    "ukphone": "[ˈdʒeɪwɔːk]"
+  },
+  {
+    "name": "jetty",
+    "trans": [
+      "n. 码头；防波堤",
+      "adj. 乌黑发亮的，煤玉似的",
+      "vi. 伸出"
+    ],
+    "usphone": "[ˈdʒeti]",
+    "ukphone": "[ˈdʒeti]"
+  },
+  {
+    "name": "jigsaw",
+    "trans": [
+      "n. 拼图玩具；线锯；镂花锯",
+      "vt. 用线锯锯"
+    ],
+    "usphone": "[ˈdʒɪɡsɔː]",
+    "ukphone": "[ˈdʒɪɡsɔː]"
+  },
+  {
+    "name": "jingle",
+    "trans": [
+      "n. 叮当声；节拍十分规则的简单诗歌",
+      "v. （使）叮当作响；具有简单而又引人注意的韵律"
+    ],
+    "usphone": "[ˈdʒɪŋɡl]",
+    "ukphone": "[ˈdʒɪŋɡl]"
+  },
+  {
+    "name": "joystick",
+    "trans": [
+      "n. 操纵杆，[机] 控制杆"
+    ],
+    "usphone": "[ˈdʒɔɪstɪk]",
+    "ukphone": "[ˈdʒɔɪstɪk]"
+  },
+  {
+    "name": "juju",
+    "trans": [
+      "n. 护符（及其魔力）；大麻烟卷；小玩物"
+    ],
+    "usphone": "[ˈdʒuːdʒuː]",
+    "ukphone": "[ˈdʒuːdʒuː]"
+  },
+  {
+    "name": "jumper",
+    "trans": [
+      "n. 跳高运动员；跳跃者；工作服；妇女穿的套头外衣"
+    ],
+    "usphone": "[ˈdʒʌmpər]",
+    "ukphone": "[ˈdʒʌmpə(r)]"
+  },
+  {
+    "name": "justifiably",
+    "trans": [
+      "adv. 言之有理地， 无可非议地"
+    ],
+    "usphone": "[ˌdʒʌstɪˈfaɪəbliˌˈdʒʌstɪfaɪəbli]",
+    "ukphone": "[ˌdʒʌstɪˈfaɪəbli; ˈdʒʌstɪfaɪəbli]"
+  },
+  {
+    "name": "just now",
+    "trans": [
+      "na. 刚才；正在"
+    ],
+    "usphone": "[dʒʌst naʊ]",
+    "ukphone": "[dʒʌst nau]"
+  },
+  {
+    "name": "just so",
+    "trans": [
+      "na. 正要那样"
+    ],
+    "usphone": "[dʒʌst soʊ]",
+    "ukphone": "[dʒʌst səʊ]"
+  },
+  {
+    "name": "journalistic",
+    "trans": [
+      "adj. 新闻业的，新闻工作者的"
+    ],
+    "usphone": "[ˌdʒɜːrnəˈlɪstɪk]",
+    "ukphone": "[ˌdʒɜːnəˈlɪstɪk]"
+  },
+  {
+    "name": "justified",
+    "trans": [
+      "adj. 有正当理由的；合乎情理的；事出有因的",
+      "v. 调整（justify的过去分词）；证明…正当"
+    ],
+    "usphone": "[ˈdʒʌstɪfaɪd]",
+    "ukphone": "[ˈdʒʌstɪfaɪd]"
+  },
+  {
+    "name": "jettison",
+    "trans": [
+      "n. 投弃；投弃货物",
+      "vt. 投弃（船舶遇难时投弃货物以为减轻负载）"
+    ],
+    "usphone": "[ˈdʒetɪsn]",
+    "ukphone": "[ˈdʒetɪsn]"
+  },
+  {
+    "name": "jump at",
+    "trans": [
+      "v. 欣然接受"
+    ],
+    "usphone": "[dʒʌmp æt]",
+    "ukphone": "[dʒʌmp æt]"
+  },
+  {
+    "name": "Jew",
+    "trans": [
+      "n. 犹太人；犹太教徒；守财奴",
+      "vt. 欺骗；杀价"
+    ],
+    "usphone": "[dʒuː]",
+    "ukphone": "[dʒuː]"
+  },
+  {
+    "name": "jitters",
+    "trans": [
+      "n. 神经过敏；激动（jitter的复数）",
+      "v. 抖动（jitter的三单形式）；紧张不安；使激动"
+    ],
+    "usphone": "[ˈdʒɪtərz]",
+    "ukphone": "[ˈdʒɪtəz]"
+  },
+  {
+    "name": "jaundice",
+    "trans": [
+      "n. 黄疸；偏见；乖僻",
+      "vt. 使怀偏见；使患黄疸"
+    ],
+    "usphone": "[ˈdʒɔːndɪs]",
+    "ukphone": "[ˈdʒɔːndɪs]"
+  },
+  {
+    "name": "jaywalker",
+    "trans": [
+      "n. 不守交通规则；乱穿马路的人"
+    ],
+    "usphone": "[ˈdʒeɪwɔːkər]",
+    "ukphone": "[ˈdʒeɪwɔːkə(r)]"
+  },
+  {
+    "name": "jejunum",
+    "trans": [
+      "n. [解剖] 空肠"
+    ],
+    "usphone": "[dʒɪˈdʒuːnəm]",
+    "ukphone": "[dʒɪˈdʒuːnəm]"
+  },
+  {
+    "name": "Jesus",
+    "trans": [
+      "n. 耶稣（上帝之子）；杰西（男子名）"
+    ],
+    "usphone": "[ˈdʒiːzəs]",
+    "ukphone": "[ˈdʒiːzəs]"
+  },
+  {
+    "name": "jet lag",
+    "trans": [
+      "n. 时差反应；时差综合症"
+    ],
+    "usphone": "[ˈdʒet læɡ]",
+    "ukphone": "[ˈdʒet læɡ]"
+  },
+  {
+    "name": "Jupiter",
+    "trans": [
+      "n. [天] 木星；朱庇特（罗马神话中的宙斯神）"
+    ],
+    "usphone": "[ˈdʒuːpɪtər]",
+    "ukphone": "[ˈdʒuːpɪtə(r)]"
+  },
+  {
+    "name": "jurisprudence",
+    "trans": [
+      "n. 法律体系；法学及其分支；法律知识；法院审判规程"
+    ],
+    "usphone": "[ˌdʒʊrɪsˈpruːdns]",
+    "ukphone": "[ˌdʒʊərɪsˈpruːdns]"
+  },
+  {
+    "name": "jean",
+    "trans": [
+      "n. 牛仔裤；[纺] 斜纹棉布"
+    ],
+    "usphone": "[dʒiːn]",
+    "ukphone": "[dʒiːn]"
+  },
+  {
+    "name": "jabber",
+    "trans": [
+      "n. 快而含糊不清的话",
+      "vt. 快而含糊地说出",
+      "vi. 快而含糊地说；吱吱喳喳地叫"
+    ],
+    "usphone": "[ˈdʒæbər]",
+    "ukphone": "[ˈdʒæbə(r)]"
+  },
+  {
+    "name": "jaded",
+    "trans": [
+      "adj. 厌倦的；疲倦不堪的",
+      "v. 厌倦（jade的过去分词）；变得疲倦；精疲力竭"
+    ],
+    "usphone": "[ˈdʒeɪdɪd]",
+    "ukphone": "[ˈdʒeɪdɪd]"
+  },
+  {
+    "name": "jaundiced",
+    "trans": [
+      "adj. 有偏见的；患黄疸病的",
+      "v. 使有偏见（jaundice的过去式）；使患黄疸病"
+    ],
+    "usphone": "[ˈdʒɔːndɪst]",
+    "ukphone": "[ˈdʒɔːndɪst]"
+  },
+  {
+    "name": "jollity",
+    "trans": [
+      "n. 酒宴；高兴；欢乐"
+    ],
+    "usphone": "[ˈdʒɑːləti]",
+    "ukphone": "[ˈdʒɒləti]"
+  },
+  {
+    "name": "jubilation",
+    "trans": [
+      "n. 喜欢；庆祝；欢呼"
+    ],
+    "usphone": "[ˌdʒuːbɪˈleɪʃn]",
+    "ukphone": "[ˌdʒuːbɪˈleɪʃ(ə)n]"
+  },
+  {
+    "name": "junta",
+    "trans": [
+      "n. 团体，派别"
+    ],
+    "usphone": "[ˈhʊntə]",
+    "ukphone": "[ˈdʒʌntə]"
+  },
+  {
+    "name": "Japanese",
+    "trans": [
+      "n. 日本人；日语",
+      "adj. 日本（人）的；日语的"
+    ],
+    "usphone": "[ˌdʒæpəˈniːz]",
+    "ukphone": "[ˌdʒæpəˈniːz]"
+  },
+  {
+    "name": "jet engine",
+    "trans": [
+      "n. 喷气式发动机"
+    ],
+    "usphone": "[ˈdʒet endʒɪn]",
+    "ukphone": "[ˈdʒet endʒɪn]"
+  },
+  {
+    "name": "jogging",
+    "trans": [
+      "n. 慢跑",
+      "v. 慢跑（jog的ing形式）；轻推；唤起"
+    ],
+    "usphone": "[ˈdʒɑːɡɪŋ]",
+    "ukphone": "[ˈdʒɒɡɪŋ]"
+  },
+  {
+    "name": "jugful",
+    "trans": [
+      "n. 一壶的份量"
+    ],
+    "usphone": "[ˈdʒʌɡfʊl]",
+    "ukphone": "[ˈdʒʌɡfʊl]"
+  },
+  {
+    "name": "juicer",
+    "trans": [
+      "n. 榨汁器；照明技师；酒鬼（俚语）"
+    ],
+    "usphone": "[ˈdʒuːsər]",
+    "ukphone": "[ˈdʒuːsə(r)]"
+  },
+  {
+    "name": "jeweller",
+    "trans": [
+      "n. 珠宝商；钟表匠，宝石匠"
+    ],
+    "usphone": "[ˈdʒuːələr]",
+    "ukphone": "[ˈdʒuːələ(r)]"
+  },
+  {
+    "name": "juggernaut",
+    "trans": [
+      "n. 世界主宰；强大的破坏力"
+    ],
+    "usphone": "[ˈdʒʌɡərnɔːt]",
+    "ukphone": "[ˈdʒʌɡənɔːt]"
+  },
+  {
+    "name": "jurist",
+    "trans": [
+      "n. 法学家；法官；律师；法律著作家"
+    ],
+    "usphone": "[ˈdʒʊrɪst]",
+    "ukphone": "[ˈdʒʊərɪst]"
+  },
+  {
+    "name": "jealously",
+    "trans": [
+      "adv. 妒忌地；猜疑地"
+    ],
+    "usphone": "[ˈdʒeləsli]",
+    "ukphone": "[ˈdʒeləsli]"
+  },
+  {
+    "name": "judo",
+    "trans": [
+      "n. （日）柔道",
+      "adj. 柔道的；柔道术的"
+    ],
+    "usphone": "[ˈdʒuːdoʊ]",
+    "ukphone": "[ˈdʒuːdəʊ]"
+  },
+  {
+    "name": "jobseeker",
+    "trans": [
+      "n. 求职者"
+    ],
+    "usphone": "['dʒɔb,si:kə]",
+    "ukphone": "[ˈdʒɒbsiːkə]"
+  },
+  {
+    "name": "jokingly",
+    "trans": [
+      "adv. 开玩笑地；打趣地"
+    ],
+    "usphone": "[ˈdʒoʊkɪŋli]",
+    "ukphone": "[ˈdʒəʊkɪŋli]"
+  },
+  {
+    "name": "Jane?",
+    "trans": [
+      "n. 简（女子名）"
+    ],
+    "usphone": "[dʒeɪn]",
+    "ukphone": "[dʒeɪn]"
+  },
+  {
+    "name": "jacuzzi",
+    "trans": [
+      "n. 极可意水流按摩浴缸"
+    ],
+    "usphone": "[dʒəˈkuːzi]",
+    "ukphone": "[dʒəˈkuːzi]"
+  },
+  {
+    "name": "jumped",
+    "trans": [
+      "v. 跳跃（jump的过去分词）"
+    ],
+    "usphone": "[dʒʌmpt]",
+    "ukphone": "[dʒʌmpt]"
+  },
+  {
+    "name": "just as well",
+    "trans": [
+      "adv. 同样；完全一样"
+    ],
+    "usphone": "[dʒʌst æz wel]",
+    "ukphone": "[dʒʌst æz wel]"
+  },
+  {
+    "name": "justifiable",
+    "trans": [
+      "adj. 可辩解的，有道理的；可证明为正当的"
+    ],
+    "usphone": "[ˌdʒʌstɪˈfaɪəbl; ˈdʒʌstɪfaɪəbl]",
+    "ukphone": "[ˌdʒʌstɪˈfaɪəb(ə)l]"
+  },
+  {
+    "name": "joey",
+    "trans": [
+      "n. 幼兽"
+    ],
+    "usphone": "[ˈdʒoʊi]",
+    "ukphone": "[ˈdʒəʊi]"
+  },
+  {
+    "name": "jet stream",
+    "trans": [
+      "n. （地球高空的）急流；（飞机发动机的）喷气流"
+    ],
+    "usphone": "[ˈdʒet striːm]",
+    "ukphone": "[ˈdʒet striːm]"
+  },
+  {
+    "name": "jute",
+    "trans": [
+      "n. 黄麻；黄麻纤维"
+    ],
+    "usphone": "[dʒuːt]",
+    "ukphone": "[dʒuːt]"
+  },
+  {
+    "name": "Java",
+    "trans": [
+      "n. 爪哇岛（位于印尼）；Sun公司推出的一种应用程序开发语言"
+    ],
+    "usphone": "[ˈdʒɑːvə]",
+    "ukphone": "[ˈdʒɑːvə]"
+  },
+  {
+    "name": "jaywalking",
+    "trans": [
+      "n. 走路不遵守交通规则",
+      "v. （不遵守交通规则）乱穿马路（jaywalk的ing形式）"
+    ],
+    "usphone": "[ˈdʒeɪwɔːkɪŋ]",
+    "ukphone": "[ˈdʒeɪwɔːkɪŋ]"
+  },
+  {
+    "name": "joblessness",
+    "trans": [
+      "n. 失业；无活可干（jobless的名词形式）"
+    ],
+    "usphone": "[ˈdʒɑːbləsnəs]",
+    "ukphone": "[ˈdʒɒbləsnəs]"
+  },
+  {
+    "name": "jerboa",
+    "trans": [
+      "n. 跳鼠"
+    ],
+    "usphone": "[dʒɜːrˈboʊə]",
+    "ukphone": "[dʒɜːˈbəʊə]"
+  },
+  {
+    "name": "jet-setter",
+    "trans": [
+      "n. 乘喷气式飞机到处旅游的富佬；名流人物"
+    ],
+    "usphone": "[ˈdʒet setər]",
+    "ukphone": "[ˈdʒet setə(r)]"
+  },
+  {
+    "name": "jobbing",
+    "trans": [
+      "adj. 包工的；雇来承包规定活计的；做零活的",
+      "v. 批购（货物）转卖给零售商；做零工（job的ing形式）"
+    ],
+    "usphone": "[ˈdʒɑːbɪŋ]",
+    "ukphone": "[ˈdʒɒbɪŋ]"
+  },
+  {
+    "name": "just-in-time",
+    "trans": [
+      "n. 刚好及时；恰好够用",
+      "adj. 及时生产的"
+    ],
+    "usphone": "[ˌdʒʌst ɪn ˈtaɪm]",
+    "ukphone": "[ˌdʒʌst ɪn ˈtaɪm]"
+  },
+  {
+    "name": "jibe",
+    "trans": [
+      "vt. 嘲笑；嘲弄；符合；相一致；",
+      "vi. （=gibe）讥笑﹑ 嘲弄",
+      "n. 嘲弄; 嘲讽",
+      "v. (=gybe) 顺风时将船帆自一舷转向另一舷以改变方向."
+    ],
+    "usphone": "[dʒaɪb]",
+    "ukphone": "[dʒaɪb]"
+  },
+  {
+    "name": "jejune",
+    "trans": [
+      "adj. 枯燥无味的；幼稚的；缺乏营养的"
+    ],
+    "usphone": "[dʒɪˈdʒuːn]",
+    "ukphone": "[dʒɪˈdʒuːn]"
+  },
+  {
+    "name": "jape",
+    "trans": [
+      "n. 嘲弄；玩笑",
+      "vt. 嘲弄",
+      "vi. 开玩笑"
+    ],
+    "usphone": "[dʒeɪp]",
+    "ukphone": "[dʒeɪp]"
+  },
+  {
+    "name": "jarring",
+    "trans": [
+      "n. 辗轧声；冲突；震动",
+      "adj. 不和谐的；刺耳的；辗轧的",
+      "v. 震惊；冲突；发刺耳声（jar的现在分词）"
+    ],
+    "usphone": "[ˈdʒɑːrɪŋ]",
+    "ukphone": "[ˈdʒɑːrɪŋ]"
+  },
+  {
+    "name": "jovial",
+    "trans": [
+      "adj. 天性快活的；主神朱庇特的"
+    ],
+    "usphone": "[ˈdʒoʊviəl]",
+    "ukphone": "[ˈdʒəʊviəl]"
+  },
+  {
+    "name": "jingoist",
+    "trans": [
+      "n. 沙文主义者；侵略主义者",
+      "adj. 侵略主义的；沙文主义的"
+    ],
+    "usphone": "[ˈdʒɪŋɡoɪst]",
+    "ukphone": "[ˈdʒɪŋɡəʊɪst]"
+  },
+  {
+    "name": "jaunty",
+    "trans": [
+      "adj. 快活的；活泼的；洋洋得意的；感到自信和自满的"
+    ],
+    "usphone": "[ˈdʒɔːnti]",
+    "ukphone": "[ˈdʒɔːnti]"
+  },
+  {
+    "name": "jittery",
+    "trans": [
+      "adj. 神经过敏的；战战兢兢的；紧张不安的"
+    ],
+    "usphone": "[ˈdʒɪtəri]",
+    "ukphone": "[ˈdʒɪtəri]"
+  },
+  {
+    "name": "jay",
+    "trans": [
+      "n. 鸟；松鸡；喋喋不休的人"
+    ],
+    "usphone": "[dʒeɪ]",
+    "ukphone": "[dʒeɪ]"
+  },
+  {
+    "name": "jut",
+    "trans": [
+      "vt. 使…伸出；使…突出",
+      "vi. 突出；伸出",
+      "n. 突出部分；尖端"
+    ],
+    "usphone": "[dʒʌt]",
+    "ukphone": "[dʒʌt]"
+  },
+  {
+    "name": "jubilee",
+    "trans": [
+      "n. （犹太史）五十年节（每五十年举行一次庆祝希伯来奴隶的解放）；大赦年（天主教每二十五年一次的）；欢乐的佳节，欢乐的节日；重要的周年纪念"
+    ],
+    "usphone": "[ˈdʒuːbɪliːˌˌdʒuːbɪˈliː]",
+    "ukphone": "[ˈdʒuːbɪliː; ˌdʒuːbɪˈliː]"
+  },
+  {
+    "name": "junk mail",
+    "trans": [
+      "n. 垃圾邮件"
+    ],
+    "usphone": "[ˈdʒʌŋk meɪl]",
+    "ukphone": "[ˈdʒʌŋk meɪl]"
+  },
+  {
+    "name": "Jeep",
+    "trans": [
+      "n. 吉普车"
+    ],
+    "usphone": "[dʒiːp]",
+    "ukphone": "[dʒiːp]"
+  },
+  {
+    "name": "justly",
+    "trans": [
+      "adv. 公正地；正当地；恰当地；正直地"
+    ],
+    "usphone": "[ˈdʒʌstli]",
+    "ukphone": "[ˈdʒʌstli]"
+  },
+  {
+    "name": "Judy",
+    "trans": [
+      "n. （尤指轻佻的）姑娘"
+    ],
+    "usphone": "[ˈdʒuːdi]",
+    "ukphone": "[ˈdʒuːdi]"
+  },
+  {
+    "name": "just as",
+    "trans": [
+      "na. 正像；正在…的时候"
+    ],
+    "usphone": "[dʒʌst æz]",
+    "ukphone": "[dʒʌst æz]"
+  },
+  {
+    "name": "jumpsuit",
+    "trans": [
+      "n. 跳伞装；连身衣裤"
+    ],
+    "usphone": "[ˈdʒʌmpsuːt]",
+    "ukphone": "[ˈdʒʌmpsuːt; ˈdʒʌmpsjuːt]"
+  },
+  {
+    "name": "jugular",
+    "trans": [
+      "adj. 颈静脉的；颈部的；咽喉的",
+      "n. 颈静脉"
+    ],
+    "usphone": "[ˈdʒʌɡjələr]",
+    "ukphone": "[ˈdʒʌɡjələ(r)]"
+  },
+  {
+    "name": "jump smash",
+    "trans": [
+      "无"
+    ],
+    "usphone": "[dʒʌmp smæʃ]",
+    "ukphone": "[dʒʌmp smæʃ]"
+  },
+  {
+    "name": "jaunt",
+    "trans": [
+      "n. 远足；短途旅游",
+      "vi. 远足；作短途旅游"
+    ],
+    "usphone": "[dʒɔːnt]",
+    "ukphone": "[dʒɔːnt]"
+  },
+  {
+    "name": "jilt",
+    "trans": [
+      "vt. 抛弃（情人）",
+      "n. 抛弃情人者（尤指女子）"
+    ],
+    "usphone": "[dʒɪlt]",
+    "ukphone": "[dʒɪlt]"
+  },
+  {
+    "name": "Jack",
+    "trans": [
+      "n. 千斤顶；[电] 插座；男人",
+      "adj. 雄的",
+      "vt. 增加；提醒；抬起；用千斤顶顶起某物"
+    ],
+    "usphone": "[dʒæk]",
+    "ukphone": "[dʒæk]"
+  },
+  {
+    "name": "jigger",
+    "trans": [
+      "n. 小滑车；量杯；小玩意",
+      "vt. 阻止"
+    ],
+    "usphone": "[ˈdʒɪɡər]",
+    "ukphone": "[ˈdʒɪɡə(r)]"
+  },
+  {
+    "name": "jitterbug",
+    "trans": [
+      "n. 图象不稳定；跳吉特巴舞的人；容易紧张的人；爵士乐迷",
+      "vi. 跳吉特巴舞"
+    ],
+    "usphone": "[ˈdʒɪtərbʌɡ]",
+    "ukphone": "[ˈdʒɪtəbʌɡ]"
+  },
+  {
+    "name": "juniper",
+    "trans": [
+      "n. 杜松；桧或刺柏属植物；（美）桧状植物（多用于装饰）"
+    ],
+    "usphone": "[ˈdʒuːnɪpər]",
+    "ukphone": "[ˈdʒuːnɪpə(r)]"
+  },
+  {
+    "name": "jamb",
+    "trans": [
+      "n. [矿业] 矿柱，侧柱；门窗侧壁"
+    ],
+    "usphone": "[dʒæm]",
+    "ukphone": "[dʒæm]"
+  },
+  {
+    "name": "jingoism",
+    "trans": [
+      "n. 侵略主义；沙文主义；武力外交政策"
+    ],
+    "usphone": "[ˈdʒɪŋɡoʊɪzəm]",
+    "ukphone": "[ˈdʒɪŋɡəʊɪzəm]"
+  },
+  {
+    "name": "junket",
+    "trans": [
+      "n. 野餐；游览",
+      "vi. 野餐；去郊游"
+    ],
+    "usphone": "[ˈdʒʌŋkɪt]",
+    "ukphone": "[ˈdʒʌŋkɪt]"
+  },
+  {
+    "name": "judiciousness",
+    "trans": [
+      "n. 明智"
+    ],
+    "usphone": "[dʒuːˈdɪʃəsnəs]",
+    "ukphone": "[dʒuːˈdɪʃəsnəs]"
+  },
+  {
+    "name": "jitter",
+    "trans": [
+      "vi. 抖动，[电子] 跳动；战战兢兢；神经过敏",
+      "vt. 紧张地说；使…惶恐不安",
+      "n. 振动，剧跳；紧张不安"
+    ],
+    "usphone": "[ˈdʒɪtər]",
+    "ukphone": "[ˈdʒɪtə(r)]"
+  },
+  {
+    "name": "jesting",
+    "trans": [
+      "adj. 爱开玩笑的；打趣的；滑稽的",
+      "n. 开玩笑；笑话；滑稽",
+      "v. 开玩笑（jest的ing形式）"
+    ],
+    "usphone": "[ˈdʒestɪŋ]",
+    "ukphone": "[ˈdʒestɪŋ]"
+  },
+  {
+    "name": "jetsam",
+    "trans": [
+      "n. 漂流到海岸的货物；投弃货物；[水运] 船舶遇险时投弃的货物"
+    ],
+    "usphone": "[ˈdʒetsəm]",
+    "ukphone": "[ˈdʒetsəm]"
+  },
+  {
+    "name": "jamboree",
+    "trans": [
+      "n. 少年团体大会；欢乐的聚会"
+    ],
+    "usphone": "[ˌdʒæmbəˈriː]",
+    "ukphone": "[ˌdʒæmbəˈriː]"
+  },
+  {
+    "name": "Jewish",
+    "trans": [
+      "adj. 犹太人的；犹太族的"
+    ],
+    "usphone": "[ˈdʒuːɪʃ]",
+    "ukphone": "[ˈdʒuːɪʃ]"
+  },
+  {
+    "name": "jack up",
+    "trans": [
+      " <俚>用千斤顶顶起; <口>提高，增加; <口>把凌乱的东西安排[料理]好"
+    ],
+    "usphone": "[dʒæk ʌp]",
+    "ukphone": "[dʒæk ʌp]"
+  },
+  {
+    "name": "Janice",
+    "trans": [
+      "n. 贾尼斯（女子名，等于Janis）"
+    ],
+    "usphone": "[ˈdʒænɪs]",
+    "ukphone": "[ˈdʒænɪs]"
+  },
+  {
+    "name": "Jeremy",
+    "trans": [
+      "n. 杰里米（男子名）"
+    ],
+    "usphone": "[ˈdʒerəmi]",
+    "ukphone": "[ˈdʒerəmi]"
+  },
+  {
+    "name": "Jamaica",
+    "trans": [
+      "n. 牙买加（拉丁美洲一个国家）"
+    ],
+    "usphone": "[dʒəˈmeɪkə]",
+    "ukphone": "[dʒəˈmeɪkə]"
+  },
+  {
+    "name": "joining",
+    "trans": [
+      "n. 连接；接缝；连接物"
+    ],
+    "usphone": "[ˈdʒɔɪnɪŋ]",
+    "ukphone": "[ˈdʒɔɪnɪŋ]"
+  },
+  {
+    "name": "juggler",
+    "trans": [
+      "n. 变戏法的人；玩杂耍的人；骗子"
+    ],
+    "usphone": "[ˈdʒʌɡlər]",
+    "ukphone": "[ˈdʒʌɡlə(r)]"
+  },
+  {
+    "name": "jointed",
+    "trans": [
+      "adj. 有接缝的；有节的，有关节的",
+      "v. 连接，贴合（joint的过去式和过去分词形式）"
+    ],
+    "usphone": "[ˈdʒɔɪntɪd]",
+    "ukphone": "[ˈdʒɔɪntɪd]"
+  },
+  {
+    "name": "jester",
+    "trans": [
+      "n. （中世纪宫廷或贵族家中的）小丑；爱开玩笑的人"
+    ],
+    "usphone": "[ˈdʒestər]",
+    "ukphone": "[ˈdʒestə(r)]"
+  },
+  {
+    "name": "jangle",
+    "trans": [
+      "n. 争吵，吵嚷；刺耳声",
+      "vt. 使发出刺耳声；使争论",
+      "vi. 刺耳响；争论，吵架"
+    ],
+    "usphone": "[ˈdʒæŋɡl]",
+    "ukphone": "[ˈdʒæŋɡl]"
+  },
+  {
+    "name": "Jocasta",
+    "trans": [
+      "n. 伊俄卡斯特(希腊神话人物)"
+    ],
+    "usphone": "[dʒoʊˈkæstə]",
+    "ukphone": "[dʒəʊˈkæstə]"
+  },
+  {
+    "name": "Journey",
+    "trans": [
+      "n. 旅行；行程",
+      "vi. 旅行"
+    ],
+    "usphone": "[ˈdʒɜːrni]",
+    "ukphone": "[ˈdʒɜːni]"
+  },
+  {
+    "name": "joined",
+    "trans": [
+      "v. 加入；参加（join的过去式，过去分词）；[计] 连接"
+    ],
+    "usphone": "[dʒɔɪnd]",
+    "ukphone": "[dʒɔɪnd]"
+  },
+  {
+    "name": "junkman",
+    "trans": [
+      "n. 拾破烂者；拾废铁者"
+    ],
+    "usphone": "[ˈdʒʌŋkmæn]",
+    "ukphone": "[ˈdʒʌŋkˌmæn]"
+  },
+  {
+    "name": "junkie",
+    "trans": [
+      "n. 有毒瘾者；废旧品商人"
+    ],
+    "usphone": "[ˈdʒʌŋki]",
+    "ukphone": "[ˈdʒʌŋki]"
+  },
+  {
+    "name": "jocularity",
+    "trans": [
+      "n. 滑稽；幽默；诙谐的言行"
+    ],
+    "usphone": "[ˌdʒɑːkjəˈlærəti]",
+    "ukphone": "[ˌdʒɒkjəˈlærəti]"
+  },
+  {
+    "name": "jubilate",
+    "trans": [
+      "v. 欢呼"
+    ],
+    "usphone": "[ˈdʒuːbəˌleɪt]",
+    "ukphone": "[ˈdʒuːbɪˌleɪt]"
+  },
+  {
+    "name": "Jacob",
+    "trans": [
+      "n. 雅各（以色列人的祖先）；雅各布（男子名）"
+    ],
+    "usphone": "[ˈdʒeɪkəb]",
+    "ukphone": "[ˈdʒeɪkəb]"
+  },
+  {
+    "name": "Janus",
+    "trans": [
+      "n. （古罗马的）两面神"
+    ],
+    "usphone": "[ˈdʒeɪnəs]",
+    "ukphone": "[ˈdʒeɪnəs]"
+  },
+  {
+    "name": "jazzy",
+    "trans": [
+      "adj. 爵士乐的；奔放的；花哨的"
+    ],
+    "usphone": "[ˈdʒæzi]",
+    "ukphone": "[ˈdʒæzi]"
+  },
+  {
+    "name": "Jean",
+    "trans": [
+      "n. 牛仔裤；[纺] 斜纹棉布"
+    ],
+    "usphone": "[dʒiːn]",
+    "ukphone": "[dʒiːn]"
+  },
+  {
+    "name": "Jeff",
+    "trans": [
+      "n. 杰夫（男子名，等于Jeffrey）"
+    ],
+    "usphone": "[dʒef]",
+    "ukphone": "[dʒef]"
+  },
+  {
+    "name": "Jeremiah",
+    "trans": [
+      "n. 耶利米（《圣经》故事人物）；耶利米书"
+    ],
+    "usphone": "[ˌdʒerəˈmaɪə]",
+    "ukphone": "[ˌdʒerəˈmaɪə]"
+  },
+  {
+    "name": "jokey",
+    "trans": [
+      "adj. 滑稽的；好开玩笑的"
+    ],
+    "usphone": "[ˈdʒoʊki]",
+    "ukphone": "[ˈdʒəʊki]"
+  },
+  {
+    "name": "jolty",
+    "trans": [
+      "a. 摇动的, 颠簸的"
+    ],
+    "usphone": "[ˈdʒoʊlti]",
+    "ukphone": "[ˈdʒəʊlti]"
+  },
+  {
+    "name": "junto",
+    "trans": [
+      "n. 政治集团；秘密结社；团体"
+    ],
+    "usphone": "[ˈdʒʌntoʊ]",
+    "ukphone": "[ˈdʒʊntəʊ]"
+  },
+  {
+    "name": "jersey",
+    "trans": [
+      "n. 运动衫，毛线衫"
+    ],
+    "usphone": "[ˈdʒɜːrzi]",
+    "ukphone": "[ˈdʒɜːzi]"
+  },
+  {
+    "name": "joiner",
+    "trans": [
+      "n. 接合者；工匠"
+    ],
+    "usphone": "[ˈdʒɔɪnər]",
+    "ukphone": "[ˈdʒɔɪnə(r)]"
+  },
+  {
+    "name": "jaguar",
+    "trans": [
+      "n. 捷豹（汽车品牌）"
+    ],
+    "usphone": "[ˈdʒæɡwɑːr]",
+    "ukphone": "[ˈdʒæɡjuə(r)]"
+  },
+  {
+    "name": "jill",
+    "trans": [
+      "n. 少女；情人"
+    ],
+    "usphone": "[dʒɪl]",
+    "ukphone": "[dʒɪl]"
+  },
+  {
+    "name": "Jennifer",
+    "trans": [
+      "n. 詹尼弗（女子名）"
+    ],
+    "usphone": "[ˈdʒenəfər]",
+    "ukphone": "[ˈdʒenɪfə(r)]"
+  },
+  {
+    "name": "Jim",
+    "trans": [
+      "n. 吉姆（人名）"
+    ],
+    "usphone": "[ˈdʒɪm]",
+    "ukphone": "[dʒɪm]"
+  },
+  {
+    "name": "jet-black",
+    "trans": [
+      "adj. 黑而发亮的；墨黑的；黑玉色的"
+    ],
+    "usphone": "[ˌdʒet ˈblæk]",
+    "ukphone": "[ˌdʒet ˈblæk]"
+  },
+  {
+    "name": "jangling",
+    "trans": [
+      "n. 争吵，吵嚷；刺耳声",
+      "vt. 使发出刺耳声；使争论",
+      "vi. 刺耳响；争论，吵架"
+    ],
+    "usphone": "[ˈdʒæŋɡlɪŋ]",
+    "ukphone": "[ˈdʒæŋɡ(ə)lɪŋ]"
+  },
+  {
+    "name": "James",
+    "trans": [
+      "n. 詹姆斯（姓氏，男子名）；《雅各书》"
+    ],
+    "usphone": "[dʒeimz]",
+    "ukphone": "[dʒeɪmz]"
+  },
+  {
+    "name": "Jake",
+    "trans": [
+      "n. 家伙，乡下佬",
+      "adj. 上等的，满意的"
+    ],
+    "usphone": "[dʒeɪk]",
+    "ukphone": "[dʒeɪk]"
+  },
+  {
+    "name": "jejunal",
+    "trans": [
+      "adj. 空肠的"
+    ],
+    "usphone": "[dʒɪˈdʒuːnl]",
+    "ukphone": "[dʒɪˈdʒuːnl]"
+  },
+  {
+    "name": "juxtaglomerular",
+    "trans": [
+      "a. [生理]近肾小球的"
+    ],
+    "usphone": "[dʒʌkstəɡlɒˈmerʊlər]",
+    "ukphone": "[dʒʌkstəɡlɒˈmerʊlə(r)]"
+  },
+  {
+    "name": "Judaism",
+    "trans": [
+      "n. 犹太教；犹太主义；（总称）犹太人"
+    ],
+    "usphone": "[ˈdʒuːdiɪzəmˌˈdʒuːdeɪɪzəm]",
+    "ukphone": "[ˈdʒuːdeɪɪzəm]"
+  },
+  {
+    "name": "jailer",
+    "trans": [
+      "n. 狱卒，看守监狱的人"
+    ],
+    "usphone": "[ˈdʒeɪlər]",
+    "ukphone": "[ˈdʒeɪlə(r)]"
+  },
+  {
+    "name": "jeweler",
+    "trans": [
+      "n. 珠宝商；宝石匠；钟表匠；钟表商"
+    ],
+    "usphone": "[ˈdʒuːələr]",
+    "ukphone": "[ˈdʒuːələ(r)]"
+  },
+  {
+    "name": "Jasper",
+    "trans": [
+      "n. 碧玉；墨绿色"
+    ],
+    "usphone": "[ˈdʒæspər]",
+    "ukphone": "[ˈdʒæspə(r)]"
+  },
+  {
+    "name": "jump the gun",
+    "trans": [
+      "na. 操之过急；草率行事"
+    ],
+    "usphone": "[dʒʌmp ðə ɡʌn]",
+    "ukphone": "[dʒʌmp ðə ɡʌn]"
+  },
+  {
+    "name": "juridical",
+    "trans": [
+      "adj. 司法的；法院的；裁判上的"
+    ],
+    "usphone": "[dʒʊˈrɪdɪkl]",
+    "ukphone": "[dʒʊəˈrɪdɪkl]"
+  },
+  {
+    "name": "Jill",
+    "trans": [
+      "n. 少女；情人"
+    ],
+    "usphone": "[dʒɪl]",
+    "ukphone": "[dʒɪl]"
+  },
+  {
+    "name": "Joe",
+    "trans": [
+      "n. 乔（男子名）"
+    ],
+    "usphone": "[dʒoʊ]",
+    "ukphone": "[dʒəʊ]"
+  },
+  {
+    "name": "Johnny",
+    "trans": [
+      "n. 男人；家伙；短袖无领病号服"
+    ],
+    "usphone": "[ˈdʒɑːni]",
+    "ukphone": "[ˈdʒɒni]"
+  },
+  {
+    "name": "Jackson",
+    "trans": [
+      "n. 杰克逊（男子名）；杰克逊（美国密西西比州的城市）"
+    ],
+    "usphone": "[ˈdʒæksən]",
+    "ukphone": "[ˈdʒæksən]"
+  },
+  {
+    "name": "Jordan",
+    "trans": [
+      "n. 约旦（阿拉伯北部的国家）；乔丹（男子名）"
+    ],
+    "usphone": "[ˈdʒɔːrdn]",
+    "ukphone": "[ˈdʒɔːdn]"
+  },
+  {
+    "name": "joust",
+    "trans": [
+      "n. 竞技；厮打",
+      "vi. 进行马上长矛比武；竞争"
+    ],
+    "usphone": "[dʒaʊst]",
+    "ukphone": "[dʒaʊst]"
+  },
+  {
+    "name": "joyously",
+    "trans": [
+      "adv. 快乐地"
+    ],
+    "usphone": "[ˈdʒɔɪəsli]",
+    "ukphone": "[ˈdʒɔɪəsli]"
+  },
+  {
+    "name": "janitress",
+    "trans": [
+      "n. 女门房, 女门警"
+    ],
+    "usphone": "[ˈdʒænɪtrɪs]",
+    "ukphone": "[ˈdʒænətrɪs]"
+  },
+  {
+    "name": "Juror",
+    "trans": [
+      "n. 审查委员，陪审员"
+    ],
+    "usphone": "[ˈdʒʊrər]",
+    "ukphone": "[ˈdʒʊərə(r)]"
+  },
+  {
+    "name": "jumping",
+    "trans": [
+      "adj. 跳跃的",
+      "n. 障碍",
+      "vi. 跳（jump的ing形式）"
+    ],
+    "usphone": "[ˈdʒʌmpɪŋ]",
+    "ukphone": "[ˈdʒʌmpɪŋ]"
+  },
+  {
+    "name": "jihad",
+    "trans": [
+      "n. 讨伐异教徒；拥护运动；护教战争"
+    ],
+    "usphone": "[dʒɪˈhɑːd]",
+    "ukphone": "[dʒɪˈhɑːd]"
+  },
+  {
+    "name": "Jordanian",
+    "trans": [
+      "adj. 约旦的；约旦人的",
+      "n. 约旦人"
+    ],
+    "usphone": "[dʒɔːrˈdeɪniən]",
+    "ukphone": "[dʒɔːˈdeɪniən]"
+  },
+  {
+    "name": "jig",
+    "trans": [
+      "vi. 跳吉格舞；抖动；加工用钩钓鱼；用夹具或钻模等加工",
+      "n. 夹具；吉格舞，吉格舞曲；带锤子的钓钩",
+      "vt. 按吉格舞曲演奏；使上下快速抖动；加工用钩钓鱼；对…加工"
+    ],
+    "usphone": "[dʒɪɡ]",
+    "ukphone": "[dʒɪɡ]"
+  },
+  {
+    "name": "Jesuit",
+    "trans": [
+      "n. 耶稣会信徒；阴险的人（等于jersuit）"
+    ],
+    "usphone": "[ˈdʒeʒʊɪt]",
+    "ukphone": "[ˈdʒezjuɪt]"
+  },
+  {
+    "name": "jukebox",
+    "trans": [
+      "n. 自动唱机"
+    ],
+    "usphone": "[ˈdʒuːkbɑːks]",
+    "ukphone": "[ˈdʒuːkbɒks]"
+  },
+  {
+    "name": "jammed",
+    "trans": [
+      "adj. 堵塞的；拥挤的；轧住了的"
+    ],
+    "usphone": "[dʒæmd]",
+    "ukphone": "[dʒæmd]"
+  },
+  {
+    "name": "Jurassic",
+    "trans": [
+      "adj. 侏罗纪的；侏罗系的",
+      "n. [地质] 侏罗纪"
+    ],
+    "usphone": "[dʒʊˈræsɪk]",
+    "ukphone": "[dʒʊˈræsɪk]"
+  },
+  {
+    "name": "junkyard",
+    "trans": [
+      "n. 废品旧货栈；废物堆积场；旧汽车丢弃的地方"
+    ],
+    "usphone": "[ˈdʒʌŋkjɑːrd]",
+    "ukphone": "[ˈdʒʌŋkjɑːd]"
+  },
+  {
+    "name": "jolting",
+    "trans": [
+      "n. 震动；震压造型",
+      "v. 震动；颠簸（jolt的ing形式）；慌乱"
+    ],
+    "usphone": "[dʒolt]",
+    "ukphone": "[ˈdʒəʊltɪŋ]"
+  },
+  {
+    "name": "jazz band",
+    "trans": [
+      "na. 爵士乐队"
+    ],
+    "usphone": "[dʒæz bænd]",
+    "ukphone": "[dʒæz bænd]"
+  },
+  {
+    "name": "joint-stock company",
+    "trans": [
+      "股份公司"
+    ],
+    "usphone": "['dʒɔintstɔk]",
+    "ukphone": "[ˌdʒɔɪnt ˈstɒk kʌmpəni]"
+  },
+  {
+    "name": "jurisdictional",
+    "trans": [
+      "adj. 管辖权的；司法的；司法权的；裁判权的"
+    ],
+    "usphone": "[ˌdʒʊrɪsˈdɪkʃənl]",
+    "ukphone": "[ˌdʒʊərɪsˈdɪkʃənl]"
+  },
+  {
+    "name": "jet black",
+    "trans": [
+      "adj. 乌黑发亮的"
+    ],
+    "usphone": "[ˌdʒet ˈblæk]",
+    "ukphone": "[ˌdʒet ˈblæk]"
+  },
+  {
+    "name": "josh",
+    "trans": [
+      "vi. 戏弄",
+      "vt. 戏弄",
+      "n. 玩笑"
+    ],
+    "usphone": "[dʒɑːʃ]",
+    "ukphone": "[dʒɒʃ]"
+  },
+  {
+    "name": "jounce",
+    "trans": [
+      "vt. 使颠簸；使震动",
+      "vi. 颠簸，震动",
+      "n. 震动，颠簸"
+    ],
+    "usphone": "[dʒaʊns]",
+    "ukphone": "[dʒaʊns]"
+  },
+  {
+    "name": "jumpy",
+    "trans": [
+      "adj. 神经质的；跳跃的"
+    ],
+    "usphone": "[ˈdʒʌmpi]",
+    "ukphone": "[ˈdʒʌmpi]"
+  },
+  {
+    "name": "jobs",
+    "trans": [
+      "n. 工作（job的复数形式）"
+    ],
+    "usphone": "[dʒobs]",
+    "ukphone": "[d'ʒɒbz]"
+  },
+  {
+    "name": "journalists",
+    "trans": [
+      "n. 新闻记者（journalist的复数）"
+    ],
+    "usphone": "[ˈdʒɜːrnəlɪst]",
+    "ukphone": "['dʒə:nəlists]"
+  },
+  {
+    "name": "jeremiad",
+    "trans": [
+      "n. 悲叹；伤心的故事"
+    ],
+    "usphone": "[ˌdʒerɪˈmaɪæd]",
+    "ukphone": "[ˌdʒerɪˈmaɪæd]"
+  },
+  {
+    "name": "Jacuzzi",
+    "trans": [
+      "n. 极可意水流按摩浴缸"
+    ],
+    "usphone": "[dʒəˈkuːzi]",
+    "ukphone": "[dʒəˈkuːzi]"
+  },
+  {
+    "name": "job-hopping",
+    "trans": [
+      "n. 跳槽"
+    ],
+    "usphone": "['dʒɔbhɔpiŋ]",
+    "ukphone": "['dʒɔbhɔpiŋ]"
+  },
+  {
+    "name": "Jonathan",
+    "trans": [
+      "n. 乔纳森（男子名）"
+    ],
+    "usphone": "[ˈdʒɑːnəθən]",
+    "ukphone": "[ˈdʒɒnəθən]"
+  },
+  {
+    "name": "jocose",
+    "trans": [
+      "adj. 诙谐的；开玩笑的"
+    ],
+    "usphone": "[dʒəˈkoʊs]",
+    "ukphone": "[dʒəˈkəʊs]"
+  },
+  {
+    "name": "Jessica",
+    "trans": [
+      "n. 杰西卡（女子名）"
+    ],
+    "usphone": "[ˈdʒesikə]",
+    "ukphone": "[ˈdʒesɪkə]"
+  },
+  {
+    "name": "jobber",
+    "trans": [
+      "n. 批发商；股票经纪人；临时工"
+    ],
+    "usphone": "[ˈdʒɑːbər]",
+    "ukphone": "[ˈdʒɒbə(r)]"
+  },
+  {
+    "name": "jowl",
+    "trans": [
+      "n. 颌；颚骨；面颊",
+      "vt. 碰；摇动",
+      "vi. 颠簸前进；敲钟"
+    ],
+    "usphone": "[dʒaʊl]",
+    "ukphone": "[dʒaʊl]"
+  },
+  {
+    "name": "jackscrew",
+    "trans": [
+      "n. 螺旋起重机；起重螺旋；顶丝"
+    ],
+    "usphone": "[ˈdʒækˌskrʊ]",
+    "ukphone": "[ˈdʒækˌskruː]"
+  },
+  {
+    "name": "jawbone",
+    "trans": [
+      "n. 颚骨；信用；下颚骨",
+      "vt. 赊买",
+      "vi. 赊买"
+    ],
+    "usphone": "[ˈdʒɔːboʊn]",
+    "ukphone": "[ˈdʒɔːbəʊn]"
+  },
+  {
+    "name": "Janet",
+    "trans": [
+      "abbr. 联合科研网（joint academic network ）"
+    ],
+    "usphone": "[ˈdʒænət]",
+    "ukphone": "['dʒænit]"
+  },
+  {
+    "name": "judicature",
+    "trans": [
+      "n. 司法；法官；司法权；法官的职位"
+    ],
+    "usphone": "[ˈdʒuːdɪkətʃər]",
+    "ukphone": "[ˈdʒuːdɪkətʃə(r)]"
+  },
+  {
+    "name": "joggle",
+    "trans": [
+      "vt. 啮合；摇动，摇曳；轻摇",
+      "vi. 啮合；摇动，摇曳；摇曳",
+      "n. 啮合；轻摇，摇动；榫接"
+    ],
+    "usphone": "[ˈdʒɑːɡl]",
+    "ukphone": "[ˈdʒɒɡ(ə)l]"
+  },
+  {
+    "name": "joule",
+    "trans": [
+      "n. 焦耳"
+    ],
+    "usphone": "[dʒuːl]",
+    "ukphone": "[dʒuːl]"
+  },
+  {
+    "name": "jaws",
+    "trans": [
+      "n. 口；狭口；咽喉"
+    ],
+    "usphone": "[dʒɔːz]",
+    "ukphone": "[dʒɔːz]"
+  },
+  {
+    "name": "jump-start",
+    "trans": [
+      "vt. 起动；发动",
+      "n. 助动启动"
+    ],
+    "usphone": "[ˈdʒʌmp stɑːrt]",
+    "ukphone": "[ˈdʒʌmp stɑːt]"
+  },
+  {
+    "name": "Jason",
+    "trans": [
+      "n. 詹森（男子名）"
+    ],
+    "usphone": "[ˈdʒeɪsn]",
+    "ukphone": "[ˈdʒeɪs(ə)n]"
+  },
+  {
+    "name": "jump up",
+    "trans": [
+      "na. 同“jump”"
+    ],
+    "usphone": "[dʒʌmp ʌp]",
+    "ukphone": "[dʒʌmp ʌp]"
+  },
+  {
+    "name": "joker",
+    "trans": [
+      "n. 爱开玩笑的人；家伙；丑角牌"
+    ],
+    "usphone": "[ˈdʒoʊkər]",
+    "ukphone": "[ˈdʒəʊkə(r)]"
+  },
+  {
+    "name": "jadeite",
+    "trans": [
+      "n. 翡翠；[宝] 硬玉"
+    ],
+    "usphone": "[ˈdʒeɪdaɪt]",
+    "ukphone": "[ˈdʒeɪdaɪt]"
+  },
+  {
+    "name": "Jenny",
+    "trans": [
+      "n. 詹妮(女子名)[Jennifer 的昵称]"
+    ],
+    "usphone": "[ˈdʒeni]",
+    "ukphone": "[ˈdʒeni]"
+  },
+  {
+    "name": "Jane",
+    "trans": [
+      "n. 简（女子名）"
+    ],
+    "usphone": "[dʒeɪn]",
+    "ukphone": "[dʒeɪn]"
+  },
+  {
+    "name": "John",
+    "trans": [
+      "n. 厕所"
+    ],
+    "usphone": "[dʒɑːn]",
+    "ukphone": "[dʒɒn]"
+  },
+  {
+    "name": "jubilance",
+    "trans": [
+      "n. 欢呼，喜洋洋"
+    ],
+    "usphone": "[ˈdʒuːbɪləns]",
+    "ukphone": "[ˈdʒuːbɪləns]"
+  },
+  {
+    "name": "jalapeno",
+    "trans": [
+      "n. 墨西哥胡椒"
+    ],
+    "usphone": "[ˌhɑːləˈpeɪnjoʊ]",
+    "ukphone": "[ˌhæləˈpeɪnjəʊ]"
+  },
+  {
+    "name": "jiggle",
+    "trans": [
+      "n. 轻摇；微动",
+      "vt. 轻摇"
+    ],
+    "usphone": "[ˈdʒɪɡl]",
+    "ukphone": "[ˈdʒɪɡl]"
+  },
+  {
+    "name": "judgmental",
+    "trans": [
+      "adj. 审判的"
+    ],
+    "usphone": "[dʒʌdʒˈmentl]",
+    "ukphone": "[dʒʌdʒˈment(ə)l]"
+  },
+  {
+    "name": "jock",
+    "trans": [
+      "n. 苏格兰高原地方的士兵；（大学）运动员；乔克（男子名）"
+    ],
+    "usphone": "[dʒɑːk]",
+    "ukphone": "[dʒɒk]"
+  },
+  {
+    "name": "jeez",
+    "trans": [
+      "int. 呀"
+    ],
+    "usphone": "[dʒiːz]",
+    "ukphone": "[dʒiːz]"
+  },
+  {
+    "name": "john",
+    "trans": [
+      "n. 厕所"
+    ],
+    "usphone": "[dʒɑːn]",
+    "ukphone": "[dʒɒn]"
+  },
+  {
+    "name": "jetliner",
+    "trans": [
+      "n. 喷气客机"
+    ],
+    "usphone": "[ˈdʒetlaɪnər]",
+    "ukphone": "[ˈdʒetlaɪnə(r)]"
+  },
+  {
+    "name": "joist",
+    "trans": [
+      "n. 托梁；搁栅",
+      "vt. 为…架搁栅；为…装托梁"
+    ],
+    "usphone": "[dʒɔɪst]",
+    "ukphone": "[dʒɔɪst]"
+  },
+  {
+    "name": "juggling",
+    "trans": [
+      "adj. 欺诈的；变戏法的；欺骗的",
+      "n. 杂耍；欺骗（等于jugglery）",
+      "v. 玩杂耍（juggle的ing形式）"
+    ],
+    "usphone": "[ˈdʒʌɡlɪŋ]",
+    "ukphone": "[ˈdʒʌɡ(ə)lɪŋ]"
+  },
+  {
+    "name": "joyfulness",
+    "trans": [
+      "n. 快乐"
+    ],
+    "usphone": "[ˈdʒɔɪflnəs]",
+    "ukphone": "[ˈdʒɔɪflnəs]"
+  },
+  {
+    "name": "Jones",
+    "trans": [
+      "n. 琼斯（姓氏）"
+    ],
+    "usphone": "[dʒoʊnz]",
+    "ukphone": "[dʒəunz]"
+  },
+  {
+    "name": "jazz up",
+    "trans": [
+      "v. 以爵士乐方式演奏；使…活泼有趣；以鲜艳颜色装饰"
+    ],
+    "usphone": "[dʒæz ʌp]",
+    "ukphone": "[dʒæz ʌp]"
+  },
+  {
+    "name": "jew",
+    "trans": [
+      "n. 犹太人；犹太教徒；守财奴",
+      "vt. 欺骗；杀价"
+    ],
+    "usphone": "[dʒuː]",
+    "ukphone": "[dʒuː]"
+  },
+  {
+    "name": "jeweled",
+    "trans": [
+      "adj. 饰有宝石的"
+    ],
+    "usphone": "[ˈdʒuːəld]",
+    "ukphone": "[ˈdʒuːəld]"
+  }
+]

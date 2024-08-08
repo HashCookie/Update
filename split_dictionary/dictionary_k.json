@@ -1,0 +1,2317 @@
+[
+  {
+    "name": "kin",
+    "trans": [
+      "n. 亲戚；家族；同族",
+      "adj. 同类的；有亲属关系的；性质类似的"
+    ],
+    "usphone": "[kɪn]",
+    "ukphone": "[kɪn]"
+  },
+  {
+    "name": "knowledge",
+    "trans": [
+      "n. 知识，学问；知道，认识；学科"
+    ],
+    "usphone": "[ˈnɑːlɪdʒ]",
+    "ukphone": "[ˈnɒlɪdʒ]"
+  },
+  {
+    "name": "knit",
+    "trans": [
+      "vi. 编织；结合；皱眉",
+      "vt. 编织；结合",
+      "n. 编织衣物；编织法"
+    ],
+    "usphone": "[nɪt]",
+    "ukphone": "[nɪt]"
+  },
+  {
+    "name": "king",
+    "trans": [
+      "n. 国王；最有势力者；王棋",
+      "vi. 统治；做国王",
+      "vt. 立…为王",
+      "adj. 主要的，最重要的，最大的"
+    ],
+    "usphone": "[kɪŋ]",
+    "ukphone": "[kɪŋ]"
+  },
+  {
+    "name": "kingdom",
+    "trans": [
+      "n. 王国；界；领域"
+    ],
+    "usphone": "[ˈkɪŋdəm]",
+    "ukphone": "[ˈkɪŋdəm]"
+  },
+  {
+    "name": "kit",
+    "trans": [
+      "n. 工具箱；成套工具",
+      "vt. 装备",
+      "vi. 装备"
+    ],
+    "usphone": "[kɪt]",
+    "ukphone": "[kɪt]"
+  },
+  {
+    "name": "keyboard",
+    "trans": [
+      "n. 键盘",
+      "vt. 键入；用键盘式排字机排字",
+      "vi. 用键盘进行操作；作键盘式排字机排字"
+    ],
+    "usphone": "[ˈkiːbɔːrd]",
+    "ukphone": "[ˈkiːbɔːd]"
+  },
+  {
+    "name": "knock",
+    "trans": [
+      "vi. 敲；打；敲击",
+      "vt. 敲；打；敲击；批评",
+      "n. 敲；敲打；爆震声"
+    ],
+    "usphone": "[nɑːk]",
+    "ukphone": "[nɒk]"
+  },
+  {
+    "name": "knock out",
+    "trans": [
+      "na. 敲出；敲空；使屈服；使无用"
+    ],
+    "usphone": "['nɔkaut]",
+    "ukphone": "['nɔkaut]"
+  },
+  {
+    "name": "knot",
+    "trans": [
+      "n. （绳等的）结；节瘤，疙瘩；海里/小时（航速单位）",
+      "vt. 打结",
+      "vi. 打结"
+    ],
+    "usphone": "[nɑːt]",
+    "ukphone": "[nɒt]"
+  },
+  {
+    "name": "kidnap",
+    "trans": [
+      "vt. 绑架；诱拐；拐骗"
+    ],
+    "usphone": "[ˈkɪdnæp]",
+    "ukphone": "[ˈkɪdnæp]"
+  },
+  {
+    "name": "kidney",
+    "trans": [
+      "n. [解剖] 肾脏；腰子；个性"
+    ],
+    "usphone": "[ˈkɪdni]",
+    "ukphone": "[ˈkɪdni]"
+  },
+  {
+    "name": "kneel",
+    "trans": [
+      "vi. 跪下，跪"
+    ],
+    "usphone": "[niːl]",
+    "ukphone": "[niːl]"
+  },
+  {
+    "name": "knob",
+    "trans": [
+      "n. 把手；瘤；球形突出物",
+      "vi. 鼓起",
+      "vt. 使有球形突出物"
+    ],
+    "usphone": "[nɑːb]",
+    "ukphone": "[nɒb]"
+  },
+  {
+    "name": "keen",
+    "trans": [
+      "adj. 敏锐的，敏捷的；渴望的；强烈的；热心的；锐利的",
+      "n. 痛哭，挽歌"
+    ],
+    "usphone": "[kiːn]",
+    "ukphone": "[kiːn]"
+  },
+  {
+    "name": "keep",
+    "trans": [
+      "vt. 保持；经营；遵守；饲养",
+      "vi. 保持；继续不断",
+      "n. 保持；生计；生活费"
+    ],
+    "usphone": "[kiːp]",
+    "ukphone": "[kiːp]"
+  },
+  {
+    "name": "kettle",
+    "trans": [
+      "n. 壶；[化工] 釜；罐；鼓"
+    ],
+    "usphone": "[ˈketl]",
+    "ukphone": "[ˈket(ə)l]"
+  },
+  {
+    "name": "key",
+    "trans": [
+      "n. （打字机等的）键；关键；钥匙",
+      "vt. 键入；锁上；调节…的音调；提供线索",
+      "vi. 使用钥匙",
+      "adj. 关键的"
+    ],
+    "usphone": "[kiː]",
+    "ukphone": "[kiː]"
+  },
+  {
+    "name": "kick",
+    "trans": [
+      "vt. 踢；反冲，朝后座",
+      "n. 踢；反冲，后座力",
+      "vi. 踢；反冲"
+    ],
+    "usphone": "[kɪk]",
+    "ukphone": "[kɪk]"
+  },
+  {
+    "name": "kid",
+    "trans": [
+      "n. 小孩；小山羊",
+      "vt. 欺骗；取笑；戏弄",
+      "vi. 欺骗；取笑；戏弄",
+      "adj. 小山羊皮制的；较年幼的"
+    ],
+    "usphone": "[kɪd]",
+    "ukphone": "[kɪd]"
+  },
+  {
+    "name": "kill",
+    "trans": [
+      "vt. 杀死；扼杀；使终止；抵消",
+      "vi. 杀死",
+      "n. 杀戮；屠杀",
+      "adj. 致命的；致死的"
+    ],
+    "usphone": "[kɪl]",
+    "ukphone": "[kɪl]"
+  },
+  {
+    "name": "kilo",
+    "trans": [
+      "n. 千克"
+    ],
+    "usphone": "[ˈkilo]",
+    "ukphone": "[ˈkiːləʊ]"
+  },
+  {
+    "name": "kilogram",
+    "trans": [
+      "n. 公斤；千克"
+    ],
+    "usphone": "[ˈkɪləɡræm]",
+    "ukphone": "[ˈkɪləɡræm]"
+  },
+  {
+    "name": "kilogramme",
+    "trans": [
+      "n. 公斤; 千克"
+    ],
+    "usphone": "[ˈkɪləˌɡræm]",
+    "ukphone": "[ˈkɪləɡræm]"
+  },
+  {
+    "name": "kilometre",
+    "trans": [
+      "n. [计量] 公里；[计量] 千米"
+    ],
+    "usphone": "[kɪˈlɑːmɪtər]",
+    "ukphone": "[kɪˈlɒmɪtə(r)]"
+  },
+  {
+    "name": "kilometer",
+    "trans": [
+      "n. [计量] 公里；[计量] 千米（等于kilometre）"
+    ],
+    "usphone": "[kɪˈlɑːmɪtər]",
+    "ukphone": "[kɪˈlɒmɪtə(r)]"
+  },
+  {
+    "name": "kind",
+    "trans": [
+      "n. 种类；性质",
+      "adj. 和蔼的；宽容的；令人感激的"
+    ],
+    "usphone": "[kaɪnd]",
+    "ukphone": "[kaɪnd]"
+  },
+  {
+    "name": "kindergarten",
+    "trans": [
+      "n. 幼儿园；幼稚园"
+    ],
+    "usphone": "[ˈkɪndərɡɑːrt(ə)n]",
+    "ukphone": "[ˈkɪndəɡɑːt(ə)n]"
+  },
+  {
+    "name": "kindness",
+    "trans": [
+      "n. 仁慈；好意；友好的行为"
+    ],
+    "usphone": "[ˈkaɪndnəs]",
+    "ukphone": "[ˈkaɪndnəs]"
+  },
+  {
+    "name": "kiss",
+    "trans": [
+      "vt. 吻；（风等）轻拂",
+      "vi. 接吻；（风等）轻触",
+      "n. 吻；轻拂"
+    ],
+    "usphone": "[kɪs]",
+    "ukphone": "[kɪs]"
+  },
+  {
+    "name": "kitchen",
+    "trans": [
+      "n. 厨房；炊具；炊事人员"
+    ],
+    "usphone": "[ˈkɪtʃɪn]",
+    "ukphone": "[ˈkɪtʃɪn]"
+  },
+  {
+    "name": "kite",
+    "trans": [
+      "n. 风筝",
+      "vi. 使用空头支票；像风筝一样飞；轻快地移动",
+      "vt. 骗钱；涂改（支票）"
+    ],
+    "usphone": "[kaɪt]",
+    "ukphone": "[kaɪt]"
+  },
+  {
+    "name": "knee",
+    "trans": [
+      "n. 膝盖，膝",
+      "vt. 用膝盖碰"
+    ],
+    "usphone": "[niː]",
+    "ukphone": "[niː]"
+  },
+  {
+    "name": "knife",
+    "trans": [
+      "n. 刀；匕首",
+      "vt. 用刀切；（口）伤害",
+      "vi. 劈开；划过"
+    ],
+    "usphone": "[naɪf]",
+    "ukphone": "[naɪf]"
+  },
+  {
+    "name": "know",
+    "trans": [
+      "vt. 知道；认识；懂得",
+      "vi. 了解；熟悉；确信"
+    ],
+    "usphone": "[noʊ]",
+    "ukphone": "[nəʊ]"
+  },
+  {
+    "name": "Kenya",
+    "trans": [
+      "n. 肯尼亚（东非国家）"
+    ],
+    "usphone": "[ˈkinjə]",
+    "ukphone": "[ˈkenjə]"
+  },
+  {
+    "name": "ketchup",
+    "trans": [
+      "n. 番茄酱"
+    ],
+    "usphone": "[ˈketʃəp]",
+    "ukphone": "[ˈketʃəp]"
+  },
+  {
+    "name": "kindle",
+    "trans": [
+      "vt. 点燃；激起；照亮",
+      "vi. 发亮；着火；激动起来"
+    ],
+    "usphone": "[ˈkɪnd(ə)l]",
+    "ukphone": "[ˈkɪnd(ə)l]"
+  },
+  {
+    "name": "keynote",
+    "trans": [
+      "n. 基调；主旨；主音",
+      "vt. 给…定基调；说明基本政策",
+      "vi. 作主旨发言"
+    ],
+    "usphone": "[ˈkiːnoʊt]",
+    "ukphone": "[ˈkiːnəʊt]"
+  },
+  {
+    "name": "kowtow",
+    "trans": [
+      "vi. 叩头；卑躬屈膝",
+      "n. 叩头"
+    ],
+    "usphone": "[ˌkaʊˈtaʊ]",
+    "ukphone": "[ˌkaʊˈtaʊ]"
+  },
+  {
+    "name": "killer",
+    "trans": [
+      "n. 杀手；致死；止痛药；宰杀的器具；断路器"
+    ],
+    "usphone": "[ˈkɪlər]",
+    "ukphone": "[ˈkɪlə(r)]"
+  },
+  {
+    "name": "kiwi",
+    "trans": [
+      "n. 猕猴桃；几维（一种新西兰产的无翼鸟）；新西兰人"
+    ],
+    "usphone": "[ˈkiːwi]",
+    "ukphone": "[ˈkiːwi]"
+  },
+  {
+    "name": "keyword",
+    "trans": [
+      "n. 密码；关键字"
+    ],
+    "usphone": "[ˈkiːwɜːrd]",
+    "ukphone": "[ˈkiːwɜːd]"
+  },
+  {
+    "name": "kelp",
+    "trans": [
+      "n. [植] 巨藻，海藻；海草灰",
+      "vi. 烧制海草灰"
+    ],
+    "usphone": "[kelp]",
+    "ukphone": "[kelp]"
+  },
+  {
+    "name": "kangaroo",
+    "trans": [
+      "n. 袋鼠"
+    ],
+    "usphone": "[ˌkæŋɡəˈruː]",
+    "ukphone": "[ˌkæŋɡəˈruː]"
+  },
+  {
+    "name": "koala",
+    "trans": [
+      "n. 树袋熊，无尾熊（产于澳大利亚，又名考拉）"
+    ],
+    "usphone": "[koʊˈɑːlə]",
+    "ukphone": "[kəʊˈɑːlə]"
+  },
+  {
+    "name": "kaleidoscope",
+    "trans": [
+      "n. 万花筒；千变万化"
+    ],
+    "usphone": "[kəˈlaɪdəskoʊp]",
+    "ukphone": "[kəˈlaɪdəskəʊp]"
+  },
+  {
+    "name": "keeper",
+    "trans": [
+      "n. 监护人；饲养员；看守人；管理人"
+    ],
+    "usphone": "[ˈkiːpər]",
+    "ukphone": "[ˈkiːpə(r)]"
+  },
+  {
+    "name": "kiosk",
+    "trans": [
+      "n. 凉亭；公用电话亭；报摊"
+    ],
+    "usphone": "[ˈkiːɑːsk]",
+    "ukphone": "[ˈkiːɒsk]"
+  },
+  {
+    "name": "knight",
+    "trans": [
+      "n. 骑士，武士；爵士",
+      "vt. 授以爵位"
+    ],
+    "usphone": "[naɪt]",
+    "ukphone": "[naɪt]"
+  },
+  {
+    "name": "knotty",
+    "trans": [
+      "adj. 棘手的，难解决的；[木] 多节的；有结的"
+    ],
+    "usphone": "[ˈnɑːti]",
+    "ukphone": "[ˈnɒti]"
+  },
+  {
+    "name": "knowledgeable",
+    "trans": [
+      "adj. 知识渊博的，有知识的；有见识的；聪明的"
+    ],
+    "usphone": "[ˈnɑːlɪdʒəbl]",
+    "ukphone": "[ˈnɒlɪdʒəbl]"
+  },
+  {
+    "name": "kinetoscope",
+    "trans": [
+      "n. 活动电影放映机"
+    ],
+    "usphone": "[kɪˈnɪtəˌskoʊp]",
+    "ukphone": "[kaɪˈniːtəˌskəʊp]"
+  },
+  {
+    "name": "kiln",
+    "trans": [
+      "vt. 烧窑；在干燥炉干燥",
+      "n. （砖，石灰等的）窑；炉；干燥炉"
+    ],
+    "usphone": "[kɪln]",
+    "ukphone": "[kɪln]"
+  },
+  {
+    "name": "kayak",
+    "trans": [
+      "n. 皮船；爱斯基摩小艇"
+    ],
+    "usphone": "[ˈkaɪæk]",
+    "ukphone": "[ˈkaɪæk]"
+  },
+  {
+    "name": "keep fit",
+    "trans": [
+      "na. 保持健康"
+    ],
+    "usphone": "[ˌkiːp ˈfɪt]",
+    "ukphone": "[ˌkiːp ˈfɪt]"
+  },
+  {
+    "name": "knead",
+    "trans": [
+      "vt. 揉合，揉捏；按摩；捏制"
+    ],
+    "usphone": "[niːd]",
+    "ukphone": "[niːd]"
+  },
+  {
+    "name": "keel",
+    "trans": [
+      "vt. 给…装龙骨；把…翻转",
+      "n. 龙骨；平底船；龙骨脊",
+      "vi. 翻倒；倾覆"
+    ],
+    "usphone": "[kiːl]",
+    "ukphone": "[kiːl]"
+  },
+  {
+    "name": "knack",
+    "trans": [
+      "n. 诀窍；本领；熟练技术；巧妙手法"
+    ],
+    "usphone": "[næk]",
+    "ukphone": "[næk]"
+  },
+  {
+    "name": "kennel",
+    "trans": [
+      "n. 狗屋；养狗场；[建] 阴沟；一群狗",
+      "vt. 把…关进狗舍；宿于狗舍",
+      "vi. 待在狗舍里"
+    ],
+    "usphone": "[ˈkenl]",
+    "ukphone": "[ˈkenl]"
+  },
+  {
+    "name": "kernel",
+    "trans": [
+      "n. 核心，要点；[计] 内核；仁；麦粒，谷粒；精髓"
+    ],
+    "usphone": "[ˈkɜːrnl]",
+    "ukphone": "[ˈkɜːn(ə)l]"
+  },
+  {
+    "name": "kickoff",
+    "trans": [
+      "n. 开始；开球"
+    ],
+    "usphone": "[ˈkɪkˌɔːf]",
+    "ukphone": "['kikɔf]"
+  },
+  {
+    "name": "kindred",
+    "trans": [
+      "adj. 同类的；血缘的；同族的",
+      "n. 家族；相似；亲属关系"
+    ],
+    "usphone": "[ˈkɪndrəd]",
+    "ukphone": "[ˈkɪndrəd]"
+  },
+  {
+    "name": "kinship",
+    "trans": [
+      "n. [法] 亲属关系，家属关系；亲密关系"
+    ],
+    "usphone": "[ˈkɪnʃɪp]",
+    "ukphone": "[ˈkɪnʃɪp]"
+  },
+  {
+    "name": "kept",
+    "trans": [
+      "adj. 受人资助控制的",
+      "v. 保持；维持；保管（keep的过去式和过去分词）"
+    ],
+    "usphone": "[kept]",
+    "ukphone": "[kept]"
+  },
+  {
+    "name": "katydid",
+    "trans": [
+      "n. 美洲大螽斯；纺织娘"
+    ],
+    "usphone": "[ˈkeɪtidɪd]",
+    "ukphone": "[ˈkeɪtidɪd]"
+  },
+  {
+    "name": "kinsfolk",
+    "trans": [
+      "n. 亲属；家属"
+    ],
+    "usphone": "[ˈkɪnzfoʊk]",
+    "ukphone": "[ˈkɪnzfəʊk]"
+  },
+  {
+    "name": "knee-jerk",
+    "trans": [
+      "n. 下意识，自动反应；膝反射",
+      "adj. 下意识的，自动反应的；膝反射的"
+    ],
+    "usphone": "[ˈniː dʒɜːrk]",
+    "ukphone": "[ˈniː dʒɜːk]"
+  },
+  {
+    "name": "kudzu",
+    "trans": [
+      "n. 野葛"
+    ],
+    "usphone": "[ˈkʊdzuː]",
+    "ukphone": "[ˈkʊdzuː]"
+  },
+  {
+    "name": "keynesian",
+    "trans": [
+      "adj. 凯恩斯理论的；符合凯恩斯理论的",
+      "n. 凯恩斯主义者"
+    ],
+    "usphone": "[ˈkeɪnziən]",
+    "ukphone": "[ˈkeɪnziən]"
+  },
+  {
+    "name": "kick out",
+    "trans": [
+      "na. 踢出；解雇；踢足球出界"
+    ],
+    "usphone": "[kɪk aʊt]",
+    "ukphone": "['kikaut]"
+  },
+  {
+    "name": "karate",
+    "trans": [
+      "n. 空手道（日本的一种徒手武术）"
+    ],
+    "usphone": "[kəˈrɑːti]",
+    "ukphone": "[kəˈrɑːti]"
+  },
+  {
+    "name": "ken",
+    "trans": [
+      "n. 视野范围，见地，知识范围"
+    ],
+    "usphone": "[ken]",
+    "ukphone": "[ken]"
+  },
+  {
+    "name": "kerosene",
+    "trans": [
+      "n. 煤油，火油"
+    ],
+    "usphone": "[ˈkerəsiːn]",
+    "ukphone": "[ˈkerəsiːn]"
+  },
+  {
+    "name": "kilowatt",
+    "trans": [
+      "n. [电] 千瓦（功率单位）"
+    ],
+    "usphone": "[ˈkɪləwɑːt]",
+    "ukphone": "[ˈkɪləwɒt]"
+  },
+  {
+    "name": "kinesthetic",
+    "trans": [
+      "adj. 动觉的（等于kinaesthetic）；肌肉运动知觉的"
+    ],
+    "usphone": "[ˌkɪnɪsˈθetɪk]",
+    "ukphone": "[ˌkaɪnɪsˈθetɪk]"
+  },
+  {
+    "name": "kinaesthetic",
+    "trans": [
+      "adj. 动觉的，（肌肉等的）运动感觉的"
+    ],
+    "usphone": "[ˌkaɪnɪsˈθetɪk]",
+    "ukphone": "[ˌkɪnɪsˈθetɪk]"
+  },
+  {
+    "name": "kinesiatrics",
+    "trans": [
+      "n. 运动疗法"
+    ],
+    "usphone": "[kaɪniːsɪˈætrɪks]",
+    "ukphone": "[kɪˌniːsɪˈætrɪks]"
+  },
+  {
+    "name": "kinetic",
+    "trans": [
+      "adj. [力] 运动的；活跃的"
+    ],
+    "usphone": "[kɪˈnetɪk]",
+    "ukphone": "[kɪˈnetɪk]"
+  },
+  {
+    "name": "knapsack",
+    "trans": [
+      "n. 背包"
+    ],
+    "usphone": "[ˈnæpsæk]",
+    "ukphone": "[ˈnæpsæk]"
+  },
+  {
+    "name": "knitwear",
+    "trans": [
+      "n. 编结的衣物；毛织类"
+    ],
+    "usphone": "[ˈnɪtwer]",
+    "ukphone": "[ˈnɪtweə(r)]"
+  },
+  {
+    "name": "knuckle",
+    "trans": [
+      "n. 关节；指关节；指节；膝关节；肘",
+      "vi. 开始认真工作",
+      "vt. 用指关节敲打"
+    ],
+    "usphone": "[ˈnʌkl]",
+    "ukphone": "[ˈnʌkl]"
+  },
+  {
+    "name": "Korea",
+    "trans": [
+      "n. 韩国；朝鲜"
+    ],
+    "usphone": "[kəˈriə]",
+    "ukphone": "[kəˈriə]"
+  },
+  {
+    "name": "kleptomaniac",
+    "trans": [
+      "n. 有窃盗癖的人"
+    ],
+    "usphone": "[ˌkleptəˈmeɪniæk]",
+    "ukphone": "[ˌkleptəˈmeɪniæk]"
+  },
+  {
+    "name": "knave",
+    "trans": [
+      "n. 无赖；流氓；（纸牌中的）杰克"
+    ],
+    "usphone": "[neɪv]",
+    "ukphone": "[neɪv]"
+  },
+  {
+    "name": "kidney bean",
+    "trans": [
+      "n. 芸豆；【食】菜豆；四季豆"
+    ],
+    "usphone": "[ˈkɪdni biːn]",
+    "ukphone": "[ˈkɪdni biːn]"
+  },
+  {
+    "name": "kitten",
+    "trans": [
+      "n. 小猫；小动物",
+      "vi. 产小猫"
+    ],
+    "usphone": "[ˈkɪt(ə)n]",
+    "ukphone": "[ˈkɪt(ə)n]"
+  },
+  {
+    "name": "knitted",
+    "trans": [
+      "adj. [纺] 针织的；编织的",
+      "v. 编织；使紧密结合（knit的过去分词）"
+    ],
+    "usphone": "[ˈnɪtɪd]",
+    "ukphone": "[ˈnɪtɪd]"
+  },
+  {
+    "name": "knitting",
+    "trans": [
+      "n. 针织；编织物；[外科] 骨愈合",
+      "v. 编织；皱眉（knit的ing形式）"
+    ],
+    "usphone": "[ˈnɪtɪŋ]",
+    "ukphone": "[ˈnɪtɪŋ]"
+  },
+  {
+    "name": "Kivu",
+    "trans": [
+      "n. 基伏（位于刚果民主共和国与卢旺达的边界的湖）"
+    ],
+    "usphone": "['ki:vu:]",
+    "ukphone": "['ki:vu:]"
+  },
+  {
+    "name": "Korean",
+    "trans": [
+      "adj. 韩国人的；韩国语的；朝鲜人的；朝鲜语的",
+      "n. 韩国人；韩国语；朝鲜人；朝鲜语"
+    ],
+    "usphone": "[kəˈriːən]",
+    "ukphone": "[kəˈriən]"
+  },
+  {
+    "name": "keyhole",
+    "trans": [
+      "n. 锁眼；[建] 键孔",
+      "adj. 显示内情的"
+    ],
+    "usphone": "[ˈkiːhoʊl]",
+    "ukphone": "[ˈkiːhəʊl]"
+  },
+  {
+    "name": "keeping",
+    "trans": [
+      "n. 保管；一致；协调；遵守",
+      "v. 保持；遵守（keep的ing形式）"
+    ],
+    "usphone": "[ˈkiːpɪŋ]",
+    "ukphone": "[ˈkiːpɪŋ]"
+  },
+  {
+    "name": "kindhearted",
+    "trans": [
+      "adj. 仁慈的，好心肠的"
+    ],
+    "usphone": "[ˈkaɪndˈhɑrtɪd]",
+    "ukphone": "[ˈkaɪndˈhɑːtɪd]"
+  },
+  {
+    "name": "kidnapper",
+    "trans": [
+      "n. 绑匪；诱拐者"
+    ],
+    "usphone": "[ˈkɪdnæpər]",
+    "ukphone": "[ˈkɪdnæpə(r)]"
+  },
+  {
+    "name": "kaka",
+    "trans": [
+      "n. 橄榄色鹦鹉（产于新西兰）"
+    ],
+    "usphone": "[ˈkɑːkə]",
+    "ukphone": "[ˈkɑːkə]"
+  },
+  {
+    "name": "kauri",
+    "trans": [
+      "n. 杉木的一种或其木材[树脂]"
+    ],
+    "usphone": "[ˈkaʊri]",
+    "ukphone": "[ˈkaʊri]"
+  },
+  {
+    "name": "kowhai",
+    "trans": [
+      "n. （新西兰）四翅槐树"
+    ],
+    "usphone": "[ˈkoʊwaɪ]",
+    "ukphone": "[ˈkəʊwaɪ; ˈkɔːfaɪ]"
+  },
+  {
+    "name": "kinetograph",
+    "trans": [
+      "n. 活动电影摄影机"
+    ],
+    "usphone": "[kɪˈnetəɡræf]",
+    "ukphone": "[kɪˈnetəˌɡrɑːf; kɪˈniːtəˌɡrɑːf]"
+  },
+  {
+    "name": "keyless",
+    "trans": [
+      "adj. 无键的；（钟表等）以转柄上发条的"
+    ],
+    "usphone": "[ˈkilɪs]",
+    "ukphone": "[ˈkiːlɪs]"
+  },
+  {
+    "name": "knighthood",
+    "trans": [
+      "n. 骑士；骑士身份"
+    ],
+    "usphone": "[ˈnaɪthʊd]",
+    "ukphone": "[ˈnaɪthʊd]"
+  },
+  {
+    "name": "kismet",
+    "trans": [
+      "n. 天命；命运"
+    ],
+    "usphone": "[ˈkɪzmet]",
+    "ukphone": "[ˈkɪzmet]"
+  },
+  {
+    "name": "kerb",
+    "trans": [
+      "n. 街头的边石"
+    ],
+    "usphone": "[kɜːrb]",
+    "ukphone": "[kɜːb]"
+  },
+  {
+    "name": "kind-hearted",
+    "trans": [
+      "adj. 仁慈的，好心肠的"
+    ],
+    "usphone": "[ˌkaɪnd ˈhɑːrtɪd]",
+    "ukphone": "[ˌkaɪnd ˈhɑːtɪd]"
+  },
+  {
+    "name": "key ring",
+    "trans": [
+      "n. 钥匙圈；钥匙环"
+    ],
+    "usphone": "[ˈkiː rɪŋ]",
+    "ukphone": "[ˈkiː rɪŋ]"
+  },
+  {
+    "name": "kick-off",
+    "trans": [
+      "n. 开球；剔除；分离"
+    ],
+    "usphone": "[ˈkɪk ɔːf]",
+    "ukphone": "[ˈkɪk ɒf]"
+  },
+  {
+    "name": "Katie",
+    "trans": [
+      "n. 卡蒂（女子名，等于Kate）"
+    ],
+    "usphone": "[ˈkeɪti]",
+    "ukphone": "[ˈkeɪti]"
+  },
+  {
+    "name": "kermis",
+    "trans": [
+      "n. 露天市集，庙会"
+    ],
+    "usphone": "[ˈkɜːrmɪs]",
+    "ukphone": "[ˈkɜːmɪs]"
+  },
+  {
+    "name": "keyboarder",
+    "trans": [
+      "n. 使用键盘者；录入员"
+    ],
+    "usphone": "[ˈkiːbɔːrdər]",
+    "ukphone": "[ˈkiːbɔːdə(r)]"
+  },
+  {
+    "name": "kickback",
+    "trans": [
+      "n. 回扣，佣金；强烈反应；退回赃物"
+    ],
+    "usphone": "[ˈkɪkbæk]",
+    "ukphone": "[ˈkɪkbæk]"
+  },
+  {
+    "name": "kickout",
+    "trans": [
+      "n. 踢球出界, (非正式)撵走, 解雇, 撤职"
+    ],
+    "usphone": "[ˈkɪkaʊt]",
+    "ukphone": "[ˈkɪkaʊt]"
+  },
+  {
+    "name": "knockdown",
+    "trans": [
+      "adj. 击倒的；可拆卸的；廉价的",
+      "n. 把人打倒的一击；可拆卸的东西；降价"
+    ],
+    "usphone": "[ˈnɑːkˌdaʊn]",
+    "ukphone": "[ˈnɒkdaʊn]"
+  },
+  {
+    "name": "know-how",
+    "trans": [
+      "n. 诀窍；实际知识；专门技能"
+    ],
+    "usphone": "[ˈnoʊ haʊ]",
+    "ukphone": "[ˈnəʊ haʊ]"
+  },
+  {
+    "name": "krona",
+    "trans": [
+      "n. 克朗（瑞典及冰岛的货币单位）"
+    ],
+    "usphone": "[ˈkroʊnə]",
+    "ukphone": "[ˈkrəʊnə]"
+  },
+  {
+    "name": "kudos",
+    "trans": [
+      "n. 荣誉；名望；称赞"
+    ],
+    "usphone": "[ˈkuːdɑːs]",
+    "ukphone": "[ˈkjuːdɒs]"
+  },
+  {
+    "name": "kilter",
+    "trans": [
+      "n. 平衡；顺利；良好状态"
+    ],
+    "usphone": "[ˈkɪltər]",
+    "ukphone": "[ˈkɪltə(r)]"
+  },
+  {
+    "name": "killing",
+    "trans": [
+      "adj. 杀害的；迷人的；使人筋疲力尽的",
+      "n. 杀戮；谋杀；猎获物",
+      "v. 杀死；消磨；毁掉（kill的ing形式）"
+    ],
+    "usphone": "[ˈkɪlɪŋ]",
+    "ukphone": "[ˈkɪlɪŋ]"
+  },
+  {
+    "name": "kung fu",
+    "trans": [
+      "n. 功夫（中国拳术）",
+      "v. 用功夫击打(对手)"
+    ],
+    "usphone": "[ˌkʌŋ ˈfuː]",
+    "ukphone": "[,kʌŋ'fu:]"
+  },
+  {
+    "name": "kindly",
+    "trans": [
+      "adv. 亲切地；温和地；仁慈地",
+      "adj. 亲切的；和蔼的；体贴的；爽快的"
+    ],
+    "usphone": "[ˈkaɪndli]",
+    "ukphone": "[ˈkaɪndli]"
+  },
+  {
+    "name": "kickboxing",
+    "trans": [
+      "n. 跆拳道"
+    ],
+    "usphone": "[ˈkɪkˌbɑːksɪŋ]",
+    "ukphone": "[ˈkɪkˌbɒksɪŋ]"
+  },
+  {
+    "name": "kingfisher",
+    "trans": [
+      "n. [鸟] 翠鸟；鱼狗"
+    ],
+    "usphone": "[ˈkɪŋfɪʃər]",
+    "ukphone": "[ˈkɪŋfɪʃə(r)]"
+  },
+  {
+    "name": "Karaoke",
+    "trans": [
+      "n. 卡拉OK；卡拉OK录音，自动伴奏录音"
+    ],
+    "usphone": "[ˌkæriˈoʊki]",
+    "ukphone": "[ˌkæriˈəʊki]"
+  },
+  {
+    "name": "knew",
+    "trans": [
+      "v. 知道；认识；记得（know的过去式）"
+    ],
+    "usphone": "[nuː]",
+    "ukphone": "[njuː]"
+  },
+  {
+    "name": "known",
+    "trans": [
+      "adj. 已知的；知名的；大家知道的",
+      "v. 知道（know的过去分词）"
+    ],
+    "usphone": "[noʊn]",
+    "ukphone": "[nəʊn]"
+  },
+  {
+    "name": "Kung Fu",
+    "trans": [
+      "n. 功夫（中国拳术）",
+      "v. 用功夫击打(对手)"
+    ],
+    "usphone": "[ˌkʌŋ ˈfuː]",
+    "ukphone": "[,kʌŋ'fu:]"
+  },
+  {
+    "name": "keystone",
+    "trans": [
+      "n. 主旨，基本原则；[建] 楔石"
+    ],
+    "usphone": "[ˈkiːstoʊn]",
+    "ukphone": "[ˈkiːstəʊn]"
+  },
+  {
+    "name": "knowingly",
+    "trans": [
+      "adv. 故意地；机警地，狡黠地"
+    ],
+    "usphone": "[ˈnoʊɪŋli]",
+    "ukphone": "[ˈnəʊɪŋli]"
+  },
+  {
+    "name": "knell",
+    "trans": [
+      "n. 丧钟声；凶兆；哀伤的声音",
+      "vi. 鸣丧钟；预报凶兆；发出哀伤之声",
+      "vt. 敲丧钟召集"
+    ],
+    "usphone": "[nel]",
+    "ukphone": "[nel]"
+  },
+  {
+    "name": "kilocycle",
+    "trans": [
+      "n. 千周"
+    ],
+    "usphone": "[ˈkɪləˌsaɪkəl]",
+    "ukphone": "[ˈkɪləʊˌsaɪkəl]"
+  },
+  {
+    "name": "knitting needle",
+    "trans": [
+      "n. 编织针；毛衣针"
+    ],
+    "usphone": "[ˈnɪtɪŋ niːdl]",
+    "ukphone": "[ˈnɪtɪŋ niːdl]"
+  },
+  {
+    "name": "keelboat",
+    "trans": [
+      "n. 内河平底货船（一种河船）"
+    ],
+    "usphone": "[ˈkilˌbot]",
+    "ukphone": "[ˈkiːlbəʊt]"
+  },
+  {
+    "name": "killjoy",
+    "trans": [
+      "n. 令人扫兴的人；煞风景"
+    ],
+    "usphone": "[ˈkɪldʒɔɪ]",
+    "ukphone": "[ˈkɪldʒɔɪ]"
+  },
+  {
+    "name": "Kelvin",
+    "trans": [
+      "n. 开尔文（英国物理学家，数学家）；凯尔文（男子名）；绝对温标",
+      "adj. 开氏度的（常作K-）"
+    ],
+    "usphone": "[ˈkelvɪn]",
+    "ukphone": "[ˈkelvɪn]"
+  },
+  {
+    "name": "keratitis",
+    "trans": [
+      "n. 角膜炎"
+    ],
+    "usphone": "[ˌkerəˈtaɪtɪs]",
+    "ukphone": "[ˌkerəˈtaɪtɪs]"
+  },
+  {
+    "name": "knickknack",
+    "trans": [
+      "n. 小玩意儿"
+    ],
+    "usphone": "[ˈnɪkˌnæk]",
+    "ukphone": "[ˈnɪkˌnæk]"
+  },
+  {
+    "name": "kissogram",
+    "trans": [
+      "n. 带吻电报"
+    ],
+    "usphone": "[ˈkɪsəɡræm]",
+    "ukphone": "[ˈkɪsəɡræm]"
+  },
+  {
+    "name": "kimono",
+    "trans": [
+      "n. 和服"
+    ],
+    "usphone": "[kɪˈmoʊnoʊ]",
+    "ukphone": "[kɪˈməʊnəʊ]"
+  },
+  {
+    "name": "kicking",
+    "trans": [
+      "n. 踢腿；反撞",
+      "adj. 活泼热烈的；激动人心的",
+      "v. 踢；反冲；加速；活跃（kick的ing形式）"
+    ],
+    "usphone": "[ˈkɪkɪŋ]",
+    "ukphone": "[ˈkɪkɪŋ]"
+  },
+  {
+    "name": "K",
+    "trans": [
+      "n. 字母k",
+      "abbr. 千（kilo-）"
+    ],
+    "usphone": "[keɪ]",
+    "ukphone": "[keɪ]"
+  },
+  {
+    "name": "knoll",
+    "trans": [
+      "n. 小山"
+    ],
+    "usphone": "[noʊl]",
+    "ukphone": "[nəʊl]"
+  },
+  {
+    "name": "kaleidoscopic",
+    "trans": [
+      "adj. 千变万化的；万花筒似的"
+    ],
+    "usphone": "[kəˌlaɪdəˈskɑːpɪk]",
+    "ukphone": "[kəˌlaɪdəˈskɒpɪk]"
+  },
+  {
+    "name": "Kuwait",
+    "trans": [
+      "n. 科威特（西南亚国家，首都科威特）"
+    ],
+    "usphone": "[kʊˈweɪt]",
+    "ukphone": "[kʊˈweɪt]"
+  },
+  {
+    "name": "Kuwaiti",
+    "trans": [
+      "adj. 科威特的；科威特人的",
+      "n. 科威特；科威特人"
+    ],
+    "usphone": "[kʊˈweɪti]",
+    "ukphone": "[kʊˈweɪti]"
+  },
+  {
+    "name": "kinetics",
+    "trans": [
+      "n. [力] 动力学"
+    ],
+    "usphone": "[kɪˈnetɪks; kaɪˈnetɪks]",
+    "ukphone": "[kɪˈnetɪks; kaɪˈnetɪks]"
+  },
+  {
+    "name": "karaoke",
+    "trans": [
+      "n. 卡拉OK；卡拉OK录音，自动伴奏录音"
+    ],
+    "usphone": "[ˌkæriˈoʊki]",
+    "ukphone": "[ˌkæriˈəʊki]"
+  },
+  {
+    "name": "karat",
+    "trans": [
+      "n. 开（黄金成色单位）；克拉（宝石的重量单位，等于carat）"
+    ],
+    "usphone": "[ˈkærət]",
+    "ukphone": "[ˈkærət]"
+  },
+  {
+    "name": "khaki",
+    "trans": [
+      "n. 卡其色；卡其布",
+      "adj. 卡其色的；黄褐色的；卡其布做的"
+    ],
+    "usphone": "[ˈkɑːki]",
+    "ukphone": "[ˈkɑːki]"
+  },
+  {
+    "name": "kilobyte",
+    "trans": [
+      "n. [计] 千字节，1024字节"
+    ],
+    "usphone": "[ˈkɪləbaɪt]",
+    "ukphone": "[ˈkɪləbaɪt]"
+  },
+  {
+    "name": "Kindle",
+    "trans": [
+      "vt. 点燃；激起；照亮",
+      "vi. 发亮；着火；激动起来"
+    ],
+    "usphone": "[ˈkɪnd(ə)l]",
+    "ukphone": "[ˈkɪnd(ə)l]"
+  },
+  {
+    "name": "Kent",
+    "trans": [
+      "n. 肯特（英国东南部州名）；不列颠岛南部的古代盎格鲁所建的王国"
+    ],
+    "usphone": "[kent]",
+    "ukphone": "[kent]"
+  },
+  {
+    "name": "kerosine",
+    "trans": [
+      " 火油"
+    ],
+    "usphone": "[ˈkerəˌsin]",
+    "ukphone": "[ˈkerəsiːn]"
+  },
+  {
+    "name": "Koran",
+    "trans": [
+      "n. 《可兰经》，《古兰经》（伊斯兰教）"
+    ],
+    "usphone": "[kəˈrɑːn]",
+    "ukphone": "[kəˈrɑːn]"
+  },
+  {
+    "name": "knock-down",
+    "trans": [
+      "adj. 最低的；可拆卸的；不可抵抗的；压倒一切的",
+      "n. 打倒的一击；混战；降低"
+    ],
+    "usphone": "[ˈnɑːk daʊn]",
+    "ukphone": "[ˈnɒk daʊn]"
+  },
+  {
+    "name": "knotting",
+    "trans": [
+      "n. 结形花边"
+    ],
+    "usphone": "[ˈnɑːtɪŋ]",
+    "ukphone": "[ˈnɒtɪŋ]"
+  },
+  {
+    "name": "keratin",
+    "trans": [
+      "n. [生化] 角蛋白；角素，角质"
+    ],
+    "usphone": "[ˈkerətɪn]",
+    "ukphone": "[ˈkerətɪn]"
+  },
+  {
+    "name": "keenly",
+    "trans": [
+      "adv. 敏锐地；强烈地；锐利地"
+    ],
+    "usphone": "[ˈkiːnli]",
+    "ukphone": "[ˈkiːnli]"
+  },
+  {
+    "name": "kebab",
+    "trans": [
+      "n. （印）烤肉串；烤腌羊肉串（等于kabob）"
+    ],
+    "usphone": "[kɪˈbɑːb]",
+    "ukphone": "[kɪˈbæb]"
+  },
+  {
+    "name": "knows",
+    "trans": [
+      "v. 知道（know的第三人称单数形式）"
+    ],
+    "usphone": "[noʊz]",
+    "ukphone": "[nəʊz]"
+  },
+  {
+    "name": "Kalahari",
+    "trans": [
+      "n. 喀拉哈里沙漠(南部非洲沙漠高原)"
+    ],
+    "usphone": "[,ka:la:'ha:ri]",
+    "ukphone": "[ˌkɑːlɑːˈhɑːri]"
+  },
+  {
+    "name": "Keith",
+    "trans": [
+      "n. 基思（男子名）"
+    ],
+    "usphone": "[kiːθ]",
+    "ukphone": "[kiːθ]"
+  },
+  {
+    "name": "kinder",
+    "trans": [
+      "adv. 有几分；有一点"
+    ],
+    "usphone": "[ˈkɪndər]",
+    "ukphone": "[ˈkɪndə(r)]"
+  },
+  {
+    "name": "kindliness",
+    "trans": [
+      "n. 亲切；厚道；友好"
+    ],
+    "usphone": "[ˈkaɪndlinəs]",
+    "ukphone": "[ˈkaɪndlinəs]"
+  },
+  {
+    "name": "kamikaze",
+    "trans": [
+      "n. 神风队队员；神风特攻队",
+      "adj. 自杀性的；神风特攻队的",
+      "n. （日）神风（姓氏）"
+    ],
+    "usphone": "[ˌkæmɪˈkɑːzi]",
+    "ukphone": "[ˌkæmɪˈkɑːzi]"
+  },
+  {
+    "name": "kitchenware",
+    "trans": [
+      "n. 厨房用具"
+    ],
+    "usphone": "[ˈkɪtʃɪnwer]",
+    "ukphone": "[ˈkɪtʃɪnweə(r)]"
+  },
+  {
+    "name": "kink",
+    "trans": [
+      "n. 扭结；奇想；蜷缩",
+      "vi. 扭结",
+      "vt. 使扭结"
+    ],
+    "usphone": "[kɪŋk]",
+    "ukphone": "[kɪŋk]"
+  },
+  {
+    "name": "kinglet",
+    "trans": [
+      "n. <贬>懦弱的国王，小国君主，戴菊鸟"
+    ],
+    "usphone": "[ˈkɪŋlɪt]",
+    "ukphone": "[ˈkɪŋlɪt]"
+  },
+  {
+    "name": "knap",
+    "trans": [
+      "vt. 敲击，打碎，猛咬",
+      "n. 小山的山顶，丘顶"
+    ],
+    "usphone": "[næp]",
+    "ukphone": "[næp]"
+  },
+  {
+    "name": "Kathleen",
+    "trans": [
+      "n. 凯思琳（女子名，等于Kathryn）"
+    ],
+    "usphone": "[kæθˈlin]",
+    "ukphone": "[ˈkæθliːn]"
+  },
+  {
+    "name": "Katrina",
+    "trans": [
+      "n. 卡特里娜（女子名）"
+    ],
+    "usphone": "[kəˈtriːnə]",
+    "ukphone": "[kʌˈtriːnə]"
+  },
+  {
+    "name": "knockout",
+    "trans": [
+      "adj. 淘汰的；击倒的；迷人的",
+      "n. 淘汰赛；击倒；给人留下深刻印象的人；绝代佳人"
+    ],
+    "usphone": "[ˈnɑːkaʊt]",
+    "ukphone": "[ˈnɒkaʊt]"
+  },
+  {
+    "name": "kilovolt",
+    "trans": [
+      "n. 千伏特"
+    ],
+    "usphone": "[ˈkɪləˌvoʊlt]",
+    "ukphone": "[ˈkɪləʊˌvəʊlt]"
+  },
+  {
+    "name": "Kitty",
+    "trans": [
+      "n. 小猫，猫咪"
+    ],
+    "usphone": "[ˈkɪti]",
+    "ukphone": "[ˈkɪti]"
+  },
+  {
+    "name": "Kelly",
+    "trans": [
+      "n. 黄绿色，鲜绿色"
+    ],
+    "usphone": "[ˈkeli]",
+    "ukphone": "[ˈkeli]"
+  },
+  {
+    "name": "Karen",
+    "trans": [
+      "n. 凯伦（人名）；克伦邦（缅甸邦名）"
+    ],
+    "usphone": "[ˈkærən]",
+    "ukphone": "[ˈkærən]"
+  },
+  {
+    "name": "kalium",
+    "trans": [
+      "n. 钾（19号元素， 符号K）"
+    ],
+    "usphone": "[ˈkelɪəm]",
+    "ukphone": "[ˈkeɪlɪəm]"
+  },
+  {
+    "name": "kallikrein",
+    "trans": [
+      "n. 激肽释放酶血管舒缓素"
+    ],
+    "usphone": "[ˌkælɪˈkrɪrn]",
+    "ukphone": "[ˌkælɪˈkriːɪn]"
+  },
+  {
+    "name": "kanamycin",
+    "trans": [
+      "n. 卡那徽素"
+    ],
+    "usphone": "[ˌkænəˈmaɪsɪn]",
+    "ukphone": "[ˌkænəˈmaɪsɪn]"
+  },
+  {
+    "name": "kaolin",
+    "trans": [
+      "n. 高岭土，瓷土"
+    ],
+    "usphone": "[ˈkeɪəlɪn]",
+    "ukphone": "[ˈkeɪəlɪn]"
+  },
+  {
+    "name": "karyogamy",
+    "trans": [
+      "n. 同性配子的互相融合"
+    ],
+    "usphone": "[ˌkæriˈɑɡəmi]",
+    "ukphone": "[ˌkærɪˈɒɡəmi]"
+  },
+  {
+    "name": "karyokinesis",
+    "trans": [
+      "n. 有丝分裂，核分裂"
+    ],
+    "usphone": "[ˌkærɪəkɪˈniːsɪs]",
+    "ukphone": "[ˌkærɪəʊkɪˈniːsɪs]"
+  },
+  {
+    "name": "karyon",
+    "trans": [
+      "n. 细胞核，核"
+    ],
+    "usphone": "[ˈkærɪɑːn]",
+    "ukphone": "[ˈkæriɒn]"
+  },
+  {
+    "name": "karyopyknosis",
+    "trans": [
+      "[医] 核固缩"
+    ],
+    "usphone": "[kæriːɑːpɪkˈnoʊsɪs]",
+    "ukphone": "[kæriːəˈpaɪnɒsɪs]"
+  },
+  {
+    "name": "karyotype",
+    "trans": [
+      "n. 染色体组型，[遗] 核型"
+    ],
+    "usphone": "[ˈkærɪəˌtaɪp]",
+    "ukphone": "[ˈkærɪəˌtaɪp]"
+  },
+  {
+    "name": "keloid",
+    "trans": [
+      "n. [皮肤] 瘢痕疙瘩；[皮肤] 瘢痕瘤"
+    ],
+    "usphone": "[ˈkiːˌlɔɪd]",
+    "ukphone": "[ˈkiːlɔɪd]"
+  },
+  {
+    "name": "keratinase",
+    "trans": [
+      "角蛋白酶"
+    ],
+    "usphone": "[ˈkerətɪneɪs]",
+    "ukphone": "[ˈkerətɪneɪs]"
+  },
+  {
+    "name": "keratinization",
+    "trans": [
+      "n. 角质化; 角化"
+    ],
+    "usphone": "[kerətɪnaɪˈzeɪʃən]",
+    "ukphone": "[ˌkerətɪnaɪˈzeɪʃən]"
+  },
+  {
+    "name": "keratinocyte",
+    "trans": [
+      "n. 角化细胞"
+    ],
+    "usphone": "[kerətɪnəsaɪt]",
+    "ukphone": "[ˈkerətɪnəsaɪt]"
+  },
+  {
+    "name": "keratomalacia",
+    "trans": [
+      "[医] 角膜软化"
+    ],
+    "usphone": "[kerətɑːməˈleɪʃə]",
+    "ukphone": "[kerətɒməˈleɪʃə]"
+  },
+  {
+    "name": "keratosis",
+    "trans": [
+      "n. 角化病（皮肤角质生长）"
+    ],
+    "usphone": "[ˌkerəˈtoʊsɪs]",
+    "ukphone": "[ˌkerəˈtəʊsɪs]"
+  },
+  {
+    "name": "kernicterus",
+    "trans": [
+      "n. 核黄疽"
+    ],
+    "usphone": "[kəˈnɪktərəs]",
+    "ukphone": "[ˌkɜːˈnɪktərəs]"
+  },
+  {
+    "name": "ketoacidosis",
+    "trans": [
+      "n. [内科] 酮酸中毒；酮病"
+    ],
+    "usphone": "[kitoʊæsɪˈdoʊsɪs]",
+    "ukphone": "[ˌkiːtəʊˌæsɪˈdəʊsɪs]"
+  },
+  {
+    "name": "ketone",
+    "trans": [
+      "n. 酮"
+    ],
+    "usphone": "[ˈkiton]",
+    "ukphone": "[ˈkiːtəʊn]"
+  },
+  {
+    "name": "ketonemia",
+    "trans": [
+      "n. 酮血症"
+    ],
+    "usphone": "[ki:təu'ni:miə]",
+    "ukphone": "[ki:təu'ni:miə]"
+  },
+  {
+    "name": "ketonuria",
+    "trans": [
+      " 酮尿症"
+    ],
+    "usphone": "[ˌkɪtoʊˈnʊrɪə]",
+    "ukphone": "[ˌkiːtəʊˈnjʊəriə]"
+  },
+  {
+    "name": "ketosis",
+    "trans": [
+      "n. [内科] 酮病"
+    ],
+    "usphone": "[kiˈtoʊsɪs]",
+    "ukphone": "[kɪˈtəʊsɪs]"
+  },
+  {
+    "name": "kilocalorie",
+    "trans": [
+      "n. [热] 千卡；[热] 大卡"
+    ],
+    "usphone": "[ˈkɪləˌkæləri]",
+    "ukphone": "[ˈkɪləʊˌkæləri]"
+  },
+  {
+    "name": "kilovoltage",
+    "trans": [
+      "千伏电压"
+    ],
+    "usphone": "[ˈkiːloʊvoʊltɪdʒ]",
+    "ukphone": "[ˈkiːləʊvəʊltɪdʒ]"
+  },
+  {
+    "name": "kinase",
+    "trans": [
+      "n. [生化] 激酶；致活酶"
+    ],
+    "usphone": "[ˈkaɪˌneɪs; ˈkɪnˌeɪs]",
+    "ukphone": "[ˈkaɪneɪz]"
+  },
+  {
+    "name": "kinesthesia",
+    "trans": [
+      "n. 肌肉运动知觉"
+    ],
+    "usphone": "[ˌkɪnəsˈθiːʒə]",
+    "ukphone": "[ˌkɪnɪsˈθiːzɪə]"
+  },
+  {
+    "name": "kinetochore",
+    "trans": [
+      "n. 动粒，着丝粒，着丝点; 原动体"
+    ],
+    "usphone": "[kɪˈnitəkɔ]",
+    "ukphone": "[kɪˈniːtəkɔː]"
+  },
+  {
+    "name": "kinin",
+    "trans": [
+      "n. 激肽"
+    ],
+    "usphone": "[ˈkaɪnɪn]",
+    "ukphone": "[ˈkaɪnɪn]"
+  },
+  {
+    "name": "kininogen",
+    "trans": [
+      "n. [生化]激肽原"
+    ],
+    "usphone": "[kaɪˈnɪnədʒən]",
+    "ukphone": "[kaɪˈnɪnədʒɪn]"
+  },
+  {
+    "name": "kinking",
+    "trans": [
+      "n. 弯纱，纽结（纱线疵点）",
+      "v. （使）纠结，（使）纽绞( kink的现在分词 )"
+    ],
+    "usphone": "[ˈkɪŋkɪŋ]",
+    "ukphone": "[ˈkɪŋkɪŋ]"
+  },
+  {
+    "name": "klebsiella",
+    "trans": [
+      "n. 克雷白氏杆菌"
+    ],
+    "usphone": "[,klebzi'elə]",
+    "ukphone": "[,klebzi'elə]"
+  },
+  {
+    "name": "kwashiorkor",
+    "trans": [
+      "n. [医] 夸希奥科病；恶性营养不良病"
+    ],
+    "usphone": "[ˌkwɑːʃiˈɔːrkər]",
+    "ukphone": "[ˌkwɒʃiˈɔːkɔː(r); ˌkwæʃiˈɔːkɔː(r)]"
+  },
+  {
+    "name": "kyphoscoliosis",
+    "trans": [
+      "n. 脊柱后侧凸"
+    ],
+    "usphone": "[ˈkaɪfoʊskɑːlɪˈoʊsɪs]",
+    "ukphone": "[ˈkaɪfəʊskɒlɪˈəʊsɪs]"
+  },
+  {
+    "name": "kyphosis",
+    "trans": [
+      "n. [外科] 驼背"
+    ],
+    "usphone": "[kaɪˈfoʊsɪs]",
+    "ukphone": "[kaɪˈfəʊsɪs]"
+  },
+  {
+    "name": "kidnapping",
+    "trans": [
+      "n. 绑架；诱拐",
+      "v. 绑架（kidnap的ing形式）；诱拐"
+    ],
+    "usphone": "[ˈkɪdnæpɪŋ]",
+    "ukphone": "[ˈkɪdnæpɪŋ]"
+  },
+  {
+    "name": "Kurdish",
+    "trans": [
+      "n. 库尔德语",
+      "adj. 库尔德人的"
+    ],
+    "usphone": "[ˈkɜːrdɪʃ]",
+    "ukphone": "[ˈkɜːdɪʃ]"
+  },
+  {
+    "name": "Kurd",
+    "trans": [
+      "n. 库尔德人（西亚的游牧民族）"
+    ],
+    "usphone": "[kɜːrd]",
+    "ukphone": "[kɜːd]"
+  },
+  {
+    "name": "Kaiser",
+    "trans": [
+      "n. （德国）皇帝"
+    ],
+    "usphone": "[ˈkaɪzər]",
+    "ukphone": "[ˈkaɪzə(r)]"
+  },
+  {
+    "name": "knowing",
+    "trans": [
+      "adj. 博学的；狡猾的；心照不宣的",
+      "n. 认知",
+      "v. 知道；认识；确信（know的ing形式）"
+    ],
+    "usphone": "[ˈnoʊɪŋ]",
+    "ukphone": "[ˈnəʊɪŋ]"
+  },
+  {
+    "name": "kingly",
+    "trans": [
+      "adj. 国王的；高贵的，国王似的"
+    ],
+    "usphone": "[ˈkɪŋli]",
+    "ukphone": "[ˈkɪŋli]"
+  },
+  {
+    "name": "Kansas",
+    "trans": [
+      "n. 堪萨斯州（美国州名）"
+    ],
+    "usphone": "[ˈkænzəs]",
+    "ukphone": "[ˈkænzəs]"
+  },
+  {
+    "name": "Kashmir",
+    "trans": [
+      "n. 克什米尔"
+    ],
+    "usphone": "[kæʃˈmɪr]",
+    "ukphone": "[ˌkæʃˈmɪə(r)]"
+  },
+  {
+    "name": "key-ring",
+    "trans": [
+      "n. 钥匙圈"
+    ],
+    "usphone": "[ˈkiː rɪŋ]",
+    "ukphone": "[ˈkiː rɪŋ]"
+  },
+  {
+    "name": "knives",
+    "trans": [
+      "n. 刀子（knife的复数）",
+      "v. 用小刀切；刀切似的穿过（knife的三单形式）"
+    ],
+    "usphone": "[naɪvz]",
+    "ukphone": "[naɪvz]"
+  },
+  {
+    "name": "kick-start",
+    "trans": [
+      "vt. 以下踢或下压动作来使机器发动；以额外的努力或行为来开始一种事业或程序"
+    ],
+    "usphone": "[ˈkɪk stɑːrt]",
+    "ukphone": "[ˈkɪk stɑːt]"
+  },
+  {
+    "name": "kilowatt-hour",
+    "trans": [
+      "n. 千瓦时；一度电（能量单位）"
+    ],
+    "usphone": "[ˌkɪləwɑːt ˈaʊər]",
+    "ukphone": "[ˌkɪləwɒt ˈaʊə(r)]"
+  },
+  {
+    "name": "komatiite",
+    "trans": [
+      "n. 科马提岩；镁绿岩"
+    ],
+    "usphone": "[kəˈmætɪaɪt]",
+    "ukphone": "[kəˈmætɪaɪt]"
+  },
+  {
+    "name": "kimberlite",
+    "trans": [
+      "n. [岩] 金伯利岩；[岩] 角砾云橄岩"
+    ],
+    "usphone": "[ˈkɪmbərˌlaɪt]",
+    "ukphone": "[ˈkɪmbəˌlaɪt]"
+  },
+  {
+    "name": "kitty",
+    "trans": [
+      "n. 小猫，猫咪"
+    ],
+    "usphone": "[ˈkɪti]",
+    "ukphone": "[ˈkɪti]"
+  },
+  {
+    "name": "kinda",
+    "trans": [
+      "adv. 有一点；有几分"
+    ],
+    "usphone": "[ˈkaɪndə]",
+    "ukphone": "[ˈkaɪndə]"
+  },
+  {
+    "name": "kosher",
+    "trans": [
+      "adj. 合适的；符合犹太教教规的，干净的"
+    ],
+    "usphone": "[ˈkoʊʃər]",
+    "ukphone": "[ˈkəʊʃə(r)]"
+  },
+  {
+    "name": "kicker",
+    "trans": [
+      "n. 踢者；爱发牢骚的人；喷射器"
+    ],
+    "usphone": "[ˈkɪkər]",
+    "ukphone": "[ˈkɪkə(r)]"
+  },
+  {
+    "name": "kissing",
+    "trans": [
+      "adj. 接吻的"
+    ],
+    "usphone": "[ˈkɪsɪŋ]",
+    "ukphone": "[ˈkɪsɪŋ]"
+  },
+  {
+    "name": "keenness",
+    "trans": [
+      "n. 敏锐；锐利"
+    ],
+    "usphone": "[ˈkiːnnəs]",
+    "ukphone": "[ˈkiːnnəs]"
+  },
+  {
+    "name": "kiwi fruit",
+    "trans": [
+      "n. 猕猴桃；奇异果"
+    ],
+    "usphone": "[ˈkiːwi fruːt]",
+    "ukphone": "['ki:wi:fru:t]"
+  },
+  {
+    "name": "koala bear",
+    "trans": [
+      "n. 【动】考拉"
+    ],
+    "usphone": "[kəu'ɑ:lə]",
+    "ukphone": "[kəu'ɑ:lə]"
+  },
+  {
+    "name": "krill",
+    "trans": [
+      "n. [无脊椎] 磷虾"
+    ],
+    "usphone": "[krɪl]",
+    "ukphone": "[krɪl]"
+  },
+  {
+    "name": "karma",
+    "trans": [
+      "n. 因果报应，因缘"
+    ],
+    "usphone": "[ˈkɑːrmə]",
+    "ukphone": "[ˈkɑːmə]"
+  },
+  {
+    "name": "kipper",
+    "trans": [
+      "n. 腌鱼；家伙",
+      "vt. 腌"
+    ],
+    "usphone": "[ˈkɪpər]",
+    "ukphone": "[ˈkɪpə(r)]"
+  },
+  {
+    "name": "kilometres",
+    "trans": [
+      "n. 千米，公里( kilometre的名词复数 )"
+    ],
+    "usphone": "[kɪ'lɔmɪtɚz]",
+    "ukphone": "['kɪlə,miːtəz; kɪ'lɒmɪtəz]"
+  },
+  {
+    "name": "knees",
+    "trans": [
+      "[解剖] 膝"
+    ],
+    "usphone": "[niːz]",
+    "ukphone": "[niːz]"
+  },
+  {
+    "name": "knock-on",
+    "trans": [
+      "n. 用手的向前击球（一种犯规动作）",
+      "adj. 可敲上装牢的"
+    ],
+    "usphone": "[ˌnɑːk ˈɑːn]",
+    "ukphone": "[ˌnɒk ˈɒn]"
+  },
+  {
+    "name": "keep-fit",
+    "trans": [
+      "adj. 保健的"
+    ],
+    "usphone": "[ˌkiːp ˈfɪt]",
+    "ukphone": "[ˌkiːp ˈfɪt]"
+  },
+  {
+    "name": "keepsake",
+    "trans": [
+      "n. 纪念品"
+    ],
+    "usphone": "[ˈkiːpseɪk]",
+    "ukphone": "[ˈkiːpseɪk]"
+  },
+  {
+    "name": "knick-knack",
+    "trans": [
+      "n. 小装饰品；小摆设"
+    ],
+    "usphone": "[ˈnɪk næk]",
+    "ukphone": "[ˈnɪk næk]"
+  },
+  {
+    "name": "Kant",
+    "trans": [
+      "n. 康德（德国哲学家）"
+    ],
+    "usphone": "[kænt]",
+    "ukphone": "[kænt]"
+  },
+  {
+    "name": "karoo",
+    "trans": [
+      "n. 南非洲的干燥台地高原"
+    ],
+    "usphone": "[kəˈrʊ]",
+    "ukphone": "[kəˈruː]"
+  },
+  {
+    "name": "Krakatau",
+    "trans": [
+      "喀拉喀托火山[印度尼西亚西南部](即腊卡塔火山)"
+    ],
+    "usphone": "[,krækə'tau]",
+    "ukphone": "[,krækə'tau]"
+  },
+  {
+    "name": "Kungfu",
+    "trans": [
+      "功夫"
+    ],
+    "usphone": "[kʌŋˈfu]",
+    "ukphone": "[ˌkʌŋˈfuː]"
+  },
+  {
+    "name": "kleptomania",
+    "trans": [
+      "n. 盗窃癖"
+    ],
+    "usphone": "[ˌkleptəˈmeɪniə]",
+    "ukphone": "[ˌkleptəˈmeɪniə]"
+  },
+  {
+    "name": "kindling",
+    "trans": [
+      "n. 点火；引火物；兴奋"
+    ],
+    "usphone": "[ˈkɪndlɪŋ]",
+    "ukphone": "[ˈkɪndlɪŋ]"
+  },
+  {
+    "name": "knackered",
+    "trans": [
+      "adj. 筋疲力尽的"
+    ],
+    "usphone": "[ˈnækərd]",
+    "ukphone": "[ˈnækəd]"
+  },
+  {
+    "name": "kymograph",
+    "trans": [
+      "n. 波动曲线记录仪"
+    ],
+    "usphone": "[ˈkaɪmoɡræf]",
+    "ukphone": "[ˈkaɪməˌɡrɑːf]"
+  },
+  {
+    "name": "knocker",
+    "trans": [
+      "n. 门环；敲击者；吹毛求疵的人"
+    ],
+    "usphone": "[ˈnɑːkər]",
+    "ukphone": "[ˈnɒkə(r)]"
+  },
+  {
+    "name": "kinfolk",
+    "trans": [
+      "n. 亲属"
+    ],
+    "usphone": "[ˈkɪnˌfoʊk]",
+    "ukphone": "[ˈkɪnfəʊk]"
+  },
+  {
+    "name": "keystroke",
+    "trans": [
+      "n. 击键；按键",
+      "vt. 用键盘输入；击打…的键",
+      "vi. 击键"
+    ],
+    "usphone": "[ˈkiːstroʊk]",
+    "ukphone": "[ˈkiːstrəʊk]"
+  },
+  {
+    "name": "knowable",
+    "trans": [
+      "adj. 可知的；能认识的；易知的"
+    ],
+    "usphone": "[ˈnoəbl]",
+    "ukphone": "[ˈnəʊəbl]"
+  },
+  {
+    "name": "kinsman",
+    "trans": [
+      "n. 男性亲戚；同族者"
+    ],
+    "usphone": "[ˈkɪnzmən]",
+    "ukphone": "[ˈkɪnzmən]"
+  },
+  {
+    "name": "Kingston",
+    "trans": [
+      "n. 金斯敦（牙买加首都）"
+    ],
+    "usphone": "[ˈkɪŋstən]",
+    "ukphone": "[ˈkɪŋstən]"
+  },
+  {
+    "name": "knavery",
+    "trans": [
+      "n. 流氓行为"
+    ],
+    "usphone": "[ˈneɪvəri]",
+    "ukphone": "[ˈneɪvəri]"
+  },
+  {
+    "name": "Krypton",
+    "trans": [
+      "n. [化学] 氪（元素符号为Kr）"
+    ],
+    "usphone": "[ˈkrɪptɑːn]",
+    "ukphone": "[ˈkrɪptɒn]"
+  },
+  {
+    "name": "Kepler",
+    "trans": [
+      "n. 开普勒（德国天文学家, 物理学家, 开普勒定律的发现者）；开普勒环形山（在月球东北象限, 直径为35公里）"
+    ],
+    "usphone": "[ˈkeplər]",
+    "ukphone": "[ˈkeplə(r)]"
+  },
+  {
+    "name": "kinematics",
+    "trans": [
+      "n. 运动学；动力学"
+    ],
+    "usphone": "[ˌkɪnəˈmætɪks]",
+    "ukphone": "[ˌkɪnɪˈmætɪks]"
+  },
+  {
+    "name": "kitsch",
+    "trans": [
+      "n. 粗劣作品；迎合低级趣味的作品"
+    ],
+    "usphone": "[kɪtʃ]",
+    "ukphone": "[kɪtʃ]"
+  },
+  {
+    "name": "Kevin",
+    "trans": [
+      "n. 凯文（男子名）"
+    ],
+    "usphone": "[ˈkevɪn]",
+    "ukphone": "[ˈkevɪn]"
+  },
+  {
+    "name": "kitchenette",
+    "trans": [
+      "n. 小厨房"
+    ],
+    "usphone": "[ˌkɪtʃɪˈnet]",
+    "ukphone": "[ˌkɪtʃɪˈnet]"
+  },
+  {
+    "name": "kilo-watt",
+    "trans": [
+      "v. 千瓦"
+    ],
+    "usphone": "[ˈkɪləwɑːt]",
+    "ukphone": "[ˈkɪləwɒt]"
+  },
+  {
+    "name": "kayaking",
+    "trans": [
+      "n. 独木舟；皮划艇；皮艇运动",
+      "v. 划独木舟（kayak的ing形式）"
+    ],
+    "usphone": "[ˈkaɪækɪŋ]",
+    "ukphone": "[ˈkaɪækɪŋ]"
+  },
+  {
+    "name": "kerchief",
+    "trans": [
+      "n. 方头巾；方围巾；手帕（等于handkerchief）"
+    ],
+    "usphone": "[ˈkɜːrtʃɪf]",
+    "ukphone": "[ˈkɜːtʃɪf]"
+  },
+  {
+    "name": "kiloliter",
+    "trans": [
+      "n. 千升",
+      "[医] 千升"
+    ],
+    "usphone": "['kiləu,li:tə]",
+    "ukphone": "[ˈkɪləʊˌliːtə(r)]"
+  },
+  {
+    "name": "kodak",
+    "trans": [
+      "n. 小型照相机"
+    ],
+    "usphone": "[ˈkoʊˌdæk]",
+    "ukphone": "[ˈkəʊdæk]"
+  },
+  {
+    "name": "kestrel",
+    "trans": [
+      "n. （产于欧洲的）茶隼"
+    ],
+    "usphone": "[ˈkestrəl]",
+    "ukphone": "[ˈkestrəl]"
+  },
+  {
+    "name": "keg",
+    "trans": [
+      "n. 小桶"
+    ],
+    "usphone": "[keɡ]",
+    "ukphone": "[keɡ]"
+  },
+  {
+    "name": "Kate",
+    "trans": [
+      "n. 凯特（女子名，等于Catherine）"
+    ],
+    "usphone": "[keit]",
+    "ukphone": "[keɪt]"
+  },
+  {
+    "name": "Kilo",
+    "trans": [
+      "n. 千克"
+    ],
+    "usphone": "[ˈkilo]",
+    "ukphone": "[ˈkiːləʊ]"
+  },
+  {
+    "name": "kingship",
+    "trans": [
+      "n. 王权；王位；君主身分"
+    ],
+    "usphone": "[ˈkɪŋʃɪp]",
+    "ukphone": "[ˈkɪŋʃɪp]"
+  },
+  {
+    "name": "kidding",
+    "trans": [
+      "n. 开玩笑；山羊产羔",
+      "v. 开玩笑；欺骗；山羊产羔（kid的ing形式）"
+    ],
+    "usphone": "[ˈkɪdɪŋ]",
+    "ukphone": "['kɪdɪŋ]"
+  },
+  {
+    "name": "knocking",
+    "trans": [
+      "n. 爆震音；卡答卡答的故障声音",
+      "v. 敲（knock的ing形式）"
+    ],
+    "usphone": "['nɔkiŋ]",
+    "ukphone": "[ˈnɒkɪŋ]"
+  },
+  {
+    "name": "kale",
+    "trans": [
+      "n. [植] 羽衣甘蓝；蔬菜汤"
+    ],
+    "usphone": "[keɪl]",
+    "ukphone": "[keɪl]"
+  },
+  {
+    "name": "keypad",
+    "trans": [
+      "n. 按键；小型键盘"
+    ],
+    "usphone": "[ˈkiːpæd]",
+    "ukphone": "[ˈkiːpæd]"
+  },
+  {
+    "name": "knotted",
+    "trans": [
+      "adj. 多节的，有节的；棘手的"
+    ],
+    "usphone": "[ˈnɑtɪd]",
+    "ukphone": "[ˈnɒtɪd]"
+  },
+  {
+    "name": "Kim",
+    "trans": [
+      "n. 金姆（人名）"
+    ],
+    "usphone": "[kɪm]",
+    "ukphone": "[kɪm]"
+  },
+  {
+    "name": "kitesurfing",
+    "trans": [
+      "n. 风筝冲浪（运动）"
+    ],
+    "usphone": "[ˈkaɪtsɜːrfɪŋ]",
+    "ukphone": "[ˈkaɪtsɜːfɪŋ]"
+  },
+  {
+    "name": "kart",
+    "trans": [
+      "n. （美）小型赛车"
+    ],
+    "usphone": "[kɑːrt]",
+    "ukphone": "[kɑːt]"
+  }
+]

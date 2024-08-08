@@ -1,0 +1,8144 @@
+[
+  {
+    "name": "work",
+    "trans": [
+      "n. 工作；[物] 功；产品；操作；职业；行为；事业；工厂；著作；文学、音乐或艺术作品",
+      "vt. 使工作；操作；经营；使缓慢前进",
+      "vi. 工作；运作；起作用"
+    ],
+    "usphone": "[wɜːrk]",
+    "ukphone": "[wɜːk]"
+  },
+  {
+    "name": "workout",
+    "trans": [
+      "n. 锻炼；练习；试验"
+    ],
+    "usphone": "[ˈwɜːrkaʊt]",
+    "ukphone": "[ˈwɜːkaʊt]"
+  },
+  {
+    "name": "workplace",
+    "trans": [
+      "n. 工作场所；车间"
+    ],
+    "usphone": "[ˈwɜːrkpleɪs]",
+    "ukphone": "[ˈwɜːkpleɪs]"
+  },
+  {
+    "name": "workaholic",
+    "trans": [
+      "n. 专心工作的人；醉心于工作的人；为免遭辞退而工作过份卖力的人",
+      "adj. 醉心于工作的"
+    ],
+    "usphone": "[ˌwɜːrkəˈhɑːlɪk]",
+    "ukphone": "[ˌwɜːkəˈhɒlɪk]"
+  },
+  {
+    "name": "workstation",
+    "trans": [
+      "n. 工作站"
+    ],
+    "usphone": "[ˈwɜːrksteɪʃn]",
+    "ukphone": "[ˈwɜːksteɪʃn]"
+  },
+  {
+    "name": "win",
+    "trans": [
+      "n. 赢；胜利",
+      "vt. 赢得；在…中获胜；劝诱",
+      "vi. 赢；获胜；成功"
+    ],
+    "usphone": "[wɪn]",
+    "ukphone": "[wɪn]"
+  },
+  {
+    "name": "win-win",
+    "trans": [
+      "adj. 双赢的；互利互惠的"
+    ],
+    "usphone": "[ˌwɪn ˈwɪn]",
+    "ukphone": "[ˌwɪn ˈwɪn]"
+  },
+  {
+    "name": "web",
+    "trans": [
+      "n. 网；卷筒纸；蹼；织物；圈套",
+      "vt. 用网缠住；使中圈套",
+      "vi. 形成网"
+    ],
+    "usphone": "[web]",
+    "ukphone": "[web]"
+  },
+  {
+    "name": "wrap",
+    "trans": [
+      "n. 外套；围巾",
+      "vt. 包；缠绕；隐藏；掩护",
+      "vi. 包起来；缠绕；穿外衣"
+    ],
+    "usphone": "[ræp]",
+    "ukphone": "[ræp]"
+  },
+  {
+    "name": "whip",
+    "trans": [
+      "n. 鞭子；抽打；车夫；[机] 搅拌器",
+      "vt. 抽打；煽动；搅打（蛋，奶油）；彻底击败",
+      "vi. 抽打；急走；拍击"
+    ],
+    "usphone": "[wɪp]",
+    "ukphone": "[wɪp]"
+  },
+  {
+    "name": "wage",
+    "trans": [
+      "n. 工资；代价；报偿",
+      "vt. 进行；开展",
+      "vi. 进行；发动；从事"
+    ],
+    "usphone": "[weɪdʒ]",
+    "ukphone": "[weɪdʒ]"
+  },
+  {
+    "name": "whereas",
+    "trans": [
+      "conj. 然而；鉴于；反之"
+    ],
+    "usphone": "[ˌwerˈæz]",
+    "ukphone": "[ˌweərˈæz]"
+  },
+  {
+    "name": "whereby",
+    "trans": [
+      "adv. 凭借；通过…；借以；与…一致"
+    ],
+    "usphone": "[werˈbaɪ]",
+    "ukphone": "[weəˈbaɪ]"
+  },
+  {
+    "name": "ward",
+    "trans": [
+      "n. 病房；保卫；监视",
+      "vt. 避开；保卫；守护"
+    ],
+    "usphone": "[wɔːrd]",
+    "ukphone": "[wɔːd]"
+  },
+  {
+    "name": "wardrobe",
+    "trans": [
+      "n. 衣柜；行头；全部戏装"
+    ],
+    "usphone": "[ˈwɔːrdroʊb]",
+    "ukphone": "[ˈwɔːdrəʊb]"
+  },
+  {
+    "name": "wisdom",
+    "trans": [
+      "n. 智慧，才智；明智；学识；至理名言"
+    ],
+    "usphone": "[ˈwɪzdəm]",
+    "ukphone": "[ˈwɪzdəm]"
+  },
+  {
+    "name": "wing",
+    "trans": [
+      "n. 翼；翅膀；飞翔；派别；侧厅，耳房，厢房",
+      "vt. 使飞；飞过；空运；增加…速度；装以翼",
+      "vi. 飞行"
+    ],
+    "usphone": "[wɪŋ]",
+    "ukphone": "[wɪŋ]"
+  },
+  {
+    "name": "wait",
+    "trans": [
+      "n. 等待；等候",
+      "vi. 等待；耽搁；伺候用餐",
+      "vt. 等候；推迟；延缓"
+    ],
+    "usphone": "[weɪt]",
+    "ukphone": "[weɪt]"
+  },
+  {
+    "name": "waiter",
+    "trans": [
+      "n. 服务员，侍者"
+    ],
+    "usphone": "[ˈweɪtər]",
+    "ukphone": "[ˈweɪtə(r)]"
+  },
+  {
+    "name": "waitress",
+    "trans": [
+      "n. 女服务员；女侍者",
+      "vi. 做女服务生"
+    ],
+    "usphone": "[ˈweɪtrəs]",
+    "ukphone": "[ˈweɪtrəs]"
+  },
+  {
+    "name": "willing",
+    "trans": [
+      "adj. 乐意的；自愿的；心甘情愿的",
+      "v. 决心；用意志力驱使；将（财产等）遗赠某人（will的现在分词）"
+    ],
+    "usphone": "[ˈwɪlɪŋ]",
+    "ukphone": "[ˈwɪlɪŋ]"
+  },
+  {
+    "name": "will",
+    "trans": [
+      "n. 意志；决心；情感；遗嘱；意图；心愿",
+      "vt. 决心要；遗赠；用意志力使",
+      "vi. 愿意；下决心",
+      "aux. 将；愿意；必须"
+    ],
+    "usphone": "[wɪl]",
+    "ukphone": "[wɪl]"
+  },
+  {
+    "name": "wealth",
+    "trans": [
+      "n. 财富；大量；富有"
+    ],
+    "usphone": "[welθ]",
+    "ukphone": "[welθ]"
+  },
+  {
+    "name": "wealthy",
+    "trans": [
+      "n. 富人",
+      "adj. 富有的；充分的；丰裕的"
+    ],
+    "usphone": "[ˈwelθi]",
+    "ukphone": "[ˈwelθi]"
+  },
+  {
+    "name": "whole",
+    "trans": [
+      "n. 整体；全部",
+      "adj. 完整的；纯粹的"
+    ],
+    "usphone": "[hoʊl]",
+    "ukphone": "[həʊl]"
+  },
+  {
+    "name": "wholly",
+    "trans": [
+      "adv. 完全地；全部；统统"
+    ],
+    "usphone": "[ˈhoʊlli]",
+    "ukphone": "[ˈhəʊlli]"
+  },
+  {
+    "name": "wholesome",
+    "trans": [
+      "adj. 健全的；有益健康的；合乎卫生的；审慎的"
+    ],
+    "usphone": "[ˈhoʊlsəm]",
+    "ukphone": "[ˈhəʊlsəm]"
+  },
+  {
+    "name": "wholesale",
+    "trans": [
+      "n. 批发",
+      "adj. 批发的；大规模的",
+      "vt. 批发",
+      "adv. 大规模地；以批发方式",
+      "vi. 批发；经营批发业"
+    ],
+    "usphone": "[ˈhoʊlseɪl]",
+    "ukphone": "[ˈhəʊlseɪl]"
+  },
+  {
+    "name": "wake",
+    "trans": [
+      "n. 尾迹；守夜；守丧",
+      "vt. 叫醒；激发",
+      "vi. 醒来；唤醒；警觉"
+    ],
+    "usphone": "[weɪk]",
+    "ukphone": "[weɪk]"
+  },
+  {
+    "name": "weaver",
+    "trans": [
+      "n. 织工；织布者"
+    ],
+    "usphone": "[ˈwiːvər]",
+    "ukphone": "[ˈwiːvə(r)]"
+  },
+  {
+    "name": "widespread",
+    "trans": [
+      "adj. 普遍的，广泛的；分布广的"
+    ],
+    "usphone": "[ˈwaɪdspred]",
+    "ukphone": "[ˈwaɪdspred]"
+  },
+  {
+    "name": "worldwide",
+    "trans": [
+      "adj. 全世界的",
+      "adv. 在世界各地"
+    ],
+    "usphone": "[ˌwɜːrldˈwaɪd]",
+    "ukphone": "[ˌwɜːldˈwaɪd]"
+  },
+  {
+    "name": "warehouse",
+    "trans": [
+      "n. 仓库；货栈；大商店"
+    ],
+    "usphone": "[ˈwerhaʊs]",
+    "ukphone": "[ˈweəhaʊs]"
+  },
+  {
+    "name": "worship",
+    "trans": [
+      "n. 崇拜；礼拜；尊敬",
+      "vt. 崇拜；尊敬；爱慕",
+      "vi. 拜神；做礼拜"
+    ],
+    "usphone": "[ˈwɜːrʃɪp]",
+    "ukphone": "[ˈwɜːʃɪp]"
+  },
+  {
+    "name": "worshipper",
+    "trans": [
+      "n. 崇拜者；礼拜者；爱慕者"
+    ],
+    "usphone": "[ˈwɜːrʃɪpər]",
+    "ukphone": "[ˈwɜːʃɪpə(r)]"
+  },
+  {
+    "name": "weigh",
+    "trans": [
+      "n. 权衡；称重量",
+      "vt. 权衡；考虑；称…重量",
+      "vi. 重量为…；具有重要性；成为…的重荷；起锚"
+    ],
+    "usphone": "[weɪ]",
+    "ukphone": "[weɪ]"
+  },
+  {
+    "name": "weight",
+    "trans": [
+      "n. 重量，重力；负担；砝码；重要性",
+      "vt. 加重量于，使变重"
+    ],
+    "usphone": "[weɪt]",
+    "ukphone": "[weɪt]"
+  },
+  {
+    "name": "warrant",
+    "trans": [
+      "n. 根据；证明；正当理由；委任状",
+      "vt. 保证；担保；批准；辩解"
+    ],
+    "usphone": "[ˈwɔːrənt]",
+    "ukphone": "[ˈwɒrənt]"
+  },
+  {
+    "name": "warrior",
+    "trans": [
+      "n. 战士，勇士；鼓吹战争的人"
+    ],
+    "usphone": "[ˈwɔːriər]",
+    "ukphone": "[ˈwɒriə(r)]"
+  },
+  {
+    "name": "withdraw",
+    "trans": [
+      "vt. 撤退；收回；撤消；拉开",
+      "vi. 撤退；离开"
+    ],
+    "usphone": "[wɪðˈdrɔː]",
+    "ukphone": "[wɪðˈdrɔː; wɪθˈdrɔː]"
+  },
+  {
+    "name": "withdrawal",
+    "trans": [
+      "n. 撤退，收回；提款；取消；退股"
+    ],
+    "usphone": "[wɪðˈdrɔːəl]",
+    "ukphone": "[wɪðˈdrɔːəl]"
+  },
+  {
+    "name": "withhold",
+    "trans": [
+      "vt. 保留，不给；隐瞒；抑制",
+      "vi. 忍住；克制"
+    ],
+    "usphone": "[wɪðˈhoʊld]",
+    "ukphone": "[wɪðˈhəʊld]"
+  },
+  {
+    "name": "withstand",
+    "trans": [
+      "vt. 抵挡；禁得起；反抗",
+      "vi. 反抗"
+    ],
+    "usphone": "[wɪðˈstænd]",
+    "ukphone": "[wɪðˈstænd; wɪθˈstænd]"
+  },
+  {
+    "name": "witness",
+    "trans": [
+      "n. 证人；目击者；证据",
+      "vt. 目击；证明；为…作证",
+      "vi. 作证人"
+    ],
+    "usphone": "[ˈwɪtnəs]",
+    "ukphone": "[ˈwɪtnəs]"
+  },
+  {
+    "name": "wit",
+    "trans": [
+      "n. 智慧；才智；智力",
+      "v. <古>知道；即"
+    ],
+    "usphone": "[wɪt]",
+    "ukphone": "[wɪt]"
+  },
+  {
+    "name": "weird",
+    "trans": [
+      "n. （苏格兰）命运；预言",
+      "adj. 怪异的；不可思议的；超自然的"
+    ],
+    "usphone": "[wɪrd]",
+    "ukphone": "[wɪəd]"
+  },
+  {
+    "name": "wander",
+    "trans": [
+      "vi. 徘徊；漫步；迷路；离题",
+      "vt. 游荡，漫游"
+    ],
+    "usphone": "[ˈwɑːndər]",
+    "ukphone": "[ˈwɒndə(r)]"
+  },
+  {
+    "name": "wedding",
+    "trans": [
+      "n. 婚礼，婚宴；结婚；结合",
+      "v. 与…结婚（wed的ing形式）"
+    ],
+    "usphone": "[ˈwedɪŋ]",
+    "ukphone": "[ˈwedɪŋ]"
+  },
+  {
+    "name": "whisper",
+    "trans": [
+      "n. 私语；谣传；飒飒的声音",
+      "vi. 耳语；密谈；飒飒地响",
+      "vt. 低声说出"
+    ],
+    "usphone": "[ˈwɪspər]",
+    "ukphone": "[ˈwɪspə(r)]"
+  },
+  {
+    "name": "watershed",
+    "trans": [
+      "n. （美）流域；分水岭；集水区；转折点",
+      "adj. 标志转折点的"
+    ],
+    "usphone": "[ˈwɔːtərʃed]",
+    "ukphone": "[ˈwɔːtəʃed]"
+  },
+  {
+    "name": "weaken",
+    "trans": [
+      "vt. 减少；使变弱；使变淡",
+      "vi. 变弱；畏缩；变软弱"
+    ],
+    "usphone": "[ˈwiːkən]",
+    "ukphone": "[ˈwiːkən]"
+  },
+  {
+    "name": "wagon",
+    "trans": [
+      "n. 货车，四轮马车",
+      "vt. 用运货马车运输货物"
+    ],
+    "usphone": "[ˈwæɡən]",
+    "ukphone": "[ˈwæɡən]"
+  },
+  {
+    "name": "waggon",
+    "trans": [
+      "n. 四轮运货马车；运货车"
+    ],
+    "usphone": "[ˈwæɡən]",
+    "ukphone": "[ˈwæɡən]"
+  },
+  {
+    "name": "waken",
+    "trans": [
+      "vt. 唤醒；使觉醒",
+      "vi. 醒来；觉醒"
+    ],
+    "usphone": "[ˈweɪkən]",
+    "ukphone": "[ˈweɪkən]"
+  },
+  {
+    "name": "warfare",
+    "trans": [
+      "n. 战争；冲突"
+    ],
+    "usphone": "[ˈwɔːrfer]",
+    "ukphone": "[ˈwɔːfeə(r)]"
+  },
+  {
+    "name": "wary",
+    "trans": [
+      "adj. 谨慎的；机警的；惟恐的；考虑周到的"
+    ],
+    "usphone": "[ˈweri]",
+    "ukphone": "[ˈweəri]"
+  },
+  {
+    "name": "warranty",
+    "trans": [
+      "n. 保证；担保；授权；（正当）理由"
+    ],
+    "usphone": "[ˈwɔːrənti]",
+    "ukphone": "[ˈwɒrənti]"
+  },
+  {
+    "name": "waterfall",
+    "trans": [
+      "n. 瀑布；瀑布似的东西"
+    ],
+    "usphone": "[ˈwɔːtərfɔːl]",
+    "ukphone": "[ˈwɔːtəfɔːl]"
+  },
+  {
+    "name": "waterproof",
+    "trans": [
+      "n. 防水材料",
+      "vt. 使防水",
+      "adj. 防水的，不透水的"
+    ],
+    "usphone": "[ˈwɔːtərpruːf]",
+    "ukphone": "[ˈwɔːtəpruːf]"
+  },
+  {
+    "name": "weave",
+    "trans": [
+      "vi. 纺织；编成；迂回行进",
+      "vt. 编织；编排；使迂回前进",
+      "n. 织物；织法；编织式样"
+    ],
+    "usphone": "[wiːv]",
+    "ukphone": "[wiːv]"
+  },
+  {
+    "name": "wedge",
+    "trans": [
+      "n. 楔子；楔形物；导致分裂的东西",
+      "vt. 楔入；挤进；楔住",
+      "vi. 楔入；挤进"
+    ],
+    "usphone": "[wedʒ]",
+    "ukphone": "[wedʒ]"
+  },
+  {
+    "name": "whirl",
+    "trans": [
+      "n. 旋转，回旋；昏乱；一连串的事；短暂的旅行",
+      "vt. 使旋转；卷走，飞快地带走",
+      "vi. 旋转，回旋；急走；头晕眼花"
+    ],
+    "usphone": "[wɜːrl]",
+    "ukphone": "[wɜːl]"
+  },
+  {
+    "name": "whisky",
+    "trans": [
+      "n. 威士忌酒",
+      "adj. 威士忌酒的"
+    ],
+    "usphone": "[ˈwɪski]",
+    "ukphone": "[ˈwɪski]"
+  },
+  {
+    "name": "whiskey",
+    "trans": [
+      "n. 威士忌酒",
+      "adj. 威士忌酒的"
+    ],
+    "usphone": "[ˈwɪski]",
+    "ukphone": "[ˈwɪski]"
+  },
+  {
+    "name": "whistle",
+    "trans": [
+      "n. 口哨；汽笛；呼啸声",
+      "vt. 吹口哨；鸣汽笛"
+    ],
+    "usphone": "[ˈwɪs(ə)l]",
+    "ukphone": "[ˈwɪs(ə)l]"
+  },
+  {
+    "name": "wicked",
+    "trans": [
+      "adj. 邪恶的；恶劣的；不道德的；顽皮的"
+    ],
+    "usphone": "[ˈwɪkɪd]",
+    "ukphone": "[ˈwɪkɪd]"
+  },
+  {
+    "name": "width",
+    "trans": [
+      "n. 宽度；广度"
+    ],
+    "usphone": "[wɪdθ; wɪtθ]",
+    "ukphone": "[wɪdθ]"
+  },
+  {
+    "name": "wine",
+    "trans": [
+      "n. 酒，葡萄酒；紫红色",
+      "vt. 请…喝酒",
+      "vi. 喝酒"
+    ],
+    "usphone": "[waɪn]",
+    "ukphone": "[waɪn]"
+  },
+  {
+    "name": "wink",
+    "trans": [
+      "n. 眨眼；使眼色；闪烁；瞬间",
+      "vt. 眨眼",
+      "vi. 眨眼；使眼色；闪烁"
+    ],
+    "usphone": "[wɪŋk]",
+    "ukphone": "[wɪŋk]"
+  },
+  {
+    "name": "witch",
+    "trans": [
+      "n. 巫婆，女巫",
+      "vt. 迷惑；施巫术"
+    ],
+    "usphone": "[wɪtʃ]",
+    "ukphone": "[wɪtʃ]"
+  },
+  {
+    "name": "workshop",
+    "trans": [
+      "n. 车间；研讨会；工场；讲习班"
+    ],
+    "usphone": "[ˈwɜːrkʃɑːp]",
+    "ukphone": "[ˈwɜːkʃɒp]"
+  },
+  {
+    "name": "wrench",
+    "trans": [
+      "n. 扳手，扳钳；扭伤；痛苦；歪曲；猛扭",
+      "vt. 扭伤；猛扭；曲解；折磨",
+      "vi. 扭伤；猛扭；猛绞"
+    ],
+    "usphone": "[rentʃ]",
+    "ukphone": "[rentʃ]"
+  },
+  {
+    "name": "wretched",
+    "trans": [
+      "adj. 可怜的；卑鄙的；令人苦恼或难受的"
+    ],
+    "usphone": "[ˈretʃɪd]",
+    "ukphone": "[ˈretʃɪd]"
+  },
+  {
+    "name": "wrinkle",
+    "trans": [
+      "n. 皱纹",
+      "vi. 起皱",
+      "vt. 使起皱纹"
+    ],
+    "usphone": "[ˈrɪŋkl]",
+    "ukphone": "[ˈrɪŋk(ə)l]"
+  },
+  {
+    "name": "waist",
+    "trans": [
+      "n. 腰，腰部"
+    ],
+    "usphone": "[weɪst]",
+    "ukphone": "[weɪst]"
+  },
+  {
+    "name": "walk",
+    "trans": [
+      "n. 步行，走；散步",
+      "vi. 走，步行；散步",
+      "vt. 散步；走过"
+    ],
+    "usphone": "[wɔːk]",
+    "ukphone": "[wɔːk]"
+  },
+  {
+    "name": "wall",
+    "trans": [
+      "n. 墙壁，围墙；似墙之物",
+      "adj. 墙壁的",
+      "vt. 用墙围住，围以墙"
+    ],
+    "usphone": "[wɔːl]",
+    "ukphone": "[wɔːl]"
+  },
+  {
+    "name": "wallet",
+    "trans": [
+      "n. 钱包，皮夹"
+    ],
+    "usphone": "[ˈwɑːlɪt]",
+    "ukphone": "[ˈwɒlɪt]"
+  },
+  {
+    "name": "want",
+    "trans": [
+      "n. 需要；缺乏；贫困；必需品",
+      "vt. 需要；希望；应该；缺少",
+      "vi. 需要；缺少"
+    ],
+    "usphone": "[wɑːnt]",
+    "ukphone": "[wɒnt]"
+  },
+  {
+    "name": "war",
+    "trans": [
+      "n. 战争，斗争；军事，战术；冲突，对抗，竞争",
+      "vi. 打仗，作战；对抗"
+    ],
+    "usphone": "[wɔːr]",
+    "ukphone": "[wɔː(r)]"
+  },
+  {
+    "name": "warm",
+    "trans": [
+      "n. 取暖；加热",
+      "adj. 温暖的；热情的",
+      "vt. 使…兴奋；使…温暖；使…感兴趣",
+      "vi. 同情；激动；变温暖"
+    ],
+    "usphone": "[wɔːrm]",
+    "ukphone": "[wɔːm]"
+  },
+  {
+    "name": "warmth",
+    "trans": [
+      "n. 温暖；热情；激动"
+    ],
+    "usphone": "[wɔːrmθ]",
+    "ukphone": "[wɔːmθ]"
+  },
+  {
+    "name": "warn",
+    "trans": [
+      "vt. 警告，提醒；通知",
+      "vi. 发出警告，发出预告"
+    ],
+    "usphone": "[wɔːrn]",
+    "ukphone": "[wɔːn]"
+  },
+  {
+    "name": "wash",
+    "trans": [
+      "n. 洗涤；洗的衣服；化妆水；冲积物",
+      "vt. 洗涤；洗刷；冲走；拍打",
+      "vi. 洗澡；被冲蚀"
+    ],
+    "usphone": "[wɑːʃ]",
+    "ukphone": "[wɒʃ]"
+  },
+  {
+    "name": "waste",
+    "trans": [
+      "n. 浪费；废物；荒地；损耗；地面风化物",
+      "adj. 废弃的；多余的；荒芜的",
+      "vt. 浪费；消耗；使荒芜",
+      "vi. 浪费；变消瘦；挥霍钱财"
+    ],
+    "usphone": "[weɪst]",
+    "ukphone": "[weɪst]"
+  },
+  {
+    "name": "watch",
+    "trans": [
+      "n. 手表；监视；守护；值班人",
+      "vt. 观察；注视；看守；警戒",
+      "vi. 观看，注视；守侯，看守"
+    ],
+    "usphone": "[wɑːtʃ]",
+    "ukphone": "[wɒtʃ]"
+  },
+  {
+    "name": "water",
+    "trans": [
+      "n. 水；海水；雨水；海域，大片的水",
+      "vt. 使湿；供以水；给…浇水",
+      "vi. 加水；流泪；流口水"
+    ],
+    "usphone": "[ˈwɔːtər]",
+    "ukphone": "[ˈwɔːtə(r)]"
+  },
+  {
+    "name": "watt",
+    "trans": [
+      "n. 瓦特"
+    ],
+    "usphone": "[wɑːt]",
+    "ukphone": "[wɒt]"
+  },
+  {
+    "name": "wave",
+    "trans": [
+      "n. 波动；波浪；高潮；挥手示意；卷曲",
+      "vt. 卷（烫）发；向…挥手示意；使成波浪形",
+      "vi. 波动；起伏；挥手示意；摇动；呈波形"
+    ],
+    "usphone": "[weɪv]",
+    "ukphone": "[weɪv]"
+  },
+  {
+    "name": "wax",
+    "trans": [
+      "n. 蜡；蜡状物",
+      "adj. 蜡制的；似蜡的",
+      "vt. 给…上蜡",
+      "vi. 月亮渐满；增大"
+    ],
+    "usphone": "[wæks]",
+    "ukphone": "[wæks]"
+  },
+  {
+    "name": "way",
+    "trans": [
+      "n. 方法；道路；方向；行业；习惯",
+      "adj. 途中的",
+      "adv. 大大地；远远地"
+    ],
+    "usphone": "[weɪ]",
+    "ukphone": "[weɪ]"
+  },
+  {
+    "name": "we",
+    "trans": [
+      "pron. 我们（主格）；笔者，本人（作者或演讲人使用）；朕，寡人"
+    ],
+    "usphone": "[wi]",
+    "ukphone": "[wi; wiː]"
+  },
+  {
+    "name": "weak",
+    "trans": [
+      "adj. [经] 疲软的；虚弱的；无力的；不牢固的"
+    ],
+    "usphone": "[wiːk]",
+    "ukphone": "[wiːk]"
+  },
+  {
+    "name": "weapon",
+    "trans": [
+      "n. 武器，兵器"
+    ],
+    "usphone": "[ˈwepən]",
+    "ukphone": "[ˈwepən]"
+  },
+  {
+    "name": "wear",
+    "trans": [
+      "n. 衣物；磨损；耐久性",
+      "v. 穿着；用旧；耗损；面露"
+    ],
+    "usphone": "[wer]",
+    "ukphone": "[weə(r)]"
+  },
+  {
+    "name": "weary",
+    "trans": [
+      "adj. 疲倦的；厌烦的；令人厌烦的",
+      "vt. 使疲倦；使厌烦",
+      "vi. 疲倦；厌烦"
+    ],
+    "usphone": "[ˈwɪri]",
+    "ukphone": "[ˈwɪəri]"
+  },
+  {
+    "name": "weather",
+    "trans": [
+      "n. 天气；气象；气候；处境",
+      "vt. 经受住；使风化；侵蚀；使受风吹雨打",
+      "adj. 露天的；迎风的",
+      "vi. 风化；受侵蚀；经受风雨"
+    ],
+    "usphone": "[ˈweðər]",
+    "ukphone": "[ˈweðə(r)]"
+  },
+  {
+    "name": "Wednesday",
+    "trans": [
+      "n. 星期三"
+    ],
+    "usphone": "[ˈwenzdeɪ]",
+    "ukphone": "[ˈwenzdeɪ]"
+  },
+  {
+    "name": "weed",
+    "trans": [
+      "n. 杂草，野草；菸草",
+      "vt. 除草；铲除",
+      "vi. 除草"
+    ],
+    "usphone": "[wiːd]",
+    "ukphone": "[wiːd]"
+  },
+  {
+    "name": "week",
+    "trans": [
+      "n. 周，星期"
+    ],
+    "usphone": "[wiːk]",
+    "ukphone": "[wiːk]"
+  },
+  {
+    "name": "weekday",
+    "trans": [
+      "n. 平日，普通日；工作日"
+    ],
+    "usphone": "[ˈwiːkdeɪ]",
+    "ukphone": "[ˈwiːkdeɪ]"
+  },
+  {
+    "name": "weekend",
+    "trans": [
+      "n. 周末，周末休假；周末聚会",
+      "adj. 周末的，周末用的",
+      "vi. 度周末"
+    ],
+    "usphone": "[ˈwiːkend]",
+    "ukphone": "[ˌwiːkˈend]"
+  },
+  {
+    "name": "weekly",
+    "trans": [
+      "n. 周刊",
+      "adj. 每周的；周刊的；一周一次的",
+      "adv. 每周一次；逐周"
+    ],
+    "usphone": "[ˈwiːkli]",
+    "ukphone": "[ˈwiːkli]"
+  },
+  {
+    "name": "weep",
+    "trans": [
+      "n. 哭泣；眼泪；滴下",
+      "vt. 哭泣；流泪；悲叹；流出或渗出液体",
+      "vi. 哭泣；流泪；哀悼；滴落；渗出液体"
+    ],
+    "usphone": "[wiːp]",
+    "ukphone": "[wiːp]"
+  },
+  {
+    "name": "welcome",
+    "trans": [
+      "n. 欢迎",
+      "vt. 欢迎",
+      "adj. 受欢迎的",
+      "int. 欢迎"
+    ],
+    "usphone": "[ˈwelkəm]",
+    "ukphone": "[ˈwelkəm]"
+  },
+  {
+    "name": "welfare",
+    "trans": [
+      "n. 福利；幸福；福利事业；安宁",
+      "adj. 福利的；接受社会救济的"
+    ],
+    "usphone": "[ˈwelfer]",
+    "ukphone": "[ˈwelfeə(r)]"
+  },
+  {
+    "name": "well",
+    "trans": [
+      "n. 井；源泉",
+      "adj. 良好的；健康的；适宜的",
+      "adv. 很好地；充分地；满意地；适当地",
+      "v. 涌出"
+    ],
+    "usphone": "[wel]",
+    "ukphone": "[wel]"
+  },
+  {
+    "name": "well-known",
+    "trans": [
+      "adj. 著名的；众所周知的；清楚明白的"
+    ],
+    "usphone": "[ˌwel ˈnoʊn]",
+    "ukphone": "[ˌwel ˈnəʊn]"
+  },
+  {
+    "name": "west",
+    "trans": [
+      "n. 西；西方；西部",
+      "adj. 西方的；朝西的",
+      "adv. 在西方；向西方；自西方"
+    ],
+    "usphone": "[west]",
+    "ukphone": "[west]"
+  },
+  {
+    "name": "western",
+    "trans": [
+      "n. 西方人；西部片，西部小说",
+      "adj. 西方的，西部的；有西方特征的"
+    ],
+    "usphone": "[ˈwestərn]",
+    "ukphone": "[ˈwestən]"
+  },
+  {
+    "name": "wet",
+    "trans": [
+      "n. 雨天；湿气",
+      "adj. [气象][物] 潮湿的；有雨的",
+      "vt. 弄湿",
+      "vi. 变湿"
+    ],
+    "usphone": "[wet]",
+    "ukphone": "[wet]"
+  },
+  {
+    "name": "whale",
+    "trans": [
+      "n. 鲸；巨大的东西",
+      "vt. 猛揍；使惨败",
+      "vi. 捕鲸"
+    ],
+    "usphone": "[weɪl]",
+    "ukphone": "[weɪl]"
+  },
+  {
+    "name": "what",
+    "trans": [
+      "pron. 什么；多么；多少",
+      "adv. 到什么程度，在哪一方面",
+      "adj. 什么；多么；何等",
+      "int. 什么；多么"
+    ],
+    "usphone": "[wʌt]",
+    "ukphone": "[wɒt]"
+  },
+  {
+    "name": "whatever",
+    "trans": [
+      "conj. 无论什么",
+      "adj. 不管什么样的",
+      "pron. 无论什么；诸如此类"
+    ],
+    "usphone": "[wətˈevər]",
+    "ukphone": "[wɒtˈevə(r)]"
+  },
+  {
+    "name": "whatsoever",
+    "trans": [
+      "pron. 无论什么"
+    ],
+    "usphone": "[ˌhwɑtsoˈevər]",
+    "ukphone": "[ˌwɒtsəʊˈevə(r)]"
+  },
+  {
+    "name": "wheat",
+    "trans": [
+      "n. 小麦；小麦色"
+    ],
+    "usphone": "[wiːt]",
+    "ukphone": "[wiːt]"
+  },
+  {
+    "name": "wheel",
+    "trans": [
+      "n. 车轮；方向盘；转动",
+      "vt. 转动；使变换方向；给…装轮子",
+      "vi. 旋转；突然转变方向；盘旋飞行"
+    ],
+    "usphone": "[wiːl]",
+    "ukphone": "[wiːl]"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "conj. 考虑到；既然；当…时；在…时；如果",
+      "n. 时间，时候；日期；场合",
+      "adv. 什么时候，何时；（用于时间的表达方式之后）在那时；其时；当时",
+      "pron. 那时；什么时侯"
+    ],
+    "usphone": "[wen]",
+    "ukphone": "[wen]"
+  },
+  {
+    "name": "whenever",
+    "trans": [
+      "conj. 每当；无论何时",
+      "adv. 不论何时；随便什么时候"
+    ],
+    "usphone": "[wenˈevər]",
+    "ukphone": "[wenˈevə(r)]"
+  },
+  {
+    "name": "where",
+    "trans": [
+      "conj. 在…的地方",
+      "n. 地点",
+      "adv. 在哪里",
+      "pron. 哪里"
+    ],
+    "usphone": "[wer]",
+    "ukphone": "[weə(r)]"
+  },
+  {
+    "name": "wherever",
+    "trans": [
+      "conj. 无论在哪里；无论什么情况下",
+      "adv. 无论什么地方；究竟在哪里"
+    ],
+    "usphone": "[werˈevər]",
+    "ukphone": "[weərˈevə(r)]"
+  },
+  {
+    "name": "whether",
+    "trans": [
+      "conj. 是否；不论",
+      "pron. 两个中的哪一个"
+    ],
+    "usphone": "[ˈweðər]",
+    "ukphone": "[ˈweðə(r)]"
+  },
+  {
+    "name": "which",
+    "trans": [
+      "adj. 哪一个；哪一些",
+      "pron. 哪/那一个；哪/那一些"
+    ],
+    "usphone": "[wɪtʃ]",
+    "ukphone": "[wɪtʃ]"
+  },
+  {
+    "name": "whichever",
+    "trans": [
+      "adj. 无论哪个；无论哪些",
+      "pron. 任何一个；无论哪个"
+    ],
+    "usphone": "[wɪtʃˈevər]",
+    "ukphone": "[wɪtʃˈevə(r)]"
+  },
+  {
+    "name": "while",
+    "trans": [
+      "conj. 虽然；然而；当……的时候",
+      "n. 一会儿；一段时间",
+      "vt. 消磨；轻松地度过"
+    ],
+    "usphone": "[waɪl]",
+    "ukphone": "[waɪl]"
+  },
+  {
+    "name": "whilst",
+    "trans": [
+      "conj. 同时；时时，有时；当…的时候"
+    ],
+    "usphone": "[waɪlst]",
+    "ukphone": "[waɪlst]"
+  },
+  {
+    "name": "white",
+    "trans": [
+      "n. 白色；洁白；白种人",
+      "adj. 白色的；白种的；纯洁的"
+    ],
+    "usphone": "[waɪt]",
+    "ukphone": "[waɪt]"
+  },
+  {
+    "name": "who",
+    "trans": [
+      "pron. 谁；什么人"
+    ],
+    "usphone": "[huː]",
+    "ukphone": "[huː]"
+  },
+  {
+    "name": "whoever",
+    "trans": [
+      "pron. 无论谁；任何人",
+      "n. 《爱谁谁》（电影名）"
+    ],
+    "usphone": "[huːˈevər]",
+    "ukphone": "[huːˈevə(r)]"
+  },
+  {
+    "name": "whom",
+    "trans": [
+      "pron. 谁（who的宾格）"
+    ],
+    "usphone": "[huːm]",
+    "ukphone": "[huːm]"
+  },
+  {
+    "name": "whose",
+    "trans": [
+      "pron. 谁的（疑问代词）"
+    ],
+    "usphone": "[huːz]",
+    "ukphone": "[huːz]"
+  },
+  {
+    "name": "why",
+    "trans": [
+      "int. 哎呀！什么？",
+      "adv. 为什么"
+    ],
+    "usphone": "[waɪ]",
+    "ukphone": "[waɪ]"
+  },
+  {
+    "name": "widow",
+    "trans": [
+      "n. 寡妇；孀妇",
+      "vt. 使成寡妇"
+    ],
+    "usphone": "[ˈwɪdoʊ]",
+    "ukphone": "[ˈwɪdəʊ]"
+  },
+  {
+    "name": "wife",
+    "trans": [
+      "n. 妻子，已婚妇女；夫人"
+    ],
+    "usphone": "[waɪf]",
+    "ukphone": "[waɪf]"
+  },
+  {
+    "name": "wild",
+    "trans": [
+      "n. 荒野",
+      "adj. 野生的；野蛮的；狂热的；荒凉的",
+      "adv. 疯狂地；胡乱地"
+    ],
+    "usphone": "[waɪld]",
+    "ukphone": "[waɪld]"
+  },
+  {
+    "name": "wind",
+    "trans": [
+      "vi. 缠绕；上发条；吹响号角",
+      "n. 风；呼吸；气味；卷绕",
+      "vt. 缠绕；上发条；使弯曲；吹号角；绕住或缠住某人"
+    ],
+    "usphone": "[wɪnd]",
+    "ukphone": "[wɪnd]"
+  },
+  {
+    "name": "window",
+    "trans": [
+      "n. 窗；窗口；窗户"
+    ],
+    "usphone": "[ˈwɪndoʊ]",
+    "ukphone": "[ˈwɪndəʊ]"
+  },
+  {
+    "name": "winter",
+    "trans": [
+      "n. 冬季；年岁；萧条期",
+      "adj. 冬天的；越冬的",
+      "vi. 过冬"
+    ],
+    "usphone": "[ˈwɪntər]",
+    "ukphone": "[ˈwɪntə(r)]"
+  },
+  {
+    "name": "wipe",
+    "trans": [
+      "n. 擦拭；用力打",
+      "vi. 擦；打",
+      "vt. 擦；消除；涂上"
+    ],
+    "usphone": "[waɪp]",
+    "ukphone": "[waɪp]"
+  },
+  {
+    "name": "wire",
+    "trans": [
+      "n. 电线；金属丝；电报",
+      "vt. 拍电报；给…装电线",
+      "vi. 打电报"
+    ],
+    "usphone": "[ˈwaɪər]",
+    "ukphone": "[ˈwaɪə(r)]"
+  },
+  {
+    "name": "wise",
+    "trans": [
+      "adj. 明智的；聪明的；博学的",
+      "vt. 使知道；教导",
+      "vi. 了解"
+    ],
+    "usphone": "[waɪz]",
+    "ukphone": "[waɪz]"
+  },
+  {
+    "name": "wish",
+    "trans": [
+      "n. 希望；祝福；心愿",
+      "vt. 祝愿；渴望；向…致问候语",
+      "vi. 愿望；需要"
+    ],
+    "usphone": "[wɪʃ]",
+    "ukphone": "[wɪʃ]"
+  },
+  {
+    "name": "with",
+    "trans": [
+      "prep. 用；随着；支持；和…在一起"
+    ],
+    "usphone": "[wɪð; wɪθ]",
+    "ukphone": "[wɪð]"
+  },
+  {
+    "name": "within",
+    "trans": [
+      "prep. 在…之内",
+      "n. 里面",
+      "adv. 在内部"
+    ],
+    "usphone": "[wɪˈðɪn]",
+    "ukphone": "[wɪˈðɪn]"
+  },
+  {
+    "name": "without",
+    "trans": [
+      "prep. 没有；超过；在…外面",
+      "n. 外部；外面",
+      "adv. 户外；在外面；没有或不显示某事物"
+    ],
+    "usphone": "[wɪˈðaʊt]",
+    "ukphone": "[wɪˈðaʊt]"
+  },
+  {
+    "name": "wolf",
+    "trans": [
+      "n. 狼；色狼；残忍贪婪之人",
+      "vt. 大吃；狼吞虎咽地吃"
+    ],
+    "usphone": "[wʊlf]",
+    "ukphone": "[wʊlf]"
+  },
+  {
+    "name": "woman",
+    "trans": [
+      "n. 妇女；女性；成年女子"
+    ],
+    "usphone": "[ˈwʊmən]",
+    "ukphone": "[ˈwʊmən]"
+  },
+  {
+    "name": "wonder",
+    "trans": [
+      "n. 惊奇；奇迹；惊愕",
+      "adj. 奇妙的；非凡的",
+      "vi. 怀疑；想知道；惊讶",
+      "vt. 怀疑；惊奇；对…感到惊讶"
+    ],
+    "usphone": "[ˈwʌndər]",
+    "ukphone": "[ˈwʌndə(r)]"
+  },
+  {
+    "name": "wonderful",
+    "trans": [
+      "adj. 极好的，精彩的，绝妙的；奇妙的；美妙；胜；神妙"
+    ],
+    "usphone": "[ˈwʌndərf(ə)l]",
+    "ukphone": "[ˈwʌndəf(ə)l]"
+  },
+  {
+    "name": "wood",
+    "trans": [
+      "n. 木材；木制品；树林",
+      "vt. 植林于；给…添加木柴",
+      "vi. 收集木材"
+    ],
+    "usphone": "[wʊd]",
+    "ukphone": "[wʊd]"
+  },
+  {
+    "name": "wooden",
+    "trans": [
+      "adj. 木制的；僵硬的，呆板的"
+    ],
+    "usphone": "[ˈwʊd(ə)n]",
+    "ukphone": "[ˈwʊdn]"
+  },
+  {
+    "name": "wool",
+    "trans": [
+      "n. 羊毛；毛线；绒线；毛织品；毛料衣物"
+    ],
+    "usphone": "[wʊl]",
+    "ukphone": "[wʊl]"
+  },
+  {
+    "name": "word",
+    "trans": [
+      "n. [语] 单词；话语；消息；诺言；命令",
+      "vt. 用言辞表达"
+    ],
+    "usphone": "[wɜːrd]",
+    "ukphone": "[wɜːd]"
+  },
+  {
+    "name": "worker",
+    "trans": [
+      "n. 工人；劳动者；职蚁"
+    ],
+    "usphone": "[ˈwɜːrkər]",
+    "ukphone": "[ˈwɜːkə(r)]"
+  },
+  {
+    "name": "world",
+    "trans": [
+      "n. 世界；领域；世俗；全人类；物质生活"
+    ],
+    "usphone": "[wɜːrld]",
+    "ukphone": "[wɜːld]"
+  },
+  {
+    "name": "worm",
+    "trans": [
+      "n. 虫，蠕虫；蜗杆；螺纹；小人物",
+      "vt. 使蠕动；给除虫；使缓慢前进",
+      "vi. 慢慢前进；蠕行"
+    ],
+    "usphone": "[wɜːrm]",
+    "ukphone": "[wɜːm]"
+  },
+  {
+    "name": "worry",
+    "trans": [
+      "n. 担心；烦恼；撕咬",
+      "vi. 担心；烦恼；撕咬",
+      "vt. 担心；发愁；折磨"
+    ],
+    "usphone": "[ˈwɜːri]",
+    "ukphone": "[ˈwʌri]"
+  },
+  {
+    "name": "worse",
+    "trans": [
+      "n. 更坏的事；更恶劣的事",
+      "adj. 更坏的；更差的；更恶劣的（bad的比较级）；（病情）更重的（ill的比较级）",
+      "adv. 更糟；更坏；更恶劣地；更坏地"
+    ],
+    "usphone": "[wɜːrs]",
+    "ukphone": "[wɜːs]"
+  },
+  {
+    "name": "worst",
+    "trans": [
+      "n. 最坏；最坏的时候",
+      "adj. 最差的，最坏的；最不利的；效能最低的",
+      "adv. 最坏地；最不利地"
+    ],
+    "usphone": "[wɜːrst]",
+    "ukphone": "[wɜːst]"
+  },
+  {
+    "name": "worth",
+    "trans": [
+      "n. 价值；财产",
+      "adj. 值…的"
+    ],
+    "usphone": "[wɜːrθ]",
+    "ukphone": "[wɜːθ]"
+  },
+  {
+    "name": "worthy",
+    "trans": [
+      "n. 杰出人物；知名人士",
+      "adj. 值得的；有价值的；配得上的，相称的；可尊敬的；应…的"
+    ],
+    "usphone": "[ˈwɜːrði]",
+    "ukphone": "[ˈwɜːði]"
+  },
+  {
+    "name": "would",
+    "trans": [
+      "aux. 将，将要；愿意",
+      "v. will的过去式"
+    ],
+    "usphone": "[wʊd]",
+    "ukphone": "[wʊd]"
+  },
+  {
+    "name": "wound",
+    "trans": [
+      "n. 创伤，伤口",
+      "vt. 使受伤",
+      "vi. 受伤，伤害"
+    ],
+    "usphone": "[wuːnd]",
+    "ukphone": "[wuːnd]"
+  },
+  {
+    "name": "wrist",
+    "trans": [
+      "n. 手腕；腕关节",
+      "vt. 用腕力移动"
+    ],
+    "usphone": "[rɪst]",
+    "ukphone": "[rɪst]"
+  },
+  {
+    "name": "write",
+    "trans": [
+      "vi. 写，写字；写作，作曲；写信",
+      "vt. 写，书写；写信给；著述"
+    ],
+    "usphone": "[raɪt]",
+    "ukphone": "[raɪt]"
+  },
+  {
+    "name": "writer",
+    "trans": [
+      "n. 作家；作者"
+    ],
+    "usphone": "[ˈraɪtər]",
+    "ukphone": "[ˈraɪtə(r)]"
+  },
+  {
+    "name": "writing",
+    "trans": [
+      "n. 书写；作品；著作；[法] 笔迹",
+      "v. 书写（write的ing形式）"
+    ],
+    "usphone": "[ˈraɪtɪŋ]",
+    "ukphone": "[ˈraɪtɪŋ]"
+  },
+  {
+    "name": "wrong",
+    "trans": [
+      "n. 坏事；不公正",
+      "adj. 错误的；失常的；不适当的",
+      "vt. 委屈；无理地对待；诽谤",
+      "adv. 错误地；邪恶地，不正当地"
+    ],
+    "usphone": "[rɔːŋ]",
+    "ukphone": "[rɒŋ]"
+  },
+  {
+    "name": "wheelchair",
+    "trans": [
+      "n. 轮椅"
+    ],
+    "usphone": "[ˈwiːltʃer]",
+    "ukphone": "[ˈwiːltʃeə(r)]"
+  },
+  {
+    "name": "wreak",
+    "trans": [
+      "vt. 发泄；报仇；造成（巨大的破坏或伤害）"
+    ],
+    "usphone": "[riːk]",
+    "ukphone": "[riːk]"
+  },
+  {
+    "name": "wingtip",
+    "trans": [
+      "n. （飞机的）翼尖"
+    ],
+    "usphone": "[ˈwɪŋˌtɪp]",
+    "ukphone": "[ˈwɪŋtɪp]"
+  },
+  {
+    "name": "wrongdoing",
+    "trans": [
+      "n. 坏事；不道德的行为"
+    ],
+    "usphone": "[ˈrɔːŋduːɪŋ]",
+    "ukphone": "[ˈrɒŋduːɪŋ]"
+  },
+  {
+    "name": "whirlwind",
+    "trans": [
+      "n. 旋风；旋风般的快速行动",
+      "adj. 旋风般的"
+    ],
+    "usphone": "[ˈwɜːrlwɪnd]",
+    "ukphone": "[ˈwɜːlwɪnd]"
+  },
+  {
+    "name": "well-educated",
+    "trans": [
+      "adj. 受过良好教育的"
+    ],
+    "usphone": "[wel ˈedʒukeɪtɪd]",
+    "ukphone": "['wel'edju:keitid, -dʒu-]"
+  },
+  {
+    "name": "wastage",
+    "trans": [
+      "n. 损耗；消瘦；衰老"
+    ],
+    "usphone": "[ˈweɪstɪdʒ]",
+    "ukphone": "[ˈweɪstɪdʒ]"
+  },
+  {
+    "name": "whopping",
+    "trans": [
+      "adj. 巨大的；天大的",
+      "adv. 非常地；异常地",
+      "v. 猛打；抽出（whop的ing形式）"
+    ],
+    "usphone": "[ˈwɑːpɪŋ]",
+    "ukphone": "[ˈwɒpɪŋ]"
+  },
+  {
+    "name": "workday",
+    "trans": [
+      "n. 工作日",
+      "adj. 日常的，工作日的；平凡的"
+    ],
+    "usphone": "[ˈwɜːrkdeɪ]",
+    "ukphone": "[ˈwɜːkdeɪ]"
+  },
+  {
+    "name": "widen",
+    "trans": [
+      "vt. 放宽",
+      "vi. 变宽"
+    ],
+    "usphone": "[ˈwaɪdn]",
+    "ukphone": "[ˈwaɪd(ə)n]"
+  },
+  {
+    "name": "willingly",
+    "trans": [
+      "adv. 欣然地；愿意地，乐意地"
+    ],
+    "usphone": "[ˈwɪlɪŋli]",
+    "ukphone": "[ˈwɪlɪŋli]"
+  },
+  {
+    "name": "weakness",
+    "trans": [
+      "n. 弱点；软弱；嗜好"
+    ],
+    "usphone": "[ˈwiːknəs]",
+    "ukphone": "[ˈwiːknəs]"
+  },
+  {
+    "name": "well-travelled",
+    "trans": [
+      "adj. 经常旅行的；去过许多地方的"
+    ],
+    "usphone": "[ˌwel ˈtrævld]",
+    "ukphone": "[ˌwel ˈtrævld]"
+  },
+  {
+    "name": "wildlife",
+    "trans": [
+      "n. 野生动植物",
+      "adj. 野生动植物的"
+    ],
+    "usphone": "[ˈwaɪldlaɪf]",
+    "ukphone": "[ˈwaɪldlaɪf]"
+  },
+  {
+    "name": "well-being",
+    "trans": [
+      "n. 幸福；康乐"
+    ],
+    "usphone": "[ˈwel biːɪŋ]",
+    "ukphone": "[ˈwel biːɪŋ]"
+  },
+  {
+    "name": "wasteland",
+    "trans": [
+      "n. 荒地，不毛之地；未开垦地，荒漠；（精神或文化上的）贫乏"
+    ],
+    "usphone": "[ˈweɪstlænd]",
+    "ukphone": "[ˈweɪstlænd]"
+  },
+  {
+    "name": "well-paid",
+    "trans": [
+      "adj. 待遇优厚的；收入高的"
+    ],
+    "usphone": "[ˌwel ˈpeɪd]",
+    "ukphone": "[ˌwel ˈpeɪd]"
+  },
+  {
+    "name": "wordy",
+    "trans": [
+      "adj. 冗长的；口头的；唠叨的；文字的"
+    ],
+    "usphone": "[ˈwɜːrdi]",
+    "ukphone": "[ˈwɜːdi]"
+  },
+  {
+    "name": "wildfire",
+    "trans": [
+      "n. 火灾；磷火，鬼火；散布极快的事物"
+    ],
+    "usphone": "[ˈwaɪldfaɪər]",
+    "ukphone": "[ˈwaɪldfaɪə(r)]"
+  },
+  {
+    "name": "wired",
+    "trans": [
+      "adj. 接有电线的；以铁丝围起的；极其兴奋的",
+      "v. 以金属丝装；打电报给（wire的过去分词）"
+    ],
+    "usphone": "[ˈwaɪərd]",
+    "ukphone": "[ˈwaɪəd]"
+  },
+  {
+    "name": "worsen",
+    "trans": [
+      "vi. 恶化；变得更坏；更坏",
+      "vt. 使恶化；使变得更坏"
+    ],
+    "usphone": "[ˈwɜːrsn]",
+    "ukphone": "[ˈwɜːsn]"
+  },
+  {
+    "name": "workforce",
+    "trans": [
+      "n. 劳动力；工人总数，职工总数"
+    ],
+    "usphone": "[ˈwɜːrkfɔːrs]",
+    "ukphone": "[ˈwɜːkfɔːs]"
+  },
+  {
+    "name": "welding",
+    "trans": [
+      "n. 焊接",
+      "v. 焊接；锻接（weld的ing形式）",
+      "adj. 焊接的"
+    ],
+    "usphone": "[ˈweldɪŋ]",
+    "ukphone": "[ˈweldɪŋ]"
+  },
+  {
+    "name": "worktable",
+    "trans": [
+      "n. 工作台；缝纫桌"
+    ],
+    "usphone": "[ˈwɜːrkˌtebl]",
+    "ukphone": "[ˈwɜːkˌteɪb(ə)l]"
+  },
+  {
+    "name": "white bread",
+    "trans": [
+      "n. 白面面包；精粉面包"
+    ],
+    "usphone": "[ˈwaɪt bred]",
+    "ukphone": "[ˈwaɪt bred]"
+  },
+  {
+    "name": "warning",
+    "trans": [
+      "n. 警告；预兆；预告",
+      "v. 警告（warn的ing形式）",
+      "adj. 警告的；引以为戒的"
+    ],
+    "usphone": "[ˈwɔːrnɪŋ]",
+    "ukphone": "[ˈwɔːnɪŋ]"
+  },
+  {
+    "name": "wide",
+    "trans": [
+      "n. 大千世界",
+      "adj. 广泛的；宽的，广阔的；张大的；远离目标的",
+      "adv. 广泛地；广阔地；充分地"
+    ],
+    "usphone": "[waɪd]",
+    "ukphone": "[waɪd]"
+  },
+  {
+    "name": "windy",
+    "trans": [
+      "adj. 多风的，有风的；腹胀的；吹牛的"
+    ],
+    "usphone": "[ˈwɪndi]",
+    "ukphone": "[ˈwɪndi]"
+  },
+  {
+    "name": "woe",
+    "trans": [
+      "n. 悲哀，悲痛；灾难",
+      "int. 唉（表示痛苦，悲伤或悔恨）"
+    ],
+    "usphone": "[woʊ]",
+    "ukphone": "[wəʊ]"
+  },
+  {
+    "name": "warden",
+    "trans": [
+      "n. 区长；看守人；典狱官；学监"
+    ],
+    "usphone": "[ˈwɔːrdn]",
+    "ukphone": "[ˈwɔːdn]"
+  },
+  {
+    "name": "worthwhile",
+    "trans": [
+      "adj. 值得做的，值得花时间的"
+    ],
+    "usphone": "[ˌwɜːrθˈwaɪl]",
+    "ukphone": "[ˌwɜːθˈwaɪl]"
+  },
+  {
+    "name": "weld",
+    "trans": [
+      "n. 焊接；焊接点",
+      "vt. 焊接；使结合；使成整体",
+      "vi. 焊牢"
+    ],
+    "usphone": "[weld]",
+    "ukphone": "[weld]"
+  },
+  {
+    "name": "wreck",
+    "trans": [
+      "n. 破坏；失事；残骸；失去健康的人",
+      "vt. 破坏；使失事；拆毁",
+      "vi. 失事；营救失事船只"
+    ],
+    "usphone": "[rek]",
+    "ukphone": "[rek]"
+  },
+  {
+    "name": "wreath",
+    "trans": [
+      "n. 花冠；圈状物",
+      "vt. 环绕（等于wreathe）",
+      "vi. 盘旋（等于wreathe）"
+    ],
+    "usphone": "[riːθ]",
+    "ukphone": "[riːθ]"
+  },
+  {
+    "name": "well-rounded",
+    "trans": [
+      "adj. 丰满的；面面俱到的；多才多艺的；（语句）有表达力的"
+    ],
+    "usphone": "[ˌwel ˈraʊndɪd]",
+    "ukphone": "[ˌwel ˈraʊndɪd]"
+  },
+  {
+    "name": "willpower",
+    "trans": [
+      "n. 意志力；毅力"
+    ],
+    "usphone": "[ˈwɪlpaʊər]",
+    "ukphone": "[ˈwɪlpaʊə(r)]"
+  },
+  {
+    "name": "wither",
+    "trans": [
+      "vi. 枯萎；凋谢；衰弱",
+      "vt. 使凋谢；使畏缩；使衰弱"
+    ],
+    "usphone": "[ˈwɪðər]",
+    "ukphone": "[ˈwɪðə(r)]"
+  },
+  {
+    "name": "workload",
+    "trans": [
+      "n. 工作量"
+    ],
+    "usphone": "[ˈwɜːrkloʊd]",
+    "ukphone": "[ˈwɜːkləʊd]"
+  },
+  {
+    "name": "watertight",
+    "trans": [
+      "adj. 水密的；不漏水的；无懈可击的"
+    ],
+    "usphone": "[ˈwɔːtərtaɪt]",
+    "ukphone": "[ˈwɔːtətaɪt]"
+  },
+  {
+    "name": "well-to-do",
+    "trans": [
+      "adj. 小康的；富裕的"
+    ],
+    "usphone": "[ˌwel tə ˈduː]",
+    "ukphone": "[ˌwel tə ˈduː]"
+  },
+  {
+    "name": "whereabouts",
+    "trans": [
+      "n. 下落；行踪；去向；所在之处",
+      "adv. 在何处；靠近什么地方"
+    ],
+    "usphone": "[ˈwerəbaʊts; ˌwerəˈbaʊts]",
+    "ukphone": "[ˈweərəbaʊts]"
+  },
+  {
+    "name": "whim",
+    "trans": [
+      "n. 奇想；一时的兴致；怪念头；幻想"
+    ],
+    "usphone": "[wɪm]",
+    "ukphone": "[wɪm]"
+  },
+  {
+    "name": "wireless",
+    "trans": [
+      "n. 无线电",
+      "adj. 无线的；无线电的",
+      "vt. 用无线电报与…联系；用无线电报发送",
+      "vi. 打无线电报；打无线电话"
+    ],
+    "usphone": "[ˈwaɪərləs]",
+    "ukphone": "[ˈwaɪələs]"
+  },
+  {
+    "name": "widely",
+    "trans": [
+      "adv. 广泛地"
+    ],
+    "usphone": "[ˈwaɪdli]",
+    "ukphone": "[ˈwaɪdli]"
+  },
+  {
+    "name": "warlike",
+    "trans": [
+      "adj. 战争的；好战的；有战争危险的"
+    ],
+    "usphone": "[ˈwɔːrlaɪk]",
+    "ukphone": "[ˈwɔːlaɪk]"
+  },
+  {
+    "name": "well-balanced",
+    "trans": [
+      "adj. 匀称的；神智健全的；通情达理的；明智的"
+    ],
+    "usphone": "[ˌwel ˈbælənst]",
+    "ukphone": "[ˌwel ˈbælənst]"
+  },
+  {
+    "name": "wrestle",
+    "trans": [
+      "n. 摔跤；搏斗；斗争",
+      "vi. 摔跤；斗争；斟酌",
+      "vt. 与摔跤；与…搏斗；使劲搬动"
+    ],
+    "usphone": "[ˈresl]",
+    "ukphone": "[ˈres(ə)l]"
+  },
+  {
+    "name": "walnut",
+    "trans": [
+      "n. 胡桃；胡桃木",
+      "adj. 胡桃科植物的"
+    ],
+    "usphone": "[ˈwɔːlnʌt]",
+    "ukphone": "[ˈwɔːlnʌt]"
+  },
+  {
+    "name": "whiteboard",
+    "trans": [
+      "n. 白色书写板"
+    ],
+    "usphone": "[ˈwaɪtbɔːrd]",
+    "ukphone": "[ˈwaɪtbɔːd]"
+  },
+  {
+    "name": "woods",
+    "trans": [
+      "n. [林] 树林；森林；木头（wood的复数）",
+      "v. 供以木材；用森林覆盖（wood的第三人称单数）"
+    ],
+    "usphone": "[wʊdz]",
+    "ukphone": "[wʊdz]"
+  },
+  {
+    "name": "walking",
+    "trans": [
+      "n. 步行；散步",
+      "v. 步行（walk的ing形式）",
+      "adj. 步行的"
+    ],
+    "usphone": "[ˈwɔːkɪŋ]",
+    "ukphone": "[ˈwɔːkɪŋ]"
+  },
+  {
+    "name": "wasp",
+    "trans": [
+      "abbr. 盎格鲁撒克逊系的白人新教徒（White Anglo-Saxon Protestant）"
+    ],
+    "usphone": "[wɑːsp]",
+    "ukphone": "[wɒsp]"
+  },
+  {
+    "name": "willow",
+    "trans": [
+      "n. [林] 柳树；[木] 柳木制品",
+      "adj. 柳木制的"
+    ],
+    "usphone": "[ˈwɪloʊ]",
+    "ukphone": "[ˈwɪləʊ]"
+  },
+  {
+    "name": "wetland",
+    "trans": [
+      "n. 湿地；沼泽地"
+    ],
+    "usphone": "[ˈwetlənd]",
+    "ukphone": "[ˈwetlənd]"
+  },
+  {
+    "name": "warming",
+    "trans": [
+      "n. 加温，暖和；气温升高",
+      "v. 加温；兴奋；同情（warm的ing形式）",
+      "adj. 让人感到暖和的"
+    ],
+    "usphone": "[ˈwɔːrmɪŋ]",
+    "ukphone": "[ˈwɔːmɪŋ]"
+  },
+  {
+    "name": "water-skiing",
+    "trans": [
+      "n. 滑水运动（用快艇拖着在水上滑行）"
+    ],
+    "usphone": "[ˈwɔtəˌskiɪŋ]",
+    "ukphone": "['wɔ:təski:ɪŋ]"
+  },
+  {
+    "name": "working",
+    "trans": [
+      "n. 工作；活动；制作；操纵",
+      "v. 工作；影响；受雇用（work的ing形式）",
+      "adj. 工作的；操作的；可行的"
+    ],
+    "usphone": "[ˈwɜːrkɪŋ]",
+    "ukphone": "[ˈwɜːkɪŋ]"
+  },
+  {
+    "name": "washing",
+    "trans": [
+      "n. 洗涤；洗涤剂；要洗的衣物",
+      "v. 洗；使受洗礼（wash的ing形式）",
+      "adj. 洗涤用的，清洗用的"
+    ],
+    "usphone": "[ˈwɑːʃɪŋ]",
+    "ukphone": "[ˈwɒʃɪŋ]"
+  },
+  {
+    "name": "watchdog",
+    "trans": [
+      "n. 看门狗；监察人；忠实的看守人"
+    ],
+    "usphone": "[ˈwɑːtʃdɔːɡ]",
+    "ukphone": "[ˈwɒtʃdɒɡ]"
+  },
+  {
+    "name": "website",
+    "trans": [
+      "n. 网站（全球资讯网的主机站）"
+    ],
+    "usphone": "[ˈwebsaɪt]",
+    "ukphone": "[ˈwebsaɪt]"
+  },
+  {
+    "name": "westerner",
+    "trans": [
+      "n. 西方人，欧美人；美国西部的人"
+    ],
+    "usphone": "[ˈwestərnər]",
+    "ukphone": "[ˈwestənə(r)]"
+  },
+  {
+    "name": "Washington",
+    "trans": [
+      "n. 华盛顿（美国州名，美国城市名，美国第一任总统，姓氏）"
+    ],
+    "usphone": "[ˈwɔʃɪŋtən]",
+    "ukphone": "[ˈwɒʃɪŋtən]"
+  },
+  {
+    "name": "winner",
+    "trans": [
+      "n. 胜利者"
+    ],
+    "usphone": "[ˈwɪnər]",
+    "ukphone": "[ˈwɪnə(r)]"
+  },
+  {
+    "name": "waive",
+    "trans": [
+      "vt. 放弃；搁置"
+    ],
+    "usphone": "[weɪv]",
+    "ukphone": "[weɪv]"
+  },
+  {
+    "name": "waiver",
+    "trans": [
+      "n. 弃权，放弃；弃权证书"
+    ],
+    "usphone": "[ˈweɪvər]",
+    "ukphone": "[ˈweɪvə(r)]"
+  },
+  {
+    "name": "ware",
+    "trans": [
+      "n. 陶器，器皿；制品；器具；货物",
+      "vt. 留心；小心"
+    ],
+    "usphone": "[wer]",
+    "ukphone": "[weə(r)]"
+  },
+  {
+    "name": "wasteful",
+    "trans": [
+      "adj. 浪费的，不经济的；奢侈的"
+    ],
+    "usphone": "[ˈweɪstfl]",
+    "ukphone": "[ˈweɪstfl]"
+  },
+  {
+    "name": "watchful",
+    "trans": [
+      "adj. 注意的；警惕的；警醒的"
+    ],
+    "usphone": "[ˈwɑːtʃfl]",
+    "ukphone": "[ˈwɒtʃfl]"
+  },
+  {
+    "name": "wavy",
+    "trans": [
+      "adj. 多浪的；波动起伏的"
+    ],
+    "usphone": "[ˈweɪvi]",
+    "ukphone": "[ˈweɪvi]"
+  },
+  {
+    "name": "weariness",
+    "trans": [
+      "n. 疲倦，疲劳；厌倦"
+    ],
+    "usphone": "[ˈwɪrinəs]",
+    "ukphone": "[ˈwɪərinəs]"
+  },
+  {
+    "name": "webcast",
+    "trans": [
+      "n. 网络广播；网络直播；网路广播"
+    ],
+    "usphone": "[ˈwebkæst]",
+    "ukphone": "[ˈwebkɑːst]"
+  },
+  {
+    "name": "wed",
+    "trans": [
+      "vt. 与...结婚；娶；嫁",
+      "vi. 结婚；娶；嫁"
+    ],
+    "usphone": "[wed]",
+    "ukphone": "[wed]"
+  },
+  {
+    "name": "well-off",
+    "trans": [
+      "adj. 富裕的；顺利的，走运的；繁荣昌盛的"
+    ],
+    "usphone": "[ˌwel ˈɔːf]",
+    "ukphone": "[ˌwel ˈɒf]"
+  },
+  {
+    "name": "wharf",
+    "trans": [
+      "n. 码头；停泊处",
+      "vt. 使靠码头；为…建码头；把货卸在码头上",
+      "vi. 靠码头"
+    ],
+    "usphone": "[wɔːrf]",
+    "ukphone": "[wɔːf]"
+  },
+  {
+    "name": "widower",
+    "trans": [
+      "n. 鳏夫"
+    ],
+    "usphone": "[ˈwɪdoʊər]",
+    "ukphone": "[ˈwɪdəʊə(r)]"
+  },
+  {
+    "name": "wield",
+    "trans": [
+      "vt. 使用；行使；挥舞"
+    ],
+    "usphone": "[wiːld]",
+    "ukphone": "[wiːld]"
+  },
+  {
+    "name": "wilderness",
+    "trans": [
+      "n. 荒地；大量，茫茫一片"
+    ],
+    "usphone": "[ˈwɪldərnəs]",
+    "ukphone": "[ˈwɪldənəs]"
+  },
+  {
+    "name": "willingness",
+    "trans": [
+      "n. 乐意；心甘情愿；自动自发"
+    ],
+    "usphone": "[ˈwɪlɪŋnəs]",
+    "ukphone": "[ˈwɪlɪŋnəs]"
+  },
+  {
+    "name": "winery",
+    "trans": [
+      "n. 酿酒厂；葡萄酒酿造厂（复数wineries）"
+    ],
+    "usphone": "[ˈwaɪnəri]",
+    "ukphone": "[ˈwaɪnəri]"
+  },
+  {
+    "name": "witty",
+    "trans": [
+      "adj. 诙谐的；富于机智的"
+    ],
+    "usphone": "[ˈwɪti]",
+    "ukphone": "[ˈwɪti]"
+  },
+  {
+    "name": "woolen",
+    "trans": [
+      "n. 毛织品",
+      "adj. 羊毛的；羊毛制的"
+    ],
+    "usphone": "[ˈwʊlən]",
+    "ukphone": "[ˈwʊlən]"
+  },
+  {
+    "name": "woollen",
+    "trans": [
+      "n. 毛织品",
+      "adj. 羊毛制的"
+    ],
+    "usphone": "[ˈwʊlən]",
+    "ukphone": "[ˈwʊlən]"
+  },
+  {
+    "name": "wording",
+    "trans": [
+      "n. [语] 措辞；用语；语法",
+      "v. 用词语表达；讲话（word的ing形式）"
+    ],
+    "usphone": "[ˈwɜːrdɪŋ]",
+    "ukphone": "[ˈwɜːdɪŋ]"
+  },
+  {
+    "name": "worried",
+    "trans": [
+      "adj. 担心的"
+    ],
+    "usphone": "[ˈwɜːrid]",
+    "ukphone": "[ˈwʌrid]"
+  },
+  {
+    "name": "worthless",
+    "trans": [
+      "adj. 无价值的；不值钱的；卑微的"
+    ],
+    "usphone": "[ˈwɜːrθləs]",
+    "ukphone": "[ˈwɜːθləs]"
+  },
+  {
+    "name": "worthiness",
+    "trans": [
+      "n. 值得；相当；有价值"
+    ],
+    "usphone": "[ˈwɜːrðinəs]",
+    "ukphone": "[ˈwɜːðinəs]"
+  },
+  {
+    "name": "wrapping",
+    "trans": [
+      "n. 包装纸，包装材料",
+      "v. 裹住（wrap的ing形式）",
+      "adj. 包装用的"
+    ],
+    "usphone": "[ˈræpɪŋ]",
+    "ukphone": "[ˈræpɪŋ]"
+  },
+  {
+    "name": "wreckage",
+    "trans": [
+      "n. （失事船或飞机等的）残骸；（船只等的）失事"
+    ],
+    "usphone": "[ˈrekɪdʒ]",
+    "ukphone": "[ˈrekɪdʒ]"
+  },
+  {
+    "name": "wrestling",
+    "trans": [
+      "n. 摔跤；扭斗",
+      "v. 摔跤；格斗（wrestle的ing形式）；与…摔跤；使劲移动"
+    ],
+    "usphone": "[ˈreslɪŋ]",
+    "ukphone": "[ˈreslɪŋ]"
+  },
+  {
+    "name": "windscreen",
+    "trans": [
+      "n. 汽车挡风玻璃"
+    ],
+    "usphone": "[ˈwɪndskriːn]",
+    "ukphone": "[ˈwɪndskriːn]"
+  },
+  {
+    "name": "waterfront",
+    "trans": [
+      "n. 滩，海滨；水边",
+      "adj. 滨水区的"
+    ],
+    "usphone": "[ˈwɔːtərfrʌnt]",
+    "ukphone": "[ˈwɔːtəfrʌnt]"
+  },
+  {
+    "name": "wavelength",
+    "trans": [
+      "n. [物] 波长"
+    ],
+    "usphone": "[ˈweɪvleŋkθ]",
+    "ukphone": "[ˈweɪvleŋkθ]"
+  },
+  {
+    "name": "westward",
+    "trans": [
+      "n. 西部；西方",
+      "adj. 向西的；西方的",
+      "adv. 向西"
+    ],
+    "usphone": "[ˈwestwərd]",
+    "ukphone": "[ˈwestwəd]"
+  },
+  {
+    "name": "warbler",
+    "trans": [
+      "n. 啭鸟；鸣鸟；用颤音歌唱的人"
+    ],
+    "usphone": "[ˈwɔːrblər]",
+    "ukphone": "[ˈwɔːblə(r)]"
+  },
+  {
+    "name": "wartime",
+    "trans": [
+      "n. 战时"
+    ],
+    "usphone": "[ˈwɔːrtaɪm]",
+    "ukphone": "[ˈwɔːtaɪm]"
+  },
+  {
+    "name": "wakefulness",
+    "trans": [
+      "n. [生理] 觉醒；不眠"
+    ],
+    "usphone": "[ˈweɪkflnəs]",
+    "ukphone": "[ˈweɪkflnəs]"
+  },
+  {
+    "name": "wetter",
+    "trans": [
+      "n. [助剂] 湿润剂；（印刷前纸张的）湿润工",
+      "adj. 湿的；多雨的（wet的比较级）"
+    ],
+    "usphone": "[ˈwetər]",
+    "ukphone": "[ˈwetə(r)]"
+  },
+  {
+    "name": "watercraft",
+    "trans": [
+      "n. 船只；驾船技术"
+    ],
+    "usphone": "[ˈwɔtəkræft]",
+    "ukphone": "[ˈwɒtəkræːft]"
+  },
+  {
+    "name": "waterway",
+    "trans": [
+      "n. 航道；水路；排水沟"
+    ],
+    "usphone": "[ˈwɔːtərweɪ]",
+    "ukphone": "[ˈwɔːtəweɪ]"
+  },
+  {
+    "name": "windmill",
+    "trans": [
+      "n. 风车；风车房；旋转玩具；直升飞机",
+      "vt. 使旋转",
+      "vi. 作风车般旋转"
+    ],
+    "usphone": "[ˈwɪndmɪl]",
+    "ukphone": "[ˈwɪndmɪl]"
+  },
+  {
+    "name": "wooded",
+    "trans": [
+      "adj. 树木繁茂的；森林多的",
+      "v. 植林于（wood的过去式）"
+    ],
+    "usphone": "[ˈwʊdɪd]",
+    "ukphone": "[ˈwʊdɪd]"
+  },
+  {
+    "name": "waterpower",
+    "trans": [
+      "n. 水力；（磨房的）用水权；水力可利用的水流",
+      "adj. 水力的"
+    ],
+    "usphone": "[ˈwɔtəˌpaʊr]",
+    "ukphone": "[ˈwɔːtəˌpaʊə]"
+  },
+  {
+    "name": "waxy",
+    "trans": [
+      "adj. 柔软的；蜡色的；像蜡的；苍白的"
+    ],
+    "usphone": "[ˈwæksi]",
+    "ukphone": "[ˈwæksi]"
+  },
+  {
+    "name": "worthlessness",
+    "trans": [
+      "毫无价值",
+      "没用"
+    ],
+    "usphone": "[ˈwɜːrθləsnəs]",
+    "ukphone": "[ˈwɜːθləsnəs]"
+  },
+  {
+    "name": "wade",
+    "trans": [
+      "n. 跋涉；可涉水而过的地方",
+      "vi. 跋涉",
+      "vt. 涉水；费力行走"
+    ],
+    "usphone": "[weɪd]",
+    "ukphone": "[weɪd]"
+  },
+  {
+    "name": "workmanship",
+    "trans": [
+      "n. 手艺，工艺；技巧"
+    ],
+    "usphone": "[ˈwɜːrkmənʃɪp]",
+    "ukphone": "[ˈwɜːkmənʃɪp]"
+  },
+  {
+    "name": "weak-willed",
+    "trans": [
+      "adj. 意志薄弱的"
+    ],
+    "usphone": "[wiːk ˈwɪld]",
+    "ukphone": "['wi:k'wild]"
+  },
+  {
+    "name": "wryly",
+    "trans": [
+      "adv. 挖苦地；表情冷漠地"
+    ],
+    "usphone": "[ˈraɪli]",
+    "ukphone": "[ˈraɪli]"
+  },
+  {
+    "name": "wean",
+    "trans": [
+      "n. （苏格兰）幼儿",
+      "vt. 使断奶；使断念；使放弃"
+    ],
+    "usphone": "[wiːn]",
+    "ukphone": "[wiːn]"
+  },
+  {
+    "name": "waggle",
+    "trans": [
+      "n. 摇摆；摆动",
+      "vt. 摆动；来回摇动",
+      "vi. 摇摆；不停地来回摇动"
+    ],
+    "usphone": "[ˈwæɡl]",
+    "ukphone": "[ˈwæɡ(ə)l]"
+  },
+  {
+    "name": "wobble",
+    "trans": [
+      "n. 摆动；摇晃；不稳定",
+      "vt. 使摇摆；使颤动；摇动",
+      "vi. 摇晃；摇摆；游移不定"
+    ],
+    "usphone": "[ˈwɑːbl]",
+    "ukphone": "[ˈwɒb(ə)l]"
+  },
+  {
+    "name": "worn-out",
+    "trans": [
+      "adj. 磨破的；穿旧的；不能再用的"
+    ],
+    "usphone": "[ˌwɔːrn ˈaʊt]",
+    "ukphone": "[ˌwɔːn ˈaʊt]"
+  },
+  {
+    "name": "wake up",
+    "trans": [
+      "na. 同“wake”；叫醒；醒来；振作起来"
+    ],
+    "usphone": "[ˈweɪk ˌʌp]",
+    "ukphone": "[ˈweɪk ˌʌp]"
+  },
+  {
+    "name": "well off",
+    "trans": [
+      "adj. 富有的；富裕的；境况良好"
+    ],
+    "usphone": "[wɛlˈɒf]",
+    "ukphone": "[wɛlˈɒf]"
+  },
+  {
+    "name": "write down",
+    "trans": [
+      "na. 记下来；贬低；减低账面价值；把…拨作公积金"
+    ],
+    "usphone": "[raɪt daʊn]",
+    "ukphone": "[ˈraɪt daʊn]"
+  },
+  {
+    "name": "Western",
+    "trans": [
+      "n. 西方人；西部片，西部小说",
+      "adj. 西方的，西部的；有西方特征的"
+    ],
+    "usphone": "[ˈwestərn]",
+    "ukphone": "[ˈwestən]"
+  },
+  {
+    "name": "woolly",
+    "trans": [
+      "adj. 羊毛的；模糊的；似羊毛的",
+      "n. 羊；毛织衣服"
+    ],
+    "usphone": "[ˈwʊli]",
+    "ukphone": "[ˈwʊli]"
+  },
+  {
+    "name": "warp",
+    "trans": [
+      "n. 弯曲，歪曲；偏见；乖戾",
+      "vt. 使变形；使有偏见；曲解",
+      "vi. 变歪，变弯；曲解"
+    ],
+    "usphone": "[wɔːrp]",
+    "ukphone": "[wɔːp]"
+  },
+  {
+    "name": "watermelon",
+    "trans": [
+      "n. 西瓜"
+    ],
+    "usphone": "[ˈwɔːtərmelən]",
+    "ukphone": "[ˈwɔːtəmelən]"
+  },
+  {
+    "name": "wag",
+    "trans": [
+      "n. 摇摆；爱说笑打趣的人",
+      "vt. 摇摆；摇动；饶舌",
+      "vi. 摆动；喋喋不休；蹒跚而行"
+    ],
+    "usphone": "[wæɡ]",
+    "ukphone": "[wæɡ]"
+  },
+  {
+    "name": "wince",
+    "trans": [
+      "n. 畏缩；脸部肌肉的抽搐",
+      "vi. 畏缩，退避"
+    ],
+    "usphone": "[wɪns]",
+    "ukphone": "[wɪns]"
+  },
+  {
+    "name": "wilt",
+    "trans": [
+      "n. 枯萎；憔悴；衰弱",
+      "vi. 枯萎；畏缩；衰弱",
+      "vt. 使枯萎；使畏缩；使衰弱"
+    ],
+    "usphone": "[wɪlt]",
+    "ukphone": "[wɪlt]"
+  },
+  {
+    "name": "waver",
+    "trans": [
+      "n. 动摇；踌躇；挥动者",
+      "vi. 摇曳；踌躇；摆动"
+    ],
+    "usphone": "[ˈweɪvər]",
+    "ukphone": "[ˈweɪvə(r)]"
+  },
+  {
+    "name": "writhe",
+    "trans": [
+      "n. 翻滚；扭动；苦恼",
+      "vt. 扭曲；扭动",
+      "vi. 翻滚；蠕动"
+    ],
+    "usphone": "[raɪð]",
+    "ukphone": "[raɪð]"
+  },
+  {
+    "name": "wiggle",
+    "trans": [
+      "n. 扭动",
+      "vt. 使……摆动，使……扭动",
+      "vi. 摆动"
+    ],
+    "usphone": "[ˈwɪɡ(ə)l]",
+    "ukphone": "[ˈwɪɡ(ə)l]"
+  },
+  {
+    "name": "whitewash",
+    "trans": [
+      "n. 粉饰；白色涂料；石灰水",
+      "vt. 掩饰；把…刷白"
+    ],
+    "usphone": "[ˈwaɪtwɑːʃ]",
+    "ukphone": "[ˈwaɪtwɒʃ]"
+  },
+  {
+    "name": "wallow",
+    "trans": [
+      "n. 打滚；堕落；泥坑",
+      "vi. 打滚；沉迷；颠簸"
+    ],
+    "usphone": "[ˈwɑːloʊ]",
+    "ukphone": "[ˈwɒləʊ]"
+  },
+  {
+    "name": "wrest",
+    "trans": [
+      "n. 扭，拧",
+      "vt. 用力拧；抢夺；歪曲"
+    ],
+    "usphone": "[rest]",
+    "ukphone": "[rest]"
+  },
+  {
+    "name": "whoop",
+    "trans": [
+      "n. 大叫；哮喘声；呐喊；一点点",
+      "vt. 高声说；唤起",
+      "vi. 叫喊；喘息"
+    ],
+    "usphone": "[wuːp]",
+    "ukphone": "[wuːp]"
+  },
+  {
+    "name": "wriggle",
+    "trans": [
+      "vt. 使蠕动；蠕动到；不知不觉地潜入",
+      "vi. 蠕动；蜿蜒而行",
+      "n. 蠕动；扭动"
+    ],
+    "usphone": "[ˈrɪɡl]",
+    "ukphone": "[ˈrɪɡl]"
+  },
+  {
+    "name": "whisk",
+    "trans": [
+      "n. 搅拌器；扫帚；毛掸子",
+      "vt. 拂，掸；搅拌；挥动",
+      "vi. 飞奔，疾过"
+    ],
+    "usphone": "[wɪsk]",
+    "ukphone": "[wɪsk]"
+  },
+  {
+    "name": "wreathe",
+    "trans": [
+      "vt. 用花环装饰；将…做成花环；包围；覆盖",
+      "vi. 缭绕；成圈状；扭曲；环绕盘旋"
+    ],
+    "usphone": "[riːð]",
+    "ukphone": "[riːð]"
+  },
+  {
+    "name": "wring",
+    "trans": [
+      "vt. 拧；绞；紧握；使痛苦；折磨",
+      "vi. 蠕动；扭动；感到痛苦；感到苦恼",
+      "n. 拧；绞；挤；扭动"
+    ],
+    "usphone": "[rɪŋ]",
+    "ukphone": "[rɪŋ]"
+  },
+  {
+    "name": "woo",
+    "trans": [
+      "vt. 追求；招致；向…求爱；恳求",
+      "vi. 求爱；恳求"
+    ],
+    "usphone": "[wuː]",
+    "ukphone": "[wuː]"
+  },
+  {
+    "name": "wail",
+    "trans": [
+      "n. 哀号；悲叹；恸哭声",
+      "vt. 为某人死亡而悲痛；哀悼某人；哀号着说",
+      "vi. 哀号；悲叹"
+    ],
+    "usphone": "[weɪl]",
+    "ukphone": "[weɪl]"
+  },
+  {
+    "name": "wane",
+    "trans": [
+      "n. 衰退；月亏；衰退期；缺损",
+      "vi. 衰落；变小；亏缺；退潮；消逝"
+    ],
+    "usphone": "[weɪn]",
+    "ukphone": "[weɪn]"
+  },
+  {
+    "name": "waddle",
+    "trans": [
+      "n. 蹒跚；摇摆的步子",
+      "vi. 摇摇摆摆地走；蹒跚而行"
+    ],
+    "usphone": "[ˈwɑːdl]",
+    "ukphone": "[ˈwɒd(ə)l]"
+  },
+  {
+    "name": "wafer",
+    "trans": [
+      "n. 圆片，晶片；薄片，干胶片；薄饼；圣饼",
+      "vt. 用干胶片封"
+    ],
+    "usphone": "[ˈweɪfər]",
+    "ukphone": "[ˈweɪfə(r)]"
+  },
+  {
+    "name": "waistcoat",
+    "trans": [
+      "n. 背心；[服装] 马甲"
+    ],
+    "usphone": "[ˈweskət; ˈweɪskoʊt]",
+    "ukphone": "[ˈweɪskəʊt]"
+  },
+  {
+    "name": "wand",
+    "trans": [
+      "n. 魔杖；棒；权杖；嫩枝；识别笔（等于wand reader）",
+      "vt. 用扫描笔在…上扫描条形码"
+    ],
+    "usphone": "[wɑːnd]",
+    "ukphone": "[wɒnd]"
+  },
+  {
+    "name": "wanton",
+    "trans": [
+      "n. 荡妇；水性杨花的女人",
+      "adj. 嬉戏的；繁茂的；荒唐的；无节制的；放纵的",
+      "vt. 挥霍",
+      "vi. 放肆；嬉戏；闲荡"
+    ],
+    "usphone": "[ˈwɑːntən]",
+    "ukphone": "[ˈwɒntən]"
+  },
+  {
+    "name": "wares",
+    "trans": [
+      "n. [贸易] 商品；货物"
+    ],
+    "usphone": "[werz]",
+    "ukphone": "[weəz]"
+  },
+  {
+    "name": "watermark",
+    "trans": [
+      "n. 水印；水位标志",
+      "vt. 在…上印水印（图案）"
+    ],
+    "usphone": "[ˈwɔːtərmɑːrk]",
+    "ukphone": "[ˈwɔːtəmɑːk]"
+  },
+  {
+    "name": "watery",
+    "trans": [
+      "adj. 水的；淡的；湿的；松软的；有雨意的"
+    ],
+    "usphone": "[ˈwɔːtəri]",
+    "ukphone": "[ˈwɔːtəri]"
+  },
+  {
+    "name": "wayward",
+    "trans": [
+      "adj. 任性的；不规则的；刚愎的"
+    ],
+    "usphone": "[ˈweɪwərd]",
+    "ukphone": "[ˈweɪwəd]"
+  },
+  {
+    "name": "weighty",
+    "trans": [
+      "adj. 重的；重大的；严肃的"
+    ],
+    "usphone": "[ˈweɪti]",
+    "ukphone": "[ˈweɪti]"
+  },
+  {
+    "name": "whack",
+    "trans": [
+      "n. 重击；尝试；份儿；机会",
+      "vt. 重打；猛击；击败；削减",
+      "vi. 重击"
+    ],
+    "usphone": "[wæk]",
+    "ukphone": "[wæk]"
+  },
+  {
+    "name": "whiff",
+    "trans": [
+      "n. 一点点；单人小划艇；琴鲆属鱼；吸气或吹气",
+      "vt. 吸；喷出",
+      "vi. 喷气；垂钓；轻吹"
+    ],
+    "usphone": "[wɪf]",
+    "ukphone": "[wɪf]"
+  },
+  {
+    "name": "whimsical",
+    "trans": [
+      "adj. 古怪的；异想天开的；反复无常的"
+    ],
+    "usphone": "[ˈwɪmzɪkl]",
+    "ukphone": "[ˈwɪmzɪk(ə)l]"
+  },
+  {
+    "name": "whiten",
+    "trans": [
+      "vt. 漂白；刷白",
+      "vi. 变白"
+    ],
+    "usphone": "[ˈwaɪtn]",
+    "ukphone": "[ˈwaɪtn]"
+  },
+  {
+    "name": "whizz",
+    "trans": [
+      "n. 专家；精明的人；子弹等在空中掠过的声音（等于whiz）",
+      "vt. 飕飕作声（等于whiz）",
+      "vi. 飕飕作声（等于whiz）"
+    ],
+    "usphone": "[wɪz]",
+    "ukphone": "[wɪz]"
+  },
+  {
+    "name": "wicker",
+    "trans": [
+      "n. 柳条；枝条；柳条制品",
+      "adj. 柳条编织的；装在柳条编织物里的"
+    ],
+    "usphone": "[ˈwɪkər]",
+    "ukphone": "[ˈwɪkə(r)]"
+  },
+  {
+    "name": "wily",
+    "trans": [
+      "adj. 狡猾的；诡计多端的"
+    ],
+    "usphone": "[ˈwaɪli]",
+    "ukphone": "[ˈwaɪli]"
+  },
+  {
+    "name": "windfall",
+    "trans": [
+      "n. 意外之财；被风吹落的果子；意外的收获"
+    ],
+    "usphone": "[ˈwɪndfɔːl]",
+    "ukphone": "[ˈwɪndfɔːl]"
+  },
+  {
+    "name": "wisp",
+    "trans": [
+      "n. 小捆；小束",
+      "vt. 把…卷成一捆",
+      "vi. 卷成一捆"
+    ],
+    "usphone": "[wɪsp]",
+    "ukphone": "[wɪsp]"
+  },
+  {
+    "name": "wizard",
+    "trans": [
+      "n. 男巫；术士；奇才；向导程序",
+      "adj. 男巫的；巫术的"
+    ],
+    "usphone": "[ˈwɪzərd]",
+    "ukphone": "[ˈwɪzəd]"
+  },
+  {
+    "name": "womanly",
+    "trans": [
+      "adj. 像女人的；有女子气质的",
+      "adv. 像女人地；适合于妇女地"
+    ],
+    "usphone": "[ˈwʊmənli]",
+    "ukphone": "[ˈwʊmənli]"
+  },
+  {
+    "name": "wrapper",
+    "trans": [
+      "n. 包装材料；[包装] 包装纸；书皮"
+    ],
+    "usphone": "[ˈræpər]",
+    "ukphone": "[ˈræpə(r)]"
+  },
+  {
+    "name": "wrath",
+    "trans": [
+      "n. 愤怒；激怒"
+    ],
+    "usphone": "[ræθ]",
+    "ukphone": "[rɒθ]"
+  },
+  {
+    "name": "wry",
+    "trans": [
+      "adj. 歪斜的，扭歪的；歪曲的；用反语表达幽默的；揶揄的",
+      "vt. 扭曲；扭歪",
+      "vi. 扭曲；扭歪"
+    ],
+    "usphone": "[raɪ]",
+    "ukphone": "[raɪ]"
+  },
+  {
+    "name": "went",
+    "trans": [
+      "v. 去，过去（go的过去式）"
+    ],
+    "usphone": "[went]",
+    "ukphone": "[went]"
+  },
+  {
+    "name": "wrote",
+    "trans": [
+      "v. 写（write的过去式）"
+    ],
+    "usphone": "[roʊt]",
+    "ukphone": "[rəʊt]"
+  },
+  {
+    "name": "was",
+    "trans": [
+      "be的第一和第三人称单数过去式"
+    ],
+    "usphone": "[wʌz; wəz]",
+    "ukphone": "[wɒz; wəz]"
+  },
+  {
+    "name": "were",
+    "trans": [
+      "v. 是，在（are的过去式）"
+    ],
+    "usphone": "[wɜːr; wər]",
+    "ukphone": "[wɜː(r); wə(r)]"
+  },
+  {
+    "name": "wore",
+    "trans": [
+      "v. 穿（衣服等）；戴（首饰等）；装着（wear的过去式）"
+    ],
+    "usphone": "[wɔːr]",
+    "ukphone": "[wɔː(r)]"
+  },
+  {
+    "name": "worn",
+    "trans": [
+      "v. 穿；磨损（wear的过去分词）；佩戴",
+      "adj. 疲倦的；用旧的"
+    ],
+    "usphone": "[wɔːrn]",
+    "ukphone": "[wɔːn]"
+  },
+  {
+    "name": "written",
+    "trans": [
+      "adj. 书面的，成文的；文字的",
+      "v. 写（write的过去分词）"
+    ],
+    "usphone": "[ˈrɪtn]",
+    "ukphone": "[ˈrɪt(ə)n]"
+  },
+  {
+    "name": "well-meaning",
+    "trans": [
+      "adj. 善意的；好心的"
+    ],
+    "usphone": "[ˌwel ˈmiːnɪŋ]",
+    "ukphone": "[ˌwel ˈmiːnɪŋ]"
+  },
+  {
+    "name": "wordsmith",
+    "trans": [
+      "n. 擅长文字的人，舞文弄墨者；作家"
+    ],
+    "usphone": "[ˈwɜːrdsmɪθ]",
+    "ukphone": "[ˈwɜːdsmɪθ]"
+  },
+  {
+    "name": "whereof",
+    "trans": [
+      "adv. 关于什么；关于那事；以什么的"
+    ],
+    "usphone": "[werˈʌv]",
+    "ukphone": "[weərˈɒv]"
+  },
+  {
+    "name": "winnow",
+    "trans": [
+      "n. 扬谷；扬谷器",
+      "vt. 簸；把…挑出来；精选",
+      "vi. 分出好坏；扬谷"
+    ],
+    "usphone": "[ˈwɪnoʊ]",
+    "ukphone": "[ˈwɪnəʊ]"
+  },
+  {
+    "name": "wanderlust",
+    "trans": [
+      "n. 流浪癖；漫游癖；旅游热"
+    ],
+    "usphone": "[ˈwɑːndərlʌst]",
+    "ukphone": "[ˈwɒndəlʌst]"
+  },
+  {
+    "name": "wondrous",
+    "trans": [
+      "adj. 奇妙的；令人惊奇的；非常的"
+    ],
+    "usphone": "[ˈwʌndrəs]",
+    "ukphone": "[ˈwʌndrəs]"
+  },
+  {
+    "name": "womb",
+    "trans": [
+      "n. [解剖] 子宫；发源地",
+      "vt. 容纳"
+    ],
+    "usphone": "[wuːm]",
+    "ukphone": "[wuːm]"
+  },
+  {
+    "name": "woodland",
+    "trans": [
+      "n. 林地；森林",
+      "adj. 林地的；居住在森林中的"
+    ],
+    "usphone": "[ˈwʊdlənd]",
+    "ukphone": "[ˈwʊdlənd]"
+  },
+  {
+    "name": "woodpecker",
+    "trans": [
+      "n. [鸟] 啄木鸟"
+    ],
+    "usphone": "[ˈwʊdpekər]",
+    "ukphone": "[ˈwʊdpekə(r)]"
+  },
+  {
+    "name": "woodchuck",
+    "trans": [
+      "n. 土拨鼠"
+    ],
+    "usphone": "[ˈwʊdtʃʌk]",
+    "ukphone": "[ˈwʊdtʃʌk]"
+  },
+  {
+    "name": "wont",
+    "trans": [
+      "n. 习惯；惯常活动",
+      "adj. 习惯于",
+      "vi. 习惯，惯常",
+      "vt. 使习惯于"
+    ],
+    "usphone": "[wɔːnt]",
+    "ukphone": "[wəʊnt]"
+  },
+  {
+    "name": "warble",
+    "trans": [
+      "n. 鸟啭鸣；颤声",
+      "vt. 鸟鸣；用柔和的颤声唱",
+      "vi. 鸟鸣；用柔和的颤声唱"
+    ],
+    "usphone": "[ˈwɔːrbl]",
+    "ukphone": "[ˈwɔːbl]"
+  },
+  {
+    "name": "wanting",
+    "trans": [
+      "prep. 无；缺",
+      "v. 需要（want的现在分词）；欠缺",
+      "adj. 欠缺的；不足的；不够格的"
+    ],
+    "usphone": "[ˈwɑːntɪŋ]",
+    "ukphone": "[ˈwɒntɪŋ]"
+  },
+  {
+    "name": "wash up",
+    "trans": [
+      "na. 饭后洗碗；洗脸；将…冲上岸；(出人意料地)出现"
+    ],
+    "usphone": "[ ˈwɑːʃ.ʌp]",
+    "ukphone": "[ˈwɒʃ.ʌp]"
+  },
+  {
+    "name": "wind up",
+    "trans": [
+      "结束；使紧张；卷起；（非正式）忽悠某人（wind sb up）；上紧(钟、表等的)发条"
+    ],
+    "usphone": "[ˈwaɪnd ʌp]",
+    "ukphone": "[ˈwaɪnd ʌp]"
+  },
+  {
+    "name": "wipe off",
+    "trans": [
+      " 揩去，擦掉; <口>勾销（债务）; 擦去; 揾"
+    ],
+    "usphone": "['waipɔf]",
+    "ukphone": "['waipɔf]"
+  },
+  {
+    "name": "watercress",
+    "trans": [
+      "n. [园艺] 豆瓣菜；西洋菜"
+    ],
+    "usphone": "[ˈwɔːtərkres]",
+    "ukphone": "[ˈwɔːtəkres]"
+  },
+  {
+    "name": "wilful",
+    "trans": [
+      "adj. 故意的；任性的"
+    ],
+    "usphone": "[ˈwɪlfl]",
+    "ukphone": "[ˈwɪlfl]"
+  },
+  {
+    "name": "wits",
+    "trans": [
+      "n. 机智，智慧"
+    ],
+    "usphone": "[wɪts]",
+    "ukphone": "[wɪts]"
+  },
+  {
+    "name": "woodcut",
+    "trans": [
+      "n. 木刻；木刻印版；木版画"
+    ],
+    "usphone": "[ˈwʊdkʌt]",
+    "ukphone": "[ˈwʊdkʌt]"
+  },
+  {
+    "name": "workhouse",
+    "trans": [
+      "n. （英）济贫院；（美）[法] 教养所；感化院；贫民习艺所"
+    ],
+    "usphone": "[ˈwɜːrkhaʊs]",
+    "ukphone": "[ˈwɜːkhaʊs]"
+  },
+  {
+    "name": "well-grounded",
+    "trans": [
+      "adj. 基础牢固的；有充分根据的"
+    ],
+    "usphone": "[ˌwel ˈɡraʊndɪd]",
+    "ukphone": "[ˌwel ˈɡraʊndɪd]"
+  },
+  {
+    "name": "worldly",
+    "trans": [
+      "adj. 世俗的；世间的；尘世的",
+      "adv. 世俗地；世故地"
+    ],
+    "usphone": "[ˈwɜːrldli]",
+    "ukphone": "[ˈwɜːldli]"
+  },
+  {
+    "name": "well-connected",
+    "trans": [
+      "adj. 有好亲戚的；出身名门的；血统关系好的；精心构思的"
+    ],
+    "usphone": "[ˌwel kəˈnektɪd]",
+    "ukphone": "[ˌwel kəˈnektɪd]"
+  },
+  {
+    "name": "willfully",
+    "trans": [
+      "adv. 故意地；任性固执地"
+    ],
+    "usphone": "[ˈwɪlfəli]",
+    "ukphone": "[ˈwɪlfəlɪ]"
+  },
+  {
+    "name": "wholesaler",
+    "trans": [
+      "n. 批发商"
+    ],
+    "usphone": "[ˈhoʊlseɪlər]",
+    "ukphone": "[ˈhəʊlseɪlə(r)]"
+  },
+  {
+    "name": "wholesaling",
+    "trans": [
+      "n. 批发"
+    ],
+    "usphone": "[ˈhoʊlseɪlɪŋ]",
+    "ukphone": "[ˈhəʊlseɪlɪŋ]"
+  },
+  {
+    "name": "wig",
+    "trans": [
+      "n. 假发；要人；头脑",
+      "vt. 使戴假发；斥责",
+      "vi. 激动；发狂"
+    ],
+    "usphone": "[wɪɡ]",
+    "ukphone": "[wɪɡ]"
+  },
+  {
+    "name": "workaday",
+    "trans": [
+      "adj. 工作日的；日常的；普通的，平凡的"
+    ],
+    "usphone": "[ˈwɜːrkədeɪ]",
+    "ukphone": "[ˈwɜːkədeɪ]"
+  },
+  {
+    "name": "worldview",
+    "trans": [
+      "n. 世界观"
+    ],
+    "usphone": "[ˈwɜːrldˌvjʊ]",
+    "ukphone": "['wə:ld,vju:]"
+  },
+  {
+    "name": "well-established",
+    "trans": [
+      "adj. 得到确认的；固定下来的",
+      "v. 已确立起来；固定下来（well-establish的过去分词）"
+    ],
+    "usphone": "[ˌwel ɪˈstæblɪʃt]",
+    "ukphone": "[ˌwel ɪˈstæblɪʃt]"
+  },
+  {
+    "name": "wisely",
+    "trans": [
+      "adv. 明智地；聪明地；精明地"
+    ],
+    "usphone": "[ˈwaɪzli]",
+    "ukphone": "[ˈwaɪzli]"
+  },
+  {
+    "name": "wildness",
+    "trans": [
+      "n. 野蛮；原始；荒凉"
+    ],
+    "usphone": "[ˈwaɪldnəs]",
+    "ukphone": "[ˈwaɪldnəs]"
+  },
+  {
+    "name": "weevil",
+    "trans": [
+      "n. [昆] 象鼻虫"
+    ],
+    "usphone": "[ˈwiːvl]",
+    "ukphone": "[ˈwiːvl]"
+  },
+  {
+    "name": "windshield",
+    "trans": [
+      "n. 挡风玻璃"
+    ],
+    "usphone": "[ˈwɪndʃiːld]",
+    "ukphone": "[ˈwɪndʃiːld]"
+  },
+  {
+    "name": "wayside",
+    "trans": [
+      "n. 路旁",
+      "adj. 路旁的"
+    ],
+    "usphone": "[ˈweɪsaɪd]",
+    "ukphone": "[ˈweɪsaɪd]"
+  },
+  {
+    "name": "wedge-shaped",
+    "trans": [
+      "adj. 楔形的；V形的"
+    ],
+    "usphone": "[wedʒ ʃeɪpt]",
+    "ukphone": "[wedʒ ʃeɪpt]"
+  },
+  {
+    "name": "wingspan",
+    "trans": [
+      "n. 翼展；翼幅"
+    ],
+    "usphone": "[ˈwɪŋspæn]",
+    "ukphone": "[ˈwɪŋspæn]"
+  },
+  {
+    "name": "weigh in",
+    "trans": [
+      "v. 参加，称重量，比赛前量体重",
+      "vi. （口语）发表评论; 施加影响"
+    ],
+    "usphone": "[ˈweɪ ɪn]",
+    "ukphone": "[ˈweɪ ɪn]"
+  },
+  {
+    "name": "walk up",
+    "trans": [
+      "na. 使猎犬将(鸟等)惊飞"
+    ],
+    "usphone": "[wɔːk ʌp]",
+    "ukphone": "[ˈwɔːk ʌp]"
+  },
+  {
+    "name": "westwards",
+    "trans": [
+      "adv. 向西",
+      "adj. 向西的"
+    ],
+    "usphone": "[ˈwestwərdz]",
+    "ukphone": "[ˈwestwədz]"
+  },
+  {
+    "name": "washroom",
+    "trans": [
+      "n. 洗手间；盥洗室；厕所"
+    ],
+    "usphone": "[ˈwɑːʃruːm; ˈwɑːʃrʊm]",
+    "ukphone": "[ˈwɒʃruːm; ˈwɒʃrʊm]"
+  },
+  {
+    "name": "waiting-room",
+    "trans": [
+      "候诊室"
+    ],
+    "usphone": "[ˈweɪtɪŋ ruːmˌˈweɪtɪŋ rʊm]",
+    "ukphone": "[ˈweɪtɪŋ ruːm; ˈweɪtɪŋ rʊm]"
+  },
+  {
+    "name": "whacked",
+    "trans": [
+      "adj. 疲惫不堪的，精疲力竭的",
+      "v. 重击（whack的过去分词）"
+    ],
+    "usphone": "[wækt]",
+    "ukphone": "[wækt]"
+  },
+  {
+    "name": "well-adjusted",
+    "trans": [
+      "adj. 完全调试好了的；完全适应环境的"
+    ],
+    "usphone": "[ˌwel əˈdʒʌstɪd]",
+    "ukphone": "[ˌwel əˈdʒʌstɪd]"
+  },
+  {
+    "name": "well-meant",
+    "trans": [
+      "adj. 没有恶意的"
+    ],
+    "usphone": "[ˌwel ˈment]",
+    "ukphone": "[ˌwel ˈment]"
+  },
+  {
+    "name": "wangle",
+    "trans": [
+      "n. 欺诈行为；哄骗；伪造",
+      "vt. 扭身挤出；使用诡计；骗取",
+      "vi. 设法脱身；用诡计获得"
+    ],
+    "usphone": "[ˈwæŋɡl]",
+    "ukphone": "[ˈwæŋɡl]"
+  },
+  {
+    "name": "well-founded",
+    "trans": [
+      "adj. 有根据的；理由充足的；有充分根据的"
+    ],
+    "usphone": "[ˌwel ˈfaʊndɪd]",
+    "ukphone": "[ˌwel ˈfaʊndɪd]"
+  },
+  {
+    "name": "whiny",
+    "trans": [
+      "adj. 烦躁的；爱抱怨的；常发牢骚的"
+    ],
+    "usphone": "[ˈwaɪni]",
+    "ukphone": "[ˈwaɪni]"
+  },
+  {
+    "name": "waffle",
+    "trans": [
+      "n. 华夫饼干；动听而无意义的话；无聊话",
+      "vi. 胡扯；闲聊"
+    ],
+    "usphone": "[ˈwɑːfl]",
+    "ukphone": "[ˈwɒfl]"
+  },
+  {
+    "name": "warily",
+    "trans": [
+      "adv. 警惕地；谨慎地；留心地"
+    ],
+    "usphone": "[ˈwerəli]",
+    "ukphone": "[ˈweərəli]"
+  },
+  {
+    "name": "watercourse",
+    "trans": [
+      "n. 河道；水道"
+    ],
+    "usphone": "[ˈwɔːtərkɔːrs]",
+    "ukphone": "[ˈwɔːtəkɔːs]"
+  },
+  {
+    "name": "weathering",
+    "trans": [
+      "n. [地质] 风化作用；[水利] 泻水斜度；挡风雨材料",
+      "v. 风干；使退色；经受住（weather的ing形式）"
+    ],
+    "usphone": "[ˈweðərɪŋ]",
+    "ukphone": "[ˈweðərɪŋ]"
+  },
+  {
+    "name": "weedicide",
+    "trans": [
+      "n. 除草剂"
+    ],
+    "usphone": "[ˈwidəˌsaɪd]",
+    "ukphone": "[ˈwiːdɪsaɪd]"
+  },
+  {
+    "name": "wheeze",
+    "trans": [
+      "n. 喘息；喘气声",
+      "vt. 喘息着说；喘息地发出",
+      "vi. 喘息；呼哧呼哧地响"
+    ],
+    "usphone": "[wiːz]",
+    "ukphone": "[wiːz]"
+  },
+  {
+    "name": "whisker",
+    "trans": [
+      "n. [晶体] 晶须；胡须；腮须"
+    ],
+    "usphone": "[ˈwɪskər]",
+    "ukphone": "[ˈwɪskə(r)]"
+  },
+  {
+    "name": "whitlow",
+    "trans": [
+      "n. 蹄冠炎，甲沟炎; 瘭疽"
+    ],
+    "usphone": "[ˈwɪtloʊ]",
+    "ukphone": "[ˈwɪtləʊ]"
+  },
+  {
+    "name": "willful",
+    "trans": [
+      "adj. 有意的；任性的；故意的"
+    ],
+    "usphone": "[ˈwɪlf(ə)l]",
+    "ukphone": "[ˈwɪlf(ə)l]"
+  },
+  {
+    "name": "windpipe",
+    "trans": [
+      "n. 气管；嗓门"
+    ],
+    "usphone": "[ˈwɪndpaɪp]",
+    "ukphone": "[ˈwɪndpaɪp]"
+  },
+  {
+    "name": "windsurfing",
+    "trans": [
+      "n. 帆板运动",
+      "v. 风帆冲浪（windsurf的ing形式）"
+    ],
+    "usphone": "[ˈwɪndsɜːrfɪŋ]",
+    "ukphone": "[ˈwɪndsɜːfɪŋ]"
+  },
+  {
+    "name": "wistfully",
+    "trans": [
+      "adv. 渴望地；希望地；不满足地"
+    ],
+    "usphone": "[ˈwɪstfəli]",
+    "ukphone": "[ˈwɪstfəli]"
+  },
+  {
+    "name": "workpiece",
+    "trans": [
+      "n. 工件；轧件；工件壁厚"
+    ],
+    "usphone": "[ˈwɜːrkpiːs]",
+    "ukphone": "[ˈwɜːkpiːs]"
+  },
+  {
+    "name": "workup",
+    "trans": [
+      "n. 病情的检查;  整理;  引起;  印刷物表面的污迹"
+    ],
+    "usphone": "[ˈwɜːrkʌp]",
+    "ukphone": "[ˈwɜːkʌp]"
+  },
+  {
+    "name": "waft",
+    "trans": [
+      "n. 飘荡；吹拂",
+      "vt. 使飘荡；吹送",
+      "vi. 飘荡"
+    ],
+    "usphone": "[wɑːftˌwæft]",
+    "ukphone": "[wɒft]"
+  },
+  {
+    "name": "waggish",
+    "trans": [
+      "adj. 爱开玩笑的；滑稽的"
+    ],
+    "usphone": "[ˈwæɡɪʃ]",
+    "ukphone": "[ˈwæɡɪʃ]"
+  },
+  {
+    "name": "waif",
+    "trans": [
+      "n. 流浪者；流浪儿；飘流物；无主物；信号旗"
+    ],
+    "usphone": "[weɪf]",
+    "ukphone": "[weɪf]"
+  },
+  {
+    "name": "wastrel",
+    "trans": [
+      "n. 废品；浪费者"
+    ],
+    "usphone": "[ˈweɪstrəl]",
+    "ukphone": "[ˈweɪstrəl]"
+  },
+  {
+    "name": "waylay",
+    "trans": [
+      "vt. 伏击；埋伏"
+    ],
+    "usphone": "[weɪˈleɪ]",
+    "ukphone": "[weɪˈleɪ]"
+  },
+  {
+    "name": "welter",
+    "trans": [
+      "n. 混乱；翻滚；起伏",
+      "vi. 翻滚；沉溺；起伏",
+      "adj. 重量级骑手的"
+    ],
+    "usphone": "[ˈweltər]",
+    "ukphone": "[ˈweltə(r)]"
+  },
+  {
+    "name": "whittle",
+    "trans": [
+      "n. 屠刀",
+      "vi. 削；削木头；弄坏身体",
+      "vt. 削；削减；切；削弱"
+    ],
+    "usphone": "[ˈwɪt(ə)l]",
+    "ukphone": "[ˈwɪt(ə)l]"
+  },
+  {
+    "name": "winsome",
+    "trans": [
+      "adj. 迷人的；可爱的；引人注目的"
+    ],
+    "usphone": "[ˈwɪnsəm]",
+    "ukphone": "[ˈwɪnsəm]"
+  },
+  {
+    "name": "wispy",
+    "trans": [
+      "adj. 象小束状的，纤细的；脆弱的"
+    ],
+    "usphone": "[ˈwɪspi]",
+    "ukphone": "[ˈwɪspi]"
+  },
+  {
+    "name": "wistful",
+    "trans": [
+      "adj. 渴望的；沉思的，默想的；引起怀念的；不满足似的"
+    ],
+    "usphone": "[ˈwɪstf(ə)l]",
+    "ukphone": "[ˈwɪstf(ə)l]"
+  },
+  {
+    "name": "withdrawn",
+    "trans": [
+      "v. 取出；撤退（withdraw的过去分词）",
+      "adj. 偏僻的；沉默寡言的；孤独的"
+    ],
+    "usphone": "[wɪðˈdrɔːn]",
+    "ukphone": "[wɪðˈdrɔːn]"
+  },
+  {
+    "name": "welder",
+    "trans": [
+      "n. 焊接工"
+    ],
+    "usphone": "[ˈweldər]",
+    "ukphone": "[ˈweldə(r)]"
+  },
+  {
+    "name": "winning",
+    "trans": [
+      "n. 胜利；获得；成功",
+      "v. 获胜（win的ing形式）",
+      "adj. 胜利的；获胜的"
+    ],
+    "usphone": "[ˈwɪnɪŋ]",
+    "ukphone": "[ˈwɪnɪŋ]"
+  },
+  {
+    "name": "word of mouth",
+    "trans": [
+      "adj. 口头表达；口传的"
+    ],
+    "usphone": "[wɜːrd əv maʊθ]",
+    "ukphone": "[wɜːd ɒv maʊθ]"
+  },
+  {
+    "name": "wakeful",
+    "trans": [
+      "adj. 醒着的；失眠的；警觉的"
+    ],
+    "usphone": "[ˈweɪkfl]",
+    "ukphone": "[ˈweɪkfl]"
+  },
+  {
+    "name": "walker",
+    "trans": [
+      "n. 步行者；散步者；参加竞走者"
+    ],
+    "usphone": "[ˈwɔːkər]",
+    "ukphone": "[ˈwɔːkə(r)]"
+  },
+  {
+    "name": "washing-up",
+    "trans": [
+      "n. 洗涤；洗餐具"
+    ],
+    "usphone": "[ˌwɑːʃɪŋ ˈʌp]",
+    "ukphone": "[ˌwɒʃɪŋ ˈʌp]"
+  },
+  {
+    "name": "weightlifting",
+    "trans": [
+      "n. 举重"
+    ],
+    "usphone": "[ˈweɪtlɪftɪŋ]",
+    "ukphone": "[ˈweɪtlɪftɪŋ]"
+  },
+  {
+    "name": "well-dressed",
+    "trans": [
+      "adj. 穿着考究的；穿着入时的"
+    ],
+    "usphone": "[ˌwel ˈdrest]",
+    "ukphone": "[ˌwel ˈdrest]"
+  },
+  {
+    "name": "well-made",
+    "trans": [
+      "adj. 样子好的；匀称的；做工精良的"
+    ],
+    "usphone": "[wel meɪd]",
+    "ukphone": "['wel'meid]"
+  },
+  {
+    "name": "winded",
+    "trans": [
+      "adj. 喘气的；通风的；有风的",
+      "v. 缠绕；上发条；蜿蜒（wind的过去式）"
+    ],
+    "usphone": "[ˈwɪndɪd]",
+    "ukphone": "[ˈwɪndɪd; waɪndɪd]"
+  },
+  {
+    "name": "windsurf",
+    "trans": [
+      "vi. 帆板；风帆冲浪"
+    ],
+    "usphone": "[ˈwɪndsɜːrf]",
+    "ukphone": "[ˈwɪndsɜːf]"
+  },
+  {
+    "name": "web page",
+    "trans": [
+      "n. 网页"
+    ],
+    "usphone": "[ˈweb peɪdʒ]",
+    "ukphone": "[ˈweb peɪdʒ]"
+  },
+  {
+    "name": "webcam",
+    "trans": [
+      "n. 网络摄像头"
+    ],
+    "usphone": "[ˈwebkæm]",
+    "ukphone": "[ˈwebkæm]"
+  },
+  {
+    "name": "wretch",
+    "trans": [
+      "n. 可怜的人，不幸的人；卑鄙的人"
+    ],
+    "usphone": "[retʃ]",
+    "ukphone": "[retʃ]"
+  },
+  {
+    "name": "Well done.",
+    "trans": [
+      "adj. 熟透的；煮透了的；烧烂了的"
+    ],
+    "usphone": "[ˌwel ˈdʌn]",
+    "ukphone": "[ˌwel ˈdʌn]"
+  },
+  {
+    "name": "whizzy",
+    "trans": [
+      "adj. 技术上创新的；高技术的"
+    ],
+    "usphone": "[ˈwɪzi]",
+    "ukphone": "[ˈwɪzi]"
+  },
+  {
+    "name": "write-off",
+    "trans": [
+      "n. [会计] 勾销；销帐；削减；报废物"
+    ],
+    "usphone": "[ˈraɪt ɔːf]",
+    "ukphone": "[ˈraɪt ɒf]"
+  },
+  {
+    "name": "won",
+    "trans": [
+      "vt. 赢得（win的过去式和过去分词）"
+    ],
+    "usphone": "[wʌn]",
+    "ukphone": "[wʌn]"
+  },
+  {
+    "name": "wanderer",
+    "trans": [
+      "n. 流浪者；漫游者；迷路的动物"
+    ],
+    "usphone": "[ˈwɑːndərər]",
+    "ukphone": "[ˈwɒndərə(r)]"
+  },
+  {
+    "name": "wandering",
+    "trans": [
+      "n. 闲逛；离题；神志恍惚",
+      "v. 漫游；闲逛（wander的ing形式）",
+      "adj. 流浪的；漫游的，徘徊的；蜿蜒的"
+    ],
+    "usphone": "[ˈwɑːndərɪŋ]",
+    "ukphone": "[ˈwɒndərɪŋ]"
+  },
+  {
+    "name": "Why?",
+    "trans": [
+      "adv. 为何；（反问，表示不必）何必；（说明理由）为什么",
+      "n. 原因；难解的问题",
+      "int. 嗨"
+    ],
+    "usphone": "[waɪ]",
+    "ukphone": "[waɪ]"
+  },
+  {
+    "name": "worrisome",
+    "trans": [
+      "adj. 令人烦恼的，令人不安的；麻烦的"
+    ],
+    "usphone": "[ˈwɜːrisəm]",
+    "ukphone": "[ˈwʌrisəm]"
+  },
+  {
+    "name": "wager",
+    "trans": [
+      "n. 赌注；赌博；赌物",
+      "vi. 打赌",
+      "vt. 下赌注"
+    ],
+    "usphone": "[ˈweɪdʒər]",
+    "ukphone": "[ˈweɪdʒə(r)]"
+  },
+  {
+    "name": "Welsh",
+    "trans": [
+      "n. 威尔士语",
+      "adj. 威尔士的；威尔士人的；威尔士语的"
+    ],
+    "usphone": "[welʃ]",
+    "ukphone": "[welʃ]"
+  },
+  {
+    "name": "warm-up",
+    "trans": [
+      "n. 热身赛；预热；准备运动"
+    ],
+    "usphone": "[ˈwɔːrm ʌp]",
+    "ukphone": "[ˈwɔːm ʌp]"
+  },
+  {
+    "name": "walkway",
+    "trans": [
+      "n. 通道，[建] 走道"
+    ],
+    "usphone": "[ˈwɔːkweɪ]",
+    "ukphone": "[ˈwɔːkweɪ]"
+  },
+  {
+    "name": "wench",
+    "trans": [
+      "n. 少妇；乡下姑娘",
+      "vi. 通奸"
+    ],
+    "usphone": "[wentʃ]",
+    "ukphone": "[wentʃ]"
+  },
+  {
+    "name": "woke",
+    "trans": [
+      "v. 唤醒；激发；使…复活（wake的过去式）"
+    ],
+    "usphone": "[woʊk]",
+    "ukphone": "[wəʊk]"
+  },
+  {
+    "name": "walk through",
+    "trans": [
+      "na. (= to rehearse)排练"
+    ],
+    "usphone": "[ˈwɔːk θruː]",
+    "ukphone": "[ˈwɔːk θruː]"
+  },
+  {
+    "name": "wrinkled",
+    "trans": [
+      "adj. 具皱的，有皱纹的"
+    ],
+    "usphone": "[ˈrɪŋkld]",
+    "ukphone": "[ˈrɪŋkld]"
+  },
+  {
+    "name": "washer",
+    "trans": [
+      "n. [机] 垫圈；洗涤器；洗衣人"
+    ],
+    "usphone": "[ˈwɑːʃər]",
+    "ukphone": "[ˈwɒʃə(r)]"
+  },
+  {
+    "name": "well-intentioned",
+    "trans": [
+      "adj. 好意的，好心的；出于善意的"
+    ],
+    "usphone": "[ˌwel ɪnˈtenʃnd]",
+    "ukphone": "[ˌwel ɪnˈtenʃ(ə)nd]"
+  },
+  {
+    "name": "whereupon",
+    "trans": [
+      "conj. 于是",
+      "adv. 因此"
+    ],
+    "usphone": "[ˌwerəˈpɑːn]",
+    "ukphone": "[ˌweərəˈpɒn]"
+  },
+  {
+    "name": "westernize",
+    "trans": [
+      "vt. 使西洋化，使欧化"
+    ],
+    "usphone": "[ˈwestərnaɪz]",
+    "ukphone": "[ˈwestənaɪz]"
+  },
+  {
+    "name": "whoredom",
+    "trans": [
+      "n. 卖淫，偶像崇拜; 嫖妓; 娼门淫窟"
+    ],
+    "usphone": "[ˈhoʊrdəm]",
+    "ukphone": "[ˈhɔːdəm]"
+  },
+  {
+    "name": "world-weary",
+    "trans": [
+      "adj. 厌世的；讨厌人世的"
+    ],
+    "usphone": "[ˈwɜːrld wɪri]",
+    "ukphone": "[ˈwɜːld wɪəri]"
+  },
+  {
+    "name": "wrongdoer",
+    "trans": [
+      "n. 做坏事的人；违法犯罪者"
+    ],
+    "usphone": "[ˈrɔːŋduːər]",
+    "ukphone": "[ˈrɒŋduːə(r)]"
+  },
+  {
+    "name": "walrus",
+    "trans": [
+      "n. 海象"
+    ],
+    "usphone": "[ˈwɔːlrəs]",
+    "ukphone": "[ˈwɔːlrəs]"
+  },
+  {
+    "name": "watch making",
+    "trans": [
+      "[物理] 试验装置、钟表制造; 检测设备，钟表制造; 时钟的平衡装置; 制表; 钟表制造; 造表; 手表制造; 钟表生产; 表制造; 制造表; 监视制造"
+    ],
+    "usphone": "[ˈwɑːtʃˌmeɪkɪŋ]",
+    "ukphone": "[ˈwɒtʃˌmeɪkɪŋ]"
+  },
+  {
+    "name": "watchmaker",
+    "trans": [
+      "n. 钟表匠；表的制造人"
+    ],
+    "usphone": "[ˈwɑːtʃmeɪkər]",
+    "ukphone": "[ˈwɒtʃmeɪkə(r)]"
+  },
+  {
+    "name": "winder",
+    "trans": [
+      "n. 卷绕者；会缠绕的植物；螺旋形阶梯；卷线机；上发条的钥匙"
+    ],
+    "usphone": "[ˈwaɪndər]",
+    "ukphone": "[ˈwaɪndə(r)]"
+  },
+  {
+    "name": "wristwatch",
+    "trans": [
+      "n. 手表"
+    ],
+    "usphone": "[ˈrɪstwɑːtʃ]",
+    "ukphone": "[ˈrɪstwɒtʃ]"
+  },
+  {
+    "name": "well-behaved",
+    "trans": [
+      "adj. 很乖的；行为端正的；彬彬有礼的"
+    ],
+    "usphone": "[ˌwel bɪˈheɪvd]",
+    "ukphone": "[ˌwel bɪˈheɪvd]"
+  },
+  {
+    "name": "warmed-over",
+    "trans": [
+      "adj. 重新热过的；陈腐的；炒冷饭的"
+    ],
+    "usphone": "[ˌwɔːrmd ˈoʊvər]",
+    "ukphone": "['wɔ:md'əuvə]"
+  },
+  {
+    "name": "watchtower",
+    "trans": [
+      "n. 瞭望塔，岗楼"
+    ],
+    "usphone": "[ˈwɑːtʃtaʊər]",
+    "ukphone": "[ˈwɒtʃtaʊə(r)]"
+  },
+  {
+    "name": "workman",
+    "trans": [
+      "n. 工匠；技工；男工"
+    ],
+    "usphone": "[ˈwɜːrkmən]",
+    "ukphone": "[ˈwɜːkmən]"
+  },
+  {
+    "name": "weakly",
+    "trans": [
+      "adj. 虚弱的；软弱的",
+      "adv. 虚弱地；无力地；软弱地；有病地"
+    ],
+    "usphone": "[ˈwiːkli]",
+    "ukphone": "[ˈwiːkli]"
+  },
+  {
+    "name": "waistline",
+    "trans": [
+      "n. 腰围；腰身部分"
+    ],
+    "usphone": "[ˈweɪstlaɪn]",
+    "ukphone": "[ˈweɪstlaɪn]"
+  },
+  {
+    "name": "world-class",
+    "trans": [
+      "n. 世界级",
+      "adj. 世界级的"
+    ],
+    "usphone": "[ˌwɜːrld ˈklæs]",
+    "ukphone": "[ˌwɜːld ˈklɑːs]"
+  },
+  {
+    "name": "whispered",
+    "trans": [
+      "adj. 低声的；耳语的",
+      "v. 窃窃私语（whisper的过去分词）；低声地说"
+    ],
+    "usphone": "['wɪspəd]",
+    "ukphone": "['wɪspəd]"
+  },
+  {
+    "name": "well-heeled",
+    "trans": [
+      "adj. 富有的；穿着考究的"
+    ],
+    "usphone": "[ˌwel ˈhiːld]",
+    "ukphone": "[ˌwel ˈhiːld]"
+  },
+  {
+    "name": "webmaster",
+    "trans": [
+      "n. 网络管理员"
+    ],
+    "usphone": "[ˈwebmæstər]",
+    "ukphone": "[ˈwebmɑːstə(r)]"
+  },
+  {
+    "name": "wholeness",
+    "trans": [
+      "n. 完整；完全；全体"
+    ],
+    "usphone": "[ˈhoʊlnəs]",
+    "ukphone": "[ˈhəʊlnəs]"
+  },
+  {
+    "name": "white-collar",
+    "trans": [
+      "adj. 白领阶层的；脑力劳动者"
+    ],
+    "usphone": "[ˌwaɪt ˈkɑːlər]",
+    "ukphone": "[ˌwaɪt ˈkɒlə(r)]"
+  },
+  {
+    "name": "workmate",
+    "trans": [
+      "n. 同事；工友"
+    ],
+    "usphone": "[ˈwɜːrkmeɪt]",
+    "ukphone": "[ˈwɜːkmeɪt]"
+  },
+  {
+    "name": "walkout",
+    "trans": [
+      "n. （美）罢工；退出会场；谈恋爱",
+      "adj. 有出口的"
+    ],
+    "usphone": "[ˈwɔːkaʊt]",
+    "ukphone": "[ˈwɔːkaʊt]"
+  },
+  {
+    "name": "wanted",
+    "trans": [
+      "v. 缺少( want的过去式和过去分词 )；应该；打算；需要…在场",
+      "adj. 受通缉的；被征求的"
+    ],
+    "usphone": "[ˈwɑːntɪd]",
+    "ukphone": "[ˈwɒntɪd]"
+  },
+  {
+    "name": "wareroom",
+    "trans": [
+      "n. 商品展销室，商品储藏室"
+    ],
+    "usphone": "[weərʊm]",
+    "ukphone": "[ˈweəˌrʊm]"
+  },
+  {
+    "name": "warring",
+    "trans": [
+      "n. 战争；战斗",
+      "v. 进行战争（war的现在分词形式）",
+      "adj. 交战的；敌对的；冲突的"
+    ],
+    "usphone": "[ˈwɔːrɪŋ]",
+    "ukphone": "[ˈwɔːrɪŋ]"
+  },
+  {
+    "name": "watered",
+    "trans": [
+      "v. 浇水，供以水（water的过去式和过去分词）",
+      "adj. 掺水的；洒有水的，洒了水的；有波纹的；加虚股的（面值增加而实值未按比例增加）"
+    ],
+    "usphone": "[ˈwɔtəd]",
+    "ukphone": "[ˈwɔːtəd]"
+  },
+  {
+    "name": "waybill",
+    "trans": [
+      "n. 乘客名单；运货单"
+    ],
+    "usphone": "[ˈweɪˌbɪl]",
+    "ukphone": "[ˈweɪbɪl]"
+  },
+  {
+    "name": "well-advised",
+    "trans": [
+      "adj. 明智的；审慎的；很细心的；稳妥的"
+    ],
+    "usphone": "[ˌwel ədˈvaɪzd]",
+    "ukphone": "[ˌwel ədˈvaɪzd]"
+  },
+  {
+    "name": "welsh",
+    "trans": [
+      "n. 威尔士语",
+      "adj. 威尔士的；威尔士人的；威尔士语的"
+    ],
+    "usphone": "[welʃ]",
+    "ukphone": "[welʃ]"
+  },
+  {
+    "name": "wheeler-dealer",
+    "trans": [
+      "n. 追求利益的人；独断专行者",
+      "vi. 一意孤行；独断独行"
+    ],
+    "usphone": "[ˌwiːlər ˈdiːlər]",
+    "ukphone": "[ˌwiːlə ˈdiːlə(r)]"
+  },
+  {
+    "name": "whit",
+    "trans": [
+      "n. 一点点；些微"
+    ],
+    "usphone": "[wɪt]",
+    "ukphone": "[wɪt]"
+  },
+  {
+    "name": "wildcat",
+    "trans": [
+      "n. 野猫；莽撞的人",
+      "adj. 不可靠的；鲁莽的",
+      "vi. 盲目开掘油井；从事非法商业活动",
+      "vt. 盲目钻探"
+    ],
+    "usphone": "[ˈwaɪldkæt]",
+    "ukphone": "[ˈwaɪldkæt]"
+  },
+  {
+    "name": "workfare",
+    "trans": [
+      "n. 工作福利制"
+    ],
+    "usphone": "[ˈwɜːrkfer]",
+    "ukphone": "[ˈwɜːkfeə(r)]"
+  },
+  {
+    "name": "wrap-up",
+    "trans": [
+      "n. 简讯；综合报导；新闻提要",
+      "adj. 包东西的；总结性的；结尾的"
+    ],
+    "usphone": "[ræp ʌp]",
+    "ukphone": "['ræpʌp]"
+  },
+  {
+    "name": "writ",
+    "trans": [
+      "n. [法] 令状；文书；法院命令"
+    ],
+    "usphone": "[rɪt]",
+    "ukphone": "[rɪt]"
+  },
+  {
+    "name": "write up",
+    "trans": [
+      "na. 写在高处；书面表扬；一直写到最近事情；详细写"
+    ],
+    "usphone": "[ˈraɪt ʌp]",
+    "ukphone": "[ˈraɪt ʌp]"
+  },
+  {
+    "name": "wrongfully",
+    "trans": [
+      "adv. 不正当地；不妥地"
+    ],
+    "usphone": "[ˈrɔːŋfəli]",
+    "ukphone": "[ˈrɒŋfəli]"
+  },
+  {
+    "name": "wrongheaded",
+    "trans": [
+      "adj. 固执的；坚持错误的"
+    ],
+    "usphone": "[ˌrɔːŋˈhedɪd]",
+    "ukphone": "[ˌrɒŋˈhedɪd]"
+  },
+  {
+    "name": "workable",
+    "trans": [
+      "adj. 切实可行的；可经营的；能工作的"
+    ],
+    "usphone": "[ˈwɜːrkəbl]",
+    "ukphone": "[ˈwɜːkəbl]"
+  },
+  {
+    "name": "wheedle",
+    "trans": [
+      "vt. 以甜言蜜语诱惑；用甜言蜜语欺骗",
+      "vi. 用甜言蜜语哄骗"
+    ],
+    "usphone": "[ˈwiːd(ə)l]",
+    "ukphone": "[ˈwiːdl]"
+  },
+  {
+    "name": "wrangle",
+    "trans": [
+      "n. 争论；吵嘴",
+      "vt. 争论；争吵；辩驳",
+      "vi. 争论；争吵"
+    ],
+    "usphone": "[ˈræŋɡl]",
+    "ukphone": "[ˈræŋɡl]"
+  },
+  {
+    "name": "windbag",
+    "trans": [
+      "n. 风囊；饶舌之人"
+    ],
+    "usphone": "[ˈwɪndbæɡ]",
+    "ukphone": "[ˈwɪndbæɡ]"
+  },
+  {
+    "name": "wan",
+    "trans": [
+      "abbr. 广域网（Wide Area Network）"
+    ],
+    "usphone": "[wɑːn]",
+    "ukphone": "[wɒn]"
+  },
+  {
+    "name": "wizen",
+    "trans": [
+      "adj. 凋谢的；枯萎的",
+      "vt. 使凋谢；使枯萎；使干瘪",
+      "vi. 枯萎；凋谢；干瘪"
+    ],
+    "usphone": "[ˈwɪzən]",
+    "ukphone": "[ˈwɪzən]"
+  },
+  {
+    "name": "wiretap",
+    "trans": [
+      "n. 窃听；窃听装置",
+      "adj. 窃听的；窃听得到的",
+      "vt. 搭线窃听；窃听或偷录",
+      "vi. （搭线）窃听"
+    ],
+    "usphone": "[ˈwaɪərtæp]",
+    "ukphone": "[ˈwaɪətæp]"
+  },
+  {
+    "name": "warmonger",
+    "trans": [
+      "n. 好战者；战争贩子；主战论者"
+    ],
+    "usphone": "[ˈwɔːrmɑːŋɡər]",
+    "ukphone": "[ˈwɔːmʌŋɡə(r)]"
+  },
+  {
+    "name": "whet",
+    "trans": [
+      "n. 磨；开胃物；刺激物",
+      "vt. 刺激；磨快；促进"
+    ],
+    "usphone": "[wet]",
+    "ukphone": "[wet]"
+  },
+  {
+    "name": "willy-nilly",
+    "trans": [
+      "adv. 乱七八糟地；不管愿不愿意地",
+      "adj. 犹豫不决的；不容分辨的"
+    ],
+    "usphone": "[ˌwɪli ˈnɪli]",
+    "ukphone": "[ˌwɪli ˈnɪli]"
+  },
+  {
+    "name": "warm-hearted",
+    "trans": [
+      "adj. 热心的（等于warmhearted）；热诚的"
+    ],
+    "usphone": "[ˌwɔːrm ˈhɑːrtɪd]",
+    "ukphone": "[ˌwɔːm ˈhɑːtɪd]"
+  },
+  {
+    "name": "world-famous",
+    "trans": [
+      "adj. 举世闻名的"
+    ],
+    "usphone": "[ˌwɜːrld ˈfeɪməs]",
+    "ukphone": "[ˌwɜːld ˈfeɪməs]"
+  },
+  {
+    "name": "wallpaper",
+    "trans": [
+      "n. [建] 壁纸，墙纸",
+      "vi. 贴墙纸，贴壁纸",
+      "vt. 贴墙纸于，贴壁纸于"
+    ],
+    "usphone": "[ˈwɔːlpeɪpər]",
+    "ukphone": "[ˈwɔːlpeɪpə(r)]"
+  },
+  {
+    "name": "well done",
+    "trans": [
+      "adj. 熟透的；煮透了的；烧烂了的"
+    ],
+    "usphone": "[ˌwel ˈdʌn]",
+    "ukphone": "[ˌwel ˈdʌn]"
+  },
+  {
+    "name": "washing-machine",
+    "trans": [
+      " [医]洗衣机"
+    ],
+    "usphone": "[ˈwɑːʃɪŋ məʃiːn]",
+    "ukphone": "[ˈwɒʃɪŋ məʃiːn]"
+  },
+  {
+    "name": "Westerner",
+    "trans": [
+      "n. 西方人，欧美人；美国西部的人"
+    ],
+    "usphone": "[ˈwestərnər]",
+    "ukphone": "[ˈwestənə(r)]"
+  },
+  {
+    "name": "wrap up",
+    "trans": [
+      "包裹；圆满完成；（使）穿得暖和（wrap somebody/yourself up）；注意力完全集中于……"
+    ],
+    "usphone": "[ræp ʌp]",
+    "ukphone": "[ræp ʌp]"
+  },
+  {
+    "name": "weenie",
+    "trans": [
+      "adj. 细小的；微小的"
+    ],
+    "usphone": "[ˈwiːni]",
+    "ukphone": "[ˈwiːni]"
+  },
+  {
+    "name": "windblown",
+    "trans": [
+      "adj. 被风吹的；风飘型的；剪短而前梳的"
+    ],
+    "usphone": "[ˈwɪndbloʊn]",
+    "ukphone": "[ˈwɪndˌbləʊn]"
+  },
+  {
+    "name": "wide-ranging",
+    "trans": [
+      "adj. 广泛的"
+    ],
+    "usphone": "[ˌwaɪd ˈreɪndʒɪŋ]",
+    "ukphone": "[ˌwaɪd ˈreɪndʒɪŋ]"
+  },
+  {
+    "name": "whoops",
+    "trans": [
+      "int. 哎呀！"
+    ],
+    "usphone": "[wʊps]",
+    "ukphone": "[wʊps]"
+  },
+  {
+    "name": "wolves",
+    "trans": [
+      "n. 狼；贪婪者；色狼（wolf的复数）",
+      "v. 大口地快吃；狼吞虎咽（wolf的单三形式）"
+    ],
+    "usphone": "[wʊlvz]",
+    "ukphone": "[wʊlvz]"
+  },
+  {
+    "name": "whoa",
+    "trans": [
+      "int. 惊叹声；咳！"
+    ],
+    "usphone": "[woʊ]",
+    "ukphone": "[wəʊ]"
+  },
+  {
+    "name": "walkman",
+    "trans": [
+      "n. 随身听（商标名称）"
+    ],
+    "usphone": "[ˈwɔkmən]",
+    "ukphone": "[ˈwɔːkmən]"
+  },
+  {
+    "name": "windowsill",
+    "trans": [
+      "n. [建] 窗台；[建] 窗沿"
+    ],
+    "usphone": "[ˈwɪndoʊsɪl]",
+    "ukphone": "[ˈwɪndəʊsɪl]"
+  },
+  {
+    "name": "wishing well",
+    "trans": [
+      "n. （投币）许愿井"
+    ],
+    "usphone": "[ˈwɪʃɪŋ wel]",
+    "ukphone": "[ˈwɪʃɪŋ wel]"
+  },
+  {
+    "name": "wedding dress",
+    "trans": [
+      "n. 婚纱"
+    ],
+    "usphone": "[ˈwedɪŋ dres]",
+    "ukphone": "[ˈwedɪŋ dres]"
+  },
+  {
+    "name": "wisdom tooth",
+    "trans": [
+      "n. 智齿；智牙"
+    ],
+    "usphone": "[ˈwɪzdəm tuːθ]",
+    "ukphone": "[ˈwɪzdəm tuːθ]"
+  },
+  {
+    "name": "wow",
+    "trans": [
+      "n. 极大的成功；一鸣惊人之举；魔兽世界(World of Warcraft)；失真",
+      "int. （表示极大的惊奇或钦佩）哇，呀"
+    ],
+    "usphone": "[waʊ]",
+    "ukphone": "[waʊ]"
+  },
+  {
+    "name": "wounded",
+    "trans": [
+      "n. 受伤者，伤员",
+      "v. 使受伤（wound的过去分词）",
+      "adj. 受伤的"
+    ],
+    "usphone": "[ˈwuːndɪd]",
+    "ukphone": "[ˈwuːndɪd]"
+  },
+  {
+    "name": "world-wide",
+    "trans": [
+      "adj. 遍及全世界的"
+    ],
+    "usphone": "[ˈwɜːrldˌwaɪd]",
+    "ukphone": "[ˈwɜ:ldwaɪd]"
+  },
+  {
+    "name": "whaling",
+    "trans": [
+      "n. 捕鲸；捕鲸业；一阵痛打",
+      "v. 捕鲸；鞭打（whale的ing形式）"
+    ],
+    "usphone": "[ˈweɪlɪŋ]",
+    "ukphone": "[ˈweɪlɪŋ]"
+  },
+  {
+    "name": "wide-angle lens",
+    "trans": [
+      "n. 广角透镜"
+    ],
+    "usphone": "[ˌwaɪd æŋɡl ˈlenz]",
+    "ukphone": "[ˌwaɪd æŋɡəl ˈlenz]"
+  },
+  {
+    "name": "wart",
+    "trans": [
+      "n. [皮肤] 疣（等于verruca）；[林] 树瘤；缺点"
+    ],
+    "usphone": "[wɔːrt]",
+    "ukphone": "[wɔːt]"
+  },
+  {
+    "name": "whispering",
+    "trans": [
+      "n. 低语；流言；飒飒声",
+      "adj. 传播流言蜚语的；发飒飒声的（等于whispery）"
+    ],
+    "usphone": "[ˈwɪspərɪŋ]",
+    "ukphone": "[ˈwɪspərɪŋ]"
+  },
+  {
+    "name": "wondering",
+    "trans": [
+      "v. 想知道（wonder的ing形式）；惊奇",
+      "adj. 疑惑的；觉得奇怪的"
+    ],
+    "usphone": "[ˈwʌndərɪŋ]",
+    "ukphone": "[ˈwʌndərɪŋ]"
+  },
+  {
+    "name": "wretchedness",
+    "trans": [
+      "n. 可怜；悲惨；不幸"
+    ],
+    "usphone": "[ˈretʃɪdnəs]",
+    "ukphone": "[ˈretʃɪdnəs]"
+  },
+  {
+    "name": "weighted",
+    "trans": [
+      "adj. [数] 加权的；加重的；衡量过的",
+      "v. 加重量于…；重压（weight的过去分词）"
+    ],
+    "usphone": "[ˈweɪtɪd]",
+    "ukphone": "[ˈweɪtɪd]"
+  },
+  {
+    "name": "wrestler",
+    "trans": [
+      "n. 摔跤选手，搏斗者"
+    ],
+    "usphone": "[ˈreslər]",
+    "ukphone": "[ˈreslə(r)]"
+  },
+  {
+    "name": "wee",
+    "trans": [
+      "n. 一点点",
+      "adj. 极小的；很早的"
+    ],
+    "usphone": "[wiː]",
+    "ukphone": "[wiː]"
+  },
+  {
+    "name": "whine",
+    "trans": [
+      "n. 抱怨；牢骚；哀鸣",
+      "vt. 哀诉",
+      "vi. 发牢骚；哭诉；嘎嘎响；发呜呜声"
+    ],
+    "usphone": "[waɪn]",
+    "ukphone": "[waɪn]"
+  },
+  {
+    "name": "warren",
+    "trans": [
+      "n. 养兔场；大杂院；拥挤的地区"
+    ],
+    "usphone": "[ˈwɔrən]",
+    "ukphone": "[ˈwɒrən]"
+  },
+  {
+    "name": "whore",
+    "trans": [
+      "n. 娼妓，淫妇",
+      "vi. 卖淫，娼妓"
+    ],
+    "usphone": "[hɔːr]",
+    "ukphone": "[hɔː(r)]"
+  },
+  {
+    "name": "whimper",
+    "trans": [
+      "n. 呜咽声；啜泣声；牢骚；怨声",
+      "vi. 呜咽；啜泣；低声抱怨",
+      "vt. 呜咽着说；啜泣着说"
+    ],
+    "usphone": "[ˈwɪmpər]",
+    "ukphone": "[ˈwɪmpə(r)]"
+  },
+  {
+    "name": "whirlpool",
+    "trans": [
+      "n. 漩涡，涡流；混乱，纷乱"
+    ],
+    "usphone": "[ˈwɜːrlpuːl]",
+    "ukphone": "[ˈwɜːlpuːl]"
+  },
+  {
+    "name": "washed",
+    "trans": [
+      "v. 洗，洗涤（wash的过去分词）",
+      "adj. 洗过的"
+    ],
+    "usphone": "[wɑːʃt]",
+    "ukphone": "[wɒʃt]"
+  },
+  {
+    "name": "wages",
+    "trans": [
+      "n. [劳经] 工资；报酬（wage的复数形式）",
+      "v. 开展（运动等）（wage的第三人称单数形式）"
+    ],
+    "usphone": "[ˈweɪdʒɪz]",
+    "ukphone": "[ˈweɪdʒɪz]"
+  },
+  {
+    "name": "weatherproof",
+    "trans": [
+      "n. 雨衣",
+      "adj. 防风雨的；不受天气影响的",
+      "vt. 使……能耐风雨"
+    ],
+    "usphone": "[ˈweðərpruːf]",
+    "ukphone": "[ˈweðəpruːf]"
+  },
+  {
+    "name": "whitener",
+    "trans": [
+      "n. 增白剂；漂白剂"
+    ],
+    "usphone": "[ˈhwaɪtnər]",
+    "ukphone": "[ˈhwaɪtənə]"
+  },
+  {
+    "name": "wolverine",
+    "trans": [
+      "n. 狼獾；狼獾皮；豹熊；貂熊裘"
+    ],
+    "usphone": "[ˈwʊlvəriːn]",
+    "ukphone": "[ˈwʊlvəriːn]"
+  },
+  {
+    "name": "well known",
+    "trans": [
+      "adj. 众所周知的；著名的；出名的；为人所熟知的（或熟悉的、认可的）"
+    ],
+    "usphone": "['wel'nəun]",
+    "ukphone": "[ˌwel ˈnəʊn]"
+  },
+  {
+    "name": "well paid",
+    "trans": [
+      "adj. 报酬（或薪金）丰厚的"
+    ],
+    "usphone": "[ˌwel ˈpeɪd]",
+    "ukphone": "[ˌwel ˈpeɪd]"
+  },
+  {
+    "name": "washcloth",
+    "trans": [
+      "n. 毛巾；面巾；洗碟布"
+    ],
+    "usphone": "[ˈwɑːʃklɔːθ]",
+    "ukphone": "[ˈwɒʃklɒθ]"
+  },
+  {
+    "name": "warder",
+    "trans": [
+      "n. 看守；守卫；典狱官"
+    ],
+    "usphone": "[ˈwɔːrdər]",
+    "ukphone": "[ˈwɔːdə(r)]"
+  },
+  {
+    "name": "weeding",
+    "trans": [
+      "n. [农学] 除草；除杂草；（图书馆馆藏）汰旧更新",
+      "v. [农学] 除草（weed的现在分词）"
+    ],
+    "usphone": "[ˈwiːdɪŋ]",
+    "ukphone": "[ˈwiːdɪŋ]"
+  },
+  {
+    "name": "wad",
+    "trans": [
+      "n. 填料；块状软物",
+      "vt. 使成一团；填塞；使成卷",
+      "vi. 易形成团块"
+    ],
+    "usphone": "[wɑːd]",
+    "ukphone": "[wɒd]"
+  },
+  {
+    "name": "whatnot",
+    "trans": [
+      "n. 放古董的架子；不可名状的东西"
+    ],
+    "usphone": "[ˈwʌtnɑːt]",
+    "ukphone": "[ˈwɒtnɒt]"
+  },
+  {
+    "name": "well-born",
+    "trans": [
+      "adj. 出身高贵的；出身名门的"
+    ],
+    "usphone": "[ˌwel ˈbɔːrn]",
+    "ukphone": "[ˌwel ˈbɔːn]"
+  },
+  {
+    "name": "woodyard",
+    "trans": [
+      "n. 堆木场，贮木场"
+    ],
+    "usphone": "['wud,jɑ:d]",
+    "ukphone": "[ˈwʊdjɑːd]"
+  },
+  {
+    "name": "wildly",
+    "trans": [
+      "adv. 野生地；野蛮地；狂暴地；鲁莽地"
+    ],
+    "usphone": "[ˈwaɪldli]",
+    "ukphone": "[ˈwaɪldli]"
+  },
+  {
+    "name": "worrying",
+    "trans": [
+      "v. 担心（worry的ing形式）",
+      "adj. 令人担心的；烦恼的"
+    ],
+    "usphone": "[ˈwɜːriɪŋ]",
+    "ukphone": "[ˈwʌriɪŋ]"
+  },
+  {
+    "name": "write back",
+    "trans": [
+      "v. 回信"
+    ],
+    "usphone": "[ˈraɪt bæk]",
+    "ukphone": "[ˈraɪt bæk]"
+  },
+  {
+    "name": "wrongly",
+    "trans": [
+      "adv. 错误地；不恰当地；不公正地"
+    ],
+    "usphone": "[ˈrɔːŋli]",
+    "ukphone": "[ˈrɒŋli]"
+  },
+  {
+    "name": "wintry",
+    "trans": [
+      "adj. 寒冷的，冬天的；冷淡的"
+    ],
+    "usphone": "[ˈwɪntri]",
+    "ukphone": "[ˈwɪntri]"
+  },
+  {
+    "name": "workaholism",
+    "trans": [
+      "n. 迷恋工作；醉心工作"
+    ],
+    "usphone": "['wə:kə,hɔlizəm]",
+    "ukphone": "[ˈwɜːkəˌhɒlɪzəm]"
+  },
+  {
+    "name": "When?",
+    "trans": [
+      "conj. 考虑到；既然；当…时；在…时；如果",
+      "n. 时间，时候；日期；场合",
+      "adv. 什么时候，何时；（用于时间的表达方式之后）在那时；其时；当时",
+      "pron. 那时；什么时侯"
+    ],
+    "usphone": "[wen]",
+    "ukphone": "[wen]"
+  },
+  {
+    "name": "witch hazel",
+    "trans": [
+      "n. 金缕梅酊剂（用于治疗皮肤创伤）"
+    ],
+    "usphone": "[ˈwɪtʃ heɪzl]",
+    "ukphone": "[ˈwɪtʃ heɪz(ə)l]"
+  },
+  {
+    "name": "wardroom",
+    "trans": [
+      "n. 军官；军官室"
+    ],
+    "usphone": "[ˈwɔːrdruːmˌˈwɔːrdrʊm]",
+    "ukphone": "[ˈwɔːdruːm; ˈwɔːdrʊm]"
+  },
+  {
+    "name": "worrier",
+    "trans": [
+      "n. 发愁的人；烦人事"
+    ],
+    "usphone": "[ˈwɜːriər]",
+    "ukphone": "[ˈwʌriə(r)]"
+  },
+  {
+    "name": "winding",
+    "trans": [
+      "n. 绕，缠；线圈；弯曲",
+      "adj. 弯曲的，蜿蜒的；卷绕的"
+    ],
+    "usphone": "[ˈwaɪndɪŋ]",
+    "ukphone": "[ˈwaɪndɪŋ]"
+  },
+  {
+    "name": "wearing",
+    "trans": [
+      "v. 穿着；磨损（wear的ing形式）",
+      "adj. 磨损的；穿用的；令人疲倦的"
+    ],
+    "usphone": "[ˈwerɪŋ]",
+    "ukphone": "[ˈweərɪŋ]"
+  },
+  {
+    "name": "weightless",
+    "trans": [
+      "adj. 失重的；无重量的"
+    ],
+    "usphone": "[ˈweɪtləs]",
+    "ukphone": "[ˈweɪtləs]"
+  },
+  {
+    "name": "warmly",
+    "trans": [
+      "adv. 热情地；温暖地；亲切地"
+    ],
+    "usphone": "[ˈwɔːrmli]",
+    "ukphone": "[ˈwɔːmli]"
+  },
+  {
+    "name": "worktop",
+    "trans": [
+      "n. 工作台，桌面；（厨房柜橱上的）操作面"
+    ],
+    "usphone": "[ˈwɜːrktɑːp]",
+    "ukphone": "[ˈwɜːktɒp]"
+  },
+  {
+    "name": "wine list",
+    "trans": [
+      "n. （餐馆供应的）酒单"
+    ],
+    "usphone": "[waɪn lɪst]",
+    "ukphone": "[ˈwaɪn lɪst]"
+  },
+  {
+    "name": "weatherman",
+    "trans": [
+      "n. 气象员；天气预报员"
+    ],
+    "usphone": "[ˈweðərmæn]",
+    "ukphone": "[ˈweðəmæn]"
+  },
+  {
+    "name": "watchman",
+    "trans": [
+      "n. 看守人；巡夜者"
+    ],
+    "usphone": "[ˈwɑːtʃmən]",
+    "ukphone": "[ˈwɒtʃmən]"
+  },
+  {
+    "name": "wearily",
+    "trans": [
+      "adv. 疲倦地；无聊地；厌倦地"
+    ],
+    "usphone": "[ˈwɪrəli]",
+    "ukphone": "[ˈwɪərəli]"
+  },
+  {
+    "name": "watchword",
+    "trans": [
+      "n. 口号；标语；口令；暗号"
+    ],
+    "usphone": "[ˈwɑːtʃwɜːrd]",
+    "ukphone": "[ˈwɒtʃwɜːd]"
+  },
+  {
+    "name": "wiikite",
+    "trans": [
+      "杂铌矿"
+    ],
+    "usphone": "['vi:kait]",
+    "ukphone": "['vi:kait]"
+  },
+  {
+    "name": "whiplash",
+    "trans": [
+      "n. 鞭绳；鞭子的顶端；鞭打"
+    ],
+    "usphone": "[ˈwɪplæʃ]",
+    "ukphone": "[ˈwɪplæʃ]"
+  },
+  {
+    "name": "woven",
+    "trans": [
+      "n. 机织织物",
+      "v. 编织；交织（weave的过去分词）；编造",
+      "adj. 织物的"
+    ],
+    "usphone": "[ˈwoʊv(ə)n]",
+    "ukphone": "[ˈwəʊvn]"
+  },
+  {
+    "name": "white lead",
+    "trans": [
+      "na. 碱式碳酸铅；铅粉"
+    ],
+    "usphone": "[ˌwaɪt ˈled]",
+    "ukphone": "[ˌwaɪt ˈled]"
+  },
+  {
+    "name": "word-of-mouth",
+    "trans": [
+      "adj. 口头的，口述的"
+    ],
+    "usphone": "['wə:dəv'mauθ]",
+    "ukphone": "['wə:dəv'mauθ]"
+  },
+  {
+    "name": "works",
+    "trans": [
+      "n. 作品；工厂；工程结构"
+    ],
+    "usphone": "[wɜːrks]",
+    "ukphone": "[wɜːks]"
+  },
+  {
+    "name": "woof",
+    "trans": [
+      "n. 纬线；织物；低吠声",
+      "vi. 发出低吠声；发低音"
+    ],
+    "usphone": "[wʊf]",
+    "ukphone": "[wʊf]"
+  },
+  {
+    "name": "woeful",
+    "trans": [
+      "adj. 悲哀的；悲惨的；遗憾的；不幸的"
+    ],
+    "usphone": "[ˈwoʊfl]",
+    "ukphone": "[ˈwəʊfl]"
+  },
+  {
+    "name": "waterwheel",
+    "trans": [
+      "n. 水车；水轮；吊水机"
+    ],
+    "usphone": "[ˈwɔːtərwiːl]",
+    "ukphone": "[ˈwɔːtəwiːl]"
+  },
+  {
+    "name": "webbed",
+    "trans": [
+      "adj. 有蹼的；蜘蛛网状的",
+      "v. 用蹼将…连接；结网；使落入圈套（web的过去分词）"
+    ],
+    "usphone": "[webd]",
+    "ukphone": "[webd]"
+  },
+  {
+    "name": "weblog",
+    "trans": [
+      "n. 网络日志"
+    ],
+    "usphone": "[ˈweblɑːɡ]",
+    "ukphone": "[ˈweblɒɡ]"
+  },
+  {
+    "name": "whiz",
+    "trans": [
+      "n. 飕飕声；奇才",
+      "vt. 使飕飕作声",
+      "vi. 飕飕作声"
+    ],
+    "usphone": "[wɪz]",
+    "ukphone": "[wɪz]"
+  },
+  {
+    "name": "wearisome",
+    "trans": [
+      "adj. 使疲倦的；使厌倦的；乏味的"
+    ],
+    "usphone": "[ˈwɪrisəm]",
+    "ukphone": "[ˈwɪərisəm]"
+  },
+  {
+    "name": "work-to-rule",
+    "trans": [
+      "n. 按章怠工",
+      "adj. 以合法的怠工方式"
+    ],
+    "usphone": "[ˌwɜːrk tə ˈruːl]",
+    "ukphone": "[ˌwɜːk tə ˈruːl]"
+  },
+  {
+    "name": "washbasin",
+    "trans": [
+      "n. 脸盆"
+    ],
+    "usphone": "[ˈwɑːʃbeɪsn]",
+    "ukphone": "[ˈwɒʃbeɪsn]"
+  },
+  {
+    "name": "well-done",
+    "trans": [
+      "adj. 干得好的；完全煮熟的",
+      "int. 好；干得好"
+    ],
+    "usphone": "[ˌwel ˈdʌn]",
+    "ukphone": "[ˌwel ˈdʌn]"
+  },
+  {
+    "name": "white meat",
+    "trans": [
+      "n. 白肉（烹煮后呈白色的肉，如鸡肉）；（鸡或其他禽类的）熟胸脯肉"
+    ],
+    "usphone": "[ˌwaɪt ˈmiːt; ˌhwaɪt ˈmiːt]",
+    "ukphone": "[ˌwaɪt ˈmiːt]"
+  },
+  {
+    "name": "white wine",
+    "trans": [
+      "n. 白葡萄酒；浅黄色果酒；一杯白葡萄酒"
+    ],
+    "usphone": "[ˌwaɪt ˈwaɪn]",
+    "ukphone": "[ˌwaɪt ˈwaɪn]"
+  },
+  {
+    "name": "washboard",
+    "trans": [
+      "n. （美）搓板；高低不平的路面；防波板",
+      "adj. 搓板状的；崎岖不平的"
+    ],
+    "usphone": "[ˈwɑːʃbɔːrd]",
+    "ukphone": "[ˈwɒʃbɔːd]"
+  },
+  {
+    "name": "wushu",
+    "trans": [
+      "n. <汉>武术; 国术"
+    ],
+    "usphone": "[ˈwʊˈʃʊ]",
+    "ukphone": "[ˈwuːʃuː]"
+  },
+  {
+    "name": "wings",
+    "trans": [
+      "n. [昆] 翅膀（wing的复数形式）；飞行章；女童军戴的一种翼形章"
+    ],
+    "usphone": "[wɪŋz]",
+    "ukphone": "[wɪŋz]"
+  },
+  {
+    "name": "walk-through",
+    "trans": [
+      "n. （电视剧、戏剧等的）初排；不拍摄的排练；草率的排练"
+    ],
+    "usphone": "[ˈwɔːk θruː]",
+    "ukphone": "[ˈwɔːk θruː]"
+  },
+  {
+    "name": "well-informed",
+    "trans": [
+      "adj. 消息灵通的；见多识广的；熟悉的；博学的"
+    ],
+    "usphone": "[ˌwel ɪnˈfɔːrmd]",
+    "ukphone": "[ˌwel ɪnˈfɔːmd]"
+  },
+  {
+    "name": "waltz",
+    "trans": [
+      "n. 华尔兹舞；华尔兹舞曲",
+      "adj. 圆舞曲的；华尔兹舞的",
+      "vt. 硬拖；与…跳华尔兹舞",
+      "vi. 跳华尔兹舞；旋转；轻快地走动"
+    ],
+    "usphone": "[wɔːlsˌwɔːlts]",
+    "ukphone": "[wɔːls]"
+  },
+  {
+    "name": "weaponry",
+    "trans": [
+      "n. 兵器，武器（总称）"
+    ],
+    "usphone": "[ˈwepənri]",
+    "ukphone": "[ˈwepənri]"
+  },
+  {
+    "name": "WWW",
+    "trans": [
+      "abbr. 万维网（World Wide Web）；世界气象监视网（World Weather Watch）"
+    ],
+    "usphone": "[ˌdʌbljuː dʌbljuː ˈdʌbljuː]",
+    "ukphone": "[ˌdʌbljuː dʌbljuː ˈdʌbljuː]"
+  },
+  {
+    "name": "Wales",
+    "trans": [
+      "n. 威尔士（英国大不列颠岛西南部地区）"
+    ],
+    "usphone": "[weɪlz]",
+    "ukphone": "[weɪlz]"
+  },
+  {
+    "name": "whodunit",
+    "trans": [
+      "n. 侦探小说"
+    ],
+    "usphone": "[ˌhuːˈdʌnɪt]",
+    "ukphone": "[huːˈdʌnɪt]"
+  },
+  {
+    "name": "whodunnit",
+    "trans": [
+      "侦探小说，犯罪小说"
+    ],
+    "usphone": "[ˌhuːˈdʌnɪt]",
+    "ukphone": "[ˌhuːˈdʌnɪt]"
+  },
+  {
+    "name": "weighting",
+    "trans": [
+      "n. 加重，加权；衡量；（英）生活补贴",
+      "v. 加权；称量（weight的现在分词）"
+    ],
+    "usphone": "[ˈweɪtɪŋ]",
+    "ukphone": "[ˈweɪtɪŋ]"
+  },
+  {
+    "name": "worksheet",
+    "trans": [
+      "n. (学生的)活页练习题"
+    ],
+    "usphone": "[ˈwɜːrkʃiːt]",
+    "ukphone": "[ˈwɜːkʃiːt]"
+  },
+  {
+    "name": "wholly-owned",
+    "trans": [
+      "adj. 全资的"
+    ],
+    "usphone": "[ˌhoʊlli ˈoʊnd]",
+    "ukphone": "[ˌhəʊlli ˈəʊnd]"
+  },
+  {
+    "name": "warrantee",
+    "trans": [
+      "n. 被保证人；被担保人"
+    ],
+    "usphone": "[ˌwɔrənˈti]",
+    "ukphone": "[wɒr(ə)nˈtiː]"
+  },
+  {
+    "name": "widget",
+    "trans": [
+      "n. 装饰物；小机械；小部件；未定名的主要新产品"
+    ],
+    "usphone": "[ˈwɪdʒɪt]",
+    "ukphone": "[ˈwɪdʒɪt]"
+  },
+  {
+    "name": "white goods",
+    "trans": [
+      "n. 白色家电；大件家用电器"
+    ],
+    "usphone": "[ˈwaɪt ɡʊdz]",
+    "ukphone": "[ˈwaɪt ɡʊdz]"
+  },
+  {
+    "name": "wherewithal",
+    "trans": [
+      "n. 必要的资金（或手段）",
+      "conj. 用以（等于wherewith）",
+      "adv. 用什么"
+    ],
+    "usphone": "[ˈwerwɪðɔːl]",
+    "ukphone": "[ˈweəwɪðɔːl]"
+  },
+  {
+    "name": "wrought",
+    "trans": [
+      "adj. 锻造的；加工的；精细的",
+      "v. 工作（work的过去分词）；wreak的过去分词"
+    ],
+    "usphone": "[rɔːt]",
+    "ukphone": "[rɔːt]"
+  },
+  {
+    "name": "wiles",
+    "trans": [
+      "n. 诡计；花招（wile的复数）",
+      "v. 引诱（wile的第三人称单数形式）"
+    ],
+    "usphone": "[waɪlz]",
+    "ukphone": "[waɪlz]"
+  },
+  {
+    "name": "weasel",
+    "trans": [
+      "n. 鼬鼠；狡猾的人",
+      "vi. 逃避；含糊其辞"
+    ],
+    "usphone": "[ˈwiːzl]",
+    "ukphone": "[ˈwiːzl]"
+  },
+  {
+    "name": "whelp",
+    "trans": [
+      "n. 小狗；幼兽",
+      "vt. 下崽",
+      "vi. 下崽"
+    ],
+    "usphone": "[welp]",
+    "ukphone": "[welp]"
+  },
+  {
+    "name": "whorl",
+    "trans": [
+      "n. 螺纹；轮生体；涡",
+      "vt. 使成涡漩",
+      "vi. 盘旋"
+    ],
+    "usphone": "[wɜːrl]",
+    "ukphone": "[wɜːl]"
+  },
+  {
+    "name": "witticism",
+    "trans": [
+      "n. 妙语；名言；俏皮话"
+    ],
+    "usphone": "[ˈwɪtɪsɪzəm]",
+    "ukphone": "[ˈwɪtɪsɪzəm]"
+  },
+  {
+    "name": "wrangler",
+    "trans": [
+      "n. 争论者；口角者；牧人"
+    ],
+    "usphone": "[ˈræŋɡlər]",
+    "ukphone": "[ˈræŋɡlə(r)]"
+  },
+  {
+    "name": "wraith",
+    "trans": [
+      "n. 幽灵；鬼魂；幻影"
+    ],
+    "usphone": "[reɪθ]",
+    "ukphone": "[reɪθ]"
+  },
+  {
+    "name": "whelm",
+    "trans": [
+      "vt. 淹没；用…覆盖",
+      "vi. 淹没；覆盖；压倒"
+    ],
+    "usphone": "[wɛlm]",
+    "ukphone": "[welm]"
+  },
+  {
+    "name": "wick",
+    "trans": [
+      "n. 灯芯，蜡烛心",
+      "vt. 依靠毛细作用带走"
+    ],
+    "usphone": "[wɪk]",
+    "ukphone": "[wɪk]"
+  },
+  {
+    "name": "wizened",
+    "trans": [
+      "adj. 干瘪的；枯萎的；消瘦的",
+      "v. 枯萎（wizen的过去式和过去分词）"
+    ],
+    "usphone": "[ˈwɪznd]",
+    "ukphone": "[ˈwɪz(ə)nd]"
+  },
+  {
+    "name": "well-groomed",
+    "trans": [
+      "adj. 被小心照料的；梳洗得整洁的"
+    ],
+    "usphone": "[ˌwel ˈɡruːmd]",
+    "ukphone": "[ˌwel ˈɡruːmd]"
+  },
+  {
+    "name": "well-bred",
+    "trans": [
+      "adj. 有教养的；良种的；受过良好教育的"
+    ],
+    "usphone": "[ˌwel ˈbred]",
+    "ukphone": "[ˌwel ˈbred]"
+  },
+  {
+    "name": "wile",
+    "trans": [
+      "n. 诡计，阴谋",
+      "vt. 欺骗，诱骗；消遣"
+    ],
+    "usphone": "[waɪl]",
+    "ukphone": "[waɪl]"
+  },
+  {
+    "name": "waspish",
+    "trans": [
+      "adj. 尖刻的；易怒的；如黄蜂的；腰细的"
+    ],
+    "usphone": "[ˈwɔspɪʃ]",
+    "ukphone": "[ˈwɒspɪʃ]"
+  },
+  {
+    "name": "willowy",
+    "trans": [
+      "adj. 苗条的；柔软的"
+    ],
+    "usphone": "[ˈwɪloʊi]",
+    "ukphone": "[ˈwɪləʊi]"
+  },
+  {
+    "name": "wallop",
+    "trans": [
+      "n. 冲击力；重击；快感",
+      "vt. 猛击；痛打；击溃",
+      "vi. 猛冲；颠簸；沸腾"
+    ],
+    "usphone": "[ˈwɑːləp]",
+    "ukphone": "[ˈwɒləp]"
+  },
+  {
+    "name": "whinny",
+    "trans": [
+      "n. 马嘶声",
+      "adj. 马嘶声",
+      "vt. 以嘶声表示",
+      "vi. 嘶，嘶叫"
+    ],
+    "usphone": "[ˈwɪni]",
+    "ukphone": "[ˈwɪni]"
+  },
+  {
+    "name": "wizardry",
+    "trans": [
+      "n. 巫术，魔法"
+    ],
+    "usphone": "[ˈwɪzərdri]",
+    "ukphone": "[ˈwɪzədri]"
+  },
+  {
+    "name": "winkle",
+    "trans": [
+      "n. 食用螺",
+      "vt. 剔出；费劲找出",
+      "vi. 闪耀"
+    ],
+    "usphone": "[ˈwɪŋk(ə)l]",
+    "ukphone": "[ˈwɪŋk(ə)l]"
+  },
+  {
+    "name": "warranted",
+    "trans": [
+      "v. 批准（warrant的过去分词）；授权",
+      "adj. 保证的；担保的"
+    ],
+    "usphone": "[ˈwɔrəntɪd]",
+    "ukphone": "[ˈwɒrəntɪd]"
+  },
+  {
+    "name": "whimsy",
+    "trans": [
+      "n. 怪念头；反复无常"
+    ],
+    "usphone": "[ˈwɪmzi]",
+    "ukphone": "[ˈwɪmzi]"
+  },
+  {
+    "name": "welt",
+    "trans": [
+      "n. 贴边，[服装] 沿条；鞭痕；殴打",
+      "vt. 加沿条于……；使……留下鞭痕；对……进行殴打"
+    ],
+    "usphone": "[welt]",
+    "ukphone": "[welt]"
+  },
+  {
+    "name": "waveband",
+    "trans": [
+      "n. 波段"
+    ],
+    "usphone": "[ˈweɪvbænd]",
+    "ukphone": "[ˈweɪvbænd]"
+  },
+  {
+    "name": "wherein",
+    "trans": [
+      "adv. 在其中；在何处"
+    ],
+    "usphone": "[werˈɪn]",
+    "ukphone": "[weərˈɪn]"
+  },
+  {
+    "name": "wiry",
+    "trans": [
+      "adj. 金属线制的；金属丝般的；坚硬的；瘦长结实的；（噪音）尖细的"
+    ],
+    "usphone": "[ˈwaɪəri]",
+    "ukphone": "[ˈwaɪəri]"
+  },
+  {
+    "name": "warhead",
+    "trans": [
+      "n. 弹头"
+    ],
+    "usphone": "[ˈwɔːrhed]",
+    "ukphone": "[ˈwɔːhed]"
+  },
+  {
+    "name": "warlord",
+    "trans": [
+      "n. 军阀"
+    ],
+    "usphone": "[ˈwɔːrlɔːrd]",
+    "ukphone": "[ˈwɔːlɔːd]"
+  },
+  {
+    "name": "warship",
+    "trans": [
+      "n. 战船，[军] 军舰"
+    ],
+    "usphone": "[ˈwɔːrʃɪp]",
+    "ukphone": "[ˈwɔːʃɪp]"
+  },
+  {
+    "name": "watercolor",
+    "trans": [
+      "n. 水彩画，水彩；水彩颜料",
+      "adj. 水彩的，水彩画的"
+    ],
+    "usphone": "[ˈwɔːtərkʌlər]",
+    "ukphone": "['wɔ:tə,kʌlə, 'wɔ-]"
+  },
+  {
+    "name": "witchcraft",
+    "trans": [
+      "n. 巫术；魔法"
+    ],
+    "usphone": "[ˈwɪtʃkræft]",
+    "ukphone": "[ˈwɪtʃkrɑːft]"
+  },
+  {
+    "name": "winged",
+    "trans": [
+      "adj. 有翼的；飞行的；迅速的；翼受伤的"
+    ],
+    "usphone": "[wɪŋd]",
+    "ukphone": "[wɪŋd]"
+  },
+  {
+    "name": "wrongful",
+    "trans": [
+      "adj. 不正当的；不讲道理的；不合法的"
+    ],
+    "usphone": "[ˈrɔːŋfl]",
+    "ukphone": "[ˈrɒŋfl]"
+  },
+  {
+    "name": "witted",
+    "trans": [
+      "adj. 智力……的；脑筋……的"
+    ],
+    "usphone": "[ˈwɪtɪd]",
+    "ukphone": "[ˈwɪtɪd]"
+  },
+  {
+    "name": "whirr",
+    "trans": [
+      "n. 呼呼声；心烦",
+      "vt. 呼呼地飞",
+      "vi. 作呼呼声"
+    ],
+    "usphone": "[wɜːr]",
+    "ukphone": "[wɜː(r)]"
+  },
+  {
+    "name": "waterline",
+    "trans": [
+      "n. 吃水线（海陆边界）；水印横线"
+    ],
+    "usphone": "[ˈwɔːtərlaɪn]",
+    "ukphone": "[ˈwɔːtəlaɪn]"
+  },
+  {
+    "name": "Whitney",
+    "trans": [
+      "n. 惠特尼（女子名）；惠特尼山（位于美国加利福尼亚州东部）"
+    ],
+    "usphone": "[ˈwɪtni]",
+    "ukphone": "['hwitni]"
+  },
+  {
+    "name": "Wellington",
+    "trans": [
+      "n. 惠灵顿（新西兰首都）"
+    ],
+    "usphone": "[ˈwelɪŋtən]",
+    "ukphone": "[ˈwelɪŋtən]"
+  },
+  {
+    "name": "wilfully",
+    "trans": [
+      "adv. 任意地"
+    ],
+    "usphone": "[ˈwɪlfəli]",
+    "ukphone": "[ˈwɪlfəli]"
+  },
+  {
+    "name": "watcher",
+    "trans": [
+      "n. 观察者；看守人；哨兵；（美）选举监票员"
+    ],
+    "usphone": "[ˈwɑːtʃər]",
+    "ukphone": "[ˈwɒtʃə(r)]"
+  },
+  {
+    "name": "way out",
+    "trans": [
+      "n. （建筑物的）出口；（困境的）出路"
+    ],
+    "usphone": "[ˌweɪ ˈaʊt]",
+    "ukphone": "[ˌweɪ ˈaʊt]"
+  },
+  {
+    "name": "walkie-talkie",
+    "trans": [
+      "n. 步话机；手提无线电话机"
+    ],
+    "usphone": "[ˌwɔːki ˈtɔːki]",
+    "ukphone": "[ˌwɔːki ˈtɔːki]"
+  },
+  {
+    "name": "windbreaker",
+    "trans": [
+      "n. 防风夹克，同windcheater"
+    ],
+    "usphone": "[ˈwɪndbreɪkər]",
+    "ukphone": "[ˈwɪn(d)breɪkə]"
+  },
+  {
+    "name": "wariness",
+    "trans": [
+      "n. 谨慎，小心"
+    ],
+    "usphone": "[ˈwerinəs]",
+    "ukphone": "[ˈweərinəs]"
+  },
+  {
+    "name": "wi-fi",
+    "trans": [
+      "abbr. 无线保真技术（wireless fidelity）；无线上网技术"
+    ],
+    "usphone": "[ˈwaɪ faɪ]",
+    "ukphone": "[ˈwaɪ faɪ]"
+  },
+  {
+    "name": "weft",
+    "trans": [
+      "n. 纬线；信号旗"
+    ],
+    "usphone": "[weft]",
+    "ukphone": "[weft]"
+  },
+  {
+    "name": "woodworking",
+    "trans": [
+      "n. 木工；[木] 木工活",
+      "adj. 干木工活的"
+    ],
+    "usphone": "[ˈwʊdˌwɜːrkɪŋ]",
+    "ukphone": "[ˈwʊdˌwɜːkɪŋ]"
+  },
+  {
+    "name": "woodwind",
+    "trans": [
+      "n. 木管乐器"
+    ],
+    "usphone": "[ˈwʊdwɪnd]",
+    "ukphone": "[ˈwʊdwɪnd]"
+  },
+  {
+    "name": "wind instrument",
+    "trans": [
+      "n. 管乐器；吹奏乐器"
+    ],
+    "usphone": "[ˈwɪnd ɪnstrəmənt]",
+    "ukphone": "[ˈwɪnd ɪnstrəmənt]"
+  },
+  {
+    "name": "warm-blooded",
+    "trans": [
+      "adj. （动物）温血的；热血的；恒温的；热情的；易兴奋的"
+    ],
+    "usphone": "[ˌwɔːrm ˈblʌdɪd]",
+    "ukphone": "[ˌwɔːm ˈblʌdɪd]"
+  },
+  {
+    "name": "waterfowl",
+    "trans": [
+      "n. [鸟] 水禽；[鸟] 水鸟"
+    ],
+    "usphone": "[ˈwɔːtərfaʊl]",
+    "ukphone": "[ˈwɔːtəfaʊl]"
+  },
+  {
+    "name": "wildfowl",
+    "trans": [
+      "n. 野禽；猎鸟"
+    ],
+    "usphone": "[ˈwaɪldfaʊl]",
+    "ukphone": "[ˈwaɪldfaʊl]"
+  },
+  {
+    "name": "water-soluble",
+    "trans": [
+      "adj. 可溶于水的"
+    ],
+    "usphone": "[ ˈwɔːtər ˈsɑːljəbl]",
+    "ukphone": "['wɔ:tə,sɔlju'bl, 'wɔ-]"
+  },
+  {
+    "name": "well-defined",
+    "trans": [
+      "adj. 定义明确的；界限清楚的"
+    ],
+    "usphone": "[ˌwel dɪˈfaɪnd]",
+    "ukphone": "[ˌwel dɪˈfaɪnd]"
+  },
+  {
+    "name": "waning",
+    "trans": [
+      "n. 减弱；月亏",
+      "adj. 渐亏的；逐渐减弱或变小的"
+    ],
+    "usphone": "[weɪnɪŋ]",
+    "ukphone": "[ˈweɪnɪŋ]"
+  },
+  {
+    "name": "waxing",
+    "trans": [
+      "n. 上蜡；唱片；蜡膜形成",
+      "v. 上蜡（wax的ing形式）"
+    ],
+    "usphone": "[ˈwæksɪŋ]",
+    "ukphone": "[ˈwæksɪŋ]"
+  },
+  {
+    "name": "warped",
+    "trans": [
+      "adj. 弯曲的；反常的",
+      "v. 弄歪（warp的过去式和过去分词）"
+    ],
+    "usphone": "[wɔːrpt]",
+    "ukphone": "[wɔːpt]"
+  },
+  {
+    "name": "wattle",
+    "trans": [
+      "n. 板条，编条；[林] 金合欢树；枝条编成的篱笆",
+      "adj. 板条的；由编条做成的",
+      "vt. 用编条做成"
+    ],
+    "usphone": "[ˈwɑːtl]",
+    "ukphone": "[ˈwɒtl]"
+  },
+  {
+    "name": "wraparound",
+    "trans": [
+      "n. 裹身式衣裤",
+      "adj. 概括的；包着的；呈弧形的；全景的"
+    ],
+    "usphone": "[ˈræpəˌraʊnd]",
+    "ukphone": "[ˈræpəˌraʊnd]"
+  },
+  {
+    "name": "wickedness",
+    "trans": [
+      "n. 邪恶；不道德"
+    ],
+    "usphone": "[ˈwɪkɪdnəs]",
+    "ukphone": "[ˈwɪkɪdnəs]"
+  },
+  {
+    "name": "wishful",
+    "trans": [
+      "adj. 渴望的，愿望的；寄予希望的"
+    ],
+    "usphone": "[ˈwɪʃfl]",
+    "ukphone": "[ˈwɪʃfəl]"
+  },
+  {
+    "name": "wishful thinking",
+    "trans": [
+      "n. 不实际的幻想；一厢情愿"
+    ],
+    "usphone": "[ˌwɪʃfl ˈθɪŋkɪŋ]",
+    "ukphone": "[ˌwɪʃfl ˈθɪŋkɪŋ]"
+  },
+  {
+    "name": "wordless",
+    "trans": [
+      "adj. 沉默的，无言的"
+    ],
+    "usphone": "[ˈwɜːrdləs]",
+    "ukphone": "[ˈwɜːdləs]"
+  },
+  {
+    "name": "windsurfer",
+    "trans": [
+      "n. 帆板运动员；帆板"
+    ],
+    "usphone": "[ˈwɪndsɜːrfər]",
+    "ukphone": "[ˈwɪndsɜːfə(r)]"
+  },
+  {
+    "name": "windowpane",
+    "trans": [
+      "n. 窗玻璃"
+    ],
+    "usphone": "[ˈwɪndoʊpeɪn]",
+    "ukphone": "[ˈwɪndəʊpeɪn]"
+  },
+  {
+    "name": "workings",
+    "trans": [
+      "n. 作用；工作方式；操作（working的复数）"
+    ],
+    "usphone": "[ˈwɜːrkɪŋz]",
+    "ukphone": "[ˈwɜːkɪŋz]"
+  },
+  {
+    "name": "wastebasket",
+    "trans": [
+      "n. 废纸篓",
+      "vt. 把…放入废纸篓"
+    ],
+    "usphone": "[ˈweɪstbæskɪt]",
+    "ukphone": "[ˈweɪstbɑːskɪt]"
+  },
+  {
+    "name": "Web page",
+    "trans": [
+      "n. 网页"
+    ],
+    "usphone": "[ˈweb peɪdʒ]",
+    "ukphone": "[ˈweb peɪdʒ]"
+  },
+  {
+    "name": "Walk up.",
+    "trans": [
+      "na. 使猎犬将(鸟等)惊飞"
+    ],
+    "usphone": "[wɔːk ʌp]",
+    "ukphone": "[ˈwɔːk ʌp]"
+  },
+  {
+    "name": "Wisconsin",
+    "trans": [
+      "n. 威斯康星州（美国州名）"
+    ],
+    "usphone": "[wɪsˈkɑːnsɪn]",
+    "ukphone": "[wɪsˈkɒnsɪn]"
+  },
+  {
+    "name": "Warfarin",
+    "trans": [
+      "n. 华法令阻凝剂；杀鼠灵"
+    ],
+    "usphone": "[ˈwɔːrfərɪn]",
+    "ukphone": "[ˈwɔːfərɪn]"
+  },
+  {
+    "name": "wholeheartedly",
+    "trans": [
+      "adv. 全心全意地，全神贯注地"
+    ],
+    "usphone": "[ˌhoʊlˈhɑːrtɪdli]",
+    "ukphone": "[ˌhəʊlˈhɑːtɪdli]"
+  },
+  {
+    "name": "woody",
+    "trans": [
+      "adj. 木质的；多树木的；木头似的"
+    ],
+    "usphone": "[ˈwʊdi]",
+    "ukphone": "[ˈwʊdi]"
+  },
+  {
+    "name": "women",
+    "trans": [
+      "n. 女人（woman的复数）"
+    ],
+    "usphone": "[ˈwɪmɪn]",
+    "ukphone": "[ˈwɪmɪn]"
+  },
+  {
+    "name": "weightlifter",
+    "trans": [
+      "n. 举重者"
+    ],
+    "usphone": "[ˈweɪtlɪftər]",
+    "ukphone": "[ˈweɪtlɪftə(r)]"
+  },
+  {
+    "name": "wearer",
+    "trans": [
+      "n. 佩带者；穿用者"
+    ],
+    "usphone": "[ˈwerər]",
+    "ukphone": "[ˈweərə(r)]"
+  },
+  {
+    "name": "whistler",
+    "trans": [
+      "n. 吹哨的人"
+    ],
+    "usphone": "[ˈwɪslər]",
+    "ukphone": "[ˈwɪslə(r)]"
+  },
+  {
+    "name": "Whitman",
+    "trans": [
+      "n. 惠特曼（姓氏）"
+    ],
+    "usphone": "['(h)witmən]",
+    "ukphone": "['(h)witmən]"
+  },
+  {
+    "name": "whoosh",
+    "trans": [
+      "n. 嘶嘶声；飞快的移动",
+      "vt. 使飞快地移动",
+      "int. 呼；（飞速行进等发出的声音）嗖",
+      "vi. 飞快地移动；发出嘶嘶声"
+    ],
+    "usphone": "[wʊʃ; wuːʃ]",
+    "ukphone": "[wʊʃ; wuːʃ]"
+  },
+  {
+    "name": "wavelet",
+    "trans": [
+      "n. 微波，小浪"
+    ],
+    "usphone": "[ˈweɪvlət]",
+    "ukphone": "[ˈweɪvlət]"
+  },
+  {
+    "name": "weal",
+    "trans": [
+      "n. 福利；幸福；鞭痕",
+      "vt. 在…上抽打出条状鞭痕"
+    ],
+    "usphone": "[wiːl]",
+    "ukphone": "[wiːl]"
+  },
+  {
+    "name": "wharfage",
+    "trans": [
+      "n. 码头；码头费；码头业务"
+    ],
+    "usphone": "[ˈhwɔrfɪdʒ]",
+    "ukphone": "[ˈwɔːfɪdʒ]"
+  },
+  {
+    "name": "whiner",
+    "trans": [
+      "n. 哀诉者；悲嗥者；啜泣者"
+    ],
+    "usphone": "[ˈwaɪnər]",
+    "ukphone": "[ˈwaɪnə(r)]"
+  },
+  {
+    "name": "whish",
+    "trans": [
+      "v. 呼呼作声，以呼呼声催促",
+      "n. 呼呼声"
+    ],
+    "usphone": "[wɪʃ]",
+    "ukphone": "[wɪʃ]"
+  },
+  {
+    "name": "Wyoming",
+    "trans": [
+      "n. 美国怀俄明州"
+    ],
+    "usphone": "[waɪˈoʊmɪŋ]",
+    "ukphone": "[waɪˈəʊmɪŋ]"
+  },
+  {
+    "name": "well up",
+    "trans": [
+      "adv. 靠近顶部[最前列]"
+    ],
+    "usphone": "[wel ʌp]",
+    "ukphone": "[wel ʌp]"
+  },
+  {
+    "name": "workroom",
+    "trans": [
+      "n. 工作室；工场间"
+    ],
+    "usphone": "[ˈwɜːrkruːmˌˈwɜːrkrʊm]",
+    "ukphone": "[ˈwɜːkruːm; ˈwɜːkrʊm]"
+  },
+  {
+    "name": "wadi",
+    "trans": [
+      "n. [地理] 干河床；溪流；[地理] 干谷"
+    ],
+    "usphone": "[ˈwɑːdi]",
+    "ukphone": "[ˈwɒdi]"
+  },
+  {
+    "name": "woodworker",
+    "trans": [
+      "n. 木工；木工艺家"
+    ],
+    "usphone": "['wud,wə:kə]",
+    "ukphone": "[ˈwʊdˌwɜːkə]"
+  },
+  {
+    "name": "woodlot",
+    "trans": [
+      "n. 植林地，林地"
+    ],
+    "usphone": "[ˈwʊdˌlɑːt]",
+    "ukphone": "[ˈwʊdˌlɒt]"
+  },
+  {
+    "name": "wildebeest",
+    "trans": [
+      "n. 羚羊的一种；牛羚（又名角马）（产于非洲）"
+    ],
+    "usphone": "[ˈwɪldəbiːst]",
+    "ukphone": "[ˈwɪldəbiːst]"
+  },
+  {
+    "name": "waterless",
+    "trans": [
+      "adj. 无水的；干的；不用水的，不需水的"
+    ],
+    "usphone": "[ˈwɔːtərləs]",
+    "ukphone": "[ˈwɔːtələs]"
+  },
+  {
+    "name": "windward",
+    "trans": [
+      "n. 上风面",
+      "adj. 上风的",
+      "adv. 迎风"
+    ],
+    "usphone": "[ˈwɪndwərd]",
+    "ukphone": "[ˈwɪndwəd]"
+  },
+  {
+    "name": "wheeler",
+    "trans": [
+      "n. 车夫；辕马；车轮制造人"
+    ],
+    "usphone": "[ˈhwilər]",
+    "ukphone": "[ˈwiːlə(r)]"
+  },
+  {
+    "name": "windswept",
+    "trans": [
+      "adj. 被风吹的；暴露在风中的；风刮的"
+    ],
+    "usphone": "[ˈwɪndswept]",
+    "ukphone": "[ˈwɪndswept]"
+  },
+  {
+    "name": "wingless",
+    "trans": [
+      "adj. 没有翼的，没有翅的"
+    ],
+    "usphone": "[ˈwɪŋləs]",
+    "ukphone": "[ˈwɪŋləs]"
+  },
+  {
+    "name": "weblike",
+    "trans": [
+      " 似网的"
+    ],
+    "usphone": "[ˈweblaɪk]",
+    "ukphone": "[ˈweblaɪk]"
+  },
+  {
+    "name": "weedy",
+    "trans": [
+      "adj. 瘦弱的；似杂草的；尽是杂草的"
+    ],
+    "usphone": "[ˈwiːdi]",
+    "ukphone": "[ˈwiːdi]"
+  },
+  {
+    "name": "woodblock",
+    "trans": [
+      "n. 木版；木板",
+      "adj. 木板的；木版印刷的"
+    ],
+    "usphone": "[ˈwʊdblɑːk]",
+    "ukphone": "[ˈwʊdblɒk]"
+  },
+  {
+    "name": "woodcutting",
+    "trans": [
+      "adj. 木雕的，伐木的",
+      "n. 伐木，木刻"
+    ],
+    "usphone": "[ˈwʊdˌkʌtɪŋ]",
+    "ukphone": "[ˈwʊdˌkʌtɪŋ]"
+  },
+  {
+    "name": "wanna",
+    "trans": [
+      "vt. 想要（等于want to）"
+    ],
+    "usphone": "[ˈwɑːnə]",
+    "ukphone": "[ˈwɒnə]"
+  },
+  {
+    "name": "workweek",
+    "trans": [
+      "n. 一周工作时间"
+    ],
+    "usphone": "[ˈwɜːrkwiːk]",
+    "ukphone": "[ˈwɜːkwiːk]"
+  },
+  {
+    "name": "workbook",
+    "trans": [
+      "n. 工作手册；练习簿"
+    ],
+    "usphone": "[ˈwɜːrkbʊk]",
+    "ukphone": "[ˈwɜːkbʊk]"
+  },
+  {
+    "name": "woodhouse",
+    "trans": [
+      "n. 木料间，木柴间，柴棚"
+    ],
+    "usphone": "[ˈwʊdˌhaʊs]",
+    "ukphone": "[ˈwʊdhaʊs]"
+  },
+  {
+    "name": "wolfram",
+    "trans": [
+      "n. [化学] 钨（金属元素，符号 W）；钨锰铁矿"
+    ],
+    "usphone": "[ˈwʊlfrəm]",
+    "ukphone": "[ˈwʊlfrəm]"
+  },
+  {
+    "name": "write in",
+    "trans": [
+      "na. 插入(文件中)"
+    ],
+    "usphone": "[ˈraɪt ɪn]",
+    "ukphone": "[ˈraɪt ɪn]"
+  },
+  {
+    "name": "watchfulness",
+    "trans": [
+      "n. 警觉性"
+    ],
+    "usphone": "[ˈwɑːtʃflnəs]",
+    "ukphone": "[ˈwɒtʃflnəs]"
+  },
+  {
+    "name": "wedded",
+    "trans": [
+      "v. 结婚（wed的变形）；与…结婚",
+      "adj. 结婚的；结合的；已结婚的"
+    ],
+    "usphone": "[ˈwedɪd]",
+    "ukphone": "[ˈwedɪd]"
+  },
+  {
+    "name": "wind tunnel",
+    "trans": [
+      "n. （试验飞机等用的）风洞"
+    ],
+    "usphone": "[ˈwɪnd tʌnl]",
+    "ukphone": "[ˈwɪnd tʌnl]"
+  },
+  {
+    "name": "Wimbledon",
+    "trans": [
+      "n. 温布尔顿（位于伦敦附近， 是著名的国际网球比赛地）"
+    ],
+    "usphone": "[ˈwɪmbldən]",
+    "ukphone": "[ˈwɪmb(ə)ldən]"
+  },
+  {
+    "name": "West",
+    "trans": [
+      "n. 西；西方；西部",
+      "adj. 西方的；朝西的",
+      "adv. 在西方；向西方；自西方"
+    ],
+    "usphone": "[west]",
+    "ukphone": "[west]"
+  },
+  {
+    "name": "wasabi",
+    "trans": [
+      "n. 芥末酱；山葵"
+    ],
+    "usphone": "[wəˈsɑːbi]",
+    "ukphone": "[wəˈsɑːbi]"
+  },
+  {
+    "name": "wall-mounted",
+    "trans": [
+      "adj. 固定在墙上的；安装在墙上的"
+    ],
+    "usphone": "[ˌwɔːl ˈmaʊntɪd]",
+    "ukphone": "[ˌwɔːl ˈmaʊntɪd]"
+  },
+  {
+    "name": "woodcarving",
+    "trans": [
+      "n. 木刻，木雕"
+    ],
+    "usphone": "[ˈwʊdkɑːrvɪŋ]",
+    "ukphone": "[ˈwʊdkɑːvɪŋ]"
+  },
+  {
+    "name": "washout",
+    "trans": [
+      "n. 冲刷；失败者"
+    ],
+    "usphone": "[ˈwɑːʃaʊt]",
+    "ukphone": "[ˈwɒʃaʊt]"
+  },
+  {
+    "name": "wasted",
+    "trans": [
+      "v. 浪费（waste的过去式）",
+      "adj. 浪费的"
+    ],
+    "usphone": "[ˈweɪstɪd]",
+    "ukphone": "[ˈweɪstɪd]"
+  },
+  {
+    "name": "wastewater",
+    "trans": [
+      "n. 废水，污水"
+    ],
+    "usphone": "[ˈweɪstwɔːtər]",
+    "ukphone": "[ˈweɪstwɔːtə(r)]"
+  },
+  {
+    "name": "wasting",
+    "trans": [
+      "n. 浪费",
+      "adj. 浪费的；造成浪费的"
+    ],
+    "usphone": "[ˈweɪstɪŋ]",
+    "ukphone": "[ˈweɪstɪŋ]"
+  },
+  {
+    "name": "wheal",
+    "trans": [
+      "n. 鞭痕，水疱; 风块; 风团"
+    ],
+    "usphone": "[hwil]",
+    "ukphone": "[hwi:l]"
+  },
+  {
+    "name": "whey",
+    "trans": [
+      "n. 乳清，乳浆"
+    ],
+    "usphone": "[weɪ]",
+    "ukphone": "[weɪ]"
+  },
+  {
+    "name": "whipworm",
+    "trans": [
+      "n. （尤指寄生在人体肠内的）鞭虫"
+    ],
+    "usphone": "[ˈhwɪpˌwɜːrm]",
+    "ukphone": "[ˈwɪpˌwɜːm]"
+  },
+  {
+    "name": "whooping-cough",
+    "trans": [
+      "[医] 百日咳"
+    ],
+    "usphone": "[ˈhuːpɪŋ kɔːf]",
+    "ukphone": "[ˈhuːpɪŋ kɒf]"
+  },
+  {
+    "name": "wolfberry",
+    "trans": [
+      "n. （美）西方雪果"
+    ],
+    "usphone": "[ˈwʊlfˌberi]",
+    "ukphone": "[ˈwʊlfberi]"
+  },
+  {
+    "name": "work-up",
+    "trans": [
+      "n. 污迹；病情的检查；诊断检查"
+    ],
+    "usphone": "['wə:kʌp]",
+    "ukphone": "['wə:kʌp]"
+  },
+  {
+    "name": "wormwood",
+    "trans": [
+      "n. [植] 苦艾；苦恼，苦恼的原因"
+    ],
+    "usphone": "[ˈwɜːrmwʊd]",
+    "ukphone": "[ˈwɜːmwʊd]"
+  },
+  {
+    "name": "waiting",
+    "trans": [
+      "n. 等待；服侍",
+      "v. 等待；伺候（wait的ing形式）；延缓",
+      "adj. 等待的；服侍的"
+    ],
+    "usphone": "[ˈweɪtɪŋ]",
+    "ukphone": "[ˈweɪtɪŋ]"
+  },
+  {
+    "name": "would-be",
+    "trans": [
+      "n. 想要成为…人",
+      "adj. 想要成为的；自称的；冒充的"
+    ],
+    "usphone": "[ˈwʊd biː]",
+    "ukphone": "[ˈwʊd biː]"
+  },
+  {
+    "name": "working-class",
+    "trans": [
+      "adj. 工人阶级的；劳动阶级的"
+    ],
+    "usphone": "[ˌwɜːrkɪŋ ˈklæs]",
+    "ukphone": "[ˌwɜːkɪŋ ˈklɑːs]"
+  },
+  {
+    "name": "wonderfully",
+    "trans": [
+      "adv. 精彩地；惊人地；极好地"
+    ],
+    "usphone": "[ˈwʌndərfəli]",
+    "ukphone": "[ˈwʌndəfəli]"
+  },
+  {
+    "name": "wordplay",
+    "trans": [
+      "n. 字句的争论；双关语"
+    ],
+    "usphone": "[ˈwɜːrdpleɪ]",
+    "ukphone": "[ˈwɜːdpleɪ]"
+  },
+  {
+    "name": "waterborne",
+    "trans": [
+      "adj. 水运的；水传播的；由水浮起的"
+    ],
+    "usphone": "[ˈwɔːtərbɔːrn]",
+    "ukphone": "[ˈwɔːtəbɔːn]"
+  },
+  {
+    "name": "wellness",
+    "trans": [
+      "n. 健康"
+    ],
+    "usphone": "[ˈwelnəs]",
+    "ukphone": "[ˈwelnəs]"
+  },
+  {
+    "name": "workflow",
+    "trans": [
+      "n. 工作流，工作流程"
+    ],
+    "usphone": "[ˈwɜːrkfloʊ]",
+    "ukphone": "[ˈwɜːkfləʊ]"
+  },
+  {
+    "name": "wives",
+    "trans": [
+      "n. 妻子（wife的复数）"
+    ],
+    "usphone": "[waɪvz]",
+    "ukphone": "[waɪvz]"
+  },
+  {
+    "name": "wayfarer",
+    "trans": [
+      "n. 旅人，徒步旅行者"
+    ],
+    "usphone": "[ˈweɪferər]",
+    "ukphone": "[ˈweɪfeərə(r)]"
+  },
+  {
+    "name": "weir",
+    "trans": [
+      "n. 堰，坝；鱼梁（指拦截游鱼的枝条篱）"
+    ],
+    "usphone": "[wɪr]",
+    "ukphone": "[wɪə(r)]"
+  },
+  {
+    "name": "waters",
+    "trans": [
+      "n. 水（water的复数）；海域；近海"
+    ],
+    "usphone": "[ˈwɔtər]",
+    "ukphone": "[ˈwɔːtəz]"
+  },
+  {
+    "name": "worshiper",
+    "trans": [
+      "n. 崇拜者；礼拜者（等于worshipper）"
+    ],
+    "usphone": "[ˈwɜːrʃɪpər]",
+    "ukphone": "[ˈwɜːʃɪpə]"
+  },
+  {
+    "name": "weigh-in",
+    "trans": [
+      "n. 赛前称体重"
+    ],
+    "usphone": "[ˈweɪ ɪn]",
+    "ukphone": "[ˈweɪ ɪn]"
+  },
+  {
+    "name": "wage slave",
+    "trans": [
+      " 工资奴隶；雇佣奴隶；人工奴隶"
+    ],
+    "usphone": "[weɪdʒ sleɪv]",
+    "ukphone": "[ˈweɪdʒ sleɪv]"
+  },
+  {
+    "name": "Walkman",
+    "trans": [
+      "n. 随身听（商标名称）"
+    ],
+    "usphone": "[ˈwɔkmən]",
+    "ukphone": "[ˈwɔːkmən]"
+  },
+  {
+    "name": "wren",
+    "trans": [
+      "n. 鹪鹩"
+    ],
+    "usphone": "[ren]",
+    "ukphone": "[ren]"
+  },
+  {
+    "name": "waterlogged",
+    "trans": [
+      "adj. 涝的；浸满水的，吸饱水的",
+      "v. 进水；浸满水（waterlog的过去分词）"
+    ],
+    "usphone": "[ˈwɔːtərlɔːɡd]",
+    "ukphone": "[ˈwɔːtəlɒɡd]"
+  },
+  {
+    "name": "Winnipeg",
+    "trans": [
+      "n. 温尼伯（加拿大城市）"
+    ],
+    "usphone": "[ˈwɪnɪpeɡ]",
+    "ukphone": "[ˈwɪnɪpeɡ]"
+  },
+  {
+    "name": "watercolour",
+    "trans": [
+      "n. 水彩画；水彩画颜料（等于watercolor）"
+    ],
+    "usphone": "[ˈwɔːtərkʌlər]",
+    "ukphone": "[ˈwɔːtəkʌlə(r)]"
+  },
+  {
+    "name": "weaknesses",
+    "trans": [
+      "n. 劣势，弱点；[审计] 薄弱环节（weakness的复数形式）"
+    ],
+    "usphone": "['wiknəsɪz]",
+    "ukphone": "['wi:knəsɪz]"
+  },
+  {
+    "name": "webinar",
+    "trans": [
+      "n. 网络研讨会；在线会议"
+    ],
+    "usphone": "[ˈwebɪnɑːr]",
+    "ukphone": "[ˈwebɪnɑː(r)]"
+  },
+  {
+    "name": "whence",
+    "trans": [
+      "conj. 由此",
+      "n. 根源",
+      "pron. 何处",
+      "adv. 从何处"
+    ],
+    "usphone": "[wens]",
+    "ukphone": "[wens]"
+  },
+  {
+    "name": "Well done!",
+    "trans": [
+      "adj. 熟透的；煮透了的；烧烂了的"
+    ],
+    "usphone": "[ˌwel ˈdʌn]",
+    "ukphone": "[ˌwel ˈdʌn]"
+  },
+  {
+    "name": "webpage",
+    "trans": [
+      "n. 网页"
+    ],
+    "usphone": "[ˈwebpeɪdʒ]",
+    "ukphone": "[ˈwɛbˌpeɪdʒ]"
+  },
+  {
+    "name": "wristband",
+    "trans": [
+      "n. 袖口；腕套；手表带"
+    ],
+    "usphone": "[ˈrɪstbænd]",
+    "ukphone": "[ˈrɪstbænd]"
+  },
+  {
+    "name": "weepy",
+    "trans": [
+      "n. 使人哭的小说；伤感的电影",
+      "adj. 眼泪汪汪的；要哭的；催人泪下的"
+    ],
+    "usphone": "[ˈwiːpi]",
+    "ukphone": "[ˈwiːpi]"
+  },
+  {
+    "name": "weeklong",
+    "trans": [
+      "adj. 为时一周的，持续一星期的"
+    ],
+    "usphone": "[ˈwiːklɔːŋ]",
+    "ukphone": "[ˈwiːklɒŋ]"
+  },
+  {
+    "name": "wirelessly",
+    "trans": [
+      "adv. wireless的变形"
+    ],
+    "usphone": "[ˈwaɪərləsli]",
+    "ukphone": "[ˈwaɪələsli]"
+  },
+  {
+    "name": "wearable",
+    "trans": [
+      "n. 衣服",
+      "adj. 可穿用的，可佩带的；耐用的"
+    ],
+    "usphone": "[ˈwerəbl]",
+    "ukphone": "[ˈweərəbl]"
+  },
+  {
+    "name": "wroth",
+    "trans": [
+      "adj. 激怒的，愤怒的"
+    ],
+    "usphone": "[rɔːθ]",
+    "ukphone": "[rəʊθ]"
+  },
+  {
+    "name": "wonderland",
+    "trans": [
+      "n. 奇境，仙境；非常奇妙的地方"
+    ],
+    "usphone": "[ˈwʌndərlænd]",
+    "ukphone": "[ˈwʌndəlænd]"
+  },
+  {
+    "name": "world-renowned",
+    "trans": [
+      "adj. 世界知名的"
+    ],
+    "usphone": "['wə:ldri'naund]",
+    "ukphone": "['wə:ldri'naund]"
+  },
+  {
+    "name": "wrong-headed",
+    "trans": [
+      "adj. 执迷不悟的；刚愎自用的"
+    ],
+    "usphone": "[ˌrɔːŋ ˈhedɪd]",
+    "ukphone": "[ˌrɒŋ ˈhedɪd]"
+  },
+  {
+    "name": "wrinkly",
+    "trans": [
+      "n. 老人（俚语）",
+      "adj. 有皱纹的；易生皱纹的"
+    ],
+    "usphone": "[ˈrɪŋkli]",
+    "ukphone": "[ˈrɪŋkli]"
+  },
+  {
+    "name": "wiring",
+    "trans": [
+      "n. [电] 接线，架线；线路；金属线缝术",
+      "v. 装电线（wire的现在分词）"
+    ],
+    "usphone": "[ˈwaɪərɪŋ]",
+    "ukphone": "[ˈwaɪərɪŋ]"
+  },
+  {
+    "name": "welcoming",
+    "trans": [
+      "v. 欢迎（welcome的ing形式）",
+      "adj. 欢迎的；款待的"
+    ],
+    "usphone": "[ˈwelkəmɪŋ]",
+    "ukphone": "[ˈwelkəmɪŋ]"
+  },
+  {
+    "name": "wake-up",
+    "trans": [
+      "n. 唤醒；醒来",
+      "adj. 醒过来的；引起激动的"
+    ],
+    "usphone": "[ˈweɪk ˌʌp]",
+    "ukphone": "['weikʌp]"
+  },
+  {
+    "name": "wildflower",
+    "trans": [
+      "n. 野花"
+    ],
+    "usphone": "[ˈwaɪldˌflaʊər]",
+    "ukphone": "[ˈwaɪldˌflaʊə]"
+  },
+  {
+    "name": "waking",
+    "trans": [
+      "v. 醒来，唤醒；唤起（记忆）（wake的现在分词形式）",
+      "adj. 醒着的"
+    ],
+    "usphone": "[ˈweɪkɪŋ]",
+    "ukphone": "[ˈweɪkɪŋ]"
+  },
+  {
+    "name": "weaving",
+    "trans": [
+      "n. 织动，编织",
+      "v. 编织，组合（weave的ing形式）"
+    ],
+    "usphone": "[ˈwiːvɪŋ]",
+    "ukphone": "[ˈwiːvɪŋ]"
+  },
+  {
+    "name": "watering",
+    "trans": [
+      "n. 浇水；灌溉；排水沟",
+      "v. 浇水；灌溉；流口水（water的ing形式）",
+      "adj. 灌溉的；浇水用的；流口水的"
+    ],
+    "usphone": "[ˈwɔːtərɪŋ]",
+    "ukphone": "[ˈwɔːtərɪŋ]"
+  },
+  {
+    "name": "wide-eyed",
+    "trans": [
+      "adj. 天真的；睁大眼睛的；吃惊的"
+    ],
+    "usphone": "[ˌwaɪd ˈaɪd]",
+    "ukphone": "[ˌwaɪd ˈaɪd]"
+  },
+  {
+    "name": "whipped",
+    "trans": [
+      "adj. 受到鞭打的",
+      "v. 鞭打；挥动（whip的过去分词）"
+    ],
+    "usphone": "[wɪpt]",
+    "ukphone": "[wɪpt]"
+  },
+  {
+    "name": "waxed",
+    "trans": [
+      "adj. 上过蜡的；防水的",
+      "v. 渐渐变大；变为；给…上蜡（wax的过去分词）"
+    ],
+    "usphone": "[wækst]",
+    "ukphone": "[wækst]"
+  },
+  {
+    "name": "whiteness",
+    "trans": [
+      "n. 白，洁白，苍白；[矿业] 白度"
+    ],
+    "usphone": "[ˈwaɪtnəs]",
+    "ukphone": "[ˈwaɪtnəs]"
+  },
+  {
+    "name": "weathered",
+    "trans": [
+      "v. 暴露于空气之中；使退色（weather的过去分词）",
+      "adj. 风化的；倾斜的"
+    ],
+    "usphone": "[ˈweðərd]",
+    "ukphone": "[ˈweðəd]"
+  },
+  {
+    "name": "weakest",
+    "trans": [
+      "adj. 最弱的"
+    ],
+    "usphone": "[ˈwiːkəst]",
+    "ukphone": "[ˈwiːkɪst]"
+  },
+  {
+    "name": "wacky",
+    "trans": [
+      "adj. 乖僻的，古怪的"
+    ],
+    "usphone": "[ˈwæki]",
+    "ukphone": "[ˈwæki]"
+  },
+  {
+    "name": "wide-open",
+    "trans": [
+      "adj. 完全开放的；取缔不严的"
+    ],
+    "usphone": "['waid'əupən]",
+    "ukphone": "[waɪd ˈəʊpən]"
+  },
+  {
+    "name": "widowed",
+    "trans": [
+      "adj. 寡居的；鳏居的",
+      "v. 使成寡妇；杀死…的丈夫（widow的过去分词）"
+    ],
+    "usphone": "[ˈwɪdoʊd]",
+    "ukphone": "[ˈwɪdəʊd]"
+  },
+  {
+    "name": "walk-in",
+    "trans": [
+      "n. 轻易获得的胜利；可供人走进之物",
+      "adj. 未经预约而来的"
+    ],
+    "usphone": "[ˈwɔːk ɪn]",
+    "ukphone": "[ˈwɔːk ɪn]"
+  },
+  {
+    "name": "widening",
+    "trans": [
+      "v. 使扩大；拓宽；扩展（widen的ing形式）；使变宽"
+    ],
+    "usphone": "[ˈwaɪdnɪŋ]",
+    "ukphone": "[ˈwaɪdnɪŋ]"
+  },
+  {
+    "name": "Woof!",
+    "trans": [
+      "n. 纬线；织物；低吠声",
+      "vi. 发出低吠声；发低音"
+    ],
+    "usphone": "[wʊf]",
+    "ukphone": "[wʊf]"
+  },
+  {
+    "name": "Wow!",
+    "trans": [
+      "[计] Grave Composer音乐模块（MOD）文件"
+    ],
+    "usphone": "[waʊ]",
+    "ukphone": "[waʊ]"
+  },
+  {
+    "name": "wend",
+    "trans": [
+      "vt. 走；前进",
+      "vi. 走；行"
+    ],
+    "usphone": "[wend]",
+    "ukphone": "[wend]"
+  },
+  {
+    "name": "wipeout",
+    "trans": [
+      "n. 被浪打翻，全部覆灭；失败"
+    ],
+    "usphone": "[ˈwaɪpaʊt]",
+    "ukphone": "[ˈwaɪpaʊt]"
+  },
+  {
+    "name": "wheelbarrow",
+    "trans": [
+      "n. 独轮手推车",
+      "vt. 用于推车运送"
+    ],
+    "usphone": "[ˈwiːlbæroʊ]",
+    "ukphone": "[ˈwiːlbærəʊ]"
+  },
+  {
+    "name": "wickedly",
+    "trans": [
+      "adv. 恶劣地；居心叵测地"
+    ],
+    "usphone": "[ˈwɪkɪdli]",
+    "ukphone": "[ˈwɪkɪdli]"
+  },
+  {
+    "name": "waterspout",
+    "trans": [
+      "n. 海龙卷；排水口"
+    ],
+    "usphone": "[ˈwɔːtərspaʊt]",
+    "ukphone": "[ˈwɔːtəspaʊt]"
+  },
+  {
+    "name": "winch",
+    "trans": [
+      "n. 绞车；曲柄",
+      "vt. 用绞盘拉"
+    ],
+    "usphone": "[wɪntʃ]",
+    "ukphone": "[wɪntʃ]"
+  },
+  {
+    "name": "well-mannered",
+    "trans": [
+      "adj. 有礼貌的；行为端正的；文雅的"
+    ],
+    "usphone": "[ˌwel ˈmænərd]",
+    "ukphone": "[ˌwel ˈmænəd]"
+  },
+  {
+    "name": "weaker",
+    "trans": [
+      "adj. 较弱的（weak的比较级）；下跌的"
+    ],
+    "usphone": "[ˈwikər]",
+    "ukphone": "[wi:kə]"
+  },
+  {
+    "name": "worries",
+    "trans": [
+      "n. 忧虑，担心；烦恼",
+      "v. 担心；困扰（worry的单三形式）"
+    ],
+    "usphone": "['wʌrɪs]",
+    "ukphone": "['wʌrɪs]"
+  },
+  {
+    "name": "worshiped",
+    "trans": [
+      "v. 崇拜，尊崇( worship的过去式和过去分词 ); 做礼拜; 热爱; 爱慕"
+    ],
+    "usphone": "[ˈwɜːrʃɪp]",
+    "ukphone": "[ˈwɜːʃɪp]"
+  },
+  {
+    "name": "wounding",
+    "trans": [
+      "n. 伤害",
+      "v. 伤害；使受创伤（wound的现在分词）",
+      "adj. 伤人感情的"
+    ],
+    "usphone": "[ˈwuːndɪŋ]",
+    "ukphone": "[ˈwuːndɪŋ]"
+  },
+  {
+    "name": "wronged",
+    "trans": [
+      "v. 冤枉；虐待；勾引（wrong的过去分词）",
+      "adj. 被冤枉的；被委屈的"
+    ],
+    "usphone": "[rɔŋd]",
+    "ukphone": "[rɒŋd]"
+  },
+  {
+    "name": "worded",
+    "trans": [
+      "vt. 措辞，用词（word的过去式与过去分词形式）"
+    ],
+    "usphone": "[ˈwɜːrdɪd]",
+    "ukphone": "[ˈwɜːdɪd]"
+  },
+  {
+    "name": "weeder",
+    "trans": [
+      "n. 除草者"
+    ],
+    "usphone": "[ˈwidər]",
+    "ukphone": "[ˈwiːdə]"
+  },
+  {
+    "name": "wormhole",
+    "trans": [
+      "n. 虫孔；蛀洞"
+    ],
+    "usphone": "[ˈwɜːrmhoʊl]",
+    "ukphone": "[ˈwɜːmhəʊl]"
+  },
+  {
+    "name": "wader",
+    "trans": [
+      "n. [鸟] 涉禽；涉水者，跋涉者；长筒防水靴"
+    ],
+    "usphone": "[ˈweɪdər]",
+    "ukphone": "[ˈweɪdə(r)]"
+  },
+  {
+    "name": "waxen",
+    "trans": [
+      "adj. 苍白的；蜡制的；柔软的"
+    ],
+    "usphone": "[ˈwæksn]",
+    "ukphone": "[ˈwæksn]"
+  },
+  {
+    "name": "wiper",
+    "trans": [
+      "n. 擦拭之物；[通信] 弧刷；滑动片；擦拭者；手帕"
+    ],
+    "usphone": "[ˈwaɪpər]",
+    "ukphone": "[ˈwaɪpə(r)]"
+  },
+  {
+    "name": "warrantor",
+    "trans": [
+      "n. 保证人，担保人"
+    ],
+    "usphone": "['wɔrəntɔ:, -tə, ,wɔrən'tɔ:]",
+    "ukphone": "[ˈwɒrəntə]"
+  },
+  {
+    "name": "well-preserved",
+    "trans": [
+      "adj. 保养得很好的；保存得很好的"
+    ],
+    "usphone": "[ˌwel prɪˈzɜːrvd]",
+    "ukphone": "[ˌwel prɪˈzɜːvd]"
+  },
+  {
+    "name": "wet land",
+    "trans": [
+      "un. 沼泽地；湿地"
+    ],
+    "usphone": "[wet lænd]",
+    "ukphone": "[wet lænd]"
+  },
+  {
+    "name": "whippoorwill",
+    "trans": [
+      "n. 北美夜鹰"
+    ],
+    "usphone": "[ˈwɪpərwɪl]",
+    "ukphone": "[ˈwɪpəwɪl]"
+  },
+  {
+    "name": "warrantable",
+    "trans": [
+      "a. 可保证的, 可担保的, 可证明为正当的",
+      "[法] 可保证的, 可承认的, 正当的"
+    ],
+    "usphone": "[ˈwɔːrəntəbəl; ˈwɑːrəntəbəl]",
+    "ukphone": "[ˈwɒrəntəb(ə)l]"
+  },
+  {
+    "name": "world-beater",
+    "trans": [
+      "n. 出人头地者；举世无双之人"
+    ],
+    "usphone": "[ˈwɜːrld biːtər]",
+    "ukphone": "[ˈwɜːld biːtə(r)]"
+  },
+  {
+    "name": "wigwag",
+    "trans": [
+      "v. 摆动"
+    ],
+    "usphone": "[ˈwɪɡˌwæɡ]",
+    "ukphone": "[ˈwɪɡˌwæɡ]"
+  },
+  {
+    "name": "weathers",
+    "trans": [
+      "n. 天气，气象( weather的名词复数 )"
+    ],
+    "usphone": "[ˈweðər]",
+    "ukphone": "[ˈweðə(r)]"
+  },
+  {
+    "name": "wheels",
+    "trans": [
+      "n. [车辆] 车轮（wheel的复数）；旋转",
+      "v. 推动；改变…的方向；装以车轮（wheel的三单形式）"
+    ],
+    "usphone": "[wiːlz]",
+    "ukphone": "[wiːlz]"
+  },
+  {
+    "name": "wind surfing",
+    "trans": [
+      "(wind-surf 的现在分词) 风帆"
+    ],
+    "usphone": "[ˈwɪndsɜːrfɪŋ]",
+    "ukphone": "[ˈwɪndsɜːfɪŋ]"
+  },
+  {
+    "name": "windows",
+    "trans": [
+      "n. 微软公司生产的“视窗”操作系统"
+    ],
+    "usphone": "[ˈwɪndoʊz]",
+    "ukphone": "[ˈwɪndəʊz]"
+  },
+  {
+    "name": "whales",
+    "trans": [
+      "n. 鲸鱼（whale的复数）",
+      "v. 捕鲸（whale的第三人称单数形式）"
+    ],
+    "usphone": "[weɪlz]",
+    "ukphone": "[weɪlz]"
+  },
+  {
+    "name": "worms",
+    "trans": [
+      "n. [基医] 蠕虫（worm的复数）"
+    ],
+    "usphone": "[wərmz]",
+    "ukphone": "[wə:mz, vɔ:rms]"
+  },
+  {
+    "name": "wetsuit",
+    "trans": [
+      "n. 潜水服；防寒泳衣；湿式保暖服"
+    ],
+    "usphone": "[ˈwetsuːt]",
+    "ukphone": "[ˈwetsuːt; ˈwetsjuːt]"
+  },
+  {
+    "name": "words",
+    "trans": [
+      "n. [计] 字（word的复数）；话语；言语",
+      "v. 用言语表达（word的三单形式）"
+    ],
+    "usphone": "[wɜːrd]",
+    "ukphone": "[wɜːdz]"
+  },
+  {
+    "name": "workbooks",
+    "trans": [
+      "n. 练习本，作业本( workbook的名词复数 )"
+    ],
+    "usphone": "[ˈwɜːrkbʊk]",
+    "ukphone": "[ˈwɜːkbʊk]"
+  },
+  {
+    "name": "whimsicality",
+    "trans": [
+      "n. 异想天开，随心所欲，反复无常"
+    ],
+    "usphone": "[ˌwɪmzəˈkæləti]",
+    "ukphone": "[ˌwɪmzɪˈkælɪti]"
+  },
+  {
+    "name": "well-equipped",
+    "trans": [
+      "adj. 设备精良的；装备很好的"
+    ],
+    "usphone": "[wel ɪˈkwɪpt]",
+    "ukphone": "['weli'kwipt]"
+  },
+  {
+    "name": "wittingly",
+    "trans": [
+      "adv. 有意地，存心地"
+    ],
+    "usphone": "[ˈwɪtɪŋli]",
+    "ukphone": "[ˈwɪtɪŋli]"
+  },
+  {
+    "name": "workwear",
+    "trans": [
+      "n. 工作服"
+    ],
+    "usphone": "['wə:kwεə]",
+    "ukphone": "[ˈwɜːkweə]"
+  },
+  {
+    "name": "world-beating",
+    "trans": [
+      "adj. 第一流的"
+    ],
+    "usphone": "[ˈwɜːrld biːtɪŋ]",
+    "ukphone": "[ˈwɜːld biːtɪŋ]"
+  },
+  {
+    "name": "withholding",
+    "trans": [
+      "n. 扣缴税款",
+      "v. 克制；阻挡（withhold的ing形式）"
+    ],
+    "usphone": "[wɪθˈholdɪŋ]",
+    "ukphone": "[wɪðˈhəʊldɪŋ]"
+  },
+  {
+    "name": "wider",
+    "trans": [
+      "adj. 宽的；广阔的（wide的比较级形式）"
+    ],
+    "usphone": "[ˈwaɪdər]",
+    "ukphone": "[ˈwaɪdə(r)]"
+  },
+  {
+    "name": "wineglass",
+    "trans": [
+      "n. 玻璃酒杯；葡萄酒杯"
+    ],
+    "usphone": "[ˈwaɪnˌɡlæs]",
+    "ukphone": "[ˈwaɪnɡlɑːs]"
+  },
+  {
+    "name": "Waterloo",
+    "trans": [
+      "n. 滑铁卢（比利时城镇）；比喻惨败，致命的打击"
+    ],
+    "usphone": "[ˌwɔtəˈlʊ]",
+    "ukphone": "[ˌwɔːtəˈluː]"
+  },
+  {
+    "name": "wilting",
+    "trans": [
+      "n. [植保] 萎蔫；凋萎",
+      "v. 枯萎；衰弱（wilt的ing形式）"
+    ],
+    "usphone": "[ˈwɪltɪŋ]",
+    "ukphone": "[ˈwɪltɪŋ]"
+  },
+  {
+    "name": "walkabout",
+    "trans": [
+      "n. 徒步旅行；长期旅行；（澳洲土著的）短期丛林流浪"
+    ],
+    "usphone": "[ˈwɔːkəbaʊt]",
+    "ukphone": "[ˈwɔːkəbaʊt]"
+  },
+  {
+    "name": "whir",
+    "trans": [
+      "n. 呼呼声，飕飕声",
+      "vt. 使呼呼响，使呼呼地飞",
+      "vi. 作呼呼声，呼呼作声地飞"
+    ],
+    "usphone": "[wɜːr]",
+    "ukphone": "[wɜː(r)]"
+  },
+  {
+    "name": "whip-round",
+    "trans": [
+      "n. 募捐；凑份子"
+    ],
+    "usphone": "[ˈwɪp raʊnd]",
+    "ukphone": "[ˈwɪp raʊnd]"
+  },
+  {
+    "name": "weirdo",
+    "trans": [
+      "n. 古怪的人，奇怪的人"
+    ],
+    "usphone": "[ˈwɪrdoʊ]",
+    "ukphone": "[ˈwɪədəʊ]"
+  },
+  {
+    "name": "weather-beaten",
+    "trans": [
+      "adj. 饱经风霜的；风雨侵蚀的"
+    ],
+    "usphone": "[ˈweðər biːtn]",
+    "ukphone": "[ˈweðə biːtn]"
+  },
+  {
+    "name": "wheatmeal",
+    "trans": [
+      "n. （未去麸皮的）粗面粉，粗麦粉"
+    ],
+    "usphone": "[ˈwiːtmiːl]",
+    "ukphone": "[ˈwiːtmiːl]"
+  },
+  {
+    "name": "wholemeal",
+    "trans": [
+      "n. 全麦面粉",
+      "adj. 用全麦做的；用全麦面粉做的"
+    ],
+    "usphone": "[ˈhoʊlmiːl]",
+    "ukphone": "[ˈhəʊlmiːl]"
+  },
+  {
+    "name": "watchmen",
+    "trans": [
+      "n. 警卫，守门人( watchman的名词复数 )"
+    ],
+    "usphone": "['wɔtʃmən]",
+    "ukphone": "[ˈwɒtʃmən]"
+  },
+  {
+    "name": "weathermen",
+    "trans": [
+      "n. 气象员，天气预报员( weatherman的名词复数 )"
+    ],
+    "usphone": "[ˈweðərmæn]",
+    "ukphone": "[ˈweðəmæn]"
+  },
+  {
+    "name": "woken",
+    "trans": [
+      "v. 唤醒；觉醒（wake的过去分词）"
+    ],
+    "usphone": "[ˈwoʊkən]",
+    "ukphone": "[ˈwəʊkən]"
+  },
+  {
+    "name": "warmhearted",
+    "trans": [
+      "adj. 亲切的；热心肠的"
+    ],
+    "usphone": "['wɔ:m'hɑ:tid]",
+    "ukphone": "[ˈwɔːmˈhɑːtɪd]"
+  },
+  {
+    "name": "witless",
+    "trans": [
+      "adj. 无知的；愚蠢的"
+    ],
+    "usphone": "[ˈwɪtləs]",
+    "ukphone": "[ˈwɪtləs]"
+  },
+  {
+    "name": "wrack",
+    "trans": [
+      "n. 失事船只；破坏；[植] 漂积海草",
+      "vt. 严重伤害；遇难",
+      "vi. 彻底破坏"
+    ],
+    "usphone": "[ræk]",
+    "ukphone": "[ræk]"
+  },
+  {
+    "name": "wright",
+    "trans": [
+      "n. 制作者；工人"
+    ],
+    "usphone": "[raɪt]",
+    "ukphone": "[raɪt]"
+  },
+  {
+    "name": "wintertime",
+    "trans": [
+      "n. 冬季"
+    ],
+    "usphone": "[ˈwɪntərtaɪm]",
+    "ukphone": "[ˈwɪntətaɪm]"
+  },
+  {
+    "name": "wicket",
+    "trans": [
+      "n. 小门；三柱门；边门；售票窗"
+    ],
+    "usphone": "[ˈwɪkɪt]",
+    "ukphone": "[ˈwɪkɪt]"
+  },
+  {
+    "name": "woodwork",
+    "trans": [
+      "n. 木制品；木工活"
+    ],
+    "usphone": "[ˈwʊdwɜːrk]",
+    "ukphone": "[ˈwʊdwɜːk]"
+  },
+  {
+    "name": "wigwam",
+    "trans": [
+      "n. [建] 棚屋；简陋小屋；总部；拱形顶"
+    ],
+    "usphone": "[ˈwɪɡwɑːm]",
+    "ukphone": "[ˈwɪɡwæm]"
+  },
+  {
+    "name": "Whose?",
+    "trans": [
+      "pron. 谁的（疑问代词）"
+    ],
+    "usphone": "[huːz]",
+    "ukphone": "[huːz]"
+  },
+  {
+    "name": "What?",
+    "trans": [
+      "pron. 什么；多么；真；…的事物",
+      "adj. 什么；多少；关系形容词",
+      "adv. 多少",
+      "conj. 同“as much as. He helps me what he can”"
+    ],
+    "usphone": "[wʌt]",
+    "ukphone": "[wɒt]"
+  },
+  {
+    "name": "Who?",
+    "trans": [
+      " 世界卫生组织；世界健康组织；世界卫生组织所"
+    ],
+    "usphone": "[huː]",
+    "ukphone": "[huː]"
+  },
+  {
+    "name": "Which?",
+    "trans": [
+      "adj. 哪一个；哪一些",
+      "pron. 哪/那一个；哪/那一些"
+    ],
+    "usphone": "[wɪtʃ]",
+    "ukphone": "[wɪtʃ]"
+  },
+  {
+    "name": "Where?",
+    "trans": [
+      "conj. 在…的地方",
+      "n. 地点",
+      "adv. 在哪里",
+      "pron. 哪里"
+    ],
+    "usphone": "[wer]",
+    "ukphone": "[weə(r)]"
+  },
+  {
+    "name": "wide-awake",
+    "trans": [
+      "n. 低顶宽边软毡帽",
+      "adj. 机警的；精明的；完全清醒的"
+    ],
+    "usphone": "[waɪd əˈweɪk]",
+    "ukphone": "[waɪd əˈweɪk]"
+  },
+  {
+    "name": "What!",
+    "trans": [
+      "pron. 什么；多么；真；…的事物",
+      "adj. 什么；多少；关系形容词",
+      "adv. 多少",
+      "conj. 同“as much as. He helps me what he can”"
+    ],
+    "usphone": "[wʌt]",
+    "ukphone": "[wɒt]"
+  },
+  {
+    "name": "worriedly",
+    "trans": [
+      "adv. 担心地；焦虑地"
+    ],
+    "usphone": "[ˈwɜːrɪdli]",
+    "ukphone": "[ˈwʌrɪdli]"
+  },
+  {
+    "name": "William",
+    "trans": [
+      "n. 威廉（男子名）；钞票，纸币"
+    ],
+    "usphone": "[ˈwɪljəm]",
+    "ukphone": "[ˈwɪljəm]"
+  },
+  {
+    "name": "wall-to-wall",
+    "trans": [
+      "adj. 覆盖全部地面；墙到墙的"
+    ],
+    "usphone": "[ˌwɔːl tə ˈwɔːl]",
+    "ukphone": "[ˌwɔːl tə ˈwɔːl]"
+  },
+  {
+    "name": "washed-out",
+    "trans": [
+      "adj. 褪色的；被冲蚀的；筋疲力尽的"
+    ],
+    "usphone": "[ˌwɑːʃt ˈaʊt]",
+    "ukphone": "[ˌwɒʃt ˈaʊt]"
+  },
+  {
+    "name": "well-wisher",
+    "trans": [
+      "n. 祝福者；支持者"
+    ],
+    "usphone": "[ˈwel wɪʃər]",
+    "ukphone": "[ˈwel wɪʃə(r)]"
+  },
+  {
+    "name": "workmanlike",
+    "trans": [
+      "adj. 技术熟练的；精工细作的"
+    ],
+    "usphone": "[ˈwɜːrkmənlaɪk]",
+    "ukphone": "[ˈwɜːkmənlaɪk]"
+  },
+  {
+    "name": "waitstaff",
+    "trans": [
+      "(餐馆等的)服务人员",
+      "全体侍应生",
+      "待者，服务员"
+    ],
+    "usphone": "[ˈweɪtstæf]",
+    "ukphone": "[ˈweɪtstɑːf]"
+  },
+  {
+    "name": "witling",
+    "trans": [
+      "n. 自以为嘴巧的人，玩弄小聪明的人"
+    ],
+    "usphone": "[ˈwɪtlɪŋ]",
+    "ukphone": "[ˈwɪtlɪŋ]"
+  },
+  {
+    "name": "W",
+    "trans": [
+      "n. 英语字母中的第二十三个字母"
+    ],
+    "usphone": "[ˈdʌbljuː]",
+    "ukphone": "[ˈdʌbljuː]"
+  },
+  {
+    "name": "wettability",
+    "trans": [
+      "n. 可湿性; 可沾性; 润湿性"
+    ],
+    "usphone": "[ˌwetəˈbɪləti]",
+    "ukphone": "[ˌwetəˈbɪlɪti]"
+  },
+  {
+    "name": "weightlessness",
+    "trans": [
+      "n. 失重；无重状态"
+    ],
+    "usphone": "[ˈweɪtləsnəs]",
+    "ukphone": "[ˈweɪtləsnəs]"
+  },
+  {
+    "name": "wave equation",
+    "trans": [
+      "na. 【数】波动方程式"
+    ],
+    "usphone": "[ˈweɪv ɪkweɪʒn]",
+    "ukphone": "[ˈweɪv ɪkweɪʒn]"
+  },
+  {
+    "name": "white light",
+    "trans": [
+      "n. 白光"
+    ],
+    "usphone": "[ˌwaɪt ˈlaɪt]",
+    "ukphone": "[ˌwaɪt ˈlaɪt]"
+  },
+  {
+    "name": "wobbly",
+    "trans": [
+      "adj. 不稳定的；摆动的；歪斜的"
+    ],
+    "usphone": "[ˈwɑːbli]",
+    "ukphone": "[ˈwɒbli]"
+  },
+  {
+    "name": "woot",
+    "trans": [
+      "与“耶！”或“噢吼！”等感叹词类似"
+    ],
+    "usphone": "[wuːt]",
+    "ukphone": "[wuːt]"
+  },
+  {
+    "name": "waterage",
+    "trans": [
+      "n. 水路运输；水运费"
+    ],
+    "usphone": "[ˈwɔtərɪdʒ]",
+    "ukphone": "[ˈwɔːtərɪdʒ]"
+  },
+  {
+    "name": "waterscape",
+    "trans": [
+      "n. 水景，海景，水景画"
+    ],
+    "usphone": "[ˈwɔtəskep]",
+    "ukphone": "[ˈwɔːtəˌskeɪp]"
+  },
+  {
+    "name": "withdrew",
+    "trans": [
+      "v. 收回（withdraw的过去式）"
+    ],
+    "usphone": "[wɪðˈdruː]",
+    "ukphone": "[wɪðˈdruː]"
+  },
+  {
+    "name": "worldliness",
+    "trans": [
+      "n. 俗气；世俗心；世故；物欲"
+    ],
+    "usphone": "[ˈwɜːrldlinəs]",
+    "ukphone": "[ˈwɜːldlinəs]"
+  },
+  {
+    "name": "wind-up",
+    "trans": [
+      "n. 结局；结束；故意激怒或招惹某人",
+      "adj. 要上发条才能运转的"
+    ],
+    "usphone": "[ˈwaɪnd ʌp]",
+    "ukphone": "[ˈwaɪnd ʌp]"
+  },
+  {
+    "name": "waiting list",
+    "trans": [
+      "n. （服务或医疗的）等候者名单"
+    ],
+    "usphone": "[ˈweɪtɪŋ lɪst]",
+    "ukphone": "[ˈweɪtɪŋ lɪst]"
+  },
+  {
+    "name": "walking stick",
+    "trans": [
+      "n. 手杖；拐棍"
+    ],
+    "usphone": "[ˈwɔːkɪŋ stɪk]",
+    "ukphone": "[ˈwɔːkɪŋ stɪk]"
+  },
+  {
+    "name": "written consent",
+    "trans": [
+      "un. 书面同意"
+    ],
+    "usphone": "[ˈrɪtn kənˈsent]",
+    "ukphone": "[ˈrɪtn kənˈsent]"
+  },
+  {
+    "name": "w",
+    "trans": [
+      "n. 英语字母中的第二十三个字母"
+    ],
+    "usphone": "[ˈdʌbljuː]",
+    "ukphone": "[ˈdʌbljuː]"
+  },
+  {
+    "name": "wanderings",
+    "trans": [
+      "n. 漫游；闲逛；胡言乱语（wandering的复数形式）"
+    ],
+    "usphone": "[ˈwɑːndərɪŋz]",
+    "ukphone": "[ˈwɒndərɪŋz]"
+  },
+  {
+    "name": "WC",
+    "trans": [
+      "abbr. 洗手间（water closet）；水冷却（water cooled）"
+    ],
+    "usphone": "[ˌdʌbljuː ˈsiː]",
+    "ukphone": "[ˌdʌb(ə)ljuː ˈsiː]"
+  },
+  {
+    "name": "weber",
+    "trans": [
+      "n. 韦伯（磁通单位）"
+    ],
+    "usphone": "[ˈveɪbər]",
+    "ukphone": "[ˈveɪbə(r)]"
+  },
+  {
+    "name": "whipping",
+    "trans": [
+      "n. 鞭打；笞刑；用来缚扎的绳索",
+      "v. 鞭打（whip的ing形式）"
+    ],
+    "usphone": "[ˈwɪpɪŋ]",
+    "ukphone": "[ˈwɪpɪŋ]"
+  },
+  {
+    "name": "whomever",
+    "trans": [
+      "pron. whoever的宾格，无论谁"
+    ],
+    "usphone": "[ˌhuːmˈevər]",
+    "ukphone": "[ˌhuːmˈevə(r)]"
+  },
+  {
+    "name": "wooly",
+    "trans": [
+      "n. 羊毛内衣；毛线衣（等于wolly）",
+      "adj. 羊毛的；毛茸茸的（等于wolly）"
+    ],
+    "usphone": "[ˈwʊli]",
+    "ukphone": "[ˈwʊli]"
+  },
+  {
+    "name": "workwoman",
+    "trans": [
+      "n. 劳动妇女，女工"
+    ],
+    "usphone": "['wə:k,wumən]",
+    "ukphone": "[ˈwɜːkˌwʊmən]"
+  },
+  {
+    "name": "weeds",
+    "trans": [
+      "n. 野草（weed的复数形式）；丧服；（悼念用的）黑纱",
+      "v. 清除（weed的第三人称单数形式）；除去杂草；除去无用的东西"
+    ],
+    "usphone": "[wiːdz]",
+    "ukphone": "[wiːdz]"
+  },
+  {
+    "name": "wheatland",
+    "trans": [
+      "n. 小麦地，适宜种小麦的地"
+    ],
+    "usphone": "[ˈwɪtˌlænd]",
+    "ukphone": "[ˈwiːtˌlænd]"
+  },
+  {
+    "name": "well connected",
+    "trans": [
+      "adj. 与达官豪富有亲友关系的；社会关系强固的"
+    ],
+    "usphone": "[ˌwel kəˈnektɪd]",
+    "ukphone": "[ˌwel kəˈnektɪd]"
+  },
+  {
+    "name": "womenfolk",
+    "trans": [
+      "n. 女性；妇女们"
+    ],
+    "usphone": "[ˈwɪmɪnfoʊk]",
+    "ukphone": "[ˈwɪmɪnfəʊk]"
+  },
+  {
+    "name": "WiFi",
+    "trans": [
+      "abbr. 基于IEEE 802.11b标准的无线局域网（Wireless Fidelity）；无线网络模块"
+    ],
+    "usphone": "[ˈwaɪfaɪ]",
+    "ukphone": "[ˈwaɪ faɪ]"
+  },
+  {
+    "name": "womankind",
+    "trans": [
+      "n. 女性，妇女们"
+    ],
+    "usphone": "[ˈwʊmənkaɪnd]",
+    "ukphone": "[ˈwʊmənkaɪnd]"
+  },
+  {
+    "name": "wham",
+    "trans": [
+      "n. 重打声",
+      "vt. 重打",
+      "vi. 重打"
+    ],
+    "usphone": "[wæm]",
+    "ukphone": "[wæm]"
+  },
+  {
+    "name": "worsening",
+    "trans": [
+      "n. 恶化；变坏",
+      "v. 恶化（worsen的ing形式）；使变得更坏",
+      "adj. 日益恶化的"
+    ],
+    "usphone": "[ˈwɜːrsənɪŋ]",
+    "ukphone": "[ˈwɜːsənɪŋ]"
+  },
+  {
+    "name": "whitetail",
+    "trans": [
+      "n. 白尾鹿"
+    ],
+    "usphone": "[ˈhwaɪtˌtel]",
+    "ukphone": "[ˈhwaɪtteɪl]"
+  },
+  {
+    "name": "worst-case",
+    "trans": [
+      "adj. 作最坏打算的；最糟情况的"
+    ],
+    "usphone": "[ˈwɜːrst keɪs]",
+    "ukphone": "[ˈwɜːst keɪs]"
+  },
+  {
+    "name": "walleye",
+    "trans": [
+      "n. [眼科] 角膜白斑；[眼科] 外斜视"
+    ],
+    "usphone": "[ˈwɔːlaɪ]",
+    "ukphone": "['wɔ:lai]"
+  },
+  {
+    "name": "waving",
+    "trans": [
+      "n. 电流舞；波浪舞",
+      "v. 波动；飘扬（wave的ing形式）",
+      "adj. 波浪状的"
+    ],
+    "usphone": "[ˈweɪvɪŋ]",
+    "ukphone": "[ˈweɪvɪŋ]"
+  },
+  {
+    "name": "winnings",
+    "trans": [
+      "n. 赢得的钱（winning的复数）"
+    ],
+    "usphone": "[ˈwɪnɪŋz]",
+    "ukphone": "[ˈwɪnɪŋz]"
+  },
+  {
+    "name": "warplane",
+    "trans": [
+      "n. 军用飞机，战斗机"
+    ],
+    "usphone": "[ˈwɔːrpleɪn]",
+    "ukphone": "[ˈwɔːpleɪn]"
+  },
+  {
+    "name": "woefully",
+    "trans": [
+      "adv. 悲伤地；不幸地；使人痛苦地"
+    ],
+    "usphone": "[ˈwoʊfəli]",
+    "ukphone": "[ˈwəʊfəli]"
+  },
+  {
+    "name": "weeping",
+    "trans": [
+      "n. 哭泣",
+      "adj. 哭泣的，滴水的；垂枝的",
+      "v. 哭泣；悲痛；哀悼（weep的ing形式）"
+    ],
+    "usphone": "[ˈwiːpɪŋ]",
+    "ukphone": "[ˈwiːpɪŋ]"
+  },
+  {
+    "name": "windowless",
+    "trans": [
+      "adj. 没有窗的"
+    ],
+    "usphone": "[ˈwɪndoʊləs]",
+    "ukphone": "[ˈwɪndəʊləs]"
+  },
+  {
+    "name": "womanhood",
+    "trans": [
+      "n. 女人；女人气质；女子成年期"
+    ],
+    "usphone": "[ˈwʊmənhʊd]",
+    "ukphone": "[ˈwʊmənhʊd]"
+  },
+  {
+    "name": "wimp",
+    "trans": [
+      "n. 懦弱的人；无能的人"
+    ],
+    "usphone": "[wɪmp]",
+    "ukphone": "[wɪmp]"
+  },
+  {
+    "name": "well-documented",
+    "trans": [
+      "adj. 证据充分的"
+    ],
+    "usphone": "[ˌwel ˈdɑːkjumentɪd]",
+    "ukphone": "[ˌwel ˈdɒkjumentɪd]"
+  },
+  {
+    "name": "wannabe",
+    "trans": [
+      "n. 想达到目标的人；赶超崇拜者的人",
+      "adj. 想要成为的；自封的"
+    ],
+    "usphone": "[ˈwɑːnəbi]",
+    "ukphone": "[ˈwɒnəbi]"
+  },
+  {
+    "name": "withering",
+    "trans": [
+      "n. 枯萎；凋谢",
+      "v. 使凋谢；干枯；减弱；摧毁（wither的现在分词）",
+      "adj. 使干枯的；使畏缩的；极有毁灭性的；极有讽刺性的"
+    ],
+    "usphone": "[ˈwɪðərɪŋ]",
+    "ukphone": "[ˈwɪðərɪŋ]"
+  },
+  {
+    "name": "walled",
+    "trans": [
+      "adj. 有城墙的",
+      "v. 用墙围住；堵塞（wall的过去分词）"
+    ],
+    "usphone": "[wɔːld]",
+    "ukphone": "[wɔːld]"
+  },
+  {
+    "name": "white-haired",
+    "trans": [
+      "adj. 白发的；浅色头发的；受宠爱的"
+    ],
+    "usphone": "['hwaithεəd]",
+    "ukphone": "['hwaithεəd]"
+  },
+  {
+    "name": "wedlock",
+    "trans": [
+      "n. 婚姻；已婚状况"
+    ],
+    "usphone": "[ˈwedlɑːk]",
+    "ukphone": "[ˈwedlɒk]"
+  },
+  {
+    "name": "waistband",
+    "trans": [
+      "n. 束腰带，腰带"
+    ],
+    "usphone": "[ˈweɪstbænd]",
+    "ukphone": "[ˈweɪstbænd]"
+  },
+  {
+    "name": "well-worn",
+    "trans": [
+      "adj. 用旧了的；老生常谈的；平凡的"
+    ],
+    "usphone": "[ˌwel ˈwɔːrn]",
+    "ukphone": "[ˌwel ˈwɔːn]"
+  },
+  {
+    "name": "weakening",
+    "trans": [
+      "n. 弱化；疲软；衰减",
+      "v. 削弱（weaken的ing形式）"
+    ],
+    "usphone": "[ˈwiːkənɪŋ]",
+    "ukphone": "[ˈwiːkənɪŋ]"
+  },
+  {
+    "name": "wrangling",
+    "trans": [
+      "v. 争吵（wrangle的ing形式）；争辩"
+    ],
+    "usphone": "[ˈræŋɡlɪŋ]",
+    "ukphone": "[ˈræŋɡlɪŋ]"
+  },
+  {
+    "name": "whistle-blower",
+    "trans": [
+      "n. 揭发者，告密者"
+    ],
+    "usphone": "[ˈwɪsl bloʊər]",
+    "ukphone": "[ˈwɪsl bləʊə(r)]"
+  },
+  {
+    "name": "whistling",
+    "trans": [
+      "n. 吹哨，吹笛；鸣汽笛",
+      "adj. 发出哨声的；听起来像哨声的",
+      "v. 鸣汽笛（whistle的ing形式）"
+    ],
+    "usphone": "[ˈwɪslɪŋ]",
+    "ukphone": "[ˈwɪslɪŋ]"
+  },
+  {
+    "name": "wrought-iron",
+    "trans": [
+      "n. 熟铁"
+    ],
+    "usphone": "[ˌrɔːt ˈaɪərn]",
+    "ukphone": "[ˌrɔːt ˈaɪən]"
+  },
+  {
+    "name": "wrecked",
+    "trans": [
+      "adj. 失事的（船）；迷幻的，兴奋的"
+    ],
+    "usphone": "[rekt]",
+    "ukphone": "[rekt]"
+  },
+  {
+    "name": "well-designed",
+    "trans": [
+      "adj. 精心设计的；设计巧妙的"
+    ],
+    "usphone": "[wel dɪˈzaɪnd]",
+    "ukphone": "['weldi'zaind]"
+  },
+  {
+    "name": "whole-wheat",
+    "trans": [
+      "n. 营养面粉；粗面粉",
+      "adj. 全麦的；全麦面粉制成的"
+    ],
+    "usphone": "[hoʊl wiːt]",
+    "ukphone": "['həul'hwi:t]"
+  },
+  {
+    "name": "workhorse",
+    "trans": [
+      "n. 做重活的人；驮马；重负荷机器",
+      "adj. 工作重的；吃苦耐劳的"
+    ],
+    "usphone": "[ˈwɜːrkhɔːrs]",
+    "ukphone": "[ˈwɜːkhɔːs]"
+  },
+  {
+    "name": "winemaker",
+    "trans": [
+      "n. 酿酒师（等于winegrower）"
+    ],
+    "usphone": "[ˈwaɪnmeɪkər]",
+    "ukphone": "[ˈwaɪnmeɪkə(r)]"
+  },
+  {
+    "name": "well-developed",
+    "trans": [
+      "adj. 发达的；发育良好的"
+    ],
+    "usphone": "[ˌwel dɪˈveləpt]",
+    "ukphone": "[ˌwel dɪˈveləpt]"
+  },
+  {
+    "name": "wok",
+    "trans": [
+      "n. 锅（源自广东话）；炒菜锅"
+    ],
+    "usphone": "[wɑːk]",
+    "ukphone": "[wɒk]"
+  },
+  {
+    "name": "war-torn",
+    "trans": [
+      "adj. 遭受战争破坏的"
+    ],
+    "usphone": "[ˈwɔːr tɔːrn]",
+    "ukphone": "[ˈwɔː tɔːn]"
+  },
+  {
+    "name": "workbench",
+    "trans": [
+      "n. 工作台；手工台"
+    ],
+    "usphone": "[ˈwɜːrkbentʃ]",
+    "ukphone": "[ˈwɜːkbentʃ]"
+  },
+  {
+    "name": "wrenching",
+    "trans": [
+      "n. 苗木铲根；修截苗根",
+      "v. 猛扭；歪曲；抢取（wrench的ing形式）"
+    ],
+    "usphone": "[ˈrentʃɪŋ]",
+    "ukphone": "[ˈrentʃɪŋ]"
+  },
+  {
+    "name": "well-lit",
+    "trans": [
+      "adj. 采光好的，光线好的; 明亮"
+    ],
+    "usphone": "[wel lɪt]",
+    "ukphone": "[wel lɪt]"
+  },
+  {
+    "name": "weakling",
+    "trans": [
+      "n. 虚弱的人；懦怯者",
+      "adj. 虚弱的；懦弱的"
+    ],
+    "usphone": "[ˈwiːklɪŋ]",
+    "ukphone": "[ˈwiːklɪŋ]"
+  },
+  {
+    "name": "wiseacre",
+    "trans": [
+      "n. 自以为聪明者"
+    ],
+    "usphone": "[ˈwaɪzeɪkər]",
+    "ukphone": "[ˈwaɪzeɪkə(r)]"
+  },
+  {
+    "name": "writhing",
+    "trans": [
+      "vt. 翻滚，打滚；因剧痛扭动/蠕动；盘绕（writhe的现在分词）"
+    ],
+    "usphone": "[ˈraɪðɪŋ]",
+    "ukphone": "[ˈraɪðɪŋ]"
+  },
+  {
+    "name": "wind-tunnel",
+    "trans": [
+      "风洞",
+      "风道"
+    ],
+    "usphone": "[ˈwɪnd tʌnl]",
+    "ukphone": "[ˈwɪnd tʌnl]"
+  },
+  {
+    "name": "windbreak",
+    "trans": [
+      "n. 防风林；防风墙；防风物"
+    ],
+    "usphone": "[ˈwɪndbreɪk]",
+    "ukphone": "[ˈwɪndbreɪk]"
+  },
+  {
+    "name": "wobbling",
+    "trans": [
+      "n. 摆动；颤动",
+      "adj. 摇晃的；颤动的",
+      "v. 蹒跚；晃动；踌躇（wobble的ing形式）"
+    ],
+    "usphone": "[ˈwɑblɪŋ]",
+    "ukphone": "[ˈwɒb(ə)lɪŋ]"
+  },
+  {
+    "name": "wonton",
+    "trans": [
+      "n. 馄饨"
+    ],
+    "usphone": "[ˈwɑːntɑːn]",
+    "ukphone": "[ˌwɒnˈtɒn]"
+  },
+  {
+    "name": "woodcutter",
+    "trans": [
+      "n. 樵夫；划木者；木板雕刻师，木雕师"
+    ],
+    "usphone": "[ˈwʊdkʌtər]",
+    "ukphone": "[ˈwʊdkʌtə(r)]"
+  },
+  {
+    "name": "well-fed",
+    "trans": [
+      "adj. 营养充足的；肥胖的"
+    ],
+    "usphone": "[ˌwel ˈfed]",
+    "ukphone": "[ˌwel ˈfed]"
+  },
+  {
+    "name": "wishy-washy",
+    "trans": [
+      "adj. 空泛的；缺乏特点或决心的；淡而无味的；缺乏力量的"
+    ],
+    "usphone": "[ˈwɪʃi wɑːʃi]",
+    "ukphone": "[ˈwɪʃi wɒʃi]"
+  },
+  {
+    "name": "waitperson",
+    "trans": [
+      "n. （餐厅、旅馆的）服务员"
+    ],
+    "usphone": "[ˈweɪtpɜːrsn]",
+    "ukphone": "[ˈweɪtpɜːsn]"
+  },
+  {
+    "name": "wading pool",
+    "trans": [
+      "n. 嬉水池"
+    ],
+    "usphone": "[ˈweɪdɪŋ puːl]",
+    "ukphone": "[ˈweɪdɪŋ puːl]"
+  },
+  {
+    "name": "well nigh",
+    "trans": [
+      "adv. 几乎；差不多；可谓"
+    ],
+    "usphone": "[ˌwel ˈnaɪ]",
+    "ukphone": "[ˌwel ˈnaɪ]"
+  },
+  {
+    "name": "windstorm",
+    "trans": [
+      "n. 暴风"
+    ],
+    "usphone": "[ˈwɪndstɔːrm]",
+    "ukphone": "[ˈwɪndstɔːm]"
+  },
+  {
+    "name": "wavering",
+    "trans": [
+      "v. 犹豫不决（waver的ing形式）；摇动",
+      "adj. 摇摆的；摇幌的"
+    ],
+    "usphone": "[ˈweɪvərɪŋ]",
+    "ukphone": "[ˈweɪvərɪŋ]"
+  },
+  {
+    "name": "wild-eyed",
+    "trans": [
+      "adj. 怒目而视的；狂热的"
+    ],
+    "usphone": "[ˈwaɪld aɪd]",
+    "ukphone": "['waildaid]"
+  },
+  {
+    "name": "white-hot",
+    "trans": [
+      "adj. 白热的；狂热的"
+    ],
+    "usphone": "[ˌwaɪt ˈhɑːt]",
+    "ukphone": "[ˌwaɪt ˈhɒt]"
+  },
+  {
+    "name": "wraps",
+    "trans": [
+      "n. 外衣；书刊检查；披肩（wrap的复数形式）",
+      "v. 包裹；穿外衣；覆盖（wrap的三单形式）"
+    ],
+    "usphone": "[ræps]",
+    "ukphone": "[ræps]"
+  },
+  {
+    "name": "word book",
+    "trans": [
+      "n. 词典；字汇表；歌词集"
+    ],
+    "usphone": "[ˈwɜːrkˈbʊk]",
+    "ukphone": "[ˈwɜːdˌbʊk]"
+  },
+  {
+    "name": "walkathon",
+    "trans": [
+      "n. <美><加>（尤指为特定事业筹款而进行的）步行马拉松"
+    ],
+    "usphone": "[ˈwɔːkəθɑːn]",
+    "ukphone": "[ˈwɔːkəθɒn]"
+  },
+  {
+    "name": "Walker",
+    "trans": [
+      "n. 步行者；散步者；参加竞走者"
+    ],
+    "usphone": "[ˈwɔːkər]",
+    "ukphone": "[ˈwɔːkə(r)]"
+  },
+  {
+    "name": "whizz-kid",
+    "trans": [
+      "n. （尤指在金融方面的）神童, 奇才"
+    ],
+    "usphone": "[ˈwɪz kɪd]",
+    "ukphone": "[ˈwɪz kɪd]"
+  },
+  {
+    "name": "write-up",
+    "trans": [
+      "n. 捧场文章；帐面价值的提高"
+    ],
+    "usphone": "[ˈraɪt ʌp]",
+    "ukphone": "[ˈraɪt ʌp]"
+  },
+  {
+    "name": "woebegone",
+    "trans": [
+      "adj. 愁眉苦脸的；忧愁的；寒碜的"
+    ],
+    "usphone": "[ˈwoʊbɪɡɔːn]",
+    "ukphone": "[ˈwəʊbɪɡɒn]"
+  },
+  {
+    "name": "WASP",
+    "trans": [
+      "abbr. 盎格鲁撒克逊系的白人新教徒（White Anglo-Saxon Protestant）"
+    ],
+    "usphone": "[wɑːsp]",
+    "ukphone": "[wɒsp]"
+  },
+  {
+    "name": "wilder",
+    "trans": [
+      "n. 撒野者",
+      "vi. 迷失；迷惑",
+      "vt. 使迷惑；使迷途"
+    ],
+    "usphone": "[ˈwɪldɚ]",
+    "ukphone": "[ˈwɪldə]"
+  },
+  {
+    "name": "weeknight",
+    "trans": [
+      "n. 工作日夜晚（指周末休息日以外的每个夜晚）"
+    ],
+    "usphone": "[ˈwiːknaɪt]",
+    "ukphone": "[ˈwiːknaɪt]"
+  },
+  {
+    "name": "waster",
+    "trans": [
+      "n. [环境] 废品；挥霍者，浪费者"
+    ],
+    "usphone": "[ˈweɪstər]",
+    "ukphone": "[ˈweɪstə(r)]"
+  },
+  {
+    "name": "winterize",
+    "trans": [
+      "n. 作过冬准备；在…装御寒设备",
+      "vt. 为…作过冬准备；使适应冬季使用；使防冻"
+    ],
+    "usphone": "[ˈwɪntəˌraɪz]",
+    "ukphone": "[ˈwɪntəraɪz]"
+  }
+]

@@ -1,0 +1,10567 @@
+[
+  {
+    "name": "labor",
+    "trans": [
+      "n. 劳动；工作；劳工；分娩",
+      "vi. 劳动；努力；苦干",
+      "vt. 详细分析；使厌烦"
+    ],
+    "usphone": "[ˈleɪbər]",
+    "ukphone": "[ˈleɪbə(r)]"
+  },
+  {
+    "name": "labour",
+    "trans": [
+      "n. （英国）工党"
+    ],
+    "usphone": "[ˈleɪbər]",
+    "ukphone": "[ˈleɪbə(r)]"
+  },
+  {
+    "name": "lead",
+    "trans": [
+      "n. 领导；铅；导线；榜样",
+      "vt. 领导；致使；引导；指挥",
+      "vi. 领导；导致；用水砣测深",
+      "adj. 带头的；最重要的"
+    ],
+    "usphone": "[liːd; led]",
+    "ukphone": "[liːd]"
+  },
+  {
+    "name": "language",
+    "trans": [
+      "n. 语言；语言文字；表达能力"
+    ],
+    "usphone": "[ˈlæŋɡwɪdʒ]",
+    "ukphone": "[ˈlæŋɡwɪdʒ]"
+  },
+  {
+    "name": "linguistic",
+    "trans": [
+      "adj. 语言的；语言学的"
+    ],
+    "usphone": "[lɪŋˈɡwɪstɪk]",
+    "ukphone": "[lɪŋˈɡwɪstɪk]"
+  },
+  {
+    "name": "limit",
+    "trans": [
+      "n. 限制；限度；界线",
+      "vt. 限制；限定"
+    ],
+    "usphone": "[ˈlɪmɪt]",
+    "ukphone": "[ˈlɪmɪt]"
+  },
+  {
+    "name": "limited",
+    "trans": [
+      "adj. 有限的",
+      "n. 高级快车"
+    ],
+    "usphone": "[ˈlɪmɪtɪd]",
+    "ukphone": "[ˈlɪmɪtɪd]"
+  },
+  {
+    "name": "limitation",
+    "trans": [
+      "n. 限制；限度；极限；追诉时效；有效期限；缺陷"
+    ],
+    "usphone": "[ˌlɪmɪˈteɪʃn]",
+    "ukphone": "[ˌlɪmɪˈteɪʃn]"
+  },
+  {
+    "name": "lucrative",
+    "trans": [
+      "adj. 有利可图的，赚钱的；合算的"
+    ],
+    "usphone": "[ˈluːkrətɪv]",
+    "ukphone": "[ˈluːkrətɪv]"
+  },
+  {
+    "name": "legal",
+    "trans": [
+      "adj. 法律的；合法的；法定的；依照法律的"
+    ],
+    "usphone": "[ˈliːɡl]",
+    "ukphone": "[ˈliːɡ(ə)l]"
+  },
+  {
+    "name": "legally",
+    "trans": [
+      "adv. 合法地；法律上"
+    ],
+    "usphone": "[ˈliːɡəli]",
+    "ukphone": "[ˈliːɡəli]"
+  },
+  {
+    "name": "legislation",
+    "trans": [
+      "n. 立法；法律"
+    ],
+    "usphone": "[ˌledʒɪsˈleɪʃn]",
+    "ukphone": "[ˌledʒɪsˈleɪʃn]"
+  },
+  {
+    "name": "legislative",
+    "trans": [
+      "adj. 立法的；有立法权的",
+      "n. 立法权；立法机构"
+    ],
+    "usphone": "[ˈledʒɪsleɪtɪv]",
+    "ukphone": "[ˈledʒɪslətɪv]"
+  },
+  {
+    "name": "legitimacy",
+    "trans": [
+      "n. 合法；合理；正统"
+    ],
+    "usphone": "[lɪˈdʒɪtɪməsi]",
+    "ukphone": "[lɪˈdʒɪtɪməsi]"
+  },
+  {
+    "name": "legitimate",
+    "trans": [
+      "adj. 合法的；正当的；合理的；正统的",
+      "vt. 使合法；认为正当（等于legitimize）"
+    ],
+    "usphone": "[lɪˈdʒɪtɪmət]",
+    "ukphone": "[lɪˈdʒɪtɪmət]"
+  },
+  {
+    "name": "legacy",
+    "trans": [
+      "n. 遗赠，遗产"
+    ],
+    "usphone": "[ˈleɡəsi]",
+    "ukphone": "[ˈleɡəsi]"
+  },
+  {
+    "name": "lawsuit",
+    "trans": [
+      "n. 诉讼（尤指非刑事案件）；诉讼案件"
+    ],
+    "usphone": "[ˈlɔːsuːt]",
+    "ukphone": "[ˈlɔːsuːt]"
+  },
+  {
+    "name": "levy",
+    "trans": [
+      "n. 征收；征兵，征税",
+      "vt. 征收（税等）；征集（兵等）",
+      "vi. 征税；征兵"
+    ],
+    "usphone": "[ˈlevi]",
+    "ukphone": "[ˈlevi]"
+  },
+  {
+    "name": "level",
+    "trans": [
+      "n. 水平；标准；水平面",
+      "adj. 水平的；平坦的；同高的",
+      "vi. 瞄准；拉平；变得平坦",
+      "vt. 使同等；对准；弄平"
+    ],
+    "usphone": "[ˈlevl]",
+    "ukphone": "[ˈlev(ə)l]"
+  },
+  {
+    "name": "leisure",
+    "trans": [
+      "n. 闲暇；空闲；安逸",
+      "adj. 空闲的；有闲的；业余的"
+    ],
+    "usphone": "[ˈliːʒər]",
+    "ukphone": "[ˈleʒə(r)]"
+  },
+  {
+    "name": "luxury",
+    "trans": [
+      "n. 奢侈，奢华；奢侈品；享受",
+      "adj. 奢侈的"
+    ],
+    "usphone": "[ˈlʌkʃəri]",
+    "ukphone": "[ˈlʌkʃəri]"
+  },
+  {
+    "name": "lineage",
+    "trans": [
+      "n. 血统；家系，[遗] 世系"
+    ],
+    "usphone": "[ˈlɪniɪdʒ]",
+    "ukphone": "[ˈlɪniɪdʒ]"
+  },
+  {
+    "name": "landscape",
+    "trans": [
+      "n. 风景；风景画；景色；山水画；乡村风景画；地形；（文件的）横向打印格式",
+      "vt. 对…做景观美化，给…做园林美化；从事庭园设计",
+      "vi. 美化（环境等），使景色宜人；从事景观美化工作，做庭园设计师"
+    ],
+    "usphone": "[ˈlændskeɪp]",
+    "ukphone": "[ˈlændskeɪp]"
+  },
+  {
+    "name": "land",
+    "trans": [
+      "n. 国土；陆地；地面",
+      "vt. 使…登陆；使…陷于；将…卸下",
+      "vi. 登陆；到达"
+    ],
+    "usphone": "[lænd]",
+    "ukphone": "[lænd]"
+  },
+  {
+    "name": "landmark",
+    "trans": [
+      "n. [航]陆标；地标；界标；里程碑；纪念碑；地界标；划时代的事",
+      "adj. 有重大意义或影响的"
+    ],
+    "usphone": "[ˈlændmɑːrk]",
+    "ukphone": "[ˈlændmɑːk]"
+  },
+  {
+    "name": "landlord",
+    "trans": [
+      "n. 房东，老板；地主"
+    ],
+    "usphone": "[ˈlændlɔːrd]",
+    "ukphone": "[ˈlændlɔːd]"
+  },
+  {
+    "name": "link",
+    "trans": [
+      "n. [计] 链环，环节；联系，关系",
+      "vt. 连接，连结；联合，结合",
+      "vi. 连接起来；联系在一起；将人或物连接或联系起来"
+    ],
+    "usphone": "[lɪŋk]",
+    "ukphone": "[lɪŋk]"
+  },
+  {
+    "name": "liberal",
+    "trans": [
+      "adj. 自由主义的；慷慨的；不拘泥的；宽大的",
+      "n. 自由主义者"
+    ],
+    "usphone": "[ˈlɪbərəl]",
+    "ukphone": "[ˈlɪbərəl]"
+  },
+  {
+    "name": "liberalism",
+    "trans": [
+      "n. 自由主义；开明的思想或见解"
+    ],
+    "usphone": "[ˈlɪbərəlɪzəm]",
+    "ukphone": "[ˈlɪbərəlɪzəm]"
+  },
+  {
+    "name": "liberty",
+    "trans": [
+      "n. 自由；许可；冒失"
+    ],
+    "usphone": "[ˈlɪbərti]",
+    "ukphone": "[ˈlɪbəti]"
+  },
+  {
+    "name": "liberate",
+    "trans": [
+      "vt. 解放；放出；释放"
+    ],
+    "usphone": "[ˈlɪbəreɪt]",
+    "ukphone": "[ˈlɪbəreɪt]"
+  },
+  {
+    "name": "local",
+    "trans": [
+      "n. [计] 局部；当地居民；本地新闻",
+      "adj. 当地的；局部的；地方性的；乡土的"
+    ],
+    "usphone": "[ˈloʊkl]",
+    "ukphone": "[ˈləʊk(ə)l]"
+  },
+  {
+    "name": "locally",
+    "trans": [
+      "adv. 局部地；在本地"
+    ],
+    "usphone": "[ˈloʊkəli]",
+    "ukphone": "[ˈləʊkəli]"
+  },
+  {
+    "name": "locate",
+    "trans": [
+      "vt. 位于；查找…的地点",
+      "vi. 定位；定居"
+    ],
+    "usphone": "[ˈloʊkeɪt]",
+    "ukphone": "[ləʊˈkeɪt]"
+  },
+  {
+    "name": "location",
+    "trans": [
+      "n. 位置（形容词locational）；地点；外景拍摄场地"
+    ],
+    "usphone": "[loʊˈkeɪʃn]",
+    "ukphone": "[ləʊˈkeɪʃn]"
+  },
+  {
+    "name": "lest",
+    "trans": [
+      "conj. 唯恐，以免；担心"
+    ],
+    "usphone": "[lest]",
+    "ukphone": "[lest]"
+  },
+  {
+    "name": "liability",
+    "trans": [
+      "n. 责任；债务；倾向；可能性；不利因素"
+    ],
+    "usphone": "[ˌlaɪəˈbɪləti]",
+    "ukphone": "[ˌlaɪəˈbɪləti]"
+  },
+  {
+    "name": "lottery",
+    "trans": [
+      "n. 彩票；碰运气的事，难算计的事；抽彩给奖法"
+    ],
+    "usphone": "[ˈlɑːtəri]",
+    "ukphone": "[ˈlɒtəri]"
+  },
+  {
+    "name": "lack",
+    "trans": [
+      "vt. 缺乏；不足；没有；需要",
+      "vi. 缺乏；不足；没有",
+      "n. 缺乏；不足"
+    ],
+    "usphone": "[læk]",
+    "ukphone": "[læk]"
+  },
+  {
+    "name": "light",
+    "trans": [
+      "n. 光；光线；灯；打火机；领悟；浅色；天窗",
+      "adj. 轻的；浅色的；明亮的；轻松的；容易的；清淡的",
+      "vi. 点着；变亮；着火",
+      "vt. 照亮；点燃；着火",
+      "adv. 轻地；清楚地；轻便地"
+    ],
+    "usphone": "[laɪt]",
+    "ukphone": "[laɪt]"
+  },
+  {
+    "name": "large",
+    "trans": [
+      "adj. 大的；多数的；广博的",
+      "adv. 大大地；夸大地",
+      "n. 大"
+    ],
+    "usphone": "[lɑːrdʒ]",
+    "ukphone": "[lɑːdʒ]"
+  },
+  {
+    "name": "largely",
+    "trans": [
+      "adv. 主要地；大部分；大量地"
+    ],
+    "usphone": "[ˈlɑːrdʒli]",
+    "ukphone": "[ˈlɑːdʒli]"
+  },
+  {
+    "name": "lobby",
+    "trans": [
+      "n. 大厅；休息室；会客室；游说议员的团体",
+      "vt. 对……进行游说",
+      "vi. 游说议员"
+    ],
+    "usphone": "[ˈlɑːbi]",
+    "ukphone": "[ˈlɒbi]"
+  },
+  {
+    "name": "lobbying",
+    "trans": [
+      "n. 游说",
+      "v. 进行游说（lobby的ing形式）；对议员进行游说以影响其投票"
+    ],
+    "usphone": "[ˈlɑːbiɪŋ]",
+    "ukphone": "[ˈlɒbiɪŋ]"
+  },
+  {
+    "name": "literary",
+    "trans": [
+      "adj. 文学的；书面的；精通文学的"
+    ],
+    "usphone": "[ˈlɪtəreri]",
+    "ukphone": "[ˈlɪtərəri]"
+  },
+  {
+    "name": "literature",
+    "trans": [
+      "n. 文学；文献；文艺；著作"
+    ],
+    "usphone": "[ˈlɪtrətʃər; ˈlɪtrətʃʊr; ˈlɪtərətʃʊr]",
+    "ukphone": "[ˈlɪtrətʃə(r)]"
+  },
+  {
+    "name": "literacy",
+    "trans": [
+      "n. 读写能力；精通文学"
+    ],
+    "usphone": "[ˈlɪtərəsi]",
+    "ukphone": "[ˈlɪtərəsi]"
+  },
+  {
+    "name": "literally",
+    "trans": [
+      "adv. 照字面地；逐字地；不夸张地；正确地；简直"
+    ],
+    "usphone": "[ˈlɪtərəli]",
+    "ukphone": "[ˈlɪtərəli]"
+  },
+  {
+    "name": "laughter",
+    "trans": [
+      "n. 笑；笑声"
+    ],
+    "usphone": "[ˈlæftər]",
+    "ukphone": "[ˈlɑːftə(r)]"
+  },
+  {
+    "name": "laugh",
+    "trans": [
+      "n. 笑；引人发笑的事或人",
+      "vi. 笑",
+      "vt. 以笑表示；使…笑得"
+    ],
+    "usphone": "[læf]",
+    "ukphone": "[lɑːf]"
+  },
+  {
+    "name": "license",
+    "trans": [
+      "n. 执照，许可证；特许",
+      "vt. 许可；特许；发许可证给"
+    ],
+    "usphone": "[ˈlaɪsns]",
+    "ukphone": "[ˈlaɪsns]"
+  },
+  {
+    "name": "leakage",
+    "trans": [
+      "n. 泄漏；渗漏物；漏出量"
+    ],
+    "usphone": "[ˈliːkɪdʒ]",
+    "ukphone": "[ˈliːkɪdʒ]"
+  },
+  {
+    "name": "leak",
+    "trans": [
+      "n. 泄漏；漏洞，裂缝",
+      "vt. 使渗漏，泄露",
+      "vi. 漏，渗；泄漏出去"
+    ],
+    "usphone": "[liːk]",
+    "ukphone": "[liːk]"
+  },
+  {
+    "name": "lean",
+    "trans": [
+      "vi. 倾斜；倚靠；倾向；依赖",
+      "adj. 瘦的；贫乏的，歉收的",
+      "vt. 使倾斜",
+      "n. 瘦肉；倾斜；倾斜度"
+    ],
+    "usphone": "[liːn]",
+    "ukphone": "[liːn]"
+  },
+  {
+    "name": "leap",
+    "trans": [
+      "vi. 跳，跳跃",
+      "n. 飞跃；跳跃",
+      "vt. 跳跃，跳过；使跃过"
+    ],
+    "usphone": "[liːp]",
+    "ukphone": "[liːp]"
+  },
+  {
+    "name": "load",
+    "trans": [
+      "n. 负载，负荷；工作量；装载量",
+      "vi. [力] 加载；装载；装货",
+      "vt. 使担负；装填"
+    ],
+    "usphone": "[loʊd]",
+    "ukphone": "[ləʊd]"
+  },
+  {
+    "name": "launch",
+    "trans": [
+      "vt. 发射（导弹、火箭等）；发起，发动；使…下水",
+      "vi. 开始；下水；起飞",
+      "n. 发射；发行，投放市场；下水；汽艇"
+    ],
+    "usphone": "[lɔːntʃ]",
+    "ukphone": "[lɔːntʃ]"
+  },
+  {
+    "name": "lay",
+    "trans": [
+      "vt. 躺下；产卵；搁放；放置；铺放；涂，敷",
+      "adj. 世俗的；外行的；没有经验的",
+      "n. 位置；短诗；花纹方向；叙事诗；性伙伴",
+      "vi. 下蛋；打赌",
+      "v. 躺；位于（lie的过去式）"
+    ],
+    "usphone": "[leɪ]",
+    "ukphone": "[leɪ]"
+  },
+  {
+    "name": "layout",
+    "trans": [
+      "n. 布局；设计；安排；陈列"
+    ],
+    "usphone": "[ˈleɪaʊt]",
+    "ukphone": "[ˈleɪaʊt]"
+  },
+  {
+    "name": "leadership",
+    "trans": [
+      "n. 领导能力；领导阶层"
+    ],
+    "usphone": "[ˈliːdərʃɪp]",
+    "ukphone": "[ˈliːdəʃɪp]"
+  },
+  {
+    "name": "likewise",
+    "trans": [
+      "adv. 同样地；也"
+    ],
+    "usphone": "[ˈlaɪkwaɪz]",
+    "ukphone": "[ˈlaɪkwaɪz]"
+  },
+  {
+    "name": "likelihood",
+    "trans": [
+      "n. 可能性，可能"
+    ],
+    "usphone": "[ˈlaɪklihʊd]",
+    "ukphone": "[ˈlaɪklihʊd]"
+  },
+  {
+    "name": "label",
+    "trans": [
+      "vt. 标注；贴标签于",
+      "n. 标签；商标；签条"
+    ],
+    "usphone": "[ˈleɪbl]",
+    "ukphone": "[ˈleɪb(ə)l]"
+  },
+  {
+    "name": "logical",
+    "trans": [
+      "adj. 合逻辑的，合理的；逻辑学的"
+    ],
+    "usphone": "[ˈlɑːdʒɪkl]",
+    "ukphone": "[ˈlɒdʒɪk(ə)l]"
+  },
+  {
+    "name": "logically",
+    "trans": [
+      "adv. 逻辑上；合乎逻辑"
+    ],
+    "usphone": "[ˈlɑːdʒɪkli]",
+    "ukphone": "[ˈlɒdʒɪkli]"
+  },
+  {
+    "name": "logic",
+    "trans": [
+      "n. 逻辑；逻辑学；逻辑性",
+      "adj. 逻辑的"
+    ],
+    "usphone": "[ˈlɑːdʒɪk]",
+    "ukphone": "[ˈlɒdʒɪk]"
+  },
+  {
+    "name": "loyal",
+    "trans": [
+      "adj. 忠诚的，忠心的；忠贞的",
+      "n. 效忠的臣民；忠实信徒"
+    ],
+    "usphone": "[ˈlɔɪəl]",
+    "ukphone": "[ˈlɔɪəl]"
+  },
+  {
+    "name": "loyalty",
+    "trans": [
+      "n. 忠诚；忠心；忠实；忠于…感情"
+    ],
+    "usphone": "[ˈlɔɪəlti]",
+    "ukphone": "[ˈlɔɪəlti]"
+  },
+  {
+    "name": "log",
+    "trans": [
+      "vi. 伐木",
+      "vt. 切；伐木；航行",
+      "n. 记录；航行日志；原木"
+    ],
+    "usphone": "[lɔːɡ]",
+    "ukphone": "[lɒɡ]"
+  },
+  {
+    "name": "library",
+    "trans": [
+      "n. 图书馆，藏书室；文库"
+    ],
+    "usphone": "[ˈlaɪbreri]",
+    "ukphone": "[ˈlaɪbrəri; ˈlaɪbri]"
+  },
+  {
+    "name": "librarian",
+    "trans": [
+      "n. 图书馆员；图书管理员"
+    ],
+    "usphone": "[laɪˈbreriən]",
+    "ukphone": "[laɪˈbreəriən]"
+  },
+  {
+    "name": "limb",
+    "trans": [
+      "n. 肢，臂；分支；枝干",
+      "vt. 切断…的手足；从…上截下树枝"
+    ],
+    "usphone": "[lɪm]",
+    "ukphone": "[lɪm]"
+  },
+  {
+    "name": "loom",
+    "trans": [
+      "n. 织布机；若隐若现的景象",
+      "vi. 可怕地出现；朦胧地出现；隐约可见",
+      "vt. 在织布机上织"
+    ],
+    "usphone": "[luːm]",
+    "ukphone": "[luːm]"
+  },
+  {
+    "name": "loosen",
+    "trans": [
+      "vt. 放松；松开",
+      "vi. 放松；松开"
+    ],
+    "usphone": "[ˈluːsn]",
+    "ukphone": "[ˈluːsn]"
+  },
+  {
+    "name": "linger",
+    "trans": [
+      "vi. 徘徊；苟延残喘；磨蹭",
+      "vt. 消磨；缓慢度过"
+    ],
+    "usphone": "[ˈlɪŋɡər]",
+    "ukphone": "[ˈlɪŋɡə(r)]"
+  },
+  {
+    "name": "league",
+    "trans": [
+      "n. 联盟；社团；范畴",
+      "vt. 使…结盟；与…联合",
+      "vi. 团结；结盟"
+    ],
+    "usphone": "[liːɡ]",
+    "ukphone": "[liːɡ]"
+  },
+  {
+    "name": "loan",
+    "trans": [
+      "n. 贷款；借款",
+      "vi. 借出",
+      "vt. 借；借给"
+    ],
+    "usphone": "[loʊn]",
+    "ukphone": "[ləʊn]"
+  },
+  {
+    "name": "laptop",
+    "trans": [
+      "n. 膝上型轻便电脑，笔记本电脑"
+    ],
+    "usphone": "[ˈlæptɑːp]",
+    "ukphone": "[ˈlæptɒp]"
+  },
+  {
+    "name": "lure",
+    "trans": [
+      "n. 诱惑；饵；诱惑物",
+      "vt. 诱惑；引诱"
+    ],
+    "usphone": "[lʊr]",
+    "ukphone": "[lʊə(r)]"
+  },
+  {
+    "name": "lame",
+    "trans": [
+      "adj. 跛足的；僵痛的；不完全的；无说服力的；差劲的，蹩脚的",
+      "vi. 变跛",
+      "vt. 使跛；使成残废"
+    ],
+    "usphone": "[leɪm]",
+    "ukphone": "[leɪm]"
+  },
+  {
+    "name": "lag",
+    "trans": [
+      "n. 落后；迟延；防护套；囚犯；桶板",
+      "vt. 落后于；押往监狱；加上外套",
+      "vi. 滞后；缓缓而行；蹒跚",
+      "adj. 最后的"
+    ],
+    "usphone": "[læɡ]",
+    "ukphone": "[læɡ]"
+  },
+  {
+    "name": "lump",
+    "trans": [
+      "n. 块，块状；肿块；瘤；很多；笨人",
+      "vt. 混在一起；使成块状；忍耐；笨重地移动",
+      "vi. 结块",
+      "adj. 成团的；总共的",
+      "adv. 很；非常"
+    ],
+    "usphone": "[lʌmp]",
+    "ukphone": "[lʌmp]"
+  },
+  {
+    "name": "lecture",
+    "trans": [
+      "n. 演讲；讲稿；教训",
+      "vt. 演讲；训诫",
+      "vi. 讲课；讲演"
+    ],
+    "usphone": "[ˈlektʃər]",
+    "ukphone": "[ˈlektʃə(r)]"
+  },
+  {
+    "name": "lumber",
+    "trans": [
+      "vi. 伐木；喧闹地向前走；笨重地行动，缓慢地移动",
+      "vt. 砍伐木材；乱堆",
+      "n. 木材；废物，无用的杂物；隆隆声"
+    ],
+    "usphone": "[ˈlʌmbər]",
+    "ukphone": "[ˈlʌmbə(r)]"
+  },
+  {
+    "name": "lad",
+    "trans": [
+      "n. 少年，小伙子；家伙"
+    ],
+    "usphone": "[læd]",
+    "ukphone": "[læd]"
+  },
+  {
+    "name": "lamb",
+    "trans": [
+      "n. 羔羊，小羊；羔羊肉",
+      "vt. 生小羊，产羔羊",
+      "vi. 生小羊，产羔羊"
+    ],
+    "usphone": "[læm]",
+    "ukphone": "[læm]"
+  },
+  {
+    "name": "lamp",
+    "trans": [
+      "n. 灯；照射器",
+      "vt. 照亮",
+      "vi. 发亮"
+    ],
+    "usphone": "[læmp]",
+    "ukphone": "[læmp]"
+  },
+  {
+    "name": "landlady",
+    "trans": [
+      "n. 女房东；女地主；女店主"
+    ],
+    "usphone": "[ˈlændleɪdi]",
+    "ukphone": "[ˈlændleɪdi]"
+  },
+  {
+    "name": "lap",
+    "trans": [
+      "n. 一圈；膝盖；下摆；山坳",
+      "vt. 使重叠；拍打；包围",
+      "vi. 重叠；轻拍；围住"
+    ],
+    "usphone": "[læp]",
+    "ukphone": "[læp]"
+  },
+  {
+    "name": "lapse",
+    "trans": [
+      "n. (一时的) 走神，判断错误"
+    ],
+    "usphone": "[læps]",
+    "ukphone": "[læps]"
+  },
+  {
+    "name": "laser",
+    "trans": [
+      "n. 激光"
+    ],
+    "usphone": "[ˈleɪzər]",
+    "ukphone": "[ˈleɪzə(r)]"
+  },
+  {
+    "name": "lash",
+    "trans": [
+      "vt. 鞭打；冲击；摆动；扎捆；煽动；讽刺",
+      "vi. 鞭打；猛击；急速甩动",
+      "n. 鞭打；睫毛；鞭子；责骂；讽刺"
+    ],
+    "usphone": "[læʃ]",
+    "ukphone": "[læʃ]"
+  },
+  {
+    "name": "latent",
+    "trans": [
+      "adj. 潜在的；潜伏的；隐藏的"
+    ],
+    "usphone": "[ˈleɪtnt]",
+    "ukphone": "[ˈleɪt(ə)nt]"
+  },
+  {
+    "name": "lateral",
+    "trans": [
+      "adj. 侧面的，横向的",
+      "n. 侧部；[语] 边音",
+      "vt. 横向传球"
+    ],
+    "usphone": "[ˈlætərəl]",
+    "ukphone": "[ˈlætərəl]"
+  },
+  {
+    "name": "Latin",
+    "trans": [
+      "adj. 拉丁语的；拉丁人的",
+      "n. 拉丁语；拉丁人"
+    ],
+    "usphone": "[ˈlætn]",
+    "ukphone": "[ˈlætɪn]"
+  },
+  {
+    "name": "latitude",
+    "trans": [
+      "n. 纬度；界限；活动范围"
+    ],
+    "usphone": "[ˈlætɪtuːd]",
+    "ukphone": "[ˈlætɪtjuːd]"
+  },
+  {
+    "name": "laundry",
+    "trans": [
+      "n. 洗衣店，洗衣房；要洗的衣服；洗熨；洗好的衣服"
+    ],
+    "usphone": "[ˈlɔːndri]",
+    "ukphone": "[ˈlɔːndri]"
+  },
+  {
+    "name": "lavatory",
+    "trans": [
+      "n. 厕所，盥洗室"
+    ],
+    "usphone": "[ˈlævətɔːri]",
+    "ukphone": "[ˈlævətri]"
+  },
+  {
+    "name": "lawn",
+    "trans": [
+      "n. 草地；草坪"
+    ],
+    "usphone": "[lɔːn]",
+    "ukphone": "[lɔːn]"
+  },
+  {
+    "name": "layer",
+    "trans": [
+      "n. 层，层次；膜；[植]压条；放置者，计划者",
+      "vt. 把…分层堆放；借助压条法；生根繁殖；将（头发）剪成不同层次",
+      "vi. 形成或分成层次；[植]通过压条法而生根"
+    ],
+    "usphone": "[ˈleɪər]",
+    "ukphone": "[ˈleɪə(r)]"
+  },
+  {
+    "name": "layman",
+    "trans": [
+      "n. 外行；门外汉；俗人；一般信徒"
+    ],
+    "usphone": "[ˈleɪmən]",
+    "ukphone": "[ˈleɪmən]"
+  },
+  {
+    "name": "lay-off",
+    "trans": [
+      "n. 临时解雇期； 失业期"
+    ],
+    "usphone": "[ˈleɪ ɔːf]",
+    "ukphone": "[ˈleɪ ɒf]"
+  },
+  {
+    "name": "lease",
+    "trans": [
+      "n. 租约；租期；租赁物；租赁权",
+      "vt. 出租；租得",
+      "vi. 出租"
+    ],
+    "usphone": "[liːs]",
+    "ukphone": "[liːs]"
+  },
+  {
+    "name": "lemon",
+    "trans": [
+      "adj. 柠檬色的",
+      "n. 柠檬"
+    ],
+    "usphone": "[ˈlemən]",
+    "ukphone": "[ˈlemən]"
+  },
+  {
+    "name": "liberalize",
+    "trans": [
+      "vt. 使自由化；宽大",
+      "vi. 自由化"
+    ],
+    "usphone": "[ˈlɪbrəlaɪz]",
+    "ukphone": "[ˈlɪbrəlaɪz]"
+  },
+  {
+    "name": "lick",
+    "trans": [
+      "vt. 舔；卷过；鞭打",
+      "vt. （非正式）战胜",
+      "vi. 舔；轻轻拍打",
+      "n. 舔；打；少许"
+    ],
+    "usphone": "[lɪk]",
+    "ukphone": "[lɪk]"
+  },
+  {
+    "name": "lid",
+    "trans": [
+      "n. 盖子；眼睑；限制",
+      "vt. 给…盖盖子"
+    ],
+    "usphone": "[lɪd]",
+    "ukphone": "[lɪd]"
+  },
+  {
+    "name": "lightning",
+    "trans": [
+      "adj. 闪电的；快速的",
+      "n. 闪电",
+      "vi. 闪电"
+    ],
+    "usphone": "[ˈlaɪtnɪŋ]",
+    "ukphone": "[ˈlaɪtnɪŋ]"
+  },
+  {
+    "name": "limp",
+    "trans": [
+      "adj. 柔软的，无力的；软弱的",
+      "vi. 跛行，一拐一拐地走；缓慢费力地前进",
+      "n. 跛行"
+    ],
+    "usphone": "[lɪmp]",
+    "ukphone": "[lɪmp]"
+  },
+  {
+    "name": "linear",
+    "trans": [
+      "adj. 线的，线型的；直线的，线状的；长度的"
+    ],
+    "usphone": "[ˈlɪniər]",
+    "ukphone": "[ˈlɪniə(r)]"
+  },
+  {
+    "name": "linen",
+    "trans": [
+      "n. 亚麻布，亚麻线；亚麻制品",
+      "adj. 亚麻的；亚麻布制的"
+    ],
+    "usphone": "[ˈlɪnɪn]",
+    "ukphone": "[ˈlɪnɪn]"
+  },
+  {
+    "name": "liner",
+    "trans": [
+      "n. 班轮，班机；衬垫；画线者"
+    ],
+    "usphone": "[ˈlaɪnər]",
+    "ukphone": "[ˈlaɪnə(r)]"
+  },
+  {
+    "name": "liquid",
+    "trans": [
+      "adj. 液体的；清澈的；明亮的；易变的",
+      "n. 液体，流体；流音"
+    ],
+    "usphone": "[ˈlɪkwɪd]",
+    "ukphone": "[ˈlɪkwɪd]"
+  },
+  {
+    "name": "liquor",
+    "trans": [
+      "n. 酒，含酒精饮料；溶液；液体；烈酒",
+      "vi. 喝酒，灌酒",
+      "vt. 使喝醉"
+    ],
+    "usphone": "[ˈlɪkər]",
+    "ukphone": "[ˈlɪkə(r)]"
+  },
+  {
+    "name": "liver",
+    "trans": [
+      "n. 肝脏；生活者，居民"
+    ],
+    "usphone": "[ˈlɪvər]",
+    "ukphone": "[ˈlɪvə(r)]"
+  },
+  {
+    "name": "loaf",
+    "trans": [
+      "n. 条，一条面包；块；游荡",
+      "vt. 游荡；游手好闲；虚度光阴",
+      "vi. 游荡；游手好闲；虚度光阴"
+    ],
+    "usphone": "[loʊf]",
+    "ukphone": "[ləʊf]"
+  },
+  {
+    "name": "locality",
+    "trans": [
+      "n. 所在；位置；地点"
+    ],
+    "usphone": "[loʊˈkæləti]",
+    "ukphone": "[ləʊˈkæləti]"
+  },
+  {
+    "name": "lock",
+    "trans": [
+      "vt. 锁，锁上；隐藏",
+      "vi. 锁；锁住；卡住",
+      "n. 锁；水闸；刹车"
+    ],
+    "usphone": "[lɑːk]",
+    "ukphone": "[lɒk]"
+  },
+  {
+    "name": "locker",
+    "trans": [
+      "n. 柜，箱；上锁的人；有锁的橱柜；锁扣装置；有锁的存物柜"
+    ],
+    "usphone": "[ˈlɑːkər]",
+    "ukphone": "[ˈlɒkə(r)]"
+  },
+  {
+    "name": "locomotive",
+    "trans": [
+      "adj. 火车头的；运动的；移动的",
+      "n. 机车；火车头"
+    ],
+    "usphone": "[ˌloʊkəˈmoʊtɪv]",
+    "ukphone": "[ˌləʊkəˈməʊtɪv]"
+  },
+  {
+    "name": "lodge",
+    "trans": [
+      "n. 旅馆；门房；集会处；山林小屋",
+      "vt. 提出；寄存；借住；嵌入",
+      "vi. 寄宿；临时住宿"
+    ],
+    "usphone": "[lɑːdʒ]",
+    "ukphone": "[lɒdʒ]"
+  },
+  {
+    "name": "lofty",
+    "trans": [
+      "adj. 高的；崇高的；高级的；高傲的"
+    ],
+    "usphone": "[ˈlɔːfti]",
+    "ukphone": "[ˈlɒfti]"
+  },
+  {
+    "name": "longitude",
+    "trans": [
+      "n. [地理] 经度；经线"
+    ],
+    "usphone": "[ˈlɑːndʒɪtuːd]",
+    "ukphone": "[ˈlɒŋɡɪtjuːd]"
+  },
+  {
+    "name": "loose",
+    "trans": [
+      "adj. 宽松的；散漫的；不牢固的；不精确的",
+      "vt. 释放；开船；放枪",
+      "vi. 变松；开火",
+      "adv. 松散地",
+      "n. 放纵；放任；发射"
+    ],
+    "usphone": "[luːs]",
+    "ukphone": "[luːs]"
+  },
+  {
+    "name": "lubricate",
+    "trans": [
+      "vi. 润滑；涂油；起润滑剂作用",
+      "vt. 使…润滑；给…加润滑油"
+    ],
+    "usphone": "[ˈluːbrɪkeɪt]",
+    "ukphone": "[ˈluːbrɪkeɪt]"
+  },
+  {
+    "name": "lunar",
+    "trans": [
+      "adj. 月亮的，月球的；阴历的；银的；微亮的"
+    ],
+    "usphone": "[ˈluːnər]",
+    "ukphone": "[ˈluːnə(r)]"
+  },
+  {
+    "name": "lab",
+    "trans": [
+      "n. 实验室，研究室"
+    ],
+    "usphone": "[læb]",
+    "ukphone": "[læb]"
+  },
+  {
+    "name": "laboratory",
+    "trans": [
+      "n. 实验室，研究室"
+    ],
+    "usphone": "[ˈlæbrətɔːri]",
+    "ukphone": "[ləˈbɒrətri]"
+  },
+  {
+    "name": "lace",
+    "trans": [
+      "n. 花边；鞋带；饰带；少量烈酒",
+      "vt. 饰以花边；结带子",
+      "vi. 系带子"
+    ],
+    "usphone": "[leɪs]",
+    "ukphone": "[leɪs]"
+  },
+  {
+    "name": "ladder",
+    "trans": [
+      "n. 阶梯；途径；梯状物",
+      "vi. 成名；发迹",
+      "vt. 在……上装设梯子"
+    ],
+    "usphone": "[ˈlædər]",
+    "ukphone": "[ˈlædə(r)]"
+  },
+  {
+    "name": "lady",
+    "trans": [
+      "n. 女士，夫人；小姐；妻子"
+    ],
+    "usphone": "[ˈleɪdi]",
+    "ukphone": "[ˈleɪdi]"
+  },
+  {
+    "name": "lake",
+    "trans": [
+      "n. 湖；深红色颜料；胭脂红",
+      "vt. （使）血球溶解",
+      "vi. （使）血球溶解"
+    ],
+    "usphone": "[leɪk]",
+    "ukphone": "[leɪk]"
+  },
+  {
+    "name": "lane",
+    "trans": [
+      "n. 小巷；[航][水运] 航线；车道；罚球区"
+    ],
+    "usphone": "[leɪn]",
+    "ukphone": "[leɪn]"
+  },
+  {
+    "name": "lantern",
+    "trans": [
+      "n. 灯笼；提灯；灯笼式天窗"
+    ],
+    "usphone": "[ˈlæntərn]",
+    "ukphone": "[ˈlæntən]"
+  },
+  {
+    "name": "last",
+    "trans": [
+      "n. 末尾，最后；上个；鞋楦（做鞋的模型）",
+      "adj. 最后的；最近的，最新的；仅剩的；最不可能…的",
+      "vi. 持续；维持，够用；持久",
+      "vt. 度过，拖过；使维持",
+      "adv. 最后地；上次，最近；最后一点"
+    ],
+    "usphone": "[læst]",
+    "ukphone": "[lɑːst]"
+  },
+  {
+    "name": "late",
+    "trans": [
+      "adj. 晚的；迟的；已故的；最近的",
+      "adv. 晚；迟；最近；在晚期"
+    ],
+    "usphone": "[leɪt]",
+    "ukphone": "[leɪt]"
+  },
+  {
+    "name": "lately",
+    "trans": [
+      "adv. 近来，不久前"
+    ],
+    "usphone": "[ˈleɪtli]",
+    "ukphone": "[ˈleɪtli]"
+  },
+  {
+    "name": "later",
+    "trans": [
+      "adv. 后来；稍后；随后",
+      "adj. 更迟的；更后的"
+    ],
+    "usphone": "[ˈleɪtər]",
+    "ukphone": "[ˈleɪtə(r)]"
+  },
+  {
+    "name": "latter",
+    "trans": [
+      "adj. 后者的；近来的；后面的；较后的"
+    ],
+    "usphone": "[ˈlætər]",
+    "ukphone": "[ˈlætə(r)]"
+  },
+  {
+    "name": "law",
+    "trans": [
+      "n. 法律；规律；法治；法学；诉讼；司法界",
+      "vi. 起诉；控告",
+      "vt. 控告；对…起诉"
+    ],
+    "usphone": "[lɔː]",
+    "ukphone": "[lɔː]"
+  },
+  {
+    "name": "lawyer",
+    "trans": [
+      "n. 律师；法学家"
+    ],
+    "usphone": "[ˈlɔɪər]",
+    "ukphone": "[ˈlɔɪə(r)]"
+  },
+  {
+    "name": "lazy",
+    "trans": [
+      "adj. 懒惰的；懒洋洋的；怠惰的；慢吞吞的"
+    ],
+    "usphone": "[ˈleɪzi]",
+    "ukphone": "[ˈleɪzi]"
+  },
+  {
+    "name": "leading",
+    "trans": [
+      "adj. 领导的；主要的",
+      "n. 领导；铅板；行距",
+      "v. 领导（lead的ing形式）"
+    ],
+    "usphone": "[ˈliːdɪŋ; ˈledɪŋ]",
+    "ukphone": "[ˈliːdɪŋ]"
+  },
+  {
+    "name": "leaf",
+    "trans": [
+      "n. 叶子；（书籍等的）一张；扇页",
+      "vi. 生叶；翻书页",
+      "vt. 翻…的页，匆匆翻阅"
+    ],
+    "usphone": "[liːf]",
+    "ukphone": "[liːf]"
+  },
+  {
+    "name": "leaflet",
+    "trans": [
+      "n. 小叶；传单"
+    ],
+    "usphone": "[ˈliːflət]",
+    "ukphone": "[ˈliːflət]"
+  },
+  {
+    "name": "learn",
+    "trans": [
+      "vt. 学习；得知；认识到",
+      "vi. 学习；获悉"
+    ],
+    "usphone": "[lɜːrn]",
+    "ukphone": "[lɜːn]"
+  },
+  {
+    "name": "learned",
+    "trans": [
+      "adj. 博学的；有学问的；学术上的"
+    ],
+    "usphone": "[ˈlɜːrnɪd]",
+    "ukphone": "[ˈlɜːnɪd]"
+  },
+  {
+    "name": "least",
+    "trans": [
+      "adj. 最小的；最少的（little的最高级）",
+      "adv. 最小；最少",
+      "n. 最小；最少"
+    ],
+    "usphone": "[liːst]",
+    "ukphone": "[liːst]"
+  },
+  {
+    "name": "leather",
+    "trans": [
+      "n. 皮革；皮革制品",
+      "vt. 用皮革包盖；抽打",
+      "adj. 皮的；皮革制的"
+    ],
+    "usphone": "[ˈleðər]",
+    "ukphone": "[ˈleðə(r)]"
+  },
+  {
+    "name": "leave",
+    "trans": [
+      "vt. 离开；留下；遗忘；委托",
+      "vi. 离开，出发；留下",
+      "n. 许可，同意；休假"
+    ],
+    "usphone": "[liːv]",
+    "ukphone": "[liːv]"
+  },
+  {
+    "name": "left",
+    "trans": [
+      "adj. 左边的；左派的；剩下的",
+      "adv. 在左面",
+      "n. 左边；左派；激进分子",
+      "v. 离开（leave的过去式）"
+    ],
+    "usphone": "[left]",
+    "ukphone": "[left]"
+  },
+  {
+    "name": "leg",
+    "trans": [
+      "n. 腿；支柱"
+    ],
+    "usphone": "[leɡ]",
+    "ukphone": "[leɡ]"
+  },
+  {
+    "name": "lend",
+    "trans": [
+      "vt. 贷；增添，提供；把……借给",
+      "vi. 贷款"
+    ],
+    "usphone": "[lend]",
+    "ukphone": "[lend]"
+  },
+  {
+    "name": "length",
+    "trans": [
+      "n. 长度，长；时间的长短；（语）音长"
+    ],
+    "usphone": "[leŋkθ]",
+    "ukphone": "[leŋkθ]"
+  },
+  {
+    "name": "lens",
+    "trans": [
+      "n. 透镜，镜头；眼睛中的水晶体；晶状体；隐形眼镜；汽车的灯玻璃",
+      "vt. 给……摄影"
+    ],
+    "usphone": "[lenz]",
+    "ukphone": "[lenz]"
+  },
+  {
+    "name": "less",
+    "trans": [
+      "adv. 较少地；较小地；更小地",
+      "adj. 较少的；较小的",
+      "prep. 减去",
+      "n. 较少；较小"
+    ],
+    "usphone": "[les]",
+    "ukphone": "[les]"
+  },
+  {
+    "name": "lesson",
+    "trans": [
+      "n. 教训；课",
+      "vt. 教训；上课"
+    ],
+    "usphone": "[ˈlesn]",
+    "ukphone": "[ˈlesn]"
+  },
+  {
+    "name": "let",
+    "trans": [
+      "vt. 允许，让；出租；假设；妨碍",
+      "vi. 出租；被承包",
+      "n. 障碍；出租屋"
+    ],
+    "usphone": "[let]",
+    "ukphone": "[let]"
+  },
+  {
+    "name": "letter",
+    "trans": [
+      "n. 信；字母，文字；证书；文学，学问；字面意义",
+      "vt. 写字母于",
+      "vi. 写印刷体字母"
+    ],
+    "usphone": "[ˈletər]",
+    "ukphone": "[ˈletə(r)]"
+  },
+  {
+    "name": "lever",
+    "trans": [
+      "n. 杠杆；控制杆",
+      "vt. 用杠杆撬动；把…作为杠杆",
+      "vi. 用杠杆撬"
+    ],
+    "usphone": "[ˈlevər]",
+    "ukphone": "[ˈliːvə(r)]"
+  },
+  {
+    "name": "lie",
+    "trans": [
+      "vi. 躺；说谎；位于；展现",
+      "vt. 谎骗",
+      "n. 谎言；位置"
+    ],
+    "usphone": "[laɪ]",
+    "ukphone": "[laɪ]"
+  },
+  {
+    "name": "life",
+    "trans": [
+      "n. 生活，生存；寿命"
+    ],
+    "usphone": "[laɪf]",
+    "ukphone": "[laɪf]"
+  },
+  {
+    "name": "lifetime",
+    "trans": [
+      "n. 一生；寿命；终生；使用期",
+      "adj. 一生的；终身的"
+    ],
+    "usphone": "[ˈlaɪftaɪm]",
+    "ukphone": "[ˈlaɪftaɪm]"
+  },
+  {
+    "name": "lift",
+    "trans": [
+      "vt. 举起；提升；鼓舞；空运；抄袭",
+      "vi. 消散；升起；耸立",
+      "n. 电梯；举起；起重机；搭车"
+    ],
+    "usphone": "[lɪft]",
+    "ukphone": "[lɪft]"
+  },
+  {
+    "name": "like",
+    "trans": [
+      "vt. 喜欢；想；愿意",
+      "vi. 喜欢；希望",
+      "prep. 像；如同",
+      "adj. 同样的；相似的",
+      "n. 爱好；同样的人或物",
+      "adv. 可能",
+      "conj. 好像"
+    ],
+    "usphone": "[laɪk]",
+    "ukphone": "[laɪk]"
+  },
+  {
+    "name": "likely",
+    "trans": [
+      "adj. 很可能的；合适的；有希望的",
+      "adv. 很可能；或许"
+    ],
+    "usphone": "[ˈlaɪkli]",
+    "ukphone": "[ˈlaɪkli]"
+  },
+  {
+    "name": "line",
+    "trans": [
+      "n. 路线，航线；排；绳",
+      "vt. 排成一行；划线于；以线条标示；使…起皱纹",
+      "vi. 排队；站成一排"
+    ],
+    "usphone": "[laɪn]",
+    "ukphone": "[laɪn]"
+  },
+  {
+    "name": "lion",
+    "trans": [
+      "n. 狮子；名人；勇猛的人；社交场合的名流"
+    ],
+    "usphone": "[ˈlaɪən]",
+    "ukphone": "[ˈlaɪən]"
+  },
+  {
+    "name": "lip",
+    "trans": [
+      "n. 嘴唇；边缘",
+      "vt. 以嘴唇碰",
+      "adj. 口头上的",
+      "vi. 用嘴唇"
+    ],
+    "usphone": "[lɪp]",
+    "ukphone": "[lɪp]"
+  },
+  {
+    "name": "list",
+    "trans": [
+      "n. [计] 列表；清单；目录",
+      "vi. 列于表上",
+      "vt. 列出；记入名单内"
+    ],
+    "usphone": "[lɪst]",
+    "ukphone": "[lɪst]"
+  },
+  {
+    "name": "listen",
+    "trans": [
+      "vi. 听，倾听；听从，听信",
+      "n. 听，倾听"
+    ],
+    "usphone": "[ˈlɪsn]",
+    "ukphone": "[ˈlɪs(ə)n]"
+  },
+  {
+    "name": "litre",
+    "trans": [
+      "n. [计量] 公升（米制容量单位）"
+    ],
+    "usphone": "[ˈliːtər]",
+    "ukphone": "[ˈliːtə(r)]"
+  },
+  {
+    "name": "litter",
+    "trans": [
+      "n. 垃圾；轿，担架；一窝（动物的幼崽）；凌乱",
+      "vt. 乱丢；给…垫褥草；把…弄得乱七八糟",
+      "vi. 产仔；乱扔废弃物"
+    ],
+    "usphone": "[ˈlɪtər]",
+    "ukphone": "[ˈlɪtə(r)]"
+  },
+  {
+    "name": "little",
+    "trans": [
+      "adj. 小的；很少的；短暂的；小巧可爱的",
+      "adv. 完全不",
+      "n. 少许；没有多少；短时间"
+    ],
+    "usphone": "[ˈlɪtl]",
+    "ukphone": "[ˈlɪt(ə)l]"
+  },
+  {
+    "name": "live",
+    "trans": [
+      "adj. 活的；生动的；实况转播的；精力充沛的",
+      "vt. 经历；度过",
+      "vi. 活；居住；生存"
+    ],
+    "usphone": "[lɪv; laɪv]",
+    "ukphone": "[lɪv; laɪv]"
+  },
+  {
+    "name": "lively",
+    "trans": [
+      "adj. 活泼的；生动的；真实的；生气勃勃的"
+    ],
+    "usphone": "[ˈlaɪvli]",
+    "ukphone": "[ˈlaɪvli]"
+  },
+  {
+    "name": "living",
+    "trans": [
+      "adj. 活的；现存的；活跃的；逼真的",
+      "n. 生活；生存；生计",
+      "v. 生活；居住（live的ing形式）；度过"
+    ],
+    "usphone": "[ˈlɪvɪŋ]",
+    "ukphone": "[ˈlɪvɪŋ]"
+  },
+  {
+    "name": "living room",
+    "trans": [
+      "n. 客厅；起居室"
+    ],
+    "usphone": "[ˈlɪvɪŋ ruːm]",
+    "ukphone": "['lɪvɪŋ ru:m]"
+  },
+  {
+    "name": "lonely",
+    "trans": [
+      "adj. 寂寞的；偏僻的",
+      "n. 孤独者"
+    ],
+    "usphone": "[ˈloʊnli]",
+    "ukphone": "[ˈləʊnli]"
+  },
+  {
+    "name": "long",
+    "trans": [
+      "n. 长时间；[语] 长音节；（服装的）长尺寸；长裤",
+      "adj. 长的；过长的；做多头的；长时间的；冗长的，长音",
+      "vi. 渴望；热望",
+      "adv. 长期地；始终"
+    ],
+    "usphone": "[lɔːŋ]",
+    "ukphone": "[lɒŋ]"
+  },
+  {
+    "name": "look",
+    "trans": [
+      "vt. 看；期待；注意；面向；看上去像",
+      "vi. 看；看起来；注意；面向",
+      "n. 看；样子；面容"
+    ],
+    "usphone": "[lʊk]",
+    "ukphone": "[lʊk]"
+  },
+  {
+    "name": "loop",
+    "trans": [
+      "vi. 打环；翻筋斗",
+      "n. 环；圈；弯曲部分；翻筋斗",
+      "vt. 使成环；以环连结；使翻筋斗"
+    ],
+    "usphone": "[luːp]",
+    "ukphone": "[luːp]"
+  },
+  {
+    "name": "lord",
+    "trans": [
+      "n. 主；上帝",
+      "int. 主，天啊",
+      "vt. 使成贵族",
+      "vi. 作威作福，称王称霸"
+    ],
+    "usphone": "[lɔːrd]",
+    "ukphone": "[lɔːd]"
+  },
+  {
+    "name": "lorry",
+    "trans": [
+      "n. （英）卡车；[车辆] 货车；运料车"
+    ],
+    "usphone": "[ˈlɔːri]",
+    "ukphone": "[ˈlɒri]"
+  },
+  {
+    "name": "lose",
+    "trans": [
+      "vt. 浪费；使沉溺于；使迷路；遗失；错过",
+      "vi. 失败；受损失"
+    ],
+    "usphone": "[luːz]",
+    "ukphone": "[luːz]"
+  },
+  {
+    "name": "loss",
+    "trans": [
+      "n. 减少；亏损；失败；遗失"
+    ],
+    "usphone": "[lɔːs]",
+    "ukphone": "[lɒs]"
+  },
+  {
+    "name": "lot",
+    "trans": [
+      "n. 份额；许多；命运；阄",
+      "adv. （与形容词和副词连用）很，非常；（与动词连用）非常",
+      "pron. 大量，许多",
+      "vt. 分组，把…划分（常与out连用）；把（土地）划分成块",
+      "vi. 抽签，拈阄"
+    ],
+    "usphone": "[lɑːt]",
+    "ukphone": "[lɒt]"
+  },
+  {
+    "name": "lounge",
+    "trans": [
+      "n. 休息室；闲逛；躺椅；（英）酒吧间",
+      "vi. 闲逛；懒洋洋地躺卧；闲混",
+      "vt. 虚度光阴"
+    ],
+    "usphone": "[laʊndʒ]",
+    "ukphone": "[laʊndʒ]"
+  },
+  {
+    "name": "loud",
+    "trans": [
+      "adj. 大声的，高声的；不断的；喧吵的",
+      "adv. 大声地，高声地，响亮地"
+    ],
+    "usphone": "[laʊd]",
+    "ukphone": "[laʊd]"
+  },
+  {
+    "name": "love",
+    "trans": [
+      "n. 恋爱；亲爱的；酷爱；喜爱的事物；爱情，爱意；疼爱；热爱；爱人，所爱之物",
+      "v. 爱，热爱；爱戴；赞美，称赞；喜爱；喜好；喜欢；爱慕"
+    ],
+    "usphone": "[lʌv]",
+    "ukphone": "[lʌv]"
+  },
+  {
+    "name": "lovely",
+    "trans": [
+      "adj. 可爱的；令人愉快的；爱恋的；秀丽的，优美的",
+      "n. 美女；可爱的东西"
+    ],
+    "usphone": "[ˈlʌvli]",
+    "ukphone": "[ˈlʌvli]"
+  },
+  {
+    "name": "lover",
+    "trans": [
+      "n. 爱人，恋人；爱好者",
+      "n. 小三；第三者"
+    ],
+    "usphone": "[ˈlʌvər]",
+    "ukphone": "[ˈlʌvə(r)]"
+  },
+  {
+    "name": "low",
+    "trans": [
+      "adj. 低的，浅的；卑贱的；粗俗的；消沉的",
+      "adv. 低声地；谦卑地，低下地",
+      "n. 低；低价；低点；牛叫声",
+      "vi. 牛叫"
+    ],
+    "usphone": "[loʊ]",
+    "ukphone": "[ləʊ]"
+  },
+  {
+    "name": "lower",
+    "trans": [
+      "vt. 减弱，减少；放下，降下；贬低",
+      "vi. 降低；减弱；跌落",
+      "adj. 下游的；下级的；下等的"
+    ],
+    "usphone": "[ˈloʊər]",
+    "ukphone": "[ˈləʊə(r)]"
+  },
+  {
+    "name": "luck",
+    "trans": [
+      "n. 运气；幸运；带来好运的东西",
+      "vi. 靠运气，走运；凑巧碰上"
+    ],
+    "usphone": "[lʌk]",
+    "ukphone": "[lʌk]"
+  },
+  {
+    "name": "lucky",
+    "trans": [
+      "adj. 幸运的；侥幸的"
+    ],
+    "usphone": "[ˈlʌki]",
+    "ukphone": "[ˈlʌki]"
+  },
+  {
+    "name": "luggage",
+    "trans": [
+      "n. 行李；皮箱"
+    ],
+    "usphone": "[ˈlʌɡɪdʒ]",
+    "ukphone": "[ˈlʌɡɪdʒ]"
+  },
+  {
+    "name": "lunch",
+    "trans": [
+      "n. 午餐",
+      "vt. 吃午餐；供给午餐",
+      "vi. 吃午餐；供给午餐"
+    ],
+    "usphone": "[lʌntʃ]",
+    "ukphone": "[lʌntʃ]"
+  },
+  {
+    "name": "lung",
+    "trans": [
+      "n. 肺；呼吸器"
+    ],
+    "usphone": "[lʌŋ]",
+    "ukphone": "[lʌŋ]"
+  },
+  {
+    "name": "leftover",
+    "trans": [
+      "n. 残留物；吃剩的饭菜；剩余物",
+      "adj. 残余的；吃剩的"
+    ],
+    "usphone": "[ˈleftoʊvər]",
+    "ukphone": "[ˈleftəʊvə(r)]"
+  },
+  {
+    "name": "Lima",
+    "trans": [
+      "n. 利马（秘鲁首都）"
+    ],
+    "usphone": "[ˈliːmə; ˈlaɪmə]",
+    "ukphone": "[ˈliːmə]"
+  },
+  {
+    "name": "lightweight",
+    "trans": [
+      "n. 轻量级选手；无足轻重的人",
+      "adj. 重量轻的；平均重量以下的"
+    ],
+    "usphone": "[ˈlaɪtweɪt]",
+    "ukphone": "[ˈlaɪtweɪt]"
+  },
+  {
+    "name": "lawless",
+    "trans": [
+      "adj. 非法的；无法律的"
+    ],
+    "usphone": "[ˈlɔːləs]",
+    "ukphone": "[ˈlɔːləs]"
+  },
+  {
+    "name": "laminated",
+    "trans": [
+      "adj. 层压的；层积的；薄板状的",
+      "v. 分成薄片；用薄片覆盖（laminate的过去分词）"
+    ],
+    "usphone": "[ˈlæmɪneɪtɪd]",
+    "ukphone": "[ˈlæmɪneɪtɪd]"
+  },
+  {
+    "name": "lining",
+    "trans": [
+      "n. 衬里；内层；衬套"
+    ],
+    "usphone": "[ˈlaɪnɪŋ]",
+    "ukphone": "[ˈlaɪnɪŋ]"
+  },
+  {
+    "name": "lengthy",
+    "trans": [
+      "adj. 漫长的，冗长的；啰唆的"
+    ],
+    "usphone": "[ˈleŋθi]",
+    "ukphone": "[ˈleŋθi]"
+  },
+  {
+    "name": "lifestyle",
+    "trans": [
+      "n. 生活方式",
+      "保健的"
+    ],
+    "usphone": "[ˈlaɪfstaɪl]",
+    "ukphone": "[ˈlaɪfstaɪl]"
+  },
+  {
+    "name": "logo",
+    "trans": [
+      "n. 商标，徽标；标识语"
+    ],
+    "usphone": "[ˈloʊɡoʊ]",
+    "ukphone": "[ˈləʊɡəʊ]"
+  },
+  {
+    "name": "laziness",
+    "trans": [
+      "n. 怠惰；无精打采"
+    ],
+    "usphone": "[ˈleɪzinəs]",
+    "ukphone": "[ˈleɪzinəs]"
+  },
+  {
+    "name": "lasting",
+    "trans": [
+      "adj. 持久的；永恒的",
+      "n. [纺] 厚实斜纹织物",
+      "v. 持续；维持（last的ing形式）"
+    ],
+    "usphone": "[ˈlæstɪŋ]",
+    "ukphone": "[ˈlɑːstɪŋ]"
+  },
+  {
+    "name": "lineup",
+    "trans": [
+      "n. 阵容；一组人；电视节目时间表"
+    ],
+    "usphone": "[ˈlaɪnʌp]",
+    "ukphone": "[ˈlaɪnʌp]"
+  },
+  {
+    "name": "long-term",
+    "trans": [
+      "adj. 长期的",
+      "从长远来看"
+    ],
+    "usphone": "[ˌlɔːŋ ˈtɜːrm]",
+    "ukphone": "[ˌlɒŋ ˈtɜːm]"
+  },
+  {
+    "name": "lacking",
+    "trans": [
+      "adj. 缺乏的；没有的；不足的",
+      "v. 缺少；不足（lack的ing形式）"
+    ],
+    "usphone": "[ˈlækɪŋ]",
+    "ukphone": "[ˈlækɪŋ]"
+  },
+  {
+    "name": "linguist",
+    "trans": [
+      "n. 语言学家",
+      "学多种外语的人"
+    ],
+    "usphone": "[ˈlɪŋɡwɪst]",
+    "ukphone": "[ˈlɪŋɡwɪst]"
+  },
+  {
+    "name": "luxuriant",
+    "trans": [
+      "adj. 繁茂的；丰富的；奢华的；肥沃的"
+    ],
+    "usphone": "[lʌɡˈʒʊriənt]",
+    "ukphone": "[lʌɡˈʒʊəriənt]"
+  },
+  {
+    "name": "lesser",
+    "trans": [
+      "adj. 较少的；次要的；更小的",
+      "adv. 较少地；更小地；不及"
+    ],
+    "usphone": "[ˈlesər]",
+    "ukphone": "[ˈlesə(r)]"
+  },
+  {
+    "name": "landowner",
+    "trans": [
+      "n. 地主，土地所有者"
+    ],
+    "usphone": "[ˈlændoʊnər]",
+    "ukphone": "[ˈlændəʊnə(r)]"
+  },
+  {
+    "name": "latest",
+    "trans": [
+      "adv. 最迟地；最后地",
+      "n. 最新的事物",
+      "adj. 最新的，最近的；最迟的，最后的"
+    ],
+    "usphone": "[ˈleɪtɪst]",
+    "ukphone": "[ˈleɪtɪst]"
+  },
+  {
+    "name": "lecturer",
+    "trans": [
+      "n. 讲师，演讲者"
+    ],
+    "usphone": "[ˈlektʃərər]",
+    "ukphone": "[ˈlektʃərə(r)]"
+  },
+  {
+    "name": "lessen",
+    "trans": [
+      "vt. 使…变小；使…减轻；使…变少",
+      "vi. 减少；减轻；变小"
+    ],
+    "usphone": "[ˈlesn]",
+    "ukphone": "[ˈlesn]"
+  },
+  {
+    "name": "linked",
+    "trans": [
+      "adj. 连接的；联合的；显示连环遗传的",
+      "v. 连接；串联（link的过去分词）"
+    ],
+    "usphone": "[lɪŋkt]",
+    "ukphone": "[lɪŋkt]"
+  },
+  {
+    "name": "lettuce",
+    "trans": [
+      "n. [园艺] 生菜；莴苣；（美）纸币"
+    ],
+    "usphone": "[ˈletɪs]",
+    "ukphone": "[ˈletɪs]"
+  },
+  {
+    "name": "lemonade",
+    "trans": [
+      "n. 柠檬水"
+    ],
+    "usphone": "[ˌleməˈneɪd]",
+    "ukphone": "[ˌleməˈneɪd]"
+  },
+  {
+    "name": "laundromat",
+    "trans": [
+      "n. （美）自助洗衣店"
+    ],
+    "usphone": "[ˈlɔːndrəmæt]",
+    "ukphone": "[ˈlɔːndrəmæt]"
+  },
+  {
+    "name": "loudly",
+    "trans": [
+      "adv. 大声地，响亮地"
+    ],
+    "usphone": "[ˈlaʊdli]",
+    "ukphone": "[ˈlaʊdli]"
+  },
+  {
+    "name": "locksmith",
+    "trans": [
+      "n. 钳工；修锁工；锁匠"
+    ],
+    "usphone": "[ˈlɑːksmɪθ]",
+    "ukphone": "[ˈlɒksmɪθ]"
+  },
+  {
+    "name": "legend",
+    "trans": [
+      "n. 传奇；说明；图例；刻印文字"
+    ],
+    "usphone": "[ˈledʒənd]",
+    "ukphone": "[ˈledʒənd]"
+  },
+  {
+    "name": "licence",
+    "trans": [
+      "n. 许可证，执照；特许",
+      "vt. 特许，许可；发给执照"
+    ],
+    "usphone": "[ˈlaɪsns]",
+    "ukphone": "[ˈlaɪsns]"
+  },
+  {
+    "name": "living-room",
+    "trans": [
+      "n. 起居室；客厅"
+    ],
+    "usphone": "[ˈlɪvɪŋ ruːmˌˈlɪvɪŋ rʊm]",
+    "ukphone": "[ˈlɪvɪŋ ruːm; ˈlɪvɪŋ rʊm]"
+  },
+  {
+    "name": "lyric",
+    "trans": [
+      "adj. 抒情的；吟唱的",
+      "n. 抒情诗；歌词"
+    ],
+    "usphone": "[ˈlɪrɪk]",
+    "ukphone": "[ˈlɪrɪk]"
+  },
+  {
+    "name": "layoff",
+    "trans": [
+      "n. 活动停止期间；临时解雇；操作停止；失业期"
+    ],
+    "usphone": "[ˈleɪˌɔːf]",
+    "ukphone": "[ˈleɪɒf]"
+  },
+  {
+    "name": "liable",
+    "trans": [
+      "adj. 有责任的，有义务的；应受罚的；有…倾向的；易…的"
+    ],
+    "usphone": "[ˈlaɪəbl]",
+    "ukphone": "[ˈlaɪəb(ə)l]"
+  },
+  {
+    "name": "loudspeaker",
+    "trans": [
+      "n. 喇叭，扬声器；扩音器"
+    ],
+    "usphone": "[ˌlaʊdˈspiːkər]",
+    "ukphone": "[ˌlaʊdˈspiːkə(r)]"
+  },
+  {
+    "name": "Leo",
+    "trans": [
+      "n. 狮子座；狮子（用于儿童故事寓言等）；利奥（男子名）"
+    ],
+    "usphone": "[ˈliːoʊ]",
+    "ukphone": "[ˈliːəʊ]"
+  },
+  {
+    "name": "loosely",
+    "trans": [
+      "adv. 宽松地；放荡地；轻率地"
+    ],
+    "usphone": "[ˈluːsli]",
+    "ukphone": "[ˈluːsli]"
+  },
+  {
+    "name": "lawful",
+    "trans": [
+      "adj. 合法的；法定的；法律许可的"
+    ],
+    "usphone": "[ˈlɔːfl]",
+    "ukphone": "[ˈlɔːfl]"
+  },
+  {
+    "name": "livelihood",
+    "trans": [
+      "n. 生计，生活；营生"
+    ],
+    "usphone": "[ˈlaɪvlihʊd]",
+    "ukphone": "[ˈlaɪvlihʊd]"
+  },
+  {
+    "name": "lonesome",
+    "trans": [
+      "adj. 寂寞的；人迹稀少的",
+      "n. 自己"
+    ],
+    "usphone": "[ˈloʊnsəm]",
+    "ukphone": "[ˈləʊnsəm]"
+  },
+  {
+    "name": "longevity",
+    "trans": [
+      "n. 长寿，长命；寿命"
+    ],
+    "usphone": "[lɔːnˈdʒevəti]",
+    "ukphone": "[lɒnˈdʒevəti]"
+  },
+  {
+    "name": "lunatic",
+    "trans": [
+      "adj. 疯狂的；精神错乱的；愚蠢的",
+      "n. 疯子；疯人"
+    ],
+    "usphone": "[ˈluːnətɪk]",
+    "ukphone": "[ˈluːnətɪk]"
+  },
+  {
+    "name": "luster",
+    "trans": [
+      "n. [光] 光泽；光彩",
+      "vi. 有光泽；发亮",
+      "vt. 使有光泽"
+    ],
+    "usphone": "[ˈlʌstər]",
+    "ukphone": "[ˈlʌstə(r)]"
+  },
+  {
+    "name": "lay out",
+    "trans": [
+      "n. 布局；设计；规划；安排"
+    ],
+    "usphone": "[leɪ aʊt]",
+    "ukphone": "[leɪ aʊt]"
+  },
+  {
+    "name": "lay up",
+    "trans": [
+      "na. 切入篮；“lay in”的变体"
+    ],
+    "usphone": "[ˈleɪ ʌp]",
+    "ukphone": "[ˈleɪ ʌp]"
+  },
+  {
+    "name": "live on",
+    "trans": [
+      "na. 以…为主食；靠…生活；继续活着；靠［吃］…生活"
+    ],
+    "usphone": "[lɪv ɑn]",
+    "ukphone": "[lɪv ɒn]"
+  },
+  {
+    "name": "look ahead",
+    "trans": [
+      "na. 考虑未来；“look/think/plan ahead”的变体"
+    ],
+    "usphone": "[lʊk əˈhed]",
+    "ukphone": "['lukə,hed]"
+  },
+  {
+    "name": "look in",
+    "trans": [
+      "na. 看看；顺便访问 (on somebody)"
+    ],
+    "usphone": "[ˈlʊk ɪn]",
+    "ukphone": "[ˈlʊk ɪn]"
+  },
+  {
+    "name": "look out",
+    "trans": [
+      "na. 挑选；注意；看外头；展望 (on；over)"
+    ],
+    "usphone": "[lʊk aʊt]",
+    "ukphone": "[lʊk aʊt]"
+  },
+  {
+    "name": "look for",
+    "trans": [
+      "v. 寻找；探索；渴望；盼望"
+    ],
+    "usphone": "[ˈlʊk fɔːr]",
+    "ukphone": "[ˈlʊk fɔː(r)]"
+  },
+  {
+    "name": "liberation",
+    "trans": [
+      "n. 释放，解放"
+    ],
+    "usphone": "[ˌlɪbəˈreɪʃn]",
+    "ukphone": "[ˌlɪbəˈreɪʃ(ə)n]"
+  },
+  {
+    "name": "learner",
+    "trans": [
+      "n. 初学者，学习者"
+    ],
+    "usphone": "[ˈlɜːrnər]",
+    "ukphone": "[ˈlɜːnə(r)]"
+  },
+  {
+    "name": "let down",
+    "trans": [
+      "na. 使失望；放下；丢面子"
+    ],
+    "usphone": "[ˈlet daʊn]",
+    "ukphone": "[ˈlet daʊn]"
+  },
+  {
+    "name": "linguistics",
+    "trans": [
+      "n. 语言学"
+    ],
+    "usphone": "[lɪŋˈɡwɪstɪks]",
+    "ukphone": "[lɪŋˈɡwɪstɪks]"
+  },
+  {
+    "name": "lender",
+    "trans": [
+      "n. 贷方；[金融] 出借人"
+    ],
+    "usphone": "[ˈlendər]",
+    "ukphone": "[ˈlendə(r)]"
+  },
+  {
+    "name": "low-risk",
+    "trans": [
+      "adj. 低危的,低风险的"
+    ],
+    "usphone": "[ˌloʊ ˈrɪsk]",
+    "ukphone": "[ˌləʊ ˈrɪsk]"
+  },
+  {
+    "name": "lava",
+    "trans": [
+      "n. 火山岩浆；火山所喷出的熔岩"
+    ],
+    "usphone": "[ˈlɑːvə]",
+    "ukphone": "[ˈlɑːvə]"
+  },
+  {
+    "name": "London",
+    "trans": [
+      "n. 伦敦"
+    ],
+    "usphone": "[ˈlʌndən]",
+    "ukphone": "[ˈlʌndən]"
+  },
+  {
+    "name": "laborious",
+    "trans": [
+      "adj. 勤劳的；艰苦的；费劲的"
+    ],
+    "usphone": "[ləˈbɔːriəs]",
+    "ukphone": "[ləˈbɔːriəs]"
+  },
+  {
+    "name": "landing",
+    "trans": [
+      "n. 登陆；码头；楼梯平台",
+      "v. 登陆（land的ing形式）"
+    ],
+    "usphone": "[ˈlændɪŋ]",
+    "ukphone": "[ˈlændɪŋ]"
+  },
+  {
+    "name": "lass",
+    "trans": [
+      "n. 小姑娘；情侣；（苏格兰）女佣"
+    ],
+    "usphone": "[læs]",
+    "ukphone": "[læs]"
+  },
+  {
+    "name": "lastly",
+    "trans": [
+      "adv. 最后，终于"
+    ],
+    "usphone": "[ˈlæstli]",
+    "ukphone": "[ˈlɑːstli]"
+  },
+  {
+    "name": "lavish",
+    "trans": [
+      "adj. 浪费的；丰富的；大方的",
+      "vt. 浪费；慷慨给予；滥用"
+    ],
+    "usphone": "[ˈlævɪʃ]",
+    "ukphone": "[ˈlævɪʃ]"
+  },
+  {
+    "name": "leader",
+    "trans": [
+      "n. 领导者；首领；指挥者"
+    ],
+    "usphone": "[ˈliːdər]",
+    "ukphone": "[ˈliːdə(r)]"
+  },
+  {
+    "name": "learning",
+    "trans": [
+      "n. 学习；学问",
+      "v. 学习（learn的现在分词）"
+    ],
+    "usphone": "[ˈlɜːrnɪŋ]",
+    "ukphone": "[ˈlɜːnɪŋ]"
+  },
+  {
+    "name": "leftist",
+    "trans": [
+      "n. 左派；急进派；左翼的人；左撇子",
+      "adj. 左派的；左撇子的；急进派的"
+    ],
+    "usphone": "[ˈleftɪst]",
+    "ukphone": "[ˈleftɪst]"
+  },
+  {
+    "name": "legalize",
+    "trans": [
+      "vt. 使合法化；公认；法律上认为…正当"
+    ],
+    "usphone": "[ˈliːɡəlaɪz]",
+    "ukphone": "[ˈliːɡəlaɪz]"
+  },
+  {
+    "name": "legalise",
+    "trans": [
+      "vt. 使合法化（等于legalize）"
+    ],
+    "usphone": "['li:ɡəlaiz]",
+    "ukphone": "[ˈliːɡəlaɪz]"
+  },
+  {
+    "name": "legendary",
+    "trans": [
+      "adj. 传说的，传奇的",
+      "n. 传说集；圣徒传"
+    ],
+    "usphone": "[ˈledʒənderi]",
+    "ukphone": "[ˈledʒəndri]"
+  },
+  {
+    "name": "legislate",
+    "trans": [
+      "vt. 用立法规定；通过立法",
+      "vi. 立法；制定法律"
+    ],
+    "usphone": "[ˈledʒɪsleɪt]",
+    "ukphone": "[ˈledʒɪsleɪt]"
+  },
+  {
+    "name": "legislator",
+    "trans": [
+      "n. 立法者"
+    ],
+    "usphone": "[ˈledʒɪsleɪtər]",
+    "ukphone": "[ˈledʒɪsleɪtə(r)]"
+  },
+  {
+    "name": "leisurely",
+    "trans": [
+      "adj. 悠闲的；从容的",
+      "adv. 悠闲地；从容不迫地"
+    ],
+    "usphone": "[ˈliːʒərli]",
+    "ukphone": "[ˈleʒəli]"
+  },
+  {
+    "name": "lenient",
+    "trans": [
+      "adj. 宽大的；仁慈的"
+    ],
+    "usphone": "[ˈliːniənt]",
+    "ukphone": "[ˈliːniənt]"
+  },
+  {
+    "name": "leniency",
+    "trans": [
+      "n. 宽大，仁慈；温和"
+    ],
+    "usphone": "[ˈliːniənsi]",
+    "ukphone": "[ˈliːniənsi]"
+  },
+  {
+    "name": "lesbian",
+    "trans": [
+      "adj. [心理] 女同性恋的",
+      "n. 女同性恋者"
+    ],
+    "usphone": "[ˈlezbiən]",
+    "ukphone": "[ˈlezbiən]"
+  },
+  {
+    "name": "leverage",
+    "trans": [
+      "n. 手段，影响力；杠杆作用；杠杆效率",
+      "v. 利用；举债经营"
+    ],
+    "usphone": "[ˈlevərɪdʒ]",
+    "ukphone": "[ˈliːvərɪdʒ]"
+  },
+  {
+    "name": "liar",
+    "trans": [
+      "n. 说谎的人"
+    ],
+    "usphone": "[ˈlaɪər]",
+    "ukphone": "[ˈlaɪə(r)]"
+  },
+  {
+    "name": "lieutenant",
+    "trans": [
+      "n. 中尉；副官；助理人员"
+    ],
+    "usphone": "[luːˈtenənt]",
+    "ukphone": "[lefˈtenənt]"
+  },
+  {
+    "name": "lighting",
+    "trans": [
+      "n. 照明设备，舞台灯光",
+      "v. 照明；点燃（light的ing形式）"
+    ],
+    "usphone": "[ˈlaɪtɪŋ]",
+    "ukphone": "[ˈlaɪtɪŋ]"
+  },
+  {
+    "name": "lily",
+    "trans": [
+      "n. 百合花，百合；类似百合花的植物；洁白之物",
+      "adj. 洁白的，纯洁的"
+    ],
+    "usphone": "[ˈlɪli]",
+    "ukphone": "[ˈlɪli]"
+  },
+  {
+    "name": "lime",
+    "trans": [
+      "n. 石灰；酸橙；绿黄色",
+      "vt. 撒石灰于；涂粘鸟胶于",
+      "adj. 绿黄色的"
+    ],
+    "usphone": "[laɪm]",
+    "ukphone": "[laɪm]"
+  },
+  {
+    "name": "limelight",
+    "trans": [
+      "n. 石灰光，石灰光灯；众人注目的中心",
+      "vt. 使显露头角，使受到注目"
+    ],
+    "usphone": "[ˈlaɪmlaɪt]",
+    "ukphone": "[ˈlaɪmlaɪt]"
+  },
+  {
+    "name": "linkage",
+    "trans": [
+      "n. 连接；结合；联接；联动装置"
+    ],
+    "usphone": "[ˈlɪŋkɪdʒ]",
+    "ukphone": "[ˈlɪŋkɪdʒ]"
+  },
+  {
+    "name": "lioness",
+    "trans": [
+      "n. 母狮子；雌狮"
+    ],
+    "usphone": "[ˈlaɪənes]",
+    "ukphone": "[ˈlaɪənes]"
+  },
+  {
+    "name": "lipstick",
+    "trans": [
+      "n. 口红；唇膏",
+      "vt. 涂口红",
+      "vi. 涂口红"
+    ],
+    "usphone": "[ˈlɪpstɪk]",
+    "ukphone": "[ˈlɪpstɪk]"
+  },
+  {
+    "name": "listener",
+    "trans": [
+      "n. 听众",
+      "倾听者"
+    ],
+    "usphone": "[ˈlɪsənər]",
+    "ukphone": "[ˈlɪsənə(r)]"
+  },
+  {
+    "name": "liter",
+    "trans": [
+      "n. [计量] 公升（容量单位）"
+    ],
+    "usphone": "[ˈliːtər]",
+    "ukphone": "[ˈliːtə(r)]"
+  },
+  {
+    "name": "literal",
+    "trans": [
+      "adj. 文字的；逐字的；无夸张的"
+    ],
+    "usphone": "[ˈlɪtərəl]",
+    "ukphone": "[ˈlɪtərəl]"
+  },
+  {
+    "name": "literate",
+    "trans": [
+      "adj. 受过教育的；精通文学的",
+      "n. 学者"
+    ],
+    "usphone": "[ˈlɪtərət]",
+    "ukphone": "[ˈlɪtərət]"
+  },
+  {
+    "name": "livestock",
+    "trans": [
+      "n. 牲畜；家畜"
+    ],
+    "usphone": "[ˈlaɪvstɑːk]",
+    "ukphone": "[ˈlaɪvstɒk]"
+  },
+  {
+    "name": "lobbyist",
+    "trans": [
+      "n. 说客；活动议案通过者"
+    ],
+    "usphone": "[ˈlɑːbiɪst]",
+    "ukphone": "[ˈlɒbiɪst]"
+  },
+  {
+    "name": "lodging",
+    "trans": [
+      "n. 寄宿；寄宿处；出租的房间、住房；倒伏"
+    ],
+    "usphone": "[ˈlɑːdʒɪŋ]",
+    "ukphone": "[ˈlɒdʒɪŋ]"
+  },
+  {
+    "name": "logistics",
+    "trans": [
+      "n. [军] 后勤；后勤学",
+      "物流"
+    ],
+    "usphone": "[ləˈdʒɪstɪks]",
+    "ukphone": "[ləˈdʒɪstɪks]"
+  },
+  {
+    "name": "logistic",
+    "trans": [
+      "adj. 后勤学的；[数] 符号逻辑的"
+    ],
+    "usphone": "[loˈdʒɪstɪk]",
+    "ukphone": "[lɒˈdʒɪstɪk]"
+  },
+  {
+    "name": "logistical",
+    "trans": [
+      "adj. 后勤方面的；运筹的，逻辑的"
+    ],
+    "usphone": "[ləˈdʒɪstɪk(ə)l]",
+    "ukphone": "[ləˈdʒɪstɪk(ə)l]"
+  },
+  {
+    "name": "loneliness",
+    "trans": [
+      "n. 寂寞，孤独"
+    ],
+    "usphone": "[ˈloʊnlinəs]",
+    "ukphone": "[ˈləʊnlinəs]"
+  },
+  {
+    "name": "longitudinal",
+    "trans": [
+      "adj. 长度的，纵向的；经线的"
+    ],
+    "usphone": "[ˌlɑːndʒəˈtuːdənl]",
+    "ukphone": "[ˌlɒŋɡɪˈtjuːdɪnl; ˌlɒndʒɪˈtjuːdɪnl]"
+  },
+  {
+    "name": "loophole",
+    "trans": [
+      "n. 漏洞；枪眼；换气孔；射弹孔"
+    ],
+    "usphone": "[ˈluːphoʊl]",
+    "ukphone": "[ˈluːphəʊl]"
+  },
+  {
+    "name": "loot",
+    "trans": [
+      "n. 战利品；抢劫；掠夺品",
+      "vt. 抢劫，洗劫；强夺",
+      "vi. 洗劫，掠夺；抢劫"
+    ],
+    "usphone": "[luːt]",
+    "ukphone": "[luːt]"
+  },
+  {
+    "name": "lotion",
+    "trans": [
+      "n. 洗液；洗涤剂"
+    ],
+    "usphone": "[ˈloʊʃn]",
+    "ukphone": "[ˈləʊʃn]"
+  },
+  {
+    "name": "lubrication",
+    "trans": [
+      "n. 润滑；润滑作用"
+    ],
+    "usphone": "[ˌluːbrɪˈkeɪʃn]",
+    "ukphone": "[ˌluːbrɪˈkeɪʃn]"
+  },
+  {
+    "name": "luminous",
+    "trans": [
+      "adj. 发光的；明亮的；清楚的"
+    ],
+    "usphone": "[ˈluːmɪnəs]",
+    "ukphone": "[ˈluːmɪnəs]"
+  },
+  {
+    "name": "luncheon",
+    "trans": [
+      "n. 午宴；正式的午餐会"
+    ],
+    "usphone": "[ˈlʌntʃən]",
+    "ukphone": "[ˈlʌntʃən]"
+  },
+  {
+    "name": "luxurious",
+    "trans": [
+      "adj. 奢侈的；丰富的；放纵的；特级的"
+    ],
+    "usphone": "[lʌɡˈʒʊriəs]",
+    "ukphone": "[lʌɡˈʒʊəriəs]"
+  },
+  {
+    "name": "lyrical",
+    "trans": [
+      "adj. 抒情诗调的；感情丰富的；充满愉悦的"
+    ],
+    "usphone": "[ˈlɪrɪkl]",
+    "ukphone": "[ˈlɪrɪkl]"
+  },
+  {
+    "name": "lifeless",
+    "trans": [
+      "adj. 无生命的；死气沉沉的；无趣味的"
+    ],
+    "usphone": "[ˈlaɪfləs]",
+    "ukphone": "[ˈlaɪfləs]"
+  },
+  {
+    "name": "lichen",
+    "trans": [
+      "n. 地衣；青苔",
+      "vt. 使长满地衣"
+    ],
+    "usphone": "[ˈlaɪkənˌˈlɪtʃən]",
+    "ukphone": "[ˈlaɪkən; ˈlɪtʃən]"
+  },
+  {
+    "name": "larva",
+    "trans": [
+      "n. [水产] 幼体，[昆] 幼虫"
+    ],
+    "usphone": "[ˈlɑːrvə]",
+    "ukphone": "[ˈlɑːvə]"
+  },
+  {
+    "name": "landfill",
+    "trans": [
+      "n. 垃圾填埋地；垃圾堆"
+    ],
+    "usphone": "[ˈlændfɪl]",
+    "ukphone": "[ˈlændfɪl]"
+  },
+  {
+    "name": "lizard",
+    "trans": [
+      "n. 蜥蜴；类蜥蜴爬行动物"
+    ],
+    "usphone": "[ˈlɪzərd]",
+    "ukphone": "[ˈlɪzəd]"
+  },
+  {
+    "name": "lade",
+    "trans": [
+      "vt. 装载；装（船）",
+      "vi. （用勺子）舀出；装货"
+    ],
+    "usphone": "[leɪd]",
+    "ukphone": "[leɪd]"
+  },
+  {
+    "name": "laryngeal",
+    "trans": [
+      "adj. 喉的；喉头治疗用的",
+      "n. 喉部；喉音"
+    ],
+    "usphone": "[ləˈrɪndʒiəl]",
+    "ukphone": "[ləˈrɪndʒiəl]"
+  },
+  {
+    "name": "leafy",
+    "trans": [
+      "adj. 多叶的；叶状的；叶茂盛的"
+    ],
+    "usphone": "[ˈliːfi]",
+    "ukphone": "[ˈliːfi]"
+  },
+  {
+    "name": "locomotion",
+    "trans": [
+      "n. 运动；移动；旅行"
+    ],
+    "usphone": "[ˌloʊkəˈmoʊʃn]",
+    "ukphone": "[ˌləʊkəˈməʊʃn]"
+  },
+  {
+    "name": "localize",
+    "trans": [
+      "vt. 使地方化；使局部化；停留在一地方",
+      "vi. 局部化；集中"
+    ],
+    "usphone": "[ˈloʊkəlaɪz]",
+    "ukphone": "[ˈləʊkəlaɪz]"
+  },
+  {
+    "name": "lug",
+    "trans": [
+      "n. 支托；接线片；耳状物",
+      "vt. 用力拉或拖",
+      "vi. 用力拉或拖"
+    ],
+    "usphone": "[lʌɡ]",
+    "ukphone": "[lʌɡ]"
+  },
+  {
+    "name": "landform",
+    "trans": [
+      "n. [地理] 地形"
+    ],
+    "usphone": "[ˈlændfɔːrm]",
+    "ukphone": "[ˈlændfɔːm]"
+  },
+  {
+    "name": "landmass",
+    "trans": [
+      "n. 大陆"
+    ],
+    "usphone": "[ˈlændmæs]",
+    "ukphone": "[ˈlændmæs]"
+  },
+  {
+    "name": "lee",
+    "trans": [
+      "n. 保护；背风处",
+      "adj. 保护的；庇荫的；避风的"
+    ],
+    "usphone": "[liː]",
+    "ukphone": "[liː]"
+  },
+  {
+    "name": "legume",
+    "trans": [
+      "n. 豆类；豆科植物；豆荚"
+    ],
+    "usphone": "[ˈleɡjuːmˌlɪˈɡjuːm]",
+    "ukphone": "[ˈleɡjuːm; lɪˈɡjuːm]"
+  },
+  {
+    "name": "locus",
+    "trans": [
+      "n. [数] 轨迹；地点，所在地"
+    ],
+    "usphone": "[ˈloʊkəs]",
+    "ukphone": "[ˈləʊkəs]"
+  },
+  {
+    "name": "lethal",
+    "trans": [
+      "adj. 致命的，致死的",
+      "n. 致死因子"
+    ],
+    "usphone": "[ˈliːθl]",
+    "ukphone": "[ˈliːθ(ə)l]"
+  },
+  {
+    "name": "lobe",
+    "trans": [
+      "n. （脑、肺等的）叶；裂片；耳垂；波瓣"
+    ],
+    "usphone": "[loʊb]",
+    "ukphone": "[ləʊb]"
+  },
+  {
+    "name": "lavaliere",
+    "trans": [
+      "n. 项链上的垂饰"
+    ],
+    "usphone": "[ˌlævəˈlɪr]",
+    "ukphone": "[ˌlævəˈlɪə]"
+  },
+  {
+    "name": "landslide",
+    "trans": [
+      "n. [地质] 山崩；大胜利",
+      "vi. 发生山崩；以压倒优势获胜"
+    ],
+    "usphone": "[ˈlændslaɪd]",
+    "ukphone": "[ˈlændslaɪd]"
+  },
+  {
+    "name": "lilac",
+    "trans": [
+      "n. 淡紫色；丁香花；[植] 紫丁香",
+      "adj. 淡紫色的"
+    ],
+    "usphone": "[ˈlaɪlək]",
+    "ukphone": "[ˈlaɪlək]"
+  },
+  {
+    "name": "lull",
+    "trans": [
+      "vt. 使平静；使安静；哄骗",
+      "vi. 平息；减弱；停止",
+      "n. 间歇；暂停；暂时平静"
+    ],
+    "usphone": "[lʌl]",
+    "ukphone": "[lʌl]"
+  },
+  {
+    "name": "Latino",
+    "trans": [
+      "adj. 拉丁美洲的；拉丁美洲人的",
+      "n. 拉丁美洲人"
+    ],
+    "usphone": "[læˈtiːnoʊ]",
+    "ukphone": "[læˈtiːnəʊ]"
+  },
+  {
+    "name": "leery",
+    "trans": [
+      "adj. 机敏的；狡猾的；猜疑的；送秋波的"
+    ],
+    "usphone": "[ˈlɪri]",
+    "ukphone": "[ˈlɪəri]"
+  },
+  {
+    "name": "legitimately",
+    "trans": [
+      "adv. 合理地；正当地"
+    ],
+    "usphone": "[lɪˈdʒɪtɪmətli]",
+    "ukphone": "[lɪˈdʒɪtɪmətli]"
+  },
+  {
+    "name": "laughable",
+    "trans": [
+      "adj. 有趣的，可笑的"
+    ],
+    "usphone": "[ˈlæfəbl]",
+    "ukphone": "[ˈlɑːfəbl]"
+  },
+  {
+    "name": "large-scale",
+    "trans": [
+      "adj. 大规模的，大范围的；大比例尺的"
+    ],
+    "usphone": "[ˌlɑːrdʒ ˈskeɪl]",
+    "ukphone": "[ˌlɑːdʒ ˈskeɪl]"
+  },
+  {
+    "name": "lush",
+    "trans": [
+      "adj. 丰富的，豪华的；苍翠繁茂的",
+      "vi. 喝酒",
+      "n. 酒；酒鬼",
+      "vt. 饮"
+    ],
+    "usphone": "[lʌʃ]",
+    "ukphone": "[lʌʃ]"
+  },
+  {
+    "name": "lax",
+    "trans": [
+      "n. 松元音；泻肚",
+      "adj. 松的；松懈的；腹泻的",
+      "adj. 不严格的；不严谨的"
+    ],
+    "usphone": "[læks]",
+    "ukphone": "[læks]"
+  },
+  {
+    "name": "laconic",
+    "trans": [
+      "adj. 简洁的，简明的"
+    ],
+    "usphone": "[ləˈkɑːnɪk]",
+    "ukphone": "[ləˈkɒnɪk]"
+  },
+  {
+    "name": "lament",
+    "trans": [
+      "n. 挽歌；恸哭；悲痛之情",
+      "vi. 哀悼；悲叹；悔恨",
+      "vt. 哀悼；痛惜"
+    ],
+    "usphone": "[ləˈment]",
+    "ukphone": "[ləˈment]"
+  },
+  {
+    "name": "legible",
+    "trans": [
+      "adj. 清晰的；易读的；易辨认的"
+    ],
+    "usphone": "[ˈledʒəbl]",
+    "ukphone": "[ˈledʒəb(ə)l]"
+  },
+  {
+    "name": "localise",
+    "trans": [
+      "vt. 使局部化，使具有地方色彩"
+    ],
+    "usphone": "['ləukəlaiz]",
+    "ukphone": "[ˈləʊkəlaɪz]"
+  },
+  {
+    "name": "loath",
+    "trans": [
+      "adj. 勉强的；不情愿的（等于loth）"
+    ],
+    "usphone": "[loʊθ]",
+    "ukphone": "[ləʊθ]"
+  },
+  {
+    "name": "lurk",
+    "trans": [
+      "vi. 潜伏；潜藏；埋伏",
+      "n. 潜伏；埋伏"
+    ],
+    "usphone": "[lɜːrk]",
+    "ukphone": "[lɜːk]"
+  },
+  {
+    "name": "languish",
+    "trans": [
+      "vi. 憔悴；凋萎；失去活力；苦思"
+    ],
+    "usphone": "[ˈlæŋɡwɪʃ]",
+    "ukphone": "[ˈlæŋɡwɪʃ]"
+  },
+  {
+    "name": "laden",
+    "trans": [
+      "adj. 负载的；装满的；苦恼的",
+      "vt. 装载（等于lade）",
+      "vi. 装载（等于lade）",
+      "v. 装载（lade的过去分词）"
+    ],
+    "usphone": "[ˈleɪdn]",
+    "ukphone": "[ˈleɪdn]"
+  },
+  {
+    "name": "libel",
+    "trans": [
+      "n. 诽谤罪；诋毁；毁坏名誉的东西；控诉书",
+      "vt. 中伤；控告；对…进行诽谤",
+      "vi. 进行文字诽谤"
+    ],
+    "usphone": "[ˈlaɪbl]",
+    "ukphone": "[ˈlaɪb(ə)l]"
+  },
+  {
+    "name": "ludicrous",
+    "trans": [
+      "adj. 滑稽的；荒唐的"
+    ],
+    "usphone": "[ˈluːdɪkrəs]",
+    "ukphone": "[ˈluːdɪkrəs]"
+  },
+  {
+    "name": "liaise",
+    "trans": [
+      "vi. 保持联络；担任联络官"
+    ],
+    "usphone": "[liˈeɪz]",
+    "ukphone": "[liˈeɪz]"
+  },
+  {
+    "name": "lack of",
+    "trans": [
+      "v. 缺乏"
+    ],
+    "usphone": "[læk əv]",
+    "ukphone": "[læk ɒv]"
+  },
+  {
+    "name": "lie in",
+    "trans": [
+      "na. 存在于；(分娩后)坐月子"
+    ],
+    "usphone": "[ˌlaɪ ˈɪn]",
+    "ukphone": "[ˌlaɪ ˈɪn]"
+  },
+  {
+    "name": "look after",
+    "trans": [
+      "na. 照看；照顾；看管；对…负责"
+    ],
+    "usphone": "[lʊk ˈæftər]",
+    "ukphone": "[lʊk ˈɑːftə(r)]"
+  },
+  {
+    "name": "lotus",
+    "trans": [
+      "n. 莲花（汽车品牌）"
+    ],
+    "usphone": "[ˈloʊtəs]",
+    "ukphone": "[ˈləʊtəs]"
+  },
+  {
+    "name": "licentiousness",
+    "trans": [
+      "n. 放荡；放肆"
+    ],
+    "usphone": "[laɪˈsenʃəsnəs]",
+    "ukphone": "[laɪˈsenʃəsnəs]"
+  },
+  {
+    "name": "lubricant",
+    "trans": [
+      "n. 润滑剂；润滑油",
+      "adj. 润滑的"
+    ],
+    "usphone": "[ˈluːbrɪkənt]",
+    "ukphone": "[ˈluːbrɪkənt]"
+  },
+  {
+    "name": "laxative",
+    "trans": [
+      "n. 泻药；[药] 缓泻药",
+      "adj. 通便的"
+    ],
+    "usphone": "[ˈlæksətɪv]",
+    "ukphone": "[ˈlæksətɪv]"
+  },
+  {
+    "name": "lie down",
+    "trans": [
+      "v. 躺下；不反抗；屈服；顺从"
+    ],
+    "usphone": "[ˌlaɪ ˈdaʊn]",
+    "ukphone": "[ˌlaɪ ˈdaʊn]"
+  },
+  {
+    "name": "levity",
+    "trans": [
+      "n. 多变；轻浮；轻率；不稳定"
+    ],
+    "usphone": "[ˈlevəti]",
+    "ukphone": "[ˈlevəti]"
+  },
+  {
+    "name": "lukewarm",
+    "trans": [
+      "adj. 冷淡的；微温的；不够热心的"
+    ],
+    "usphone": "[ˌluːkˈwɔːrm]",
+    "ukphone": "[ˌluːkˈwɔːm]"
+  },
+  {
+    "name": "lop",
+    "trans": [
+      "vt. 砍伐；剪去树枝",
+      "vi. 砍，删；闲荡；下垂",
+      "n. 剪下的树枝",
+      "adj. 垂下的"
+    ],
+    "usphone": "[lɑːp]",
+    "ukphone": "[lɒp]"
+  },
+  {
+    "name": "languid",
+    "trans": [
+      "adj. 倦怠的；呆滞的；软弱无力的"
+    ],
+    "usphone": "[ˈlæŋɡwɪd]",
+    "ukphone": "[ˈlæŋɡwɪd]"
+  },
+  {
+    "name": "lurch",
+    "trans": [
+      "n. 突然倾斜；蹒跚；挫折",
+      "vi. 倾斜；蹒跚",
+      "vt. 击败"
+    ],
+    "usphone": "[lɜːrtʃ]",
+    "ukphone": "[lɜːtʃ]"
+  },
+  {
+    "name": "loiter",
+    "trans": [
+      "vi. 虚度；闲荡；徘徊",
+      "vt. 虚度；闲荡；混"
+    ],
+    "usphone": "[ˈlɔɪtər]",
+    "ukphone": "[ˈlɔɪtə(r)]"
+  },
+  {
+    "name": "loathe",
+    "trans": [
+      "vt. 讨厌，厌恶"
+    ],
+    "usphone": "[loʊð]",
+    "ukphone": "[ləʊð]"
+  },
+  {
+    "name": "liquidate",
+    "trans": [
+      "vt. 清算；偿付；消除",
+      "vi. 清算；清理债务"
+    ],
+    "usphone": "[ˈlɪkwɪdeɪt]",
+    "ukphone": "[ˈlɪkwɪdeɪt]"
+  },
+  {
+    "name": "lunge",
+    "trans": [
+      "n. 刺；跃进；刺进；套马索",
+      "vt. 刺；戳；使前冲",
+      "vi. 刺；突进"
+    ],
+    "usphone": "[lʌndʒ]",
+    "ukphone": "[lʌndʒ]"
+  },
+  {
+    "name": "lucid",
+    "trans": [
+      "adj. 明晰的；透明的；易懂的；头脑清楚的"
+    ],
+    "usphone": "[ˈluːsɪd]",
+    "ukphone": "[ˈluːsɪd]"
+  },
+  {
+    "name": "luscious",
+    "trans": [
+      "adj. 甘美的；满足感官的"
+    ],
+    "usphone": "[ˈlʌʃəs]",
+    "ukphone": "[ˈlʌʃəs]"
+  },
+  {
+    "name": "livid",
+    "trans": [
+      "adj. 铅色的；青灰色的；非常生气的"
+    ],
+    "usphone": "[ˈlɪvɪd]",
+    "ukphone": "[ˈlɪvɪd]"
+  },
+  {
+    "name": "loll",
+    "trans": [
+      "vi. 懒洋洋地倚靠",
+      "vt. 懒洋洋地倚靠"
+    ],
+    "usphone": "[lɑːl]",
+    "ukphone": "[lɒl]"
+  },
+  {
+    "name": "legitimize",
+    "trans": [
+      "vt. 使…合法；立为嫡嗣"
+    ],
+    "usphone": "[lɪˈdʒɪtəmaɪz]",
+    "ukphone": "[lɪˈdʒɪtəmaɪz]"
+  },
+  {
+    "name": "lighten",
+    "trans": [
+      "vi. 减轻；发亮",
+      "vt. 使照亮；使轻松"
+    ],
+    "usphone": "[ˈlaɪtn]",
+    "ukphone": "[ˈlaɪtn]"
+  },
+  {
+    "name": "lacquer",
+    "trans": [
+      "vt. 涂漆；使表面光泽",
+      "n. 漆；漆器"
+    ],
+    "usphone": "[ˈlækər]",
+    "ukphone": "[ˈlækə(r)]"
+  },
+  {
+    "name": "ladle",
+    "trans": [
+      "vt. 不分对象予以赠送；以杓舀取",
+      "n. 钢水包；杓子；长柄杓"
+    ],
+    "usphone": "[ˈleɪdl]",
+    "ukphone": "[ˈleɪdl]"
+  },
+  {
+    "name": "lager",
+    "trans": [
+      "n. （美）贮藏啤酒（等于lager beer）"
+    ],
+    "usphone": "[ˈlɑːɡər]",
+    "ukphone": "[ˈlɑːɡə(r)]"
+  },
+  {
+    "name": "lagoon",
+    "trans": [
+      "n. [地理][水文] 泻湖；环礁湖；咸水湖"
+    ],
+    "usphone": "[ləˈɡuːn]",
+    "ukphone": "[ləˈɡuːn]"
+  },
+  {
+    "name": "lance",
+    "trans": [
+      "n. 长矛；执矛战士；柳叶刀",
+      "vt. 以长矛攻击；用柳叶刀割开；冲进",
+      "vi. 急速前进"
+    ],
+    "usphone": "[læns]",
+    "ukphone": "[lɑːns]"
+  },
+  {
+    "name": "laryngitis",
+    "trans": [
+      "n. [耳鼻喉] 喉炎"
+    ],
+    "usphone": "[ˌlærɪnˈdʒaɪtɪs]",
+    "ukphone": "[ˌlærɪnˈdʒaɪtɪs]"
+  },
+  {
+    "name": "larynx",
+    "trans": [
+      "n. [解剖] 喉；喉头"
+    ],
+    "usphone": "[ˈlærɪŋks]",
+    "ukphone": "[ˈlærɪŋks]"
+  },
+  {
+    "name": "latch",
+    "trans": [
+      "vi. 占有，抓住；闭锁",
+      "vt. 闩上；纠缠住某人",
+      "n. 门闩"
+    ],
+    "usphone": "[lætʃ]",
+    "ukphone": "[lætʃ]"
+  },
+  {
+    "name": "lathe",
+    "trans": [
+      "vt. 用车床加工",
+      "n. 车床；机床"
+    ],
+    "usphone": "[leɪð]",
+    "ukphone": "[leɪð]"
+  },
+  {
+    "name": "launderette",
+    "trans": [
+      "n. 自助洗衣店"
+    ],
+    "usphone": "[ˌlɔːndəˈret]",
+    "ukphone": "[ˌlɔːndəˈret]"
+  },
+  {
+    "name": "laurel",
+    "trans": [
+      "n. 桂冠，殊荣；月桂树",
+      "vt. 授予荣誉，使戴桂冠"
+    ],
+    "usphone": "[ˈlɔːrəl]",
+    "ukphone": "[ˈlɒrəl]"
+  },
+  {
+    "name": "ledge",
+    "trans": [
+      "n. 壁架；突出之部份；暗礁；矿层"
+    ],
+    "usphone": "[ledʒ]",
+    "ukphone": "[ledʒ]"
+  },
+  {
+    "name": "ledger",
+    "trans": [
+      "n. 总帐，分户总帐；[会计] 分类帐；帐簿；底帐；（手脚架上的）横木"
+    ],
+    "usphone": "[ˈledʒər]",
+    "ukphone": "[ˈledʒə(r)]"
+  },
+  {
+    "name": "leek",
+    "trans": [
+      "n. 韭；[园艺] 韭葱"
+    ],
+    "usphone": "[liːk]",
+    "ukphone": "[liːk]"
+  },
+  {
+    "name": "leeway",
+    "trans": [
+      "n. 余地；风压差；偏航；落后"
+    ],
+    "usphone": "[ˈliːweɪ]",
+    "ukphone": "[ˈliːweɪ]"
+  },
+  {
+    "name": "lentil",
+    "trans": [
+      "n. [作物] 兵豆，[作物] 小扁豆"
+    ],
+    "usphone": "[ˈlentl]",
+    "ukphone": "[ˈlentl]"
+  },
+  {
+    "name": "leprosy",
+    "trans": [
+      "n. 麻疯病；腐败"
+    ],
+    "usphone": "[ˈleprəsi]",
+    "ukphone": "[ˈleprəsi]"
+  },
+  {
+    "name": "leukemia",
+    "trans": [
+      "n. [内科][肿瘤] 白血病"
+    ],
+    "usphone": "[luːˈkiːmiə]",
+    "ukphone": "[lu:'ki:mɪə]"
+  },
+  {
+    "name": "leukaemia",
+    "trans": [
+      "n. 白血病"
+    ],
+    "usphone": "[luːˈkiːmiə]",
+    "ukphone": "[luːˈkiːmiə]"
+  },
+  {
+    "name": "levee",
+    "trans": [
+      "n. 堤坝（码头）；（旧时君主或显贵的）早晨接见",
+      "vt. 为…筑堤"
+    ],
+    "usphone": "[ˈlevi]",
+    "ukphone": "[ˈlevi]"
+  },
+  {
+    "name": "lexical",
+    "trans": [
+      "adj. 词汇的；[语] 词典的；词典编纂的"
+    ],
+    "usphone": "[ˈleksɪkl]",
+    "ukphone": "[ˈleksɪk(ə)l]"
+  },
+  {
+    "name": "lexicography",
+    "trans": [
+      "n. 词典编纂"
+    ],
+    "usphone": "[ˌleksɪˈkɑːɡrəfi]",
+    "ukphone": "[ˌleksɪˈkɒɡrəfi]"
+  },
+  {
+    "name": "lexis",
+    "trans": [
+      "n. 词汇；词语"
+    ],
+    "usphone": "[ˈleksɪs]",
+    "ukphone": "[ˈleksɪs]"
+  },
+  {
+    "name": "lieu",
+    "trans": [
+      "n. 代替；场所"
+    ],
+    "usphone": "[luː]",
+    "ukphone": "[luː; ljuː]"
+  },
+  {
+    "name": "ligament",
+    "trans": [
+      "n. 韧带；纽带，系带"
+    ],
+    "usphone": "[ˈlɪɡəmənt]",
+    "ukphone": "[ˈlɪɡəmənt]"
+  },
+  {
+    "name": "liken",
+    "trans": [
+      "vt. 比拟；把…比作"
+    ],
+    "usphone": "[ˈlaɪkən]",
+    "ukphone": "[ˈlaɪkən]"
+  },
+  {
+    "name": "likeness",
+    "trans": [
+      "n. 相似，相像；样子，肖像；照片，画像；相似物"
+    ],
+    "usphone": "[ˈlaɪknəs]",
+    "ukphone": "[ˈlaɪknəs]"
+  },
+  {
+    "name": "linesman",
+    "trans": [
+      "n. 巡线工人；前锋；架线工，线条员；巡边员"
+    ],
+    "usphone": "[ˈlaɪnzmən]",
+    "ukphone": "[ˈlaɪnzmən]"
+  },
+  {
+    "name": "litigation",
+    "trans": [
+      "n. 诉讼；起诉"
+    ],
+    "usphone": "[ˌlɪtɪˈɡeɪʃn]",
+    "ukphone": "[ˌlɪtɪˈɡeɪʃn]"
+  },
+  {
+    "name": "liven",
+    "trans": [
+      "vt. 使高兴，使快活",
+      "vi. 快活起来；活跃起来"
+    ],
+    "usphone": "[ˈlaɪvn]",
+    "ukphone": "[ˈlaɪvn]"
+  },
+  {
+    "name": "loft",
+    "trans": [
+      "n. 阁楼；顶楼；鸽房",
+      "vt. 把…储放在阁楼内",
+      "vi. 将球高击"
+    ],
+    "usphone": "[lɔft]",
+    "ukphone": "[lɒft]"
+  },
+  {
+    "name": "loin",
+    "trans": [
+      "n. 腰；腰部；腰肉"
+    ],
+    "usphone": "[lɔɪn]",
+    "ukphone": "[lɔɪn]"
+  },
+  {
+    "name": "lookout",
+    "trans": [
+      "n. 监视；监视哨；警戒；守望者；担心的事；前景"
+    ],
+    "usphone": "[ˈlʊkaʊt]",
+    "ukphone": "[ˈlʊkaʊt]"
+  },
+  {
+    "name": "lopsided",
+    "trans": [
+      "adj. 不平衡的，倾向一方的"
+    ],
+    "usphone": "[ˌlɑːpˈsaɪdɪd]",
+    "ukphone": "[ˌlɒpˈsaɪdɪd]"
+  },
+  {
+    "name": "louse",
+    "trans": [
+      "n. 虱子；寄生虫；卑鄙的家伙",
+      "vt. 搞糟；清除（虱子）"
+    ],
+    "usphone": "[laʊs]",
+    "ukphone": "[laʊs]"
+  },
+  {
+    "name": "lousy",
+    "trans": [
+      "adj. 讨厌的；多虱的；污秽的；极坏的"
+    ],
+    "usphone": "[ˈlaʊzi]",
+    "ukphone": "[ˈlaʊzi]"
+  },
+  {
+    "name": "lowbrow",
+    "trans": [
+      "adj. 教养浅薄的；文化修养浅薄的",
+      "n. 教养浅薄的人"
+    ],
+    "usphone": "[ˈloʊbraʊ]",
+    "ukphone": "[ˈləʊbraʊ]"
+  },
+  {
+    "name": "lullaby",
+    "trans": [
+      "n. 摇篮曲；催眠曲",
+      "vt. 唱摇篮曲使入睡"
+    ],
+    "usphone": "[ˈlʌləbaɪ]",
+    "ukphone": "[ˈlʌləbaɪ]"
+  },
+  {
+    "name": "lunacy",
+    "trans": [
+      "n. 精神失常；愚蠢的行为"
+    ],
+    "usphone": "[ˈluːnəsi]",
+    "ukphone": "[ˈluːnəsi]"
+  },
+  {
+    "name": "lust",
+    "trans": [
+      "n. 性欲；强烈的欲望",
+      "vi. 贪求，渴望"
+    ],
+    "usphone": "[lʌst]",
+    "ukphone": "[lʌst]"
+  },
+  {
+    "name": "lychee",
+    "trans": [
+      "n. [园艺] 荔枝（等于litchi）"
+    ],
+    "usphone": "[ˈliːtʃi; ˈlaɪtʃi]",
+    "ukphone": "[ˈlaɪtʃi]"
+  },
+  {
+    "name": "lynch",
+    "trans": [
+      "n. 私刑；私刑处死；（英）田埂",
+      "vt. 处以私刑；以私刑处死"
+    ],
+    "usphone": "[lɪntʃ]",
+    "ukphone": "[lɪntʃ]"
+  },
+  {
+    "name": "lovable",
+    "trans": [
+      "adj. 可爱的，讨人喜欢的"
+    ],
+    "usphone": "[ˈlʌvəbl]",
+    "ukphone": "[ˈlʌvəbl]"
+  },
+  {
+    "name": "lost",
+    "trans": [
+      "adj. 失去的；丧失的；迷惑的",
+      "v. 遗失（lose的过去分词）；失败"
+    ],
+    "usphone": "[lɔːst]",
+    "ukphone": "[lɒst]"
+  },
+  {
+    "name": "long-winded",
+    "trans": [
+      "adj. 冗长的；罗嗦的；气长的"
+    ],
+    "usphone": "[ˌlɔːŋ ˈwɪndɪd]",
+    "ukphone": "[ˌlɒŋ ˈwɪndɪd]"
+  },
+  {
+    "name": "lavender",
+    "trans": [
+      "n. 薰衣草；淡紫色",
+      "adj. 淡紫色的",
+      "vt. 用薰衣草熏"
+    ],
+    "usphone": "[ˈlævəndər]",
+    "ukphone": "[ˈlævəndə(r)]"
+  },
+  {
+    "name": "lo",
+    "trans": [
+      "int. 瞧！看！（表示惊讶或用以引起注意）"
+    ],
+    "usphone": "[loʊ]",
+    "ukphone": "[ləʊ]"
+  },
+  {
+    "name": "less than",
+    "trans": [
+      "adj. 少于"
+    ],
+    "usphone": "[les ðæn]",
+    "ukphone": "[les ðæn]"
+  },
+  {
+    "name": "let off",
+    "trans": [
+      "na. 放(枪,花炮等)；说出(俏皮话等)；宽恕"
+    ],
+    "usphone": "['letɔf]",
+    "ukphone": "['letɔf]"
+  },
+  {
+    "name": "let out",
+    "trans": [
+      "na. 放宽；打；放出；泄漏"
+    ],
+    "usphone": "[ˈlet aʊt]",
+    "ukphone": "[ˈlet aʊt]"
+  },
+  {
+    "name": "let up",
+    "trans": [
+      "na. 中止；(风雨等)减弱"
+    ],
+    "usphone": "[ˈlet ʌp]",
+    "ukphone": "[ˈlet ʌp]"
+  },
+  {
+    "name": "link up",
+    "trans": [
+      "na. 联合"
+    ],
+    "usphone": "[ˈlɪŋk ʌp]",
+    "ukphone": "[ˈlɪŋk ʌp]"
+  },
+  {
+    "name": "listen to",
+    "trans": [
+      "v. 听"
+    ],
+    "usphone": "[ˈlɪsn tu]",
+    "ukphone": "[ˈlɪsn tʊ]"
+  },
+  {
+    "name": "live in",
+    "trans": [
+      "na. 住进；(雇员)住在东家"
+    ],
+    "usphone": "[ˈlɪv ɪn]",
+    "ukphone": "[ˈlɪv ɪn]"
+  },
+  {
+    "name": "life story",
+    "trans": [
+      "n. 生平事迹"
+    ],
+    "usphone": "[ˈlaɪf stɔːri]",
+    "ukphone": "[ˈlaɪf stɔːri]"
+  },
+  {
+    "name": "long-standing",
+    "trans": [
+      "adj. 长期存在的；存在已久的"
+    ],
+    "usphone": "[ˌlɔːŋ ˈstændɪŋ]",
+    "ukphone": "[ˌlɒŋ ˈstændɪŋ]"
+  },
+  {
+    "name": "lightness",
+    "trans": [
+      "n. 轻盈；轻松；明亮；（颜色）浅淡"
+    ],
+    "usphone": "[ˈlaɪtnəs]",
+    "ukphone": "[ˈlaɪtnəs]"
+  },
+  {
+    "name": "liquid crystal display",
+    "trans": [
+      "n. 液晶显示器"
+    ],
+    "usphone": "[ˌlɪkwɪd ˌkrɪstl dɪˈspleɪ]",
+    "ukphone": "[ˌlɪkwɪd ˌkrɪstl dɪˈspleɪ]"
+  },
+  {
+    "name": "landmine",
+    "trans": [
+      "n. 地雷（等于land mine）"
+    ],
+    "usphone": "[ˈlændmaɪn]",
+    "ukphone": "[ˈlændmaɪn]"
+  },
+  {
+    "name": "luckily",
+    "trans": [
+      "adv. 幸好，侥幸；幸运地"
+    ],
+    "usphone": "[ˈlʌkɪli]",
+    "ukphone": "[ˈlʌkɪli]"
+  },
+  {
+    "name": "longstanding",
+    "trans": [
+      "adj. 长期存在的；长时间的"
+    ],
+    "usphone": "[ˌlɔːŋˈstændɪŋ]",
+    "ukphone": "[ˌlɒŋˈstændɪŋ]"
+  },
+  {
+    "name": "lingual",
+    "trans": [
+      "adj. 语言的；舌的，舌音的",
+      "n. 舌音，舌音字"
+    ],
+    "usphone": "[ˈlɪŋɡwəl]",
+    "ukphone": "[ˈlɪŋɡwəl]"
+  },
+  {
+    "name": "liberated",
+    "trans": [
+      "adj. 无拘束的；放纵的（尤指在社交和性关系方面）",
+      "v. 解放；使摆脱束缚（liberate的过去式）"
+    ],
+    "usphone": "[ˈlɪbəreɪtɪd]",
+    "ukphone": "[ˈlɪbəreɪtɪd]"
+  },
+  {
+    "name": "low-level",
+    "trans": [
+      "adj. 低水平的；低级别的"
+    ],
+    "usphone": "[ˌloʊ ˈlevl]",
+    "ukphone": "[ˌləʊ ˈlevl]"
+  },
+  {
+    "name": "laureate",
+    "trans": [
+      "adj. 戴桂冠的；荣誉的",
+      "n. 桂冠诗人；得奖者",
+      "vt. 使戴桂冠"
+    ],
+    "usphone": "[ˈlɔːriət]",
+    "ukphone": "[ˈlɒriət]"
+  },
+  {
+    "name": "liveliness",
+    "trans": [
+      "n. 活泼；热烈；鲜明"
+    ],
+    "usphone": "[ˈlaɪvlinəs]",
+    "ukphone": "[ˈlaɪvlinəs]"
+  },
+  {
+    "name": "level off",
+    "trans": [
+      "na. 弄平；达到同一水准；(物价等)稳定；(飞机降落前)水平飞行"
+    ],
+    "usphone": "['levlɔf]",
+    "ukphone": "['levlɔf]"
+  },
+  {
+    "name": "laborsaving",
+    "trans": [
+      "adj. 节省劳力的，省力气的"
+    ],
+    "usphone": "[læbərˈseɪvɪŋ]",
+    "ukphone": "[ˈleɪbəˌseɪvɪŋ]"
+  },
+  {
+    "name": "lengthen",
+    "trans": [
+      "vt. 使延长；加长",
+      "vi. 延长；变长"
+    ],
+    "usphone": "[ˈleŋθən]",
+    "ukphone": "[ˈleŋθən]"
+  },
+  {
+    "name": "lineament",
+    "trans": [
+      "n. 容貌；相貌；面部轮廓"
+    ],
+    "usphone": "[ˈlɪniəmənt]",
+    "ukphone": "[ˈlɪnɪəmənt]"
+  },
+  {
+    "name": "Lucky",
+    "trans": [
+      "adj. 幸运的；侥幸的"
+    ],
+    "usphone": "[ˈlʌki]",
+    "ukphone": "[ˈlʌki]"
+  },
+  {
+    "name": "list price",
+    "trans": [
+      "n. 定价"
+    ],
+    "usphone": "[ˈlɪst praɪs]",
+    "ukphone": "[ˈlɪst praɪs]"
+  },
+  {
+    "name": "lactation",
+    "trans": [
+      "n. 哺乳；哺乳期；授乳（形容词lactational）；分泌乳汁"
+    ],
+    "usphone": "[lækˈteɪʃn]",
+    "ukphone": "[lækˈteɪʃn]"
+  },
+  {
+    "name": "leaven",
+    "trans": [
+      "vt. 使发酵；影响",
+      "vi. 渐变",
+      "n. 酵母；酵素；潜移默化的影响"
+    ],
+    "usphone": "[ˈlevn]",
+    "ukphone": "[ˈlevn]"
+  },
+  {
+    "name": "lobster",
+    "trans": [
+      "n. 龙虾",
+      "龙虾肉"
+    ],
+    "usphone": "[ˈlɑːbstər]",
+    "ukphone": "[ˈlɒbstə(r)]"
+  },
+  {
+    "name": "limestone",
+    "trans": [
+      "n. [岩] 石灰岩"
+    ],
+    "usphone": "[ˈlaɪmstoʊn]",
+    "ukphone": "[ˈlaɪmstəʊn]"
+  },
+  {
+    "name": "legislature",
+    "trans": [
+      "n. 立法机关；立法机构"
+    ],
+    "usphone": "[ˈledʒɪsleɪtʃər]",
+    "ukphone": "[ˈledʒɪslətʃə(r)]"
+  },
+  {
+    "name": "lien",
+    "trans": [
+      "n. [经] 留置权；抵押品所产生的利息"
+    ],
+    "usphone": "[ˈliːən]",
+    "ukphone": "[ˈliːən]"
+  },
+  {
+    "name": "litigant",
+    "trans": [
+      "n. 诉讼当事人",
+      "adj. 诉讼的"
+    ],
+    "usphone": "[ˈlɪtɪɡənt]",
+    "ukphone": "[ˈlɪtɪɡənt]"
+  },
+  {
+    "name": "lingo",
+    "trans": [
+      "n. 行话；术语；隐语"
+    ],
+    "usphone": "[ˈlɪŋɡoʊ]",
+    "ukphone": "[ˈlɪŋɡəʊ]"
+  },
+  {
+    "name": "locale",
+    "trans": [
+      "n. 场所，现场"
+    ],
+    "usphone": "[loʊˈkæl]",
+    "ukphone": "[ləʊˈkɑːl]"
+  },
+  {
+    "name": "lamellar",
+    "trans": [
+      "adj. 薄片状的；薄层状的"
+    ],
+    "usphone": "[ləˈmelər]",
+    "ukphone": "[ləˈmelə(r)]"
+  },
+  {
+    "name": "launder",
+    "trans": [
+      "vt. 洗涤；清洗；洗黑钱（把来路可疑的钱弄得貌似合法）",
+      "vi. 洗涤；洗熨；耐洗",
+      "n. 流水槽"
+    ],
+    "usphone": "[ˈlɔːndər]",
+    "ukphone": "[ˈlɔːndə(r)]"
+  },
+  {
+    "name": "lore",
+    "trans": [
+      "n. 知识；学问；全部传说；（动物的）眼光知识"
+    ],
+    "usphone": "[lɔːr]",
+    "ukphone": "[lɔː(r)]"
+  },
+  {
+    "name": "liquidation",
+    "trans": [
+      "n. 清算；偿还；液化；清除"
+    ],
+    "usphone": "[ˌlɪkwɪˈdeɪʃn]",
+    "ukphone": "[ˌlɪkwɪˈdeɪʃ(ə)n]"
+  },
+  {
+    "name": "lionize",
+    "trans": [
+      "vt. 把……奉为名人；游览名胜",
+      "vi. 游览名胜"
+    ],
+    "usphone": "[ˈlaɪənaɪz]",
+    "ukphone": "[ˈlaɪənaɪz]"
+  },
+  {
+    "name": "letup",
+    "trans": [
+      "n. 停止，中止，减弱"
+    ],
+    "usphone": "[ˈletˌʌp]",
+    "ukphone": "[ˈletʌp]"
+  },
+  {
+    "name": "laudable",
+    "trans": [
+      "adj. 值得赞赏的"
+    ],
+    "usphone": "[ˈlɔːdəbl]",
+    "ukphone": "[ˈlɔːdəb(ə)l]"
+  },
+  {
+    "name": "laudatory",
+    "trans": [
+      "adj. 赞美的；赞赏的；称赞的"
+    ],
+    "usphone": "[ˈlɔːdətɔːri]",
+    "ukphone": "[ˈlɔːdətəri]"
+  },
+  {
+    "name": "liquidity",
+    "trans": [
+      "n. 流动性；流动资产；[金融] 偿债能力"
+    ],
+    "usphone": "[lɪˈkwɪdəti]",
+    "ukphone": "[lɪˈkwɪdəti]"
+  },
+  {
+    "name": "line up",
+    "trans": [
+      "na. 整顿(机械等)；排成一列；使(兵士)排齐；整顿阵容"
+    ],
+    "usphone": "[ˈlaɪn ʌp]",
+    "ukphone": "[ˈlaɪn ʌp]"
+  },
+  {
+    "name": "life sentence",
+    "trans": [
+      "n. 无期徒刑；终身监禁"
+    ],
+    "usphone": "[ˈlaɪf sentəns]",
+    "ukphone": "[ˈlaɪf sentəns]"
+  },
+  {
+    "name": "light-year",
+    "trans": [
+      "n. 光年"
+    ],
+    "usphone": "[ˈlaɪt jɪr]",
+    "ukphone": "[ˈlaɪt jɪə(r); ˈlaɪt jɜː(r)]"
+  },
+  {
+    "name": "limpid",
+    "trans": [
+      "adj. 透明的；平静的，无忧虑的"
+    ],
+    "usphone": "[ˈlɪmpɪd]",
+    "ukphone": "[ˈlɪmpɪd]"
+  },
+  {
+    "name": "lurid",
+    "trans": [
+      "adj. 可怕的，耸人听闻的；火烧似的；苍白的；血红的；华丽而庸俗的"
+    ],
+    "usphone": "[ˈlʊrɪd]",
+    "ukphone": "[ˈlʊərɪd]"
+  },
+  {
+    "name": "lustre",
+    "trans": [
+      "n. 光泽，光彩",
+      "vi. 有光泽，发亮",
+      "vt. 使有光泽"
+    ],
+    "usphone": "[ˈlʌstər]",
+    "ukphone": "[ˈlʌstə(r)]"
+  },
+  {
+    "name": "lacerate",
+    "trans": [
+      "vt. 伤害，使…痛心；割裂；撕碎",
+      "adj. 受折磨的；撕碎的"
+    ],
+    "usphone": "[ˈlæsəreɪt]",
+    "ukphone": "[ˈlæsəreɪt]"
+  },
+  {
+    "name": "lengthwise",
+    "trans": [
+      "adj. 纵长的",
+      "adv. 纵长地"
+    ],
+    "usphone": "[ˈleŋkθwaɪz; ˈleŋθwaɪz]",
+    "ukphone": "[ˈleŋθwaɪz]"
+  },
+  {
+    "name": "lump-sum",
+    "trans": [
+      "adj. 一次总付的；总金额"
+    ],
+    "usphone": "[ˌlʌmp ˈsʌm]",
+    "ukphone": "[ˌlʌmp ˈsʌm]"
+  },
+  {
+    "name": "liquefied",
+    "trans": [
+      "adj. 液化的",
+      "v. 液化；溶解（liquefy的过去分词）"
+    ],
+    "usphone": "[ˈlɪkwɪfaɪd]",
+    "ukphone": "[ˈlɪkwɪfaɪd]"
+  },
+  {
+    "name": "labium",
+    "trans": [
+      "n. 唇；阴唇；下唇；唇状物"
+    ],
+    "usphone": "['leɪbɪəm]",
+    "ukphone": "[ˈleɪbɪəm]"
+  },
+  {
+    "name": "labyrinth",
+    "trans": [
+      "n. 迷宫；[解剖] 迷路；难解的事物"
+    ],
+    "usphone": "[ˈlæbərɪnθ]",
+    "ukphone": "[ˈlæbərɪnθ]"
+  },
+  {
+    "name": "lachrymal",
+    "trans": [
+      "adj. 泪的; 流泪的; 啜泣的; 泪腺的",
+      "n. 泪腺"
+    ],
+    "usphone": "[ˈlækrəməl]",
+    "ukphone": "[ˈlækrɪməl]"
+  },
+  {
+    "name": "lactate",
+    "trans": [
+      "vi. 分泌乳汁；喂奶",
+      "n. [有化] 乳酸盐"
+    ],
+    "usphone": "[ˈlækteɪt]",
+    "ukphone": "[lækˈteɪt]"
+  },
+  {
+    "name": "lactose",
+    "trans": [
+      "n. [有化] 乳糖"
+    ],
+    "usphone": "[ˈlæktoʊsˌˈlæktoʊz]",
+    "ukphone": "[ˈlæktəʊs]"
+  },
+  {
+    "name": "lancet",
+    "trans": [
+      "n. [外科] 小刀，柳叶刀；尖顶窗；小枪"
+    ],
+    "usphone": "[ˈlænsɪt]",
+    "ukphone": "[ˈlɑːnsɪt]"
+  },
+  {
+    "name": "lard",
+    "trans": [
+      "vt. 润色，点缀；涂加猪油",
+      "n. 猪油"
+    ],
+    "usphone": "[lɑːrd]",
+    "ukphone": "[lɑːd]"
+  },
+  {
+    "name": "laryngology",
+    "trans": [
+      "n. 喉科学"
+    ],
+    "usphone": "[ˌlærɪŋˈɡɑːlədʒi]",
+    "ukphone": "[ˌlærɪŋˈɡɒlədʒi]"
+  },
+  {
+    "name": "lassitude",
+    "trans": [
+      "n. 疲乏；懒散；厌倦"
+    ],
+    "usphone": "[ˈlæsɪtuːd]",
+    "ukphone": "[ˈlæsɪtjuːd]"
+  },
+  {
+    "name": "latex",
+    "trans": [
+      "n. 乳胶；乳液"
+    ],
+    "usphone": "[ˈleɪteks]",
+    "ukphone": "[ˈleɪteks]"
+  },
+  {
+    "name": "lattice",
+    "trans": [
+      "n. [晶体] 晶格；格子；格架",
+      "vt. 使成格子状"
+    ],
+    "usphone": "[ˈlætɪs]",
+    "ukphone": "[ˈlætɪs]"
+  },
+  {
+    "name": "layering",
+    "trans": [
+      "n. 分层；压条法；成层",
+      "v. 分层而成；用压条法培植（layer的ing形式）"
+    ],
+    "usphone": "[ˈleərɪŋ]",
+    "ukphone": "[ˈleɪərɪŋ]"
+  },
+  {
+    "name": "leopard",
+    "trans": [
+      "n. 豹；美洲豹"
+    ],
+    "usphone": "[ˈlepərd]",
+    "ukphone": "[ˈlepəd]"
+  },
+  {
+    "name": "lesion",
+    "trans": [
+      "n. 损害；身体上的伤害；机能障碍"
+    ],
+    "usphone": "[ˈliːʒn]",
+    "ukphone": "[ˈliːʒn]"
+  },
+  {
+    "name": "lethargic",
+    "trans": [
+      "adj. 昏睡的；无生气的"
+    ],
+    "usphone": "[ləˈθɑːrdʒɪk]",
+    "ukphone": "[ləˈθɑːdʒɪk]"
+  },
+  {
+    "name": "lethargy",
+    "trans": [
+      "n. 昏睡；死气沉沉；嗜眠（症）"
+    ],
+    "usphone": "[ˈleθərdʒi]",
+    "ukphone": "[ˈleθədʒi]"
+  },
+  {
+    "name": "leukocyte",
+    "trans": [
+      "n. 白血球"
+    ],
+    "usphone": "[ˈluːkəsaɪt]",
+    "ukphone": "[ˈluːkəsaɪt]"
+  },
+  {
+    "name": "leukocytosis",
+    "trans": [
+      "n. 白血球增多；[内科] 白细胞增多"
+    ],
+    "usphone": "[ˌlʊkoʊsaɪˈtoʊsɪs]",
+    "ukphone": "[ˌluːkəʊsaɪˈtəʊsɪs]"
+  },
+  {
+    "name": "lipase",
+    "trans": [
+      "n. [生化] 脂肪酶；脂肪分解酵素"
+    ],
+    "usphone": "[ˈlaɪpeɪsˌˈlɪpeɪs]",
+    "ukphone": "[ˈlaɪpeɪz; ˈlɪpeɪz]"
+  },
+  {
+    "name": "lipid",
+    "trans": [
+      "n. [生化] 脂质；油脂"
+    ],
+    "usphone": "[ˈlɪpɪd]",
+    "ukphone": "[ˈlɪpɪd]"
+  },
+  {
+    "name": "lipoid",
+    "trans": [
+      "n. 类脂",
+      "adj. 类脂的"
+    ],
+    "usphone": "[ˈlaɪˌpɔɪd]",
+    "ukphone": "[ˈlɪpɔɪd]"
+  },
+  {
+    "name": "listless",
+    "trans": [
+      "adj. 倦怠的；无精打采的；百无聊赖的"
+    ],
+    "usphone": "[ˈlɪstləs]",
+    "ukphone": "[ˈlɪstləs]"
+  },
+  {
+    "name": "litany",
+    "trans": [
+      "n. 冗长而枯燥的陈述；连祷"
+    ],
+    "usphone": "[ˈlɪtəni]",
+    "ukphone": "[ˈlɪtəni]"
+  },
+  {
+    "name": "lithiasis",
+    "trans": [
+      "n. 结石病"
+    ],
+    "usphone": "[lɪˈθaɪəsɪs]",
+    "ukphone": "[lɪˈθaɪəsɪs]"
+  },
+  {
+    "name": "lithograph",
+    "trans": [
+      "n. 平版印刷",
+      "vt. 用平版印刷术印刷"
+    ],
+    "usphone": "[ˈlɪθəɡræf]",
+    "ukphone": "[ˈlɪθəɡrɑːf]"
+  },
+  {
+    "name": "lithosphere",
+    "trans": [
+      "n. 陆界，[地物][地质] 岩石圈"
+    ],
+    "usphone": "[ˈlɪθəsfɪr]",
+    "ukphone": "[ˈlɪθəsfɪə(r)]"
+  },
+  {
+    "name": "lobule",
+    "trans": [
+      "n. （肝、肺等的）[植] 小叶；[生物] 小裂片"
+    ],
+    "usphone": "[ˈlɑbjʊl]",
+    "ukphone": "[ˈlɒbjuːl]"
+  },
+  {
+    "name": "locust",
+    "trans": [
+      "n. [植保] 蝗虫，[昆] 蚱蜢"
+    ],
+    "usphone": "[ˈloʊkəst]",
+    "ukphone": "[ˈləʊkəst]"
+  },
+  {
+    "name": "loquacious",
+    "trans": [
+      "adj. 饶舌的，多话的"
+    ],
+    "usphone": "[ləˈkweɪʃəs]",
+    "ukphone": "[ləˈkweɪʃəs]"
+  },
+  {
+    "name": "luetic",
+    "trans": [
+      "a. 梅毒的",
+      "[医] 梅毒的"
+    ],
+    "usphone": "[ljʊˈetɪk]",
+    "ukphone": "[luːˈetɪk]"
+  },
+  {
+    "name": "lumbar",
+    "trans": [
+      "n. 腰椎；腰神经；腰动脉",
+      "adj. 腰的；腰部的"
+    ],
+    "usphone": "[ˈlʌmbər]",
+    "ukphone": "[ˈlʌmbə(r)]"
+  },
+  {
+    "name": "lumen",
+    "trans": [
+      "n. 流明（光束的能量单位）；（管状器官内的）内腔"
+    ],
+    "usphone": "[ˈluːmɪn]",
+    "ukphone": "[ˈluːmɪn]"
+  },
+  {
+    "name": "lusty",
+    "trans": [
+      "adj. 精力充沛的；健壮的"
+    ],
+    "usphone": "[ˈlʌsti]",
+    "ukphone": "[ˈlʌsti]"
+  },
+  {
+    "name": "lymph",
+    "trans": [
+      "n. [解剖] 淋巴，淋巴液；血清"
+    ],
+    "usphone": "[lɪmf]",
+    "ukphone": "[lɪmf]"
+  },
+  {
+    "name": "lymphocyte",
+    "trans": [
+      "n. [免疫] 淋巴细胞；淋巴球"
+    ],
+    "usphone": "[ˈlɪmfəsaɪt]",
+    "ukphone": "[ˈlɪmfəsaɪt]"
+  },
+  {
+    "name": "lyse",
+    "trans": [
+      "vi. 病状渐退；细胞溶解",
+      "vt. 溶化；溶解"
+    ],
+    "usphone": "[laɪs]",
+    "ukphone": "[laɪz; laɪs]"
+  },
+  {
+    "name": "lysis",
+    "trans": [
+      "n. 细胞溶解；病势减退；消散"
+    ],
+    "usphone": "[ˈlaɪsɪs]",
+    "ukphone": "[ˈlaɪsɪs]"
+  },
+  {
+    "name": "laborer",
+    "trans": [
+      "n. 劳动者；工人"
+    ],
+    "usphone": "[ˈleɪbərər]",
+    "ukphone": "[ˈleɪbərə(r)]"
+  },
+  {
+    "name": "labourer",
+    "trans": [
+      "n. 劳动者；劳工"
+    ],
+    "usphone": "[ˈleɪbərər]",
+    "ukphone": "[ˈleɪbərə(r)]"
+  },
+  {
+    "name": "lighter",
+    "trans": [
+      "n. 打火机；驳船；点火者",
+      "vt. 驳运",
+      "adj. 明亮的；光明的；照明好的；光线充足的"
+    ],
+    "usphone": "[ˈlaɪtər]",
+    "ukphone": "[ˈlaɪtə(r)]"
+  },
+  {
+    "name": "longing",
+    "trans": [
+      "n. 渴望，热望；憧憬",
+      "adj. 渴望的，极想得到的",
+      "v. 渴望（long的ing形式）"
+    ],
+    "usphone": "[ˈlɔːŋɪŋ]",
+    "ukphone": "[ˈlɒŋɪŋ]"
+  },
+  {
+    "name": "laceration",
+    "trans": [
+      "n. 裂伤；撕裂；割破"
+    ],
+    "usphone": "[ˌlæsəˈreɪʃn]",
+    "ukphone": "[ˌlæsəˈreɪʃn]"
+  },
+  {
+    "name": "lachrymose",
+    "trans": [
+      "adj. 爱哭的，易流泪的；悲哀的"
+    ],
+    "usphone": "[ˈlækrɪmoʊs]",
+    "ukphone": "[ˈlækrɪməʊs]"
+  },
+  {
+    "name": "lackadaisical",
+    "trans": [
+      "adj. 懒洋洋的；无精打采的；伤感的"
+    ],
+    "usphone": "[ˌlækəˈdeɪzɪkl]",
+    "ukphone": "[ˌlækəˈdeɪzɪk(ə)l]"
+  },
+  {
+    "name": "lackluster",
+    "trans": [
+      "n. 无光泽；暗淡",
+      "adj. 无光泽的；平凡的"
+    ],
+    "usphone": "[ˈlæklʌstər]",
+    "ukphone": "[ˈlæklʌstə(r)]"
+  },
+  {
+    "name": "laggard",
+    "trans": [
+      "adj. 落后的；迟钝的；迟缓的",
+      "n. 落后者；迟钝者"
+    ],
+    "usphone": "[ˈlæɡərd]",
+    "ukphone": "[ˈlæɡəd]"
+  },
+  {
+    "name": "lampoon",
+    "trans": [
+      "vt. 讽刺",
+      "n. 讽刺文章"
+    ],
+    "usphone": "[læmˈpuːn]",
+    "ukphone": "[læmˈpuːn]"
+  },
+  {
+    "name": "laud",
+    "trans": [
+      "vt. 赞美；称赞",
+      "n. 赞美；称赞；颂歌"
+    ],
+    "usphone": "[lɔːd]",
+    "ukphone": "[lɔːd]"
+  },
+  {
+    "name": "legerdemain",
+    "trans": [
+      "n. 戏法，骗术；巧妙的花招"
+    ],
+    "usphone": "[ˈledʒərdəmeɪn]",
+    "ukphone": "[ˈledʒədəmeɪn]"
+  },
+  {
+    "name": "levitate",
+    "trans": [
+      "vt. 使轻轻浮起；使飘浮空中",
+      "vi. 轻轻浮起；飘浮空中"
+    ],
+    "usphone": "[ˈlevɪteɪt]",
+    "ukphone": "[ˈlevɪteɪt]"
+  },
+  {
+    "name": "lewd",
+    "trans": [
+      "adj. 淫荡的；猥亵的；下流的"
+    ],
+    "usphone": "[luːd]",
+    "ukphone": "[luːd]"
+  },
+  {
+    "name": "lexicographer",
+    "trans": [
+      "n. 词典编纂者"
+    ],
+    "usphone": "[ˌleksɪˈkɑːɡrəfər]",
+    "ukphone": "[ˌleksɪˈkɒɡrəfə(r)]"
+  },
+  {
+    "name": "lexicon",
+    "trans": [
+      "n. 词典，辞典"
+    ],
+    "usphone": "[ˈleksɪkɑːn]",
+    "ukphone": "[ˈleksɪkən]"
+  },
+  {
+    "name": "liaison",
+    "trans": [
+      "n. 联络；（语言）连音"
+    ],
+    "usphone": "[ˈliːəzɑːnˌliˈeɪzɑːn]",
+    "ukphone": "[liˈeɪz(ə)n]"
+  },
+  {
+    "name": "liberator",
+    "trans": [
+      "n. 解放者；释放者"
+    ],
+    "usphone": "[ˈlɪbəreɪtər]",
+    "ukphone": "[ˈlɪbəreɪtə(r)]"
+  },
+  {
+    "name": "licentious",
+    "trans": [
+      "adj. 放肆的；放纵的"
+    ],
+    "usphone": "[laɪˈsenʃəs]",
+    "ukphone": "[laɪˈsenʃəs]"
+  },
+  {
+    "name": "lilliputian",
+    "trans": [
+      "adj. 小人国的；气量小的",
+      "n. 侏儒；小人国居民"
+    ],
+    "usphone": "[ˌlɪlɪˈpjuːʃn]",
+    "ukphone": "[ˌlɪlɪˈpjuːʃn]"
+  },
+  {
+    "name": "limber",
+    "trans": [
+      "adj. 柔软的；敏捷的",
+      "vt. 使柔软；将接在前车上",
+      "vi. 做准备活动"
+    ],
+    "usphone": "[ˈlɪmbər]",
+    "ukphone": "[ˈlɪmbə(r)]"
+  },
+  {
+    "name": "linchpin",
+    "trans": [
+      "n. 关键（等于lynchpin）；制轮楔；轮辖"
+    ],
+    "usphone": "[ˈlɪntʃpɪn]",
+    "ukphone": "[ˈlɪntʃpɪn]"
+  },
+  {
+    "name": "liniment",
+    "trans": [
+      "n. [药] 擦剂，[药] 搽剂"
+    ],
+    "usphone": "[ˈlɪnəmənt]",
+    "ukphone": "[ˈlɪnəmənt]"
+  },
+  {
+    "name": "lithe",
+    "trans": [
+      "adj. 轻盈的（等于lithesome）；柔软的；易弯曲的"
+    ],
+    "usphone": "[laɪð]",
+    "ukphone": "[laɪð]"
+  },
+  {
+    "name": "lope",
+    "trans": [
+      "vi. 大步慢跑",
+      "vt. 使…大步慢跑",
+      "n. 大步慢跑"
+    ],
+    "usphone": "[loʊp]",
+    "ukphone": "[ləʊp]"
+  },
+  {
+    "name": "lout",
+    "trans": [
+      "n. 笨拙的人",
+      "vt. 愚弄",
+      "vi. 鞠躬；屈服"
+    ],
+    "usphone": "[laʊt]",
+    "ukphone": "[laʊt]"
+  },
+  {
+    "name": "lugubrious",
+    "trans": [
+      "adj. 悲哀的，悲惨的"
+    ],
+    "usphone": "[ləˈɡuːbriəs]",
+    "ukphone": "[ləˈɡuːbriəs]"
+  },
+  {
+    "name": "luminary",
+    "trans": [
+      "n. 发光体；杰出人物；知识渊博的人"
+    ],
+    "usphone": "[ˈluːmɪneri]",
+    "ukphone": "[ˈluːmɪnəri]"
+  },
+  {
+    "name": "lustrous",
+    "trans": [
+      "adj. 有光泽的；光辉的"
+    ],
+    "usphone": "[ˈlʌstrəs]",
+    "ukphone": "[ˈlʌstrəs]"
+  },
+  {
+    "name": "legalization",
+    "trans": [
+      "n. [法] 合法化；法律认可"
+    ],
+    "usphone": "[ˌliːɡələˈzeɪʃn]",
+    "ukphone": "[ˌliːɡəlaɪˈzeɪʃn]"
+  },
+  {
+    "name": "lordship",
+    "trans": [
+      "n. 阁下；贵族身分（或权威）；统治"
+    ],
+    "usphone": "[ˈlɔːrdʃɪp]",
+    "ukphone": "[ˈlɔːdʃɪp]"
+  },
+  {
+    "name": "life expectancy",
+    "trans": [
+      "n. 预期寿命；预计存在（或持续）的期限"
+    ],
+    "usphone": "[ˈlaɪf ɪkˈspektənsi]",
+    "ukphone": "[ˈlaɪf ɪkspektənsi]"
+  },
+  {
+    "name": "life jacket",
+    "trans": [
+      "n. 救生衣"
+    ],
+    "usphone": "[ˈlaɪf dʒækɪt]",
+    "ukphone": "[ˈlaɪf dʒækɪt]"
+  },
+  {
+    "name": "life-saving",
+    "trans": [
+      "n. 救生",
+      "adj. 救生的"
+    ],
+    "usphone": "[ˈlaɪf seɪvɪŋ]",
+    "ukphone": "[ˈlaɪf seɪvɪŋ]"
+  },
+  {
+    "name": "Lebanon",
+    "trans": [
+      "n. 黎巴嫩（西南亚国家，位于地中海东岸）"
+    ],
+    "usphone": "[ˈlebənɑːn]",
+    "ukphone": "[ˈlebənən]"
+  },
+  {
+    "name": "LSD",
+    "trans": [
+      "abbr. 大屏显示（Large Screen Display）；激光信号装置（Laser Signal Device）；最小显著差别（Least Significant Difference）；最低有效位（Least Significant Digit）；麦角酸二乙基酰胺（一种麻醉药，lysergic acid diethylamide）"
+    ],
+    "usphone": "[ˌel es ˈdiː]",
+    "ukphone": "[ˌel es ˈdiː]"
+  },
+  {
+    "name": "landline",
+    "trans": [
+      "n. 陆上运输；地上通讯线；输送路线"
+    ],
+    "usphone": "[ˈlændlaɪn]",
+    "ukphone": "[ˈlændlaɪn]"
+  },
+  {
+    "name": "leathery",
+    "trans": [
+      "adj. 似皮革的，皮质的；坚韧如皮革的"
+    ],
+    "usphone": "[ˈleðəri]",
+    "ukphone": "[ˈleðəri]"
+  },
+  {
+    "name": "left-hand",
+    "trans": [
+      "adj. 左手的；左侧的"
+    ],
+    "usphone": "[ˈleft hænd]",
+    "ukphone": "[ˈleft hænd]"
+  },
+  {
+    "name": "lifeguard",
+    "trans": [
+      "n. 救生员；警卫",
+      "vt. 护卫，保护",
+      "vi. 当救生员"
+    ],
+    "usphone": "[ˈlaɪfɡɑːrd]",
+    "ukphone": "[ˈlaɪfɡɑːd]"
+  },
+  {
+    "name": "located",
+    "trans": [
+      "adj. 处于，位于；坐落的"
+    ],
+    "usphone": "[ˈloʊkeɪtɪd]",
+    "ukphone": "[ləʊˈkeɪtɪd]"
+  },
+  {
+    "name": "lunchtime",
+    "trans": [
+      "n. 午餐时间"
+    ],
+    "usphone": "[ˈlʌntʃtaɪm]",
+    "ukphone": "[ˈlʌntʃtaɪm]"
+  },
+  {
+    "name": "lightening",
+    "trans": [
+      "v. 减轻（lighten的ing形式）；发光",
+      "n. 孕腹轻松"
+    ],
+    "usphone": "[ˈlaɪtnɪŋ]",
+    "ukphone": "[ˈlaɪt(ə)nɪŋ]"
+  },
+  {
+    "name": "lingering",
+    "trans": [
+      "adj. 拖延的",
+      "v. 徘徊；缓慢消失；沉思（linger的ing形式）"
+    ],
+    "usphone": "[ˈlɪŋɡərɪŋ]",
+    "ukphone": "[ˈlɪŋɡərɪŋ]"
+  },
+  {
+    "name": "lyrics",
+    "trans": [
+      "n. 歌词；抒情诗（lyric的复数）"
+    ],
+    "usphone": "[ˈlɪrɪks]",
+    "ukphone": "[ˈlɪrɪks]"
+  },
+  {
+    "name": "low-grade",
+    "trans": [
+      "adj. 低级的；品质低劣的"
+    ],
+    "usphone": "[ˌloʊ ˈɡreɪd]",
+    "ukphone": "[ˌləʊ ˈɡreɪd]"
+  },
+  {
+    "name": "lighthearted",
+    "trans": [
+      "adj. 快乐的，心情愉快的；无忧无虑的"
+    ],
+    "usphone": "[ˈlaɪtˌhɑːrtɪd]",
+    "ukphone": "['lait'hɑ:tid]"
+  },
+  {
+    "name": "labored",
+    "trans": [
+      "adj. 吃力的；费劲的；不自然的",
+      "v. 工作；劳动；分娩（labor的过去分词）"
+    ],
+    "usphone": "[ˈleɪbərd]",
+    "ukphone": "[ˈleɪbəd]"
+  },
+  {
+    "name": "lectern",
+    "trans": [
+      "n. 讲台；诵经台"
+    ],
+    "usphone": "[ˈlektərn]",
+    "ukphone": "[ˈlektən]"
+  },
+  {
+    "name": "literati",
+    "trans": [
+      "n. 文人（literatus的复数）；文学界"
+    ],
+    "usphone": "[ˌlɪtəˈrɑːti]",
+    "ukphone": "[ˌlɪtəˈrɑːti]"
+  },
+  {
+    "name": "leaves",
+    "trans": [
+      "n. 树叶；花瓣（leaf的复数）",
+      "v. 离开（leave的第三人称单数）"
+    ],
+    "usphone": "[liːvz]",
+    "ukphone": "[liːvz]"
+  },
+  {
+    "name": "launcher",
+    "trans": [
+      "n. 发射器；发射台；发射者"
+    ],
+    "usphone": "[ˈlɔːntʃər]",
+    "ukphone": "[ˈlɔːntʃə(r)]"
+  },
+  {
+    "name": "leaky",
+    "trans": [
+      "adj. 漏的；有漏洞的"
+    ],
+    "usphone": "[ˈliːki]",
+    "ukphone": "[ˈliːki]"
+  },
+  {
+    "name": "lifespan",
+    "trans": [
+      "n. 寿命；预期生命期限；预期使用期限"
+    ],
+    "usphone": "[ˈlaɪfspæn]",
+    "ukphone": "[ˈlaɪfspæn]"
+  },
+  {
+    "name": "laterality",
+    "trans": [
+      "n. 对一侧面的偏重"
+    ],
+    "usphone": "[ˌlætəˈrælɪti]",
+    "ukphone": "[ˌlætəˈrælɪti]"
+  },
+  {
+    "name": "largish",
+    "trans": [
+      "adj. 稍大的；相当大的"
+    ],
+    "usphone": "[ˈlɑːrdʒɪʃ]",
+    "ukphone": "[ˈlɑːdʒɪʃ]"
+  },
+  {
+    "name": "lawlessness",
+    "trans": [
+      "n. 违法；不服从法律；不受法律制约"
+    ],
+    "usphone": "[ˈlɔːləsnəs]",
+    "ukphone": "[ˈlɔːləsnəs]"
+  },
+  {
+    "name": "legion",
+    "trans": [
+      "n. （古罗马）军团；众多；军队",
+      "adj. 众多的；大量的"
+    ],
+    "usphone": "[ˈliːdʒən]",
+    "ukphone": "[ˈliːdʒən]"
+  },
+  {
+    "name": "lopsidedness",
+    "trans": [
+      "n. 不匀称，倾向一方"
+    ],
+    "usphone": "[ˈlɑpˌsaɪdədnəs]",
+    "ukphone": "['lɔp,saididnis]"
+  },
+  {
+    "name": "lawmaker",
+    "trans": [
+      "n. 立法者"
+    ],
+    "usphone": "[ˈlɔːmeɪkər]",
+    "ukphone": "[ˈlɔːmeɪkə(r)]"
+  },
+  {
+    "name": "lifelike",
+    "trans": [
+      "adj. 栩栩如生的；逼真的"
+    ],
+    "usphone": "[ˈlaɪflaɪk]",
+    "ukphone": "[ˈlaɪflaɪk]"
+  },
+  {
+    "name": "light-hearted",
+    "trans": [
+      "adj. 轻松的；无忧无虑的"
+    ],
+    "usphone": "[ˌlaɪt ˈhɑːrtɪd]",
+    "ukphone": "[ˌlaɪt ˈhɑːtɪd]"
+  },
+  {
+    "name": "limbic",
+    "trans": [
+      "adj. 边的；缘的"
+    ],
+    "usphone": "[ˈlɪmbɪk]",
+    "ukphone": "[ˈlɪmbɪk]"
+  },
+  {
+    "name": "lockout",
+    "trans": [
+      "n. 停工；[计][自] 封锁"
+    ],
+    "usphone": "[ˈlɑːkaʊt]",
+    "ukphone": "[ˈlɒkaʊt]"
+  },
+  {
+    "name": "logicality",
+    "trans": [
+      "n. 逻辑性"
+    ],
+    "usphone": "[ˌlɑːdʒɪˈkæləti]",
+    "ukphone": "[ˌlɒdʒɪˈkælɪti]"
+  },
+  {
+    "name": "longline",
+    "trans": [
+      "n. 多钩长线"
+    ],
+    "usphone": "[ˈlɒŋlaɪn]",
+    "ukphone": "[ˈlɒŋlaɪn]"
+  },
+  {
+    "name": "loser",
+    "trans": [
+      "n. 失败者；遗失者"
+    ],
+    "usphone": "[ˈluːzər]",
+    "ukphone": "[ˈluːzə(r)]"
+  },
+  {
+    "name": "low-cost",
+    "trans": [
+      "adj. 廉价的；价格便宜的"
+    ],
+    "usphone": "[ˌloʊ ˈkɔːst]",
+    "ukphone": "[ˌləʊ ˈkɒst]"
+  },
+  {
+    "name": "lighthouse",
+    "trans": [
+      "n. 灯塔"
+    ],
+    "usphone": "[ˈlaɪthaʊs]",
+    "ukphone": "[ˈlaɪthaʊs]"
+  },
+  {
+    "name": "Lancaster",
+    "trans": [
+      "n. 兰卡斯特"
+    ],
+    "usphone": "[ˈlæŋkæstər]",
+    "ukphone": "[ˈlæŋkəstə(r)]"
+  },
+  {
+    "name": "laughing",
+    "trans": [
+      "adj. 可笑的；高兴的；带笑的",
+      "n. 笑；笑声",
+      "v. 笑（laugh的ing形式）"
+    ],
+    "usphone": "[ˈlæfɪŋ]",
+    "ukphone": "[ˈlɑːfɪŋ]"
+  },
+  {
+    "name": "lone",
+    "trans": [
+      "adj. 单身的；独自的；寂寞的；人迹稀少的"
+    ],
+    "usphone": "[loʊn]",
+    "ukphone": "[ləʊn]"
+  },
+  {
+    "name": "land mass",
+    "trans": [
+      "n. 陆块；地块"
+    ],
+    "usphone": "[ˈlænd mæs]",
+    "ukphone": "[ˈlænd mæs]"
+  },
+  {
+    "name": "legibility",
+    "trans": [
+      "n. 易读性；易辨认"
+    ],
+    "usphone": "[ˌledʒəˈbɪləti]",
+    "ukphone": "[ˌledʒəˈbɪləti]"
+  },
+  {
+    "name": "lowly",
+    "trans": [
+      "adj. 卑贱的；地位低的；谦逊的",
+      "adv. 谦逊地；位置低下地；低声地"
+    ],
+    "usphone": "[ˈloʊli]",
+    "ukphone": "[ˈləʊli]"
+  },
+  {
+    "name": "loo",
+    "trans": [
+      "n. 厕所，洗手间；赌金；卢牌戏（一种纸牌赌博）",
+      "vt. 使罚赌金"
+    ],
+    "usphone": "[luː]",
+    "ukphone": "[luː]"
+  },
+  {
+    "name": "lifelong",
+    "trans": [
+      "adj. 终身的"
+    ],
+    "usphone": "[ˈlaɪflɔːŋ]",
+    "ukphone": "[ˈlaɪflɒŋ]"
+  },
+  {
+    "name": "law-abiding",
+    "trans": [
+      "adj. 守法的"
+    ],
+    "usphone": "[ˈlɔː əbaɪdɪŋ]",
+    "ukphone": "[ˈlɔː əbaɪdɪŋ]"
+  },
+  {
+    "name": "logging",
+    "trans": [
+      "n. 记录；伐木工作",
+      "v. 把…锯成段木；砍伐树木（log的ing形式）"
+    ],
+    "usphone": "[ˈlɔːɡɪŋ]",
+    "ukphone": "[ˈlɒɡɪŋ]"
+  },
+  {
+    "name": "larval",
+    "trans": [
+      "adj. 幼虫的；幼虫状态的；潜在的；隐蔽的"
+    ],
+    "usphone": "[ˈlɑːrvl]",
+    "ukphone": "[ˈlɑːvl]"
+  },
+  {
+    "name": "linoleum",
+    "trans": [
+      "n. 油布；油毯；漆布"
+    ],
+    "usphone": "[lɪˈnoʊliəm]",
+    "ukphone": "[lɪˈnəʊliəm]"
+  },
+  {
+    "name": "life cycle",
+    "trans": [
+      "n. 生命周期；寿命（产品等从开发到使用完毕的一段时间）"
+    ],
+    "usphone": "[ˈlaɪf saɪkl]",
+    "ukphone": "[ˈlaɪf saɪkl]"
+  },
+  {
+    "name": "logwood",
+    "trans": [
+      "n. 洋苏木"
+    ],
+    "usphone": "[ˈlɔɡˌwʊd]",
+    "ukphone": "[ˈlɒɡˌwʊd]"
+  },
+  {
+    "name": "lander",
+    "trans": [
+      "n. 着陆器；出铁槽；把钩工人"
+    ],
+    "usphone": "[ˈlændər]",
+    "ukphone": "[ˈlændə(r)]"
+  },
+  {
+    "name": "lambskin",
+    "trans": [
+      "n. 羔羊皮；羊皮纸"
+    ],
+    "usphone": "[ˈlæmskɪn]",
+    "ukphone": "[ˈlæmskɪn]"
+  },
+  {
+    "name": "Lydia",
+    "trans": [
+      "n. 吕底亚（小亚细亚西部的富裕古国）；莉蒂亚（女子名）"
+    ],
+    "usphone": "[ˈlɪdiə]",
+    "ukphone": "[ˈlɪdiə]"
+  },
+  {
+    "name": "lima bean",
+    "trans": [
+      "青豆；利马豆（等于Phaseolus limensis）"
+    ],
+    "usphone": "['li:mə bi:n]",
+    "ukphone": "[ˈliːmə biːn; ˈlaɪmə biːn]"
+  },
+  {
+    "name": "liposuction",
+    "trans": [
+      "n. 脂肪吸除手术；抽脂术"
+    ],
+    "usphone": "[ˈlɪpoʊsʌkʃnˌˈlaɪpoʊsʌkʃn]",
+    "ukphone": "[ˈlɪpəʊsʌkʃn; ˈlaɪpəʊsʌkʃn]"
+  },
+  {
+    "name": "life-threatening",
+    "trans": [
+      "adj. 威胁生命的"
+    ],
+    "usphone": "[ˈlaɪf θretnɪŋ]",
+    "ukphone": "[ˈlaɪf θretnɪŋ]"
+  },
+  {
+    "name": "loamy",
+    "trans": [
+      "adj. 肥沃的"
+    ],
+    "usphone": "[ˈloʊmi]",
+    "ukphone": "[ˈləʊmi]"
+  },
+  {
+    "name": "licensed",
+    "trans": [
+      "adj. 得到许可的（等于licenced）",
+      "v. 许可；批准（license的过去分词）"
+    ],
+    "usphone": "[ˈlaɪsnst]",
+    "ukphone": "[ˈlaɪsnst]"
+  },
+  {
+    "name": "loathsome",
+    "trans": [
+      "adj. 令人憎恶的；令人呕吐的"
+    ],
+    "usphone": "[ˈloʊðsəm]",
+    "ukphone": "[ˈləʊðsəm]"
+  },
+  {
+    "name": "lidless",
+    "trans": [
+      "adj. 无盖的；注视的；无眼睑的"
+    ],
+    "usphone": "[ˈlɪdlɪs]",
+    "ukphone": "[ˈlɪdlɪs]"
+  },
+  {
+    "name": "lifeboat",
+    "trans": [
+      "n. [船][安全] 救生艇，救生船"
+    ],
+    "usphone": "[ˈlaɪfboʊt]",
+    "ukphone": "[ˈlaɪfbəʊt]"
+  },
+  {
+    "name": "lightly",
+    "trans": [
+      "adv. 轻轻地；轻松地；容易地；不费力地"
+    ],
+    "usphone": "[ˈlaɪtli]",
+    "ukphone": "[ˈlaɪtli]"
+  },
+  {
+    "name": "low-key",
+    "trans": [
+      "adj. 低调的，软调的；抑制的"
+    ],
+    "usphone": "[ˌloʊ ˈkiː]",
+    "ukphone": "[ˌləʊ ˈkiː]"
+  },
+  {
+    "name": "lingua franca",
+    "trans": [
+      "n. （母语不同的人共用的）通用语"
+    ],
+    "usphone": "[ˌlɪŋɡwə ˈfræŋkə]",
+    "ukphone": "[ˌlɪŋɡwə ˈfræŋkə]"
+  },
+  {
+    "name": "lameness",
+    "trans": [
+      "n. 跛；残废；僵而疼痛的"
+    ],
+    "usphone": "[ˈleɪmnəs]",
+    "ukphone": "[ˈleɪmnəs]"
+  },
+  {
+    "name": "line-drawing",
+    "trans": [
+      "素描；线条画"
+    ],
+    "usphone": "[ˈlaɪn drɔːɪŋ]",
+    "ukphone": "[ˈlaɪn drɔːɪŋ]"
+  },
+  {
+    "name": "level up",
+    "trans": [
+      "na. 扯平"
+    ],
+    "usphone": "[ˈlevl ʌp]",
+    "ukphone": "[ˈlevl ʌp]"
+  },
+  {
+    "name": "left-handed",
+    "trans": [
+      "adj. 左撇的；用左手的；笨拙的"
+    ],
+    "usphone": "[ˌleft ˈhændɪd]",
+    "ukphone": "[ˌleft ˈhændɪd]"
+  },
+  {
+    "name": "left-wing",
+    "trans": [
+      "adj. 左派的"
+    ],
+    "usphone": "[ˌleft ˈwɪŋ]",
+    "ukphone": "[ˌleft ˈwɪŋ]"
+  },
+  {
+    "name": "letter-box",
+    "trans": [
+      "信箱；邮箱"
+    ],
+    "usphone": "[ˈletər bɑːks]",
+    "ukphone": "[ˈletə bɒks]"
+  },
+  {
+    "name": "lading",
+    "trans": [
+      "n. 装船；装载；船货",
+      "v. 装货；载满（lade的ing形式）"
+    ],
+    "usphone": "[ˈleɪdɪŋ]",
+    "ukphone": "[ˈleɪdɪŋ]"
+  },
+  {
+    "name": "laytime",
+    "trans": [
+      " 装卸货时间"
+    ],
+    "usphone": "[ˈleɪtaɪm]",
+    "ukphone": "[ˈleɪˌtaɪm]"
+  },
+  {
+    "name": "lead time",
+    "trans": [
+      "n. 从投产至完成生产间相隔的时间；订货交付时间"
+    ],
+    "usphone": "[liːd taɪm]",
+    "ukphone": "[ˈliːd taɪm]"
+  },
+  {
+    "name": "leasehold",
+    "trans": [
+      "n. 租赁；租赁权",
+      "adj. 租赁的"
+    ],
+    "usphone": "[ˈliːshoʊld]",
+    "ukphone": "[ˈliːshəʊld]"
+  },
+  {
+    "name": "lessee",
+    "trans": [
+      "n. 承租人"
+    ],
+    "usphone": "[leˈsiː]",
+    "ukphone": "[leˈsiː]"
+  },
+  {
+    "name": "leviathan",
+    "trans": [
+      "n. 海中怪兽；庞然大物；巨轮"
+    ],
+    "usphone": "[ləˈvaɪəθən]",
+    "ukphone": "[ləˈvaɪəθən]"
+  },
+  {
+    "name": "lump sum",
+    "trans": [
+      "n. 一次总付的钱款"
+    ],
+    "usphone": "[ˌlʌmp ˈsʌm]",
+    "ukphone": "[ˌlʌmp ˈsʌm]"
+  },
+  {
+    "name": "liberalization",
+    "trans": [
+      "n. 自由化；自由主义化；放宽限制"
+    ],
+    "usphone": "[ˌlɪbrələˈzeɪʃn]",
+    "ukphone": "[ˌlɪbrəlaɪˈzeɪʃn]"
+  },
+  {
+    "name": "levelheaded",
+    "trans": [
+      "adj. 稳健的，头脑冷静的；明智的"
+    ],
+    "usphone": "['levəl'hedid]",
+    "ukphone": "[ˌlevlˈhedɪd]"
+  },
+  {
+    "name": "labile",
+    "trans": [
+      "adj. 易变的，不稳定的；不安定的",
+      "n. [心理] 心境不定"
+    ],
+    "usphone": "[ˈleɪbaɪl]",
+    "ukphone": "[ˈleɪbɪl]"
+  },
+  {
+    "name": "lissome",
+    "trans": [
+      "adj. 柔软的；敏捷的"
+    ],
+    "usphone": "[ˈlɪsəm]",
+    "ukphone": "[ˈlɪsəm]"
+  },
+  {
+    "name": "libertine",
+    "trans": [
+      "n. 浪荡子；性行为放纵者；放荡不羁者；玩乐者；自由思想家",
+      "adj. 放荡的"
+    ],
+    "usphone": "[ˈlɪbərtiːn]",
+    "ukphone": "[ˈlɪbətiːn]"
+  },
+  {
+    "name": "largesse",
+    "trans": [
+      "n. 慷慨的赠与；慷慨赠与物（等于largess）"
+    ],
+    "usphone": "[lɑːrˈdʒes]",
+    "ukphone": "[lɑːˈdʒes]"
+  },
+  {
+    "name": "lambaste",
+    "trans": [
+      "vt. 痛打；严责；鞭打"
+    ],
+    "usphone": "[læmˈbæstˌlæmˈbeɪst]",
+    "ukphone": "[læmˈbæst]"
+  },
+  {
+    "name": "loutish",
+    "trans": [
+      "adj. 粗野的；笨拙的；无礼的"
+    ],
+    "usphone": "[ˈlaʊtɪʃ]",
+    "ukphone": "[ˈlaʊtɪʃ]"
+  },
+  {
+    "name": "labyrinthine",
+    "trans": [
+      "adj. 迷宫的；复杂的"
+    ],
+    "usphone": "[ˌlæbəˈrɪnθɪnˌˌlæbəˈrɪnθiːn]",
+    "ukphone": "[ˌlæbəˈrɪnθaɪn]"
+  },
+  {
+    "name": "lank",
+    "trans": [
+      "adj. 瘦的；平直的；长而柔软的；细长的"
+    ],
+    "usphone": "[læŋk]",
+    "ukphone": "[læŋk]"
+  },
+  {
+    "name": "leer",
+    "trans": [
+      "n. 媚眼，秋波；恶意的瞥视",
+      "vi. 抛媚眼，送秋波；斜睨"
+    ],
+    "usphone": "[lɪr]",
+    "ukphone": "[lɪə(r)]"
+  },
+  {
+    "name": "languor",
+    "trans": [
+      "n. 疲倦；无精打采；柔情；呆滞",
+      "vi. 变得衰弱无力"
+    ],
+    "usphone": "[ˈlæŋɡər]",
+    "ukphone": "[ˈlæŋɡə(r)]"
+  },
+  {
+    "name": "libelous",
+    "trans": [
+      "adj. 诽谤的；损害名誉的；用言语中伤他人的"
+    ],
+    "usphone": "[ˈlaɪbələs]",
+    "ukphone": "[ˈlaɪbələs]"
+  },
+  {
+    "name": "lazily",
+    "trans": [
+      "adv. 懒洋洋地；怠惰地，懒散地"
+    ],
+    "usphone": "[ˈleɪzɪli]",
+    "ukphone": "[ˈleɪzɪli]"
+  },
+  {
+    "name": "longingly",
+    "trans": [
+      "adv. 渴望地"
+    ],
+    "usphone": "[ˈlɔːŋɪŋli]",
+    "ukphone": "[ˈlɒŋɪŋli]"
+  },
+  {
+    "name": "leapfrog",
+    "trans": [
+      "n. 跳背游戏；跳蛙游戏；交互跃进",
+      "vi. 跳背；跳蛙；交替前进",
+      "vt. 跃过"
+    ],
+    "usphone": "[ˈliːpfrɔːɡ]",
+    "ukphone": "[ˈliːpfrɒɡ]"
+  },
+  {
+    "name": "lawnmower",
+    "trans": [
+      "n. [建] 剪草机"
+    ],
+    "usphone": "[ˈlɔːnmoʊər]",
+    "ukphone": "[ˈlɔːnməʊə(r)]"
+  },
+  {
+    "name": "logograph",
+    "trans": [
+      "n. 语标，略字"
+    ],
+    "usphone": "[ˈlɑɡəˌɡræf]",
+    "ukphone": "[ˈlɒɡəɡrɑːf]"
+  },
+  {
+    "name": "lock out",
+    "trans": [
+      "na. 锁定；停工；排定教员；将学生关在课室外"
+    ],
+    "usphone": "['lɔkaut]",
+    "ukphone": "['lɔkaut]"
+  },
+  {
+    "name": "landward",
+    "trans": [
+      "adj. 近陆的，向陆的",
+      "adv. 向陆地"
+    ],
+    "usphone": "[ˈlændwərd]",
+    "ukphone": "[ˈlændwəd]"
+  },
+  {
+    "name": "linguistically",
+    "trans": [
+      "adv. 语言的；语言学方面"
+    ],
+    "usphone": "[lɪŋˈɡwɪstɪkli]",
+    "ukphone": "[lɪŋˈɡwɪstɪkli]"
+  },
+  {
+    "name": "legality",
+    "trans": [
+      "n. 合法；合法性；墨守法规"
+    ],
+    "usphone": "[lɪˈɡæləti]",
+    "ukphone": "[lɪˈɡæləti]"
+  },
+  {
+    "name": "leaning",
+    "trans": [
+      "n. 倾向，爱好；倾斜",
+      "v. 倚靠（lean的ing形式）"
+    ],
+    "usphone": "[ˈliːnɪŋ]",
+    "ukphone": "[ˈliːnɪŋ]"
+  },
+  {
+    "name": "lather",
+    "trans": [
+      "n. 肥皂泡；激动",
+      "vt. 涂以肥皂泡；使紧张；狠狠地打",
+      "vi. 起泡沫"
+    ],
+    "usphone": "[ˈlæðər]",
+    "ukphone": "[ˈlɑːðə(r)]"
+  },
+  {
+    "name": "lamentable",
+    "trans": [
+      "adj. 可悲的；可怜的；哀伤的"
+    ],
+    "usphone": "[ləˈmentəb(ə)l]",
+    "ukphone": "[ləˈmentəb(ə)l]"
+  },
+  {
+    "name": "lawmaking",
+    "trans": [
+      "n. 立法"
+    ],
+    "usphone": "[ˈlɔːmeɪkɪŋ]",
+    "ukphone": "[ˈlɔːˌmeɪkɪŋ]"
+  },
+  {
+    "name": "lingerie",
+    "trans": [
+      "n. 女用贴身内衣裤"
+    ],
+    "usphone": "[ˌlɑːndʒəˈreɪ]",
+    "ukphone": "[ˈlɒ̃ʒəri]"
+  },
+  {
+    "name": "leach",
+    "trans": [
+      "n. 过滤；过滤器",
+      "vt. 过滤；萃取",
+      "vi. 被过滤"
+    ],
+    "usphone": "[liːtʃ]",
+    "ukphone": "[liːtʃ]"
+  },
+  {
+    "name": "lob",
+    "trans": [
+      "n. 高球；笨重的人",
+      "vt. 把球挑高；打缓慢的球",
+      "vi. 蹒跚地走"
+    ],
+    "usphone": "[lɑːb]",
+    "ukphone": "[lɒb]"
+  },
+  {
+    "name": "lama",
+    "trans": [
+      "n. 喇嘛"
+    ],
+    "usphone": "[ˈlɑːmə]",
+    "ukphone": "[ˈlɑːmə]"
+  },
+  {
+    "name": "leaden",
+    "trans": [
+      "adj. 铅灰色的；铅制的；沉闷的；铅一般重的",
+      "vt. 使沉重；使懒散；使呆滞"
+    ],
+    "usphone": "[ˈledn]",
+    "ukphone": "[ˈledn]"
+  },
+  {
+    "name": "lynx",
+    "trans": [
+      "n. 猞猁；山猫"
+    ],
+    "usphone": "[lɪŋks]",
+    "ukphone": "[lɪŋks]"
+  },
+  {
+    "name": "lair",
+    "trans": [
+      "n. （野兽的）[动] 巢穴；躲藏处",
+      "vi. 进入兽穴；在穴中休息",
+      "vt. 使陷入泥潭；放于穴中"
+    ],
+    "usphone": "[ler]",
+    "ukphone": "[leə(r)]"
+  },
+  {
+    "name": "laity",
+    "trans": [
+      "n. 俗人；外行人；门外汉"
+    ],
+    "usphone": "[ˈleɪəti]",
+    "ukphone": "[ˈleɪəti]"
+  },
+  {
+    "name": "leech",
+    "trans": [
+      "n. 水蛭；吸血鬼；榨取他人利益的人",
+      "vt. 以水蛭吸血；依附并榨取",
+      "vi. 依附并榨取别人"
+    ],
+    "usphone": "[liːtʃ]",
+    "ukphone": "[liːtʃ]"
+  },
+  {
+    "name": "lisp",
+    "trans": [
+      "n. 口齿不清；咬舌发音",
+      "vi. 咬舌讲话；说话口齿不清",
+      "vt. 咬着舌说；口齿不清地说"
+    ],
+    "usphone": "[lɪsp]",
+    "ukphone": "[lɪsp]"
+  },
+  {
+    "name": "liking",
+    "trans": [
+      "n. 嗜好，爱好"
+    ],
+    "usphone": "[ˈlaɪkɪŋ]",
+    "ukphone": "[ˈlaɪkɪŋ]"
+  },
+  {
+    "name": "laminate",
+    "trans": [
+      "vt. 将锻压成薄片；分成薄片",
+      "vi. 分成薄片",
+      "n. 薄片制品；层压制件"
+    ],
+    "usphone": "[ˈlæmɪnət]",
+    "ukphone": "[ˈlæmɪnət]"
+  },
+  {
+    "name": "lilt",
+    "trans": [
+      "n. 轻快的动作；轻快活泼的调子",
+      "vt. 轻快地动；唱轻快的调子；用欢快节奏唱",
+      "vi. 轻快地动；唱轻快的调子；用欢快节奏唱"
+    ],
+    "usphone": "[lɪlt]",
+    "ukphone": "[lɪlt]"
+  },
+  {
+    "name": "limply",
+    "trans": [
+      "adv. 柔软地；四肢无力地，软绵绵地"
+    ],
+    "usphone": "[ˈlɪmpli]",
+    "ukphone": "[ˈlɪmpli]"
+  },
+  {
+    "name": "laboriously",
+    "trans": [
+      "adv. 辛苦地；费力地；不流畅地"
+    ],
+    "usphone": "[ləˈbɔːriəsli]",
+    "ukphone": "[ləˈbɔːriəsli]"
+  },
+  {
+    "name": "lamely",
+    "trans": [
+      "adv. 一瘸一拐地；不完全地"
+    ],
+    "usphone": "[ˈleɪmli]",
+    "ukphone": "[ˈleɪmli]"
+  },
+  {
+    "name": "lackey",
+    "trans": [
+      "n. 男仆；侍从；马屁精",
+      "vt. 侍候，服侍；奉承"
+    ],
+    "usphone": "[ˈlæki]",
+    "ukphone": "[ˈlæki]"
+  },
+  {
+    "name": "leapt",
+    "trans": [
+      "v. 跳跃（leap的过去分词）"
+    ],
+    "usphone": "[lept]",
+    "ukphone": "[lept]"
+  },
+  {
+    "name": "leaped",
+    "trans": [
+      "v. 跳跃",
+      "急速移动",
+      "剧增",
+      "突然移动"
+    ],
+    "usphone": "[liːpt]",
+    "ukphone": "[liːpt]"
+  },
+  {
+    "name": "lights",
+    "trans": [
+      "n. 灯光（light的复数）；（供食用的）家畜的肺脏",
+      "v. 点亮（light的三单形式）"
+    ],
+    "usphone": "[laɪts]",
+    "ukphone": "[laɪts]"
+  },
+  {
+    "name": "learnt",
+    "trans": [
+      "v. 学习（learn的过去式和过去分词）"
+    ],
+    "usphone": "[lɜːrnt]",
+    "ukphone": "[lɜːnt]"
+  },
+  {
+    "name": "long-lasting",
+    "trans": [
+      "adj. 持续时间长的"
+    ],
+    "usphone": "[ˌlɔːŋ ˈlæstɪŋ]",
+    "ukphone": "[ˌlɒŋ ˈlɑːstɪŋ]"
+  },
+  {
+    "name": "limousine",
+    "trans": [
+      "n. 豪华轿车；大型豪华轿车"
+    ],
+    "usphone": "[ˈlɪməziːn; ˌlɪməˈziːn]",
+    "ukphone": "[ˈlɪməziːn; ˌlɪməˈziːn]"
+  },
+  {
+    "name": "liquefy",
+    "trans": [
+      "vt. 液化；溶解"
+    ],
+    "usphone": "[ˈlɪkwɪfaɪ]",
+    "ukphone": "[ˈlɪkwɪfaɪ]"
+  },
+  {
+    "name": "luminosity",
+    "trans": [
+      "n. [光][天] 光度；光明；光辉"
+    ],
+    "usphone": "[ˌluːmɪˈnɑːsəti]",
+    "ukphone": "[ˌluːmɪˈnɒsəti]"
+  },
+  {
+    "name": "lamp-post",
+    "trans": [
+      "灯杆"
+    ],
+    "usphone": "[ˈlæmp poʊst]",
+    "ukphone": "[ˈlæmp pəʊst]"
+  },
+  {
+    "name": "lifeline",
+    "trans": [
+      "n. 生命线；救生索"
+    ],
+    "usphone": "[ˈlaɪflaɪn]",
+    "ukphone": "[ˈlaɪflaɪn]"
+  },
+  {
+    "name": "likability",
+    "trans": [
+      "n. 可爱"
+    ],
+    "usphone": "[ˌlaɪkəˈbɪləti]",
+    "ukphone": "[ˌlaɪkəˈbɪləti]"
+  },
+  {
+    "name": "libido",
+    "trans": [
+      "n. 性欲；生命力"
+    ],
+    "usphone": "[lɪˈbiːdoʊ]",
+    "ukphone": "[lɪˈbiːdəʊ]"
+  },
+  {
+    "name": "lynching",
+    "trans": [
+      "n. 处以私刑；处私刑杀害",
+      "v. 以私刑处死（lynch的ing形式）"
+    ],
+    "usphone": "[ˈlɪntʃɪŋ]",
+    "ukphone": "[ˈlɪntʃɪŋ]"
+  },
+  {
+    "name": "larkspur",
+    "trans": [
+      "n. 燕草属植物"
+    ],
+    "usphone": "[ˈlɑːrkspɜːr]",
+    "ukphone": "[ˈlɑːkspɜː(r)]"
+  },
+  {
+    "name": "leper",
+    "trans": [
+      "n. [皮肤] 麻疯病患者；受蔑视的人（不愿接触的人）"
+    ],
+    "usphone": "[ˈlepər]",
+    "ukphone": "[ˈlepə(r)]"
+  },
+  {
+    "name": "limitless",
+    "trans": [
+      "adj. 无限制的；无界限的"
+    ],
+    "usphone": "[ˈlɪmɪtləs]",
+    "ukphone": "[ˈlɪmɪtləs]"
+  },
+  {
+    "name": "luckless",
+    "trans": [
+      "adj. 不幸的，运气不好的"
+    ],
+    "usphone": "[ˈlʌkləs]",
+    "ukphone": "[ˈlʌkləs]"
+  },
+  {
+    "name": "lifework",
+    "trans": [
+      "n. 毕生的事业；一生的工作"
+    ],
+    "usphone": "[ˌlaɪfˈwɜːrk]",
+    "ukphone": "[ˈlaɪfˌwɜːk]"
+  },
+  {
+    "name": "ladybird",
+    "trans": [
+      "n. 瓢虫"
+    ],
+    "usphone": "[ˈleɪdibɜːrd]",
+    "ukphone": "[ˈleɪdibɜːd]"
+  },
+  {
+    "name": "lastingly",
+    "trans": [
+      "持久地"
+    ],
+    "usphone": "[ˈlæstɪŋli]",
+    "ukphone": "[ˈlɑːstɪŋli]"
+  },
+  {
+    "name": "lending rate",
+    "trans": [
+      "n. 贷款利率；放款利率"
+    ],
+    "usphone": "[ˈlendɪŋ reɪt]",
+    "ukphone": "[ˈlendɪŋ reɪt]"
+  },
+  {
+    "name": "likable",
+    "trans": [
+      "adj. 可爱的"
+    ],
+    "usphone": "[ˈlaɪkəbl]",
+    "ukphone": "[ˈlaɪkəbl]"
+  },
+  {
+    "name": "lowland",
+    "trans": [
+      "n. 低地；苏格兰低地",
+      "adj. 低地的；苏格兰低地的"
+    ],
+    "usphone": "[ˈloʊlənd]",
+    "ukphone": "[ˈləʊlənd]"
+  },
+  {
+    "name": "lithogenous",
+    "trans": [
+      "adj. 岩成的； （无脊椎动物）造礁的"
+    ],
+    "usphone": "[li'θɔdʒinəs]",
+    "ukphone": "[ˈlɪθəʊdʒɪnəs]"
+  },
+  {
+    "name": "leafstalk",
+    "trans": [
+      "n. 叶柄"
+    ],
+    "usphone": "[ˈlifˌstɔk]",
+    "ukphone": "[ˈliːfˌstɔːk]"
+  },
+  {
+    "name": "lovelorn",
+    "trans": [
+      "adj. 失恋的；害相思病的"
+    ],
+    "usphone": "[ˈlʌvlɔːrn]",
+    "ukphone": "[ˈlʌvlɔːn]"
+  },
+  {
+    "name": "leash",
+    "trans": [
+      "n. 皮带；束缚",
+      "vt. 束缚；用皮带绑住"
+    ],
+    "usphone": "[liːʃ]",
+    "ukphone": "[liːʃ]"
+  },
+  {
+    "name": "locomote",
+    "trans": [
+      "v. 移动，行动"
+    ],
+    "usphone": "['ləukəməut]",
+    "ukphone": "[ˈləʊkəˌməʊt]"
+  },
+  {
+    "name": "lactic",
+    "trans": [
+      "adj. 乳的；乳汁的"
+    ],
+    "usphone": "[ˈlæktɪk]",
+    "ukphone": "[ˈlæktɪk]"
+  },
+  {
+    "name": "lame duck",
+    "trans": [
+      "n. 不太成功而需要帮助的人（或机构）；“跛脚鸭”"
+    ],
+    "usphone": "[ˌleɪm ˈdʌk]",
+    "ukphone": "[ˌleɪm ˈdʌk]"
+  },
+  {
+    "name": "landlocked",
+    "trans": [
+      "adj. 为陆地所包围的"
+    ],
+    "usphone": "[ˈlændlɑːkt]",
+    "ukphone": "[ˈlændlɒkt]"
+  },
+  {
+    "name": "landownership",
+    "trans": [
+      "n. 土地所有"
+    ],
+    "usphone": "[ˈlændoʊnərʃɪp]",
+    "ukphone": "[ˈlændəʊnəʃɪp]"
+  },
+  {
+    "name": "laxity",
+    "trans": [
+      "n. 松驰；放纵"
+    ],
+    "usphone": "[ˈlæksəti]",
+    "ukphone": "[ˈlæksəti]"
+  },
+  {
+    "name": "legitimation",
+    "trans": [
+      "n. 合法化；承认为嫡出"
+    ],
+    "usphone": "[lɪˌdʒɪtəˈmeɪʃən]",
+    "ukphone": "[lɪdʒɪtɪˈmeɪʃ(ə)n]"
+  },
+  {
+    "name": "lipoprotein",
+    "trans": [
+      "n. [生化] 脂蛋白"
+    ],
+    "usphone": "[ˈlɪpəproʊtiːnˌˈlaɪpəproʊtiːn]",
+    "ukphone": "[ˈlɪpəprəʊtiːn; ˈlaɪpəprəʊtiːn]"
+  },
+  {
+    "name": "listlessness",
+    "trans": [
+      "n. 无精打采；精神萎靡"
+    ],
+    "usphone": "[ˈlɪstləsnəs]",
+    "ukphone": "[ˈlɪstləsnəs]"
+  },
+  {
+    "name": "loch",
+    "trans": [
+      "n. 湖；海湾（狭长的）"
+    ],
+    "usphone": "[lɑːk; lɑːx]",
+    "ukphone": "[lɒk]"
+  },
+  {
+    "name": "logotype",
+    "trans": [
+      "n. <印刷>成语铅字，连合活字; <印刷>连铸铅字条; 洛格铅字合金"
+    ],
+    "usphone": "[ˈlɔɡotaɪp]",
+    "ukphone": "[ˈlɒɡəʊˌtaɪp]"
+  },
+  {
+    "name": "lactic acid",
+    "trans": [
+      "n. 乳酸"
+    ],
+    "usphone": "[ˌlæktɪk ˈæsɪd]",
+    "ukphone": "[ˌlæktɪk ˈæsɪd]"
+  },
+  {
+    "name": "leucine",
+    "trans": [
+      "n. [生化] 亮氨酸；白氨酸"
+    ],
+    "usphone": "[ˈlʊˌsin]",
+    "ukphone": "[ˈluːsiːn]"
+  },
+  {
+    "name": "lepidoptera",
+    "trans": [
+      "n. 鳞翅类; 鳞翅类的昆虫( lepidopteron的名词复数 )"
+    ],
+    "usphone": "[ˌlepɪˈdɑːptərə]",
+    "ukphone": "[ˌlepɪˈdɒptərə]"
+  },
+  {
+    "name": "licorice",
+    "trans": [
+      "n. 欧亚甘草；甘草汁；甘草糖（等于liquorice）"
+    ],
+    "usphone": "[ˈlɪkərɪʃˌˈlɪkərɪs]",
+    "ukphone": "[ˈlɪkərɪʃ; ˈlɪkərɪs]"
+  },
+  {
+    "name": "logarithm",
+    "trans": [
+      "n. [数] 对数"
+    ],
+    "usphone": "[ˈlɔːɡərɪðəm]",
+    "ukphone": "[ˈlɒɡərɪðəm]"
+  },
+  {
+    "name": "lollipop",
+    "trans": [
+      "n. 棒棒糖"
+    ],
+    "usphone": "[ˈlɑːlipɑːp]",
+    "ukphone": "[ˈlɒlipɒp]"
+  },
+  {
+    "name": "laterally",
+    "trans": [
+      "adv. 旁边地"
+    ],
+    "usphone": "[ˈlætərəli]",
+    "ukphone": "[ˈlætərəli]"
+  },
+  {
+    "name": "lamasery",
+    "trans": [
+      "n. 喇嘛庙"
+    ],
+    "usphone": "[ˈlɑːməsəriˌləˈmɑːsəri]",
+    "ukphone": "[ˈlɑːməsəri; ləˈmɑːsəri]"
+  },
+  {
+    "name": "Lithuanian",
+    "trans": [
+      "adj. 立陶宛人的；立陶宛的；立陶宛语的",
+      "n. 立陶宛人；立陶宛语"
+    ],
+    "usphone": "[ˌlɪθuˈeɪniən]",
+    "ukphone": "[ˌlɪθjuˈeɪniən]"
+  },
+  {
+    "name": "laid-back",
+    "trans": [
+      "adj. 懒散的；悠闲的；闲散的"
+    ],
+    "usphone": "[ˌleɪd ˈbæk]",
+    "ukphone": "[ˌleɪd ˈbæk]"
+  },
+  {
+    "name": "launch pad",
+    "trans": [
+      "n. （航天器等的）发射平台"
+    ],
+    "usphone": "[ˈlɔːntʃ pæd]",
+    "ukphone": "[ˈlɔːntʃ pæd]"
+  },
+  {
+    "name": "lovebird",
+    "trans": [
+      "n. 小鹦鹉类；[鸟] 多情鹦鹉"
+    ],
+    "usphone": "[ˈlʌvbɜːrd]",
+    "ukphone": "[ˈlʌvbɜːd]"
+  },
+  {
+    "name": "lucky money",
+    "trans": [
+      " 压岁钱；红包；吉利钱"
+    ],
+    "usphone": "[ˈlʌki ˈmʌni]",
+    "ukphone": "[ˈlʌki ˈmʌni]"
+  },
+  {
+    "name": "lawfulness",
+    "trans": [
+      "法制，合法"
+    ],
+    "usphone": "[ˈlɔːflnəs]",
+    "ukphone": "[ˈlɔːflnəs]"
+  },
+  {
+    "name": "luxuries",
+    "trans": [
+      "n. 奢侈品（luxury的复数形式）"
+    ],
+    "usphone": "[ˈlʌkʃəriz]",
+    "ukphone": "[ˈlʌkʃəriz]"
+  },
+  {
+    "name": "litchi",
+    "trans": [
+      "n. 荔枝；荔枝果；荔枝树"
+    ],
+    "usphone": "[ˈliːtʃi; ˈlaɪtʃi]",
+    "ukphone": "[ˈlaɪtʃi]"
+  },
+  {
+    "name": "lasagna",
+    "trans": [
+      "n. 烤宽面条（等于lasagne）；卤汁面条"
+    ],
+    "usphone": "[ləˈzɑːnjə]",
+    "ukphone": "[ləˈzænjə]"
+  },
+  {
+    "name": "left wing",
+    "trans": [
+      "n. 左翼；（政党中的）左翼"
+    ],
+    "usphone": "[ˌleft ˈwɪŋ]",
+    "ukphone": "[ˌleft ˈwɪŋ]"
+  },
+  {
+    "name": "lawn tennis",
+    "trans": [
+      "na. 草地网球"
+    ],
+    "usphone": "[ˌlɔːn ˈtenɪs]",
+    "ukphone": "[ˌlɔːn ˈtenɪs]"
+  },
+  {
+    "name": "license plate",
+    "trans": [
+      "n. （车辆的）牌照"
+    ],
+    "usphone": "[ˈlaɪsns pleɪt]",
+    "ukphone": "[ˈlaɪs(ə)ns pleɪt]"
+  },
+  {
+    "name": "life vest",
+    "trans": [
+      "n. 救生衣"
+    ],
+    "usphone": "[laɪf vest]",
+    "ukphone": "[ˈlaɪf vest]"
+  },
+  {
+    "name": "leading lady",
+    "trans": [
+      "n. 饰主角的女演员（或男演员）"
+    ],
+    "usphone": "[ˌliːdɪŋ ˈleɪdi]",
+    "ukphone": "[ˌliːdɪŋ ˈleɪdi]"
+  },
+  {
+    "name": "labor-saving",
+    "trans": [
+      "adj. 节省劳力的；减轻劳动的"
+    ],
+    "usphone": "[ˈleɪbər seɪvɪŋ]",
+    "ukphone": "['leibə,seiviŋ]"
+  },
+  {
+    "name": "letterbox",
+    "trans": [
+      "n. 邮筒，信箱",
+      "adj. 宽银幕式的"
+    ],
+    "usphone": "[ˈletərbɑːks]",
+    "ukphone": "[ˈletəbɒks]"
+  },
+  {
+    "name": "l",
+    "trans": [
+      "n. 字母l（英语字母中的第十二个字母）"
+    ],
+    "usphone": "[el]",
+    "ukphone": "[el]"
+  },
+  {
+    "name": "leant",
+    "trans": [
+      "lean的过去式及过去分词"
+    ],
+    "usphone": "[lent]",
+    "ukphone": "[lent]"
+  },
+  {
+    "name": "leaned",
+    "trans": [
+      "v. 倾身；依靠；使…瘦弱（lean的过去分词）"
+    ],
+    "usphone": "[liːnd]",
+    "ukphone": "[liːnd]"
+  },
+  {
+    "name": "loose end",
+    "trans": [
+      "n. 未交代清楚的情节"
+    ],
+    "usphone": "[ˌluːs ˈend]",
+    "ukphone": "[ˌluːs ˈend]"
+  },
+  {
+    "name": "long-distance",
+    "trans": [
+      "adj. [通信][交] 长途的；长距离的",
+      "vt. 打长途电话给",
+      "adv. 通过长途电话"
+    ],
+    "usphone": "[ˌlɔːŋ ˈdɪstəns]",
+    "ukphone": "[ˌlɒŋ ˈdɪstəns]"
+  },
+  {
+    "name": "life-size",
+    "trans": [
+      "adj. 与实物大小一样的；与真人实物一样大小的"
+    ],
+    "usphone": "[ˈlaɪf saɪz]",
+    "ukphone": "[ˈlaɪf saɪz]"
+  },
+  {
+    "name": "lawyerlike",
+    "trans": [
+      "adj. 如律师的，适合于律师的"
+    ],
+    "usphone": "['lɔ:jəlaik]",
+    "ukphone": "[ˈlɔːjəlaɪk]"
+  },
+  {
+    "name": "latecomer",
+    "trans": [
+      "n. 迟到者；新来者"
+    ],
+    "usphone": "[ˈleɪtkʌmər]",
+    "ukphone": "[ˈleɪtkʌmə(r)]"
+  },
+  {
+    "name": "lovingly",
+    "trans": [
+      "adv. 亲切地；钟爱地"
+    ],
+    "usphone": "[ˈlʌvɪŋli]",
+    "ukphone": "[ˈlʌvɪŋli]"
+  },
+  {
+    "name": "listlessly",
+    "trans": [
+      "adv. 无精打采地；冷淡地"
+    ],
+    "usphone": "[ˈlɪstləsli]",
+    "ukphone": "[ˈlɪstləsli]"
+  },
+  {
+    "name": "letterhead",
+    "trans": [
+      "n. 印在信纸的信头；印有信头的信纸"
+    ],
+    "usphone": "[ˈletərhed]",
+    "ukphone": "[ˈletəhed]"
+  },
+  {
+    "name": "leaver",
+    "trans": [
+      "n. 离开者（常指学校毕业生）"
+    ],
+    "usphone": "[ˈliːvər]",
+    "ukphone": "[ˈliːvə(r)]"
+  },
+  {
+    "name": "licensee",
+    "trans": [
+      "n. 持牌人；执照持有者；获许可的人；领到执照的人"
+    ],
+    "usphone": "[ˌlaɪsənˈsiː]",
+    "ukphone": "[ˌlaɪsənˈsiː]"
+  },
+  {
+    "name": "licensor",
+    "trans": [
+      "n. 认可证颁发者（尤指批准书籍出版或戏剧演出的官员）"
+    ],
+    "usphone": "[ˈlaɪsənsər]",
+    "ukphone": "[ˈlaɪsənsə(r)]"
+  },
+  {
+    "name": "lessor",
+    "trans": [
+      "n. 出租人"
+    ],
+    "usphone": "[leˈsɔːr]",
+    "ukphone": "[leˈsɔː(r)]"
+  },
+  {
+    "name": "listed",
+    "trans": [
+      "adj. 列出的；表列的；已登录的",
+      "v. 列出；登记（list的过去分词）"
+    ],
+    "usphone": "[ˈlɪstɪd]",
+    "ukphone": "[ˈlɪstɪd]"
+  },
+  {
+    "name": "listing",
+    "trans": [
+      "n. 列表，清单",
+      "v. 列表（list的现在分词）"
+    ],
+    "usphone": "[ˈlɪstɪŋ]",
+    "ukphone": "[ˈlɪstɪŋ]"
+  },
+  {
+    "name": "litigate",
+    "trans": [
+      "vt. 在法庭相争；提出诉讼",
+      "vi. 对簿法庭"
+    ],
+    "usphone": "[ˈlɪtɪɡeɪt]",
+    "ukphone": "[ˈlɪtɪɡeɪt]"
+  },
+  {
+    "name": "liquidator",
+    "trans": [
+      "n. 清算人；公司资产清理人"
+    ],
+    "usphone": "[ˈlɪkwɪdeɪtər]",
+    "ukphone": "[ˈlɪkwɪdeɪtə(r)]"
+  },
+  {
+    "name": "letter of credit",
+    "trans": [
+      "n. 信用证；信用状"
+    ],
+    "usphone": "[ˌletər əv ˈkredɪt]",
+    "ukphone": "[ˌletər əv ˈkredɪt]"
+  },
+  {
+    "name": "limited company",
+    "trans": [
+      "有限公司；（英）[经] 股份有限公司（等于limited-liability company）"
+    ],
+    "usphone": "[ˈlɪmɪtɪd ˈkʌmpəni]",
+    "ukphone": "[ˌlɪmɪtɪd ˈkʌmpəni]"
+  },
+  {
+    "name": "led.",
+    "trans": [
+      "suf. [用以构成形容词]表示“(主要)受…影响的”,“由…引导的”：consumer-led,market-led"
+    ],
+    "usphone": "[led]",
+    "ukphone": "[led]"
+  },
+  {
+    "name": "LIP",
+    "trans": [
+      "n. 嘴唇；边缘",
+      "vt. 以嘴唇碰",
+      "adj. 口头上的",
+      "vi. 用嘴唇"
+    ],
+    "usphone": "[lɪp]",
+    "ukphone": "[lɪp]"
+  },
+  {
+    "name": "lotto",
+    "trans": [
+      "n. 一种对号码的牌戏"
+    ],
+    "usphone": "[ˈlɑːtoʊ]",
+    "ukphone": "[ˈlɒtəʊ]"
+  },
+  {
+    "name": "lucre",
+    "trans": [
+      "n. 收益；钱财；利润"
+    ],
+    "usphone": "[ˈluːkər]",
+    "ukphone": "[ˈluːkə(r)]"
+  },
+  {
+    "name": "longer",
+    "trans": [
+      "长的（long的比较级）"
+    ],
+    "usphone": "[lɔːŋɡər]",
+    "ukphone": "[lɒŋɡə(r)]"
+  },
+  {
+    "name": "liege",
+    "trans": [
+      "n. 君主；臣民",
+      "adj. 君主的；君臣关系的"
+    ],
+    "usphone": "[liːdʒ]",
+    "ukphone": "[liːdʒ]"
+  },
+  {
+    "name": "liturgy",
+    "trans": [
+      "n. 礼拜仪式；圣餐仪式；祷告文"
+    ],
+    "usphone": "[ˈlɪtərdʒi]",
+    "ukphone": "[ˈlɪtədʒi]"
+  },
+  {
+    "name": "lucidity",
+    "trans": [
+      "n. 明朗；清澈；清醒度"
+    ],
+    "usphone": "[luːˈsɪdəti]",
+    "ukphone": "[luːˈsɪdəti]"
+  },
+  {
+    "name": "luminescence",
+    "trans": [
+      "n. [光] 发冷光"
+    ],
+    "usphone": "[ˌluːmɪˈnesns]",
+    "ukphone": "[ˌluːmɪˈnesns]"
+  },
+  {
+    "name": "lady-in-waiting",
+    "trans": [
+      "n. 侍女；宫女"
+    ],
+    "usphone": "[ˌleɪdi ɪn ˈweɪtɪŋ]",
+    "ukphone": "[ˌleɪdi ɪn ˈweɪtɪŋ]"
+  },
+  {
+    "name": "languishing",
+    "trans": [
+      "adj. 渴望的；含情脉脉的；渐渐衰弱的"
+    ],
+    "usphone": "[ˈlæŋɡwɪʃɪŋ]",
+    "ukphone": "[ˈlæŋɡwɪʃɪŋ]"
+  },
+  {
+    "name": "lace up",
+    "trans": [
+      "na. 用带子束[结]紧"
+    ],
+    "usphone": "[ˈleɪs ʌp]",
+    "ukphone": "[ˈleɪs ʌp]"
+  },
+  {
+    "name": "leeward",
+    "trans": [
+      "n. 下风；背风面",
+      "adj. 顺风的；在下风方向的",
+      "adv. 向下风"
+    ],
+    "usphone": "[ˈliːwərdˌˈluːərd]",
+    "ukphone": "[ˈliːwəd]"
+  },
+  {
+    "name": "littoral",
+    "trans": [
+      "adj. 沿海的；海滨的",
+      "n. 沿海地区（等于litora）"
+    ],
+    "usphone": "[ˈlɪtərəl]",
+    "ukphone": "[ˈlɪtərəl]"
+  },
+  {
+    "name": "lode",
+    "trans": [
+      "n. 矿脉；丰富的蕴藏"
+    ],
+    "usphone": "[loʊd]",
+    "ukphone": "[ləʊd]"
+  },
+  {
+    "name": "loam",
+    "trans": [
+      "n. 壤土；肥土（含有黏土、沙和有机物质的土地）；亚黏土",
+      "vt. 用壤土填"
+    ],
+    "usphone": "[loʊm]",
+    "ukphone": "[ləʊm]"
+  },
+  {
+    "name": "ligature",
+    "trans": [
+      "n. 绷带；绳索；连字；连接物",
+      "vt. 结扎；捆"
+    ],
+    "usphone": "[ˈlɪɡətʃər]",
+    "ukphone": "[ˈlɪɡətʃə(r)]"
+  },
+  {
+    "name": "latency",
+    "trans": [
+      "n. 潜伏；潜在因素"
+    ],
+    "usphone": "[ˈleɪtənsi]",
+    "ukphone": "[ˈleɪtənsi]"
+  },
+  {
+    "name": "locution",
+    "trans": [
+      "n. 说话风格；惯用语"
+    ],
+    "usphone": "[ləˈkjuːʃn]",
+    "ukphone": "[ləˈkjuːʃ(ə)n]"
+  },
+  {
+    "name": "legato",
+    "trans": [
+      "adj. 连奏的",
+      "adv. 连奏地"
+    ],
+    "usphone": "[lɪˈɡɑːtoʊ]",
+    "ukphone": "[lɪˈɡɑːtəʊ]"
+  },
+  {
+    "name": "libretto",
+    "trans": [
+      "n. 剧本；歌词集"
+    ],
+    "usphone": "[lɪˈbretoʊ]",
+    "ukphone": "[lɪˈbretəʊ]"
+  },
+  {
+    "name": "limerick",
+    "trans": [
+      "n. 五行打油诗（一种通俗幽默短诗，有五行组成，韵式为aabba）"
+    ],
+    "usphone": "[ˈlɪmərɪk]",
+    "ukphone": "[ˈlɪmərɪk]"
+  },
+  {
+    "name": "loon",
+    "trans": [
+      "n. [鸟] 潜鸟；懒人；笨蛋"
+    ],
+    "usphone": "[luːn]",
+    "ukphone": "[luːn]"
+  },
+  {
+    "name": "lumberjack",
+    "trans": [
+      "n. 伐木工人；木材商的佣工；短茄克衫"
+    ],
+    "usphone": "[ˈlʌmbərdʒæk]",
+    "ukphone": "[ˈlʌmbədʒæk]"
+  },
+  {
+    "name": "lapidary",
+    "trans": [
+      "n. [宝] 宝石鉴定家；宝石工艺匠",
+      "adj. 宝石的；[宝] 宝石雕刻的"
+    ],
+    "usphone": "[ˈlæpɪderi]",
+    "ukphone": "[ˈlæpɪdəri]"
+  },
+  {
+    "name": "liberalist",
+    "trans": [
+      "n. 自由主义者"
+    ],
+    "usphone": "[ˈlɪbərəlɪst]",
+    "ukphone": "[ˈlɪbərəlɪst]"
+  },
+  {
+    "name": "ligneous",
+    "trans": [
+      "adj. 木质的；似木的"
+    ],
+    "usphone": "[ˈlɪɡnɪəs]",
+    "ukphone": "[ˈlɪɡnɪəs]"
+  },
+  {
+    "name": "lineal",
+    "trans": [
+      "adj. 直系的；嫡系的；世袭的"
+    ],
+    "usphone": "[ˈlɪniəl]",
+    "ukphone": "[ˈlɪniəl]"
+  },
+  {
+    "name": "lint",
+    "trans": [
+      "n. 软麻布；线头；棉绒",
+      "vi. 飞散出棉线"
+    ],
+    "usphone": "[lɪnt]",
+    "ukphone": "[lɪnt]"
+  },
+  {
+    "name": "lariat",
+    "trans": [
+      "n. 套索",
+      "vt. 用套索捉"
+    ],
+    "usphone": "[ˈlæriət]",
+    "ukphone": "[ˈlæriət]"
+  },
+  {
+    "name": "lasso",
+    "trans": [
+      "n. 套索",
+      "vt. 用套索套捕；拉拢"
+    ],
+    "usphone": "[ˈlæsoʊ]",
+    "ukphone": "[læˈsuː]"
+  },
+  {
+    "name": "larder",
+    "trans": [
+      "n. 食品室；食物橱；肉贮藏处"
+    ],
+    "usphone": "[ˈlɑːrdər]",
+    "ukphone": "[ˈlɑːdə(r)]"
+  },
+  {
+    "name": "lubricious",
+    "trans": [
+      "adj. 光滑的；淫荡的；不稳定的"
+    ],
+    "usphone": "[luːˈbrɪʃəs]",
+    "ukphone": "[luːˈbrɪʃəs]"
+  },
+  {
+    "name": "loquacity",
+    "trans": [
+      "n. 多话，饶舌；喧噪"
+    ],
+    "usphone": "[ləˈkwæsəti]",
+    "ukphone": "[ləˈkwæsəti]"
+  },
+  {
+    "name": "lineaments",
+    "trans": [
+      "n. 轮廓（lineament的复数形式）",
+      "v. 使有轮廓（lineament的第三人称单数）"
+    ],
+    "usphone": "[ˈlɪniəmənts]",
+    "ukphone": "[ˈlɪniəmənts]"
+  },
+  {
+    "name": "limbo",
+    "trans": [
+      "n. 监狱；地狱的边境；放置丢弃物的场所；处于中间的或不定的状态"
+    ],
+    "usphone": "[ˈlɪmboʊ]",
+    "ukphone": "[ˈlɪmbəʊ]"
+  },
+  {
+    "name": "liberality",
+    "trans": [
+      "n. 慷慨，大方；心胸宽阔，胸怀广阔"
+    ],
+    "usphone": "[ˌlɪbəˈræləti]",
+    "ukphone": "[ˌlɪbəˈræləti]"
+  },
+  {
+    "name": "lucubration",
+    "trans": [
+      "n. 刻苦钻研；苦心而成的著作"
+    ],
+    "usphone": "[ˌluːkəˈbreɪʃən]",
+    "ukphone": "[ˌluːkjʊˈbreɪʃən]"
+  },
+  {
+    "name": "lowbred",
+    "trans": [
+      "adj. 没礼貌的；未受过好教育的"
+    ],
+    "usphone": "[ˈloˈbred]",
+    "ukphone": "[ˈləʊbred]"
+  },
+  {
+    "name": "lark",
+    "trans": [
+      "n. 云雀；百灵鸟；欢乐",
+      "vi. 骑马玩乐；嬉耍",
+      "vt. 愚弄"
+    ],
+    "usphone": "[lɑːrk]",
+    "ukphone": "[lɑːk]"
+  },
+  {
+    "name": "loathing",
+    "trans": [
+      "n. 嫌恶",
+      "adj. 厌恶的",
+      "vt. 讨厌（loathe的ing形式）"
+    ],
+    "usphone": "[ˈloʊðɪŋ]",
+    "ukphone": "[ˈləʊðɪŋ]"
+  },
+  {
+    "name": "luxuriate",
+    "trans": [
+      "vi. 沉溺；繁茂；生活奢侈"
+    ],
+    "usphone": "[lʌɡˈʒʊrieɪt]",
+    "ukphone": "[lʌɡˈʒʊərieɪt]"
+  },
+  {
+    "name": "leave-taking",
+    "trans": [
+      "n. 告辞；告别；告别语"
+    ],
+    "usphone": "[ˈliːv teɪkɪŋ]",
+    "ukphone": "[ˈliːv teɪkɪŋ]"
+  },
+  {
+    "name": "lucubrate",
+    "trans": [
+      "vi. 深入研究；刻苦用功；专心著作"
+    ],
+    "usphone": "[ˈluːkəˌbreɪt]",
+    "ukphone": "[ˈluːkjʊˌbreɪt]"
+  },
+  {
+    "name": "licit",
+    "trans": [
+      "adj. 正当的，合法的"
+    ],
+    "usphone": "[ˈlɪsɪt]",
+    "ukphone": "[ˈlɪsɪt]"
+  },
+  {
+    "name": "layover",
+    "trans": [
+      "n. 中断期间，中途短暂的停留；终点停车处；津贴"
+    ],
+    "usphone": "[ˈleɪoʊvər]",
+    "ukphone": "[ˈleɪəʊvə(r)]"
+  },
+  {
+    "name": "largess",
+    "trans": [
+      "n. 慷慨的赠予；赠品"
+    ],
+    "usphone": "[lɑːrˈdʒes]",
+    "ukphone": "[lɑːˈdʒes]"
+  },
+  {
+    "name": "logjam",
+    "trans": [
+      "n. 僵局；（河道等）受圆木阻塞；停滞状态；拥挤"
+    ],
+    "usphone": "[ˈlɔːɡdʒæm]",
+    "ukphone": "[ˈlɒɡdʒæm]"
+  },
+  {
+    "name": "limn",
+    "trans": [
+      "vt. 描写；描绘"
+    ],
+    "usphone": "[lɪm]",
+    "ukphone": "[lɪm]"
+  },
+  {
+    "name": "litotes",
+    "trans": [
+      "n. 曲言法；间接肯定法；反叙法"
+    ],
+    "usphone": "[laɪˈtoʊtiːz]",
+    "ukphone": "[laɪˈtəʊtiːz]"
+  },
+  {
+    "name": "light bulb",
+    "trans": [
+      "n. 灯泡"
+    ],
+    "usphone": "[ˈlaɪt bʌlb]",
+    "ukphone": "[ˈlaɪt bʌlb]"
+  },
+  {
+    "name": "low-fat",
+    "trans": [
+      "adj. 低脂肪的"
+    ],
+    "usphone": "[ˌloʊ ˈfæt]",
+    "ukphone": "[ˌləʊ ˈfæt]"
+  },
+  {
+    "name": "loving",
+    "trans": [
+      "adj. 亲爱的；钟情的；忠诚的"
+    ],
+    "usphone": "[ˈlʌvɪŋ]",
+    "ukphone": "[ˈlʌvɪŋ]"
+  },
+  {
+    "name": "luminescent",
+    "trans": [
+      "adj. 发冷光的，冷光的"
+    ],
+    "usphone": "[ˌluːmɪˈnes(ə)nt]",
+    "ukphone": "[ˌluːmɪˈnes(ə)nt]"
+  },
+  {
+    "name": "Luddite",
+    "trans": [
+      "n. 勒德分子（十九世纪初英国手工业工人中参加捣毁机器的人）；强烈反对机械化或自动化的人"
+    ],
+    "usphone": "[ˈlʌdaɪt]",
+    "ukphone": "[ˈlʌdaɪt]"
+  },
+  {
+    "name": "lanky",
+    "trans": [
+      "adj. 瘦长的"
+    ],
+    "usphone": "[ˈlæŋki]",
+    "ukphone": "[ˈlæŋki]"
+  },
+  {
+    "name": "loose-fitting",
+    "trans": [
+      "adj. 宽大的"
+    ],
+    "usphone": "[ˌluːs ˈfɪtɪŋ]",
+    "ukphone": "[ˌluːs ˈfɪtɪŋ]"
+  },
+  {
+    "name": "low-lying",
+    "trans": [
+      "adj. 低洼的"
+    ],
+    "usphone": "[ˌloʊ ˈlaɪɪŋ]",
+    "ukphone": "[ˌləʊ ˈlaɪɪŋ]"
+  },
+  {
+    "name": "lingua",
+    "trans": [
+      "n. 舌；似舌的器官"
+    ],
+    "usphone": "[ˈlɪŋɡwə]",
+    "ukphone": "[ˈlɪŋɡwə]"
+  },
+  {
+    "name": "loveable",
+    "trans": [
+      "adj. 可爱的；惹人爱的（等于lovable）"
+    ],
+    "usphone": "[ˈlʌvəbl]",
+    "ukphone": "[ˈlʌvəbəl]"
+  },
+  {
+    "name": "lute",
+    "trans": [
+      "n. 琵琶",
+      "vi. 弹诗琴",
+      "vt. 弹诗琴表达；用封泥封"
+    ],
+    "usphone": "[luːt]",
+    "ukphone": "[luːt]"
+  },
+  {
+    "name": "lunchroom",
+    "trans": [
+      "n. 速简餐厅；学校或工厂的餐厅"
+    ],
+    "usphone": "[ˈlʌntʃruːm; ˈlʌntʃrʊm]",
+    "ukphone": "[ˈlʌntʃruːm; ˈlʌntʃrʊm]"
+  },
+  {
+    "name": "larvae",
+    "trans": [
+      "n. 幼虫；幼体（larva的复数形式）"
+    ],
+    "usphone": "[ˈlɑːrviː]",
+    "ukphone": "[ˈlɑːviː]"
+  },
+  {
+    "name": "loudhailer",
+    "trans": [
+      "n. 扬声器；喇叭筒"
+    ],
+    "usphone": "[ˌlaʊdˈheɪlər]",
+    "ukphone": "[ˌlaʊdˈheɪlə(r)]"
+  },
+  {
+    "name": "lit",
+    "trans": [
+      "adj. 照亮的，点着的（light的过去式及过去分词）"
+    ],
+    "usphone": "[lɪt]",
+    "ukphone": "[lɪt]"
+  },
+  {
+    "name": "linguistical",
+    "trans": [
+      "adj. 语言上的，语言学上的"
+    ],
+    "usphone": "[lɪŋˈɡwɪstɪkl]",
+    "ukphone": "[lɪŋˈɡwɪstɪkəl]"
+  },
+  {
+    "name": "led",
+    "trans": [
+      "abbr. 发光二极管（light-emitting diode）"
+    ],
+    "usphone": "[led]",
+    "ukphone": "[led]"
+  },
+  {
+    "name": "logician",
+    "trans": [
+      "n. 逻辑学家；论理学者"
+    ],
+    "usphone": "[ləˈdʒɪʃn]",
+    "ukphone": "[ləˈdʒɪʃn]"
+  },
+  {
+    "name": "looming",
+    "trans": [
+      "n. 上现蜃景；庞视；幽影",
+      "adj. 隐隐约约的；正在逼近的",
+      "v. 逼近；隐约可见（loom的ing形式）"
+    ],
+    "usphone": "[ˈluːmɪŋ]",
+    "ukphone": "[ˈluːmɪŋ]"
+  },
+  {
+    "name": "line-up",
+    "trans": [
+      "vt. 排成直线；排成行",
+      "n. 一排人（等于lineup）"
+    ],
+    "usphone": "[ˈlaɪn ʌp]",
+    "ukphone": "[ˈlaɪn ʌp]"
+  },
+  {
+    "name": "legalisation",
+    "trans": [
+      "n. 合法化, 法律上认可"
+    ],
+    "usphone": "[ˌliːɡələˈzeɪʃn]",
+    "ukphone": "[ˌliːgəlaɪ'zeɪʃən]"
+  },
+  {
+    "name": "lier",
+    "trans": [
+      "n. 玻璃退火窑；躺卧者"
+    ],
+    "usphone": "[ˈlaɪər]",
+    "ukphone": "[ˈlaɪə(r)]"
+  },
+  {
+    "name": "leftovers",
+    "trans": [
+      "n. 遗留；剩余物；吃剩的食物（leftover的复数形式）"
+    ],
+    "usphone": "[ˈleftovər]",
+    "ukphone": "['leftəuvə]"
+  },
+  {
+    "name": "link-up",
+    "trans": [
+      "n. 联系；连接"
+    ],
+    "usphone": "[ˈlɪŋk ʌp]",
+    "ukphone": "[ˈlɪŋk ʌp]"
+  },
+  {
+    "name": "latrine",
+    "trans": [
+      "n. 公共厕所"
+    ],
+    "usphone": "[ləˈtriːn]",
+    "ukphone": "[ləˈtriːn]"
+  },
+  {
+    "name": "linseed oil",
+    "trans": [
+      "n. 亚麻籽油"
+    ],
+    "usphone": "[ˈlɪnsiːd ɔɪl]",
+    "ukphone": "[ˈlɪnsiːd ɔɪl]"
+  },
+  {
+    "name": "lyre",
+    "trans": [
+      "n. （古希腊的）七弦竖琴"
+    ],
+    "usphone": "[ˈlaɪər]",
+    "ukphone": "[ˈlaɪə(r)]"
+  },
+  {
+    "name": "lightproof",
+    "trans": [
+      "adj. 不透光的"
+    ],
+    "usphone": "[ˈlaɪtˈprʊf]",
+    "ukphone": "[ˈlaɪtˌpruːf]"
+  },
+  {
+    "name": "Lepidoptera",
+    "trans": [
+      "n. 鳞翅类; 鳞翅类的昆虫( lepidopteron的名词复数 )"
+    ],
+    "usphone": "[ˌlepɪˈdɑːptərə]",
+    "ukphone": "[ˌlepɪˈdɒptərə]"
+  },
+  {
+    "name": "loudness",
+    "trans": [
+      "n. [声] 响度；吵闹"
+    ],
+    "usphone": "[ˈlaʊdnəs]",
+    "ukphone": "[ˈlaʊdnəs]"
+  },
+  {
+    "name": "longitudinally",
+    "trans": [
+      "adv. 长度上，经向；经度上"
+    ],
+    "usphone": "[ˌlɑːndʒəˈtuːdnəli]",
+    "ukphone": "[ˌlɒŋɡɪˈtjuːdɪnəli; ˌlɒndʒɪˈtjuːdɪnəli]"
+  },
+  {
+    "name": "logged",
+    "trans": [
+      "adj. 笨拙的；锯成圆木的；停滞的；进水的",
+      "v. 伐树；把树木锯成段木；记入航海日志；把…输入计算机（log的过去分词）"
+    ],
+    "usphone": "[lɔːɡd]",
+    "ukphone": "[lɒɡd]"
+  },
+  {
+    "name": "legging",
+    "trans": [
+      "n. 绑腿；裹腿；护胫",
+      "v. 走；跑（leg的ing形式）"
+    ],
+    "usphone": "[ˈleɡɪŋ]",
+    "ukphone": "[ˈleɡɪŋ]"
+  },
+  {
+    "name": "litterbug",
+    "trans": [
+      "n. （在公共场所）乱扔垃圾的人"
+    ],
+    "usphone": "[ˈlɪtərˌbʌɡ]",
+    "ukphone": "[ˈlɪtəbʌɡ]"
+  },
+  {
+    "name": "liveable",
+    "trans": [
+      "adj. 适于居住的；可住的"
+    ],
+    "usphone": "[ˈlɪvəbl]",
+    "ukphone": "[ˈlɪvəbl]"
+  },
+  {
+    "name": "light-colored",
+    "trans": [
+      "adj. 颜色浅的；不黑的"
+    ],
+    "usphone": "[ˌlaɪt ˈkʌlərd]",
+    "ukphone": "[ˈlaɪtˈkʌləd]"
+  },
+  {
+    "name": "latchkey",
+    "trans": [
+      "n. （尤指住所前门的）门锁钥匙；弹簧锁钥匙"
+    ],
+    "usphone": "[ˈlætʃkiː]",
+    "ukphone": "[ˈlætʃkiː]"
+  },
+  {
+    "name": "landscaper",
+    "trans": [
+      "n. 庭园设计家"
+    ],
+    "usphone": "['lænd,skeipə]",
+    "ukphone": "[ˈlændˌskeɪpə]"
+  },
+  {
+    "name": "lambast",
+    "trans": [
+      "vt. 鞭打, 狠打, 严厉责骂"
+    ],
+    "usphone": "[læmˈbest]",
+    "ukphone": "[læmˈbeɪst; læmˈbæst]"
+  },
+  {
+    "name": "lascivious",
+    "trans": [
+      "adj. 好色的；淫荡的；挑动情欲的"
+    ],
+    "usphone": "[ləˈsɪviəs]",
+    "ukphone": "[ləˈsɪviəs]"
+  },
+  {
+    "name": "lockstep",
+    "trans": [
+      "n. 因循守旧；密集连锁的步伐；步伐一致"
+    ],
+    "usphone": "[ˈlɑːkstep]",
+    "ukphone": "[ˈlɒkstep]"
+  },
+  {
+    "name": "longhand",
+    "trans": [
+      "n. 普通书写（速记或打字）；普通写法"
+    ],
+    "usphone": "[ˈlɔːŋhænd]",
+    "ukphone": "[ˈlɒŋhænd]"
+  },
+  {
+    "name": "Laius",
+    "trans": [
+      "n. [希神]拉伊俄斯(底比斯国王,后为其子Oedipus所杀)"
+    ],
+    "usphone": "['laiəs]",
+    "ukphone": "[ˈlaɪəs]"
+  },
+  {
+    "name": "lifeblood",
+    "trans": [
+      "n. 生机的根源；生命必须的血液；命脉；命根子"
+    ],
+    "usphone": "[ˈlaɪfblʌd]",
+    "ukphone": "[ˈlaɪfblʌd]"
+  },
+  {
+    "name": "LUX",
+    "trans": [
+      "n. 勒克斯（照明单位）"
+    ],
+    "usphone": "[lʌks]",
+    "ukphone": "[lʌks]"
+  },
+  {
+    "name": "lady-killer",
+    "trans": [
+      "n. 色狼；令女人倾心的男子"
+    ],
+    "usphone": "['leidi,kilə]",
+    "ukphone": "[ˈleɪdi ˈkɪlə(r)]"
+  },
+  {
+    "name": "lustful",
+    "trans": [
+      "adj. 好色的；贪欲的；渴望的"
+    ],
+    "usphone": "[ˈlʌstfl]",
+    "ukphone": "[ˈlʌstfl]"
+  },
+  {
+    "name": "Lapp",
+    "trans": [
+      "n. 拉普人, 拉普语"
+    ],
+    "usphone": "[læp]",
+    "ukphone": "[læp]"
+  },
+  {
+    "name": "loose change",
+    "trans": [
+      "n. （口袋或包里随身带的）零钱"
+    ],
+    "usphone": "[ˌluːs ˈtʃeɪndʒ]",
+    "ukphone": "[ˌluːs ˈtʃeɪndʒ]"
+  },
+  {
+    "name": "Look out!",
+    "trans": [
+      "(look 看+ out 出，外)"
+    ],
+    "usphone": "[lʊk aʊt]",
+    "ukphone": "[lʊk aʊt]"
+  },
+  {
+    "name": "liberalisation",
+    "trans": [
+      "n. 自由化；开放"
+    ],
+    "usphone": "[ˌlɪbərəlɪˈzeʃən]",
+    "ukphone": "[ˌlɪbərəlaɪˈzeɪʃən]"
+  },
+  {
+    "name": "lapful",
+    "trans": [
+      "n. 满膝，满兜"
+    ],
+    "usphone": "[ˈlæpˌfʊl]",
+    "ukphone": "[ˈlæpfʊl]"
+  },
+  {
+    "name": "lathery",
+    "trans": [
+      "a. 肥皂泡的, 充满泡沫的"
+    ],
+    "usphone": "[ˈlæðəri; leɪðəri]",
+    "ukphone": "[ˈlæðəri]"
+  },
+  {
+    "name": "Latvia",
+    "trans": [
+      "n. 拉脱维亚"
+    ],
+    "usphone": "[ˈlætviə]",
+    "ukphone": "[ˈlætviə]"
+  },
+  {
+    "name": "lavation",
+    "trans": [
+      "n. 洗涤"
+    ],
+    "usphone": "[læˈveɪʃn]",
+    "ukphone": "[læˈveɪʃən]"
+  },
+  {
+    "name": "lave",
+    "trans": [
+      "vt. 洗；沐浴；冲刷",
+      "n. 剩余物",
+      "vi. 沐浴"
+    ],
+    "usphone": "[leɪv]",
+    "ukphone": "[leɪv]"
+  },
+  {
+    "name": "lavishly",
+    "trans": [
+      "adv. 丰富地；浪费地"
+    ],
+    "usphone": "[ˈlævɪʃli]",
+    "ukphone": "[ˈlævɪʃli]"
+  },
+  {
+    "name": "Lawrence",
+    "trans": [
+      "n. 劳伦斯（男子名）"
+    ],
+    "usphone": "[ˈlɔːrəns]",
+    "ukphone": "[ˈlɒrəns]"
+  },
+  {
+    "name": "lea",
+    "trans": [
+      "n. 草地"
+    ],
+    "usphone": "[liː]",
+    "ukphone": "[liː]"
+  },
+  {
+    "name": "Lenin",
+    "trans": [
+      "n. 列宁（俄国无产阶级革命领袖）"
+    ],
+    "usphone": "[ˈlenɪn]",
+    "ukphone": "['lenin]"
+  },
+  {
+    "name": "lewdness",
+    "trans": [
+      "n. 淫荡，下流；邪恶"
+    ],
+    "usphone": "[ˈluːdnəs]",
+    "ukphone": "[ˈluːdnəs; ˈljuːdnəs]"
+  },
+  {
+    "name": "liberally",
+    "trans": [
+      "adv. 大方地；自由地；公平地；充足地"
+    ],
+    "usphone": "[ˈlɪbərəli]",
+    "ukphone": "[ˈlɪbərəli]"
+  },
+  {
+    "name": "libertarian",
+    "trans": [
+      "adj. 自由的；自由论者的；持自由论的",
+      "n. 自由意志主义者；行动自由论者"
+    ],
+    "usphone": "[ˌlɪbərˈteriən]",
+    "ukphone": "[ˌlɪbəˈteəriən]"
+  },
+  {
+    "name": "lice",
+    "trans": [
+      "n. 虱子（louse 的复数）"
+    ],
+    "usphone": "[laɪs]",
+    "ukphone": "[laɪs]"
+  },
+  {
+    "name": "licensure",
+    "trans": [
+      "n. 许可；发给许可证；特许"
+    ],
+    "usphone": "[ˈlaɪsənʃʊr]",
+    "ukphone": "[ˈlaɪsənʃə]"
+  },
+  {
+    "name": "lidded",
+    "trans": [
+      "adj. 有盖子的；覆盖着的；有…眼睑的",
+      "v. 给…盖上盖子（lid的过去分词）"
+    ],
+    "usphone": "[ˈlɪdɪd]",
+    "ukphone": "[ˈlɪdɪd]"
+  },
+  {
+    "name": "limner",
+    "trans": [
+      "n. 画匠，画家"
+    ],
+    "usphone": "[ˈlɪmər]",
+    "ukphone": "[ˈlɪmnə(r)]"
+  },
+  {
+    "name": "lingam",
+    "trans": [
+      "n. 男性生殖器像"
+    ],
+    "usphone": "[ˈlɪŋɡəm]",
+    "ukphone": "[ˈlɪŋɡəm]"
+  },
+  {
+    "name": "linty",
+    "trans": [
+      "adj. 有棉毛的，有棉絮的"
+    ],
+    "usphone": "[ˈlɪnti]",
+    "ukphone": "[ˈlɪnti]"
+  },
+  {
+    "name": "lira",
+    "trans": [
+      "n. 里拉（意大利、土耳其货币单位）"
+    ],
+    "usphone": "[ˈlɪrə]",
+    "ukphone": "[ˈlɪərə]"
+  },
+  {
+    "name": "localizable",
+    "trans": [
+      "adj. 能地方化的，可以定域的"
+    ],
+    "usphone": "[ˈlokəlaɪzəbl]",
+    "ukphone": "[ˈləʊkəlaɪzəb(ə)l]"
+  },
+  {
+    "name": "localization",
+    "trans": [
+      "n. [计] 定位；局限；地方化"
+    ],
+    "usphone": "[ˌloʊkələˈzeɪʃn]",
+    "ukphone": "[ˌləʊkəlaɪˈzeɪʃn]"
+  },
+  {
+    "name": "looter",
+    "trans": [
+      "n. 抢劫者"
+    ],
+    "usphone": "[ˈluːtər]",
+    "ukphone": "[ˈluːtə(r)]"
+  },
+  {
+    "name": "Louisiana",
+    "trans": [
+      "n. 美国路易斯安那州"
+    ],
+    "usphone": "[luˌiːziˈænə]",
+    "ukphone": "[luˌiːziˈænə]"
+  },
+  {
+    "name": "libation",
+    "trans": [
+      "n. 饮酒；奠酒祭神仪式（形容词libationary）"
+    ],
+    "usphone": "[laɪˈbeɪʃn]",
+    "ukphone": "[laɪˈbeɪʃn]"
+  },
+  {
+    "name": "logogram",
+    "trans": [
+      "n. 简写；速记用略字；标记"
+    ],
+    "usphone": "[ˈlɔːɡəɡræm]",
+    "ukphone": "[ˈlɒɡəɡræm]"
+  },
+  {
+    "name": "lawlike",
+    "trans": [
+      "adj. 似法律的"
+    ],
+    "usphone": "[ˈlɔˌlaɪk]",
+    "ukphone": "[ˈlɔːlaɪk]"
+  },
+  {
+    "name": "livable",
+    "trans": [
+      "adj. 适于居住的；生活过得有价值的"
+    ],
+    "usphone": "[ˈlɪvəbl]",
+    "ukphone": "[ˈlɪvəbl]"
+  },
+  {
+    "name": "logan",
+    "trans": [
+      "n. 洛根（男子名）"
+    ],
+    "usphone": "[ˈloʊɡən]",
+    "ukphone": "[ˈləʊɡən]"
+  },
+  {
+    "name": "landless",
+    "trans": [
+      "adj. 无地产的；无陆地的"
+    ],
+    "usphone": "[ˈlændləs]",
+    "ukphone": "[ˈlændləs]"
+  },
+  {
+    "name": "lamina",
+    "trans": [
+      "n. 叶片；薄层；薄板"
+    ],
+    "usphone": "[ˈlæmənə]",
+    "ukphone": "[ˈlæmənə]"
+  },
+  {
+    "name": "lateen",
+    "trans": [
+      "adj. （有）大三角帆的; 三角帆船"
+    ],
+    "usphone": "[læˈtin]",
+    "ukphone": "[ləˈtiːn]"
+  },
+  {
+    "name": "logger",
+    "trans": [
+      "n. （美）樵夫，伐木工；记录器"
+    ],
+    "usphone": "[ˈlɔːɡər]",
+    "ukphone": "[ˈlɒɡə(r)]"
+  },
+  {
+    "name": "lifeway",
+    "trans": [
+      "n. 生活方式，生活"
+    ],
+    "usphone": "[ˈlaɪfˌwe]",
+    "ukphone": "[ˈlaɪfˌweɪ]"
+  },
+  {
+    "name": "literalness",
+    "trans": [
+      "n. 文字，字义上；无修饰；表面意义上"
+    ],
+    "usphone": "[ˈlɪtərəlnəs]",
+    "ukphone": "[ˈlɪtərəlnəs]"
+  },
+  {
+    "name": "loyalist",
+    "trans": [
+      "n. 忠诚的人；反对独立者"
+    ],
+    "usphone": "[ˈlɔɪəlɪst]",
+    "ukphone": "[ˈlɔɪəlɪst]"
+  },
+  {
+    "name": "lordly",
+    "trans": [
+      "adj. 贵族气派的；高傲的",
+      "adv. 贵族般地；高傲地"
+    ],
+    "usphone": "[ˈlɔːrdli]",
+    "ukphone": "[ˈlɔːdli]"
+  },
+  {
+    "name": "limy",
+    "trans": [
+      "adj. 石灰质的；涂粘鸟胶的；含石灰的"
+    ],
+    "usphone": "[ˈlaɪmɪ]",
+    "ukphone": "[ˈlaɪmi]"
+  },
+  {
+    "name": "lithographic",
+    "trans": [
+      "adj. 平版的；平版印刷的"
+    ],
+    "usphone": "[ˌlɪθəˈɡræfɪk]",
+    "ukphone": "[ˌlɪθəˈɡræfɪk]"
+  },
+  {
+    "name": "latitudinal",
+    "trans": [
+      "adj. 纬度的"
+    ],
+    "usphone": "[ˌlætəˈtuːdənəl]",
+    "ukphone": "[ˌlætɪˈtjuːdɪn(ə)l]"
+  },
+  {
+    "name": "locomotor",
+    "trans": [
+      "adj. 运动的"
+    ],
+    "usphone": "[ˌloʊkəˈmoʊtər]",
+    "ukphone": "[ˌləʊkəˈməʊtə(r)]"
+  },
+  {
+    "name": "lumpy",
+    "trans": [
+      "adj. 粗笨的；波浪起伏的；多块状物的"
+    ],
+    "usphone": "[ˈlʌmpi]",
+    "ukphone": "[ˈlʌmpi]"
+  },
+  {
+    "name": "limbless",
+    "trans": [
+      "adj. 无肢的；无枝叉的；无翼的"
+    ],
+    "usphone": "[lɪmlɪs]",
+    "ukphone": "[ˈlɪmlɪs]"
+  },
+  {
+    "name": "larceny",
+    "trans": [
+      "n. 盗窃；盗窃罪"
+    ],
+    "usphone": "[ˈlɑːrsəni]",
+    "ukphone": "[ˈlɑːsəni]"
+  },
+  {
+    "name": "litmus test",
+    "trans": [
+      "n. 石蕊试验"
+    ],
+    "usphone": "[ˈlɪtməs test]",
+    "ukphone": "[ˈlɪtməs test]"
+  },
+  {
+    "name": "lowdown",
+    "trans": [
+      "n. 真相；内幕"
+    ],
+    "usphone": "[ˈloʊˌdaʊn]",
+    "ukphone": "[ˈləʊˌdaʊn]"
+  },
+  {
+    "name": "lenitive",
+    "trans": [
+      "adj. 润泽的; 缓和的; 缓解疼痛的; 减轻痛苦的",
+      "n. 润泽药，缓和剂，轻泻剂"
+    ],
+    "usphone": "[ˈlenətɪv]",
+    "ukphone": "[ˈlenɪtɪv]"
+  },
+  {
+    "name": "loftily",
+    "trans": [
+      "adv. 高尚地；傲慢地"
+    ],
+    "usphone": "[ˈlɔːftɪli]",
+    "ukphone": "[ˈlɒftɪli]"
+  },
+  {
+    "name": "lacuna",
+    "trans": [
+      "n. 空隙；空白；[生物] 腔隙"
+    ],
+    "usphone": "[ləˈkjuːnə; ləˈkuːnə]",
+    "ukphone": "[ləˈkjuːnə]"
+  },
+  {
+    "name": "lend a hand",
+    "trans": [
+      "na. 帮忙；参加；帮助"
+    ],
+    "usphone": "[lend ə hænd]",
+    "ukphone": "[lend ə hænd]"
+  },
+  {
+    "name": "ladylike",
+    "trans": [
+      "adj. 如淑女的；娴淑高贵的"
+    ],
+    "usphone": "[ˈleɪdilaɪk]",
+    "ukphone": "[ˈleɪdilaɪk]"
+  },
+  {
+    "name": "Lester",
+    "trans": [
+      "n. 莱斯特（男子名）；喻指显赫的人"
+    ],
+    "usphone": "[ˈlestər]",
+    "ukphone": "[ˈlestə(r)]"
+  },
+  {
+    "name": "Laos",
+    "trans": [
+      "n. 老挝"
+    ],
+    "usphone": "[laʊs]",
+    "ukphone": "[laʊs]"
+  },
+  {
+    "name": "Laotian",
+    "trans": [
+      "n. 老挝人；老挝语",
+      "adj. 老挝的；老挝人的"
+    ],
+    "usphone": "[ˈlaʊʃnˌleɪˈoʊʃn]",
+    "ukphone": "[ˈlaʊʃn]"
+  },
+  {
+    "name": "Larry",
+    "trans": [
+      "n. 拌浆锄；小车，[矿业] 斗底车"
+    ],
+    "usphone": "[ˈlæri]",
+    "ukphone": "[ˈlæri]"
+  },
+  {
+    "name": "Laura",
+    "trans": [
+      "n. 劳拉（女子名）"
+    ],
+    "usphone": "[ˈlɔːrə]",
+    "ukphone": "[ˈlɔːrə]"
+  },
+  {
+    "name": "levelly",
+    "trans": [
+      "adv. 不动心地，水准地"
+    ],
+    "usphone": "[ˈlevəli]",
+    "ukphone": "[ˈlevəli]"
+  },
+  {
+    "name": "labetalol",
+    "trans": [
+      "[化] 拉贝洛尔; 柳胺心定"
+    ],
+    "usphone": "[ləˈbetəˌlɑːl]",
+    "ukphone": "[ləˈbetəˌlɒl]"
+  },
+  {
+    "name": "lability",
+    "trans": [
+      "n. 不稳定（性），易变（性）"
+    ],
+    "usphone": "[ləˈbɪləti]",
+    "ukphone": "[ləˈbɪləti]"
+  },
+  {
+    "name": "lacrimal",
+    "trans": [
+      "adj. [生理] 泪的；泪腺的；满是泪水的"
+    ],
+    "usphone": "[ˈlækrɪml]",
+    "ukphone": "[ˈlækrɪməl]"
+  },
+  {
+    "name": "lacrimation",
+    "trans": [
+      "n. 流泪; 泣下; 泪出"
+    ],
+    "usphone": "[ˌlækrɪˈmeɪʃən; ˌlækrəˈmeɪʃən]",
+    "ukphone": "[ˌlækrɪˈmeɪʃən]"
+  },
+  {
+    "name": "lactase",
+    "trans": [
+      "n. 乳糖分解酵素"
+    ],
+    "usphone": "[ˈlækteɪs]",
+    "ukphone": "[ˈlækteɪs]"
+  },
+  {
+    "name": "lacteal",
+    "trans": [
+      "adj. 乳状的；输入乳糜的",
+      "n. 乳糜管"
+    ],
+    "usphone": "[ˈlæktɪəl]",
+    "ukphone": "[ˈlæktɪəl]"
+  },
+  {
+    "name": "lactobacillus",
+    "trans": [
+      "n. 乳酸菌；乳杆菌属"
+    ],
+    "usphone": "[ˌlæktoʊbəˈsɪləs]",
+    "ukphone": "[ˌlæktəʊbəˈsɪləs]"
+  },
+  {
+    "name": "lacunar",
+    "trans": [
+      "n. 花格平顶，花格平顶的凹板",
+      "adj. 有花格平顶的"
+    ],
+    "usphone": "[ləˈkjʊnər]",
+    "ukphone": "[ləˈkjuːnə(r)]"
+  },
+  {
+    "name": "laminectomy",
+    "trans": [
+      "n. 椎板切除术"
+    ],
+    "usphone": "[ˌlæmɪˈnektəmi]",
+    "ukphone": "[ˌlæmɪˈnektəmi]"
+  },
+  {
+    "name": "lanolin",
+    "trans": [
+      "n. 羊毛脂"
+    ],
+    "usphone": "[ˈlænəlɪn]",
+    "ukphone": "[ˈlænəlɪn]"
+  },
+  {
+    "name": "laparoscopy",
+    "trans": [
+      "n. 腹腔镜检查，内视镜检查"
+    ],
+    "usphone": "[ˌlæpəˈrɑːskəpi]",
+    "ukphone": "[ˌlæpəˈrɒskəpi]"
+  },
+  {
+    "name": "laparotomy",
+    "trans": [
+      "n. 剖腹手术"
+    ],
+    "usphone": "[ˌlæpəˈrɑːtəmi]",
+    "ukphone": "[ˌlæpəˈrɒtəmi]"
+  },
+  {
+    "name": "laryngectomy",
+    "trans": [
+      "n. [耳鼻喉] 喉头切除术"
+    ],
+    "usphone": "[ˌlærɪnˈdʒektəmi]",
+    "ukphone": "[ˌlærɪnˈdʒektəmi]"
+  },
+  {
+    "name": "laryngoscope",
+    "trans": [
+      "n. 检喉镜，[耳鼻喉] 喉镜"
+    ],
+    "usphone": "[ləˈrɪŋɡəˌskoʊp]",
+    "ukphone": "[ləˈrɪŋɡəskəʊp]"
+  },
+  {
+    "name": "laryngoscopy",
+    "trans": [
+      "n. 喉镜检查"
+    ],
+    "usphone": "[ˌlærɪŋˈɡɑskəpi]",
+    "ukphone": "[ˌlærɪŋˈɡɒskəpɪ]"
+  },
+  {
+    "name": "laryngotomy",
+    "trans": [
+      "n. 喉剖开术"
+    ],
+    "usphone": "[ˌlærɪŋˈɡɑːtəmi]",
+    "ukphone": "[ˌlærɪŋˈɡɒtəmi]"
+  },
+  {
+    "name": "lavage",
+    "trans": [
+      "vt. [临床] 灌洗；清洗",
+      "n. [临床] 灌洗；洗胃"
+    ],
+    "usphone": "[ˈlævɪdʒˌlæˈvɑːʒ]",
+    "ukphone": "[ˈlævɪdʒ; læˈvɑːʒ]"
+  },
+  {
+    "name": "lecithine",
+    "trans": [
+      "[建] 卵磷脂"
+    ],
+    "usphone": "[lɪsaɪˈðaɪn]",
+    "ukphone": "[lɪsaɪˈðaɪn]"
+  },
+  {
+    "name": "lectin",
+    "trans": [
+      "n. [生化] 外源凝集素；植物血凝素"
+    ],
+    "usphone": "[ˈlektɪn]",
+    "ukphone": "[ˈlektɪn]"
+  },
+  {
+    "name": "Legionella",
+    "trans": [
+      " [医]〔复legionellae〕军团杆菌"
+    ],
+    "usphone": "[,li:dʒə'nelə]",
+    "ukphone": "[ˌliːdʒəˈnelə]"
+  },
+  {
+    "name": "leiomyoma",
+    "trans": [
+      "n. [医] 平滑肌瘤"
+    ],
+    "usphone": "[laɪoʊmaɪˈoʊmə]",
+    "ukphone": "[laɪəʊmaɪˈəʊmə]"
+  },
+  {
+    "name": "leishmaniasis",
+    "trans": [
+      "n. [内科] 利什曼病"
+    ],
+    "usphone": "[ˌliʃməˈnaɪəsɪs]",
+    "ukphone": "[ˌliːʃməˈnaɪəsɪs]"
+  },
+  {
+    "name": "lentigo",
+    "trans": [
+      "n. 斑点，雀斑，小痣"
+    ],
+    "usphone": "[lenˈtaɪɡoʊ]",
+    "ukphone": "[lenˈtaɪɡəʊ]"
+  },
+  {
+    "name": "lentivirus",
+    "trans": [
+      "n. 慢病毒"
+    ],
+    "usphone": "[ˈlentɪˌvaɪrəs]",
+    "ukphone": "[ˈlentɪˌvaɪərəs]"
+  },
+  {
+    "name": "leptin",
+    "trans": [
+      "瘦素；瘦蛋白"
+    ],
+    "usphone": "[ˈleptɪn]",
+    "ukphone": "[ˈleptɪn]"
+  },
+  {
+    "name": "leptospira",
+    "trans": [
+      "n. 螺旋体, 细螺旋体",
+      "n. [微]钩端螺旋体,细螺旋体"
+    ],
+    "usphone": "[ˌleptəˈspaɪərə]",
+    "ukphone": "[ˌleptəˈspaɪərə]"
+  },
+  {
+    "name": "leptospiral",
+    "trans": [
+      " [医]钩端螺旋体的，钩端螺旋体所引起的"
+    ],
+    "usphone": "[leptɑːsˈpaɪərəl]",
+    "ukphone": "[ˌleptəˈspaɪərəl]"
+  },
+  {
+    "name": "leptospirosis",
+    "trans": [
+      "n. 细螺旋体病"
+    ],
+    "usphone": "[ˌleptospaɪˈrosɪs]",
+    "ukphone": "[ˌleptə(ʊ)spaɪˈrəʊsɪs]"
+  },
+  {
+    "name": "leptotene",
+    "trans": [
+      "n. （细胞分裂中的）细线期"
+    ],
+    "usphone": "[ˈleptoʊˌtiːn]",
+    "ukphone": "[ˈleptə(ʊ)tiːn]"
+  },
+  {
+    "name": "leucorrhoea",
+    "trans": [
+      "n. 白带"
+    ],
+    "usphone": "[ljuːkəˈriːə]",
+    "ukphone": "[ˌluːkəˈriːə]"
+  },
+  {
+    "name": "leukemic",
+    "trans": [
+      "adj. 白血病的；白血球过多症"
+    ],
+    "usphone": "[luːˈkemɪk]",
+    "ukphone": "[luːˈkemɪk]"
+  },
+  {
+    "name": "leucocyte",
+    "trans": [
+      "n. [解剖][细胞] 白细胞；[细胞] 白血球"
+    ],
+    "usphone": "[ˈluːkəsaɪt]",
+    "ukphone": "[ˈluːkəsaɪt]"
+  },
+  {
+    "name": "leukocytic",
+    "trans": [
+      "a. [解]白血球的, 白细胞的"
+    ],
+    "usphone": "[ljukoʊˈsɪtɪk]",
+    "ukphone": "[ljuːkəʊˈsɪtɪk]"
+  },
+  {
+    "name": "leukoencephalopathy",
+    "trans": [
+      "脑白质病"
+    ],
+    "usphone": "[luˈkoʊenˌsefəˈlɑːpəθi]",
+    "ukphone": "[luːˈkəʊnkefələpəθi]"
+  },
+  {
+    "name": "leukopenia",
+    "trans": [
+      "n. 白细胞减少症"
+    ],
+    "usphone": "[ˌlʊkəˈpiːnɪə]",
+    "ukphone": "[ˌluːkəˈpiːnɪə]"
+  },
+  {
+    "name": "leukoplakia",
+    "trans": [
+      "n. 黏膜白斑病"
+    ],
+    "usphone": "[ˌlukoʊˈpleɪkiə]",
+    "ukphone": "[ˌluːkəʊˈpleɪkɪə]"
+  },
+  {
+    "name": "leukotriene",
+    "trans": [
+      "n. [生化] 白三烯"
+    ],
+    "usphone": "[ˈluːkoʊˈtraɪˌiːn]",
+    "ukphone": "[ˌluːkəʊˈtraɪiːn]"
+  },
+  {
+    "name": "levamisole",
+    "trans": [
+      "n. [药]左咪唑,左旋(四)咪唑,左旋驱虫净(广谱驱肠虫药及免疫增强药)"
+    ],
+    "usphone": "[ləˈvæmɪsoʊl]",
+    "ukphone": "[ləˈvæmɪsəʊl]"
+  },
+  {
+    "name": "levodopa",
+    "trans": [
+      "n. <美>左旋多巴"
+    ],
+    "usphone": "[ˌlivəˈdopə]",
+    "ukphone": "[ˌliːvə(ʊ)ˈdəʊpə]"
+  },
+  {
+    "name": "levothyroxine",
+    "trans": [
+      " [医]左旋甲状腺素"
+    ],
+    "usphone": "[,li:vəuθai'rɔksi:n]",
+    "ukphone": "[levuːˈθaɪrɒksiːn]"
+  },
+  {
+    "name": "levulose",
+    "trans": [
+      "n. 果糖"
+    ],
+    "usphone": "[ˈlevjuˌloʊs]",
+    "ukphone": "[ˈlevjʊləʊs]"
+  },
+  {
+    "name": "lidocaine",
+    "trans": [
+      "n. 利多卡因（一种局部麻醉剂，常见品牌是赛罗卡因（Xylocaine））"
+    ],
+    "usphone": "[ˈlaɪdəkeɪn]",
+    "ukphone": "[ˈlaɪdəkeɪn]"
+  },
+  {
+    "name": "life-expectancy",
+    "trans": [
+      " [医]寿命（预期寿命）"
+    ],
+    "usphone": "[ˈlaɪf ɪkspektənsi]",
+    "ukphone": "[ˈlaɪf ɪkspektənsi]"
+  },
+  {
+    "name": "ligamentous",
+    "trans": [
+      "adj. 韧带的，带状的"
+    ],
+    "usphone": "[lɪɡəˈmentəs]",
+    "ukphone": "[ˌlɪɡəˈmentəs]"
+  },
+  {
+    "name": "ligand",
+    "trans": [
+      "n. 配合基（向心配合价体）"
+    ],
+    "usphone": "[ˈlɪɡənd; ˈlaɪɡənd]",
+    "ukphone": "[ˈlɪɡənd]"
+  },
+  {
+    "name": "ligase",
+    "trans": [
+      "n. [生化] 连接酶"
+    ],
+    "usphone": "[ˈlaɪˌɡeɪs]",
+    "ukphone": "[ˈlaɪˌɡeɪz]"
+  },
+  {
+    "name": "ligate",
+    "trans": [
+      "vt. 结扎（血管等）；绑"
+    ],
+    "usphone": "[ˈlaɪɡeɪt]",
+    "ukphone": "[ˈlaɪɡeɪt]"
+  },
+  {
+    "name": "ligation",
+    "trans": [
+      "n. 结扎"
+    ],
+    "usphone": "[laɪˈɡeɪʃn]",
+    "ukphone": "[laɪˈɡeɪʃn]"
+  },
+  {
+    "name": "lightheaded",
+    "trans": [
+      "adj. 头昏眼花的"
+    ],
+    "usphone": "[ˌlaɪtˈhedɪd]",
+    "ukphone": "['laɪt'hedɪd]"
+  },
+  {
+    "name": "lincomycin",
+    "trans": [
+      "n. 林肯霉素，洁霉素; 林古霉素"
+    ],
+    "usphone": "[ˌlɪŋkoʊˈmaɪsɪn]",
+    "ukphone": "[ˌlɪŋkəʊˈmaɪsɪn]"
+  },
+  {
+    "name": "linearly",
+    "trans": [
+      "adv. 成直线地；在线上地"
+    ],
+    "usphone": "[ˈlɪniərli]",
+    "ukphone": "[ˈlɪniəli]"
+  },
+  {
+    "name": "lipidosis",
+    "trans": [
+      "脂沉积(症)"
+    ],
+    "usphone": "[lɪpɪˈdoʊsɪs]",
+    "ukphone": "[lɪpɪˈdəʊsɪs]"
+  },
+  {
+    "name": "lipocyte",
+    "trans": [
+      "n. 脂肪细胞，肥粒血球"
+    ],
+    "usphone": "[ˈlaɪposaɪt]",
+    "ukphone": "[ˈlɪpəʊsaɪt]"
+  },
+  {
+    "name": "lipodystrophy",
+    "trans": [
+      "n. 脂肪代谢障碍，脂肪营养不良"
+    ],
+    "usphone": "[lɪpəˈdɪstrəfi]",
+    "ukphone": "[ˌlɪpəʊˈdɪstrəfi]"
+  },
+  {
+    "name": "lipofuscin",
+    "trans": [
+      "脂褐质"
+    ],
+    "usphone": "[lɪpəˈfʌsɪn]",
+    "ukphone": "[lɪpəˈfʌsɪn]"
+  },
+  {
+    "name": "lipogenesis",
+    "trans": [
+      "n. 脂肪生成"
+    ],
+    "usphone": "[lɪpoʊˈdʒenɪsɪs]",
+    "ukphone": "[ˌlɪpəʊˈdʒenɪsɪs]"
+  },
+  {
+    "name": "lipolysis",
+    "trans": [
+      "n. 脂解（作用）"
+    ],
+    "usphone": "[lɪˈpɑːləsɪs]",
+    "ukphone": "[lɪˈpɒlɪsɪs]"
+  },
+  {
+    "name": "lipolytic",
+    "trans": [
+      "a. 分解脂肪的, 引起脂肪分解的"
+    ],
+    "usphone": "[ˌlɪpəˈlɪtɪk]",
+    "ukphone": "[ˌlɪpəʊˈlɪtɪk]"
+  },
+  {
+    "name": "lipoma",
+    "trans": [
+      "n. 脂肪瘤"
+    ],
+    "usphone": "[lɪˈpoʊmə]",
+    "ukphone": "[lɪˈpəʊmə]"
+  },
+  {
+    "name": "lipophilic",
+    "trans": [
+      "adj. 亲脂性的，亲脂的"
+    ],
+    "usphone": "[ˌlɪpəˈfɪlɪk]",
+    "ukphone": "[ˌlɪpəʊˈfɪlɪk]"
+  },
+  {
+    "name": "lipopolysaccharide",
+    "trans": [
+      "n. [有化] 脂多糖"
+    ],
+    "usphone": "[ˌlʌɪpəʊpɒlɪˈsakərʌɪd]",
+    "ukphone": "[ˌlʌɪpəʊpɒlɪˈsakərʌɪd]"
+  },
+  {
+    "name": "liposome",
+    "trans": [
+      "n. [生化] 脂质体"
+    ],
+    "usphone": "[ˈlɪpəsoʊmˌˈlaɪpəsoʊm]",
+    "ukphone": "[ˈlɪpəsəʊm; ˈlaɪpəsəʊm]"
+  },
+  {
+    "name": "lipotropin",
+    "trans": [
+      "n. 促脂素"
+    ],
+    "usphone": "[ˌlɪpoʊˈtroʊpɪn]",
+    "ukphone": "[ˌlɪpəˈtrəʊpɪn]"
+  },
+  {
+    "name": "liquefaction",
+    "trans": [
+      "n. 液化；熔解"
+    ],
+    "usphone": "[ˌlɪkwəˈfækʃən]",
+    "ukphone": "[ˌlɪkwɪˈfækʃən]"
+  },
+  {
+    "name": "listeriosis",
+    "trans": [
+      "n. 李氏杆菌病；利斯特氏菌病"
+    ],
+    "usphone": "[lɪsˌtɪriˈoʊsɪs]",
+    "ukphone": "[lɪˌstɪəriˈəʊsɪs]"
+  },
+  {
+    "name": "lithium",
+    "trans": [
+      "n. 锂（符号Li）"
+    ],
+    "usphone": "[ˈlɪθiəm]",
+    "ukphone": "[ˈlɪθiəm]"
+  },
+  {
+    "name": "lithotomy",
+    "trans": [
+      "n. 切石术"
+    ],
+    "usphone": "[lɪˈθɑːtəmi]",
+    "ukphone": "[lɪˈθɒtəmi]"
+  },
+  {
+    "name": "lithotripsy",
+    "trans": [
+      "n. （对肾结石等的）震波碎石"
+    ],
+    "usphone": "[ˈlɪθəˌtrɪpsi]",
+    "ukphone": "[ˈlɪθəʊˌtrɪpsi]"
+  },
+  {
+    "name": "lobar",
+    "trans": [
+      "adj. 叶的"
+    ],
+    "usphone": "[ˈloʊbər]",
+    "ukphone": "[ˈləʊbə(r)]"
+  },
+  {
+    "name": "lobectomy",
+    "trans": [
+      "n. [外科] 叶切除术"
+    ],
+    "usphone": "[loʊˈbektəmi]",
+    "ukphone": "[ləʊˈbektəmi]"
+  },
+  {
+    "name": "lobelia",
+    "trans": [
+      "n. 半边莲；山梗莱属的植物"
+    ],
+    "usphone": "[loʊˈbiːliə]",
+    "ukphone": "[ləʊˈbiːliə]"
+  },
+  {
+    "name": "lobular",
+    "trans": [
+      "adj. 有小叶的；有小裂片的"
+    ],
+    "usphone": "[ˈlɑːbjulər]",
+    "ukphone": "[ˈlɒbjʊlə(r)]"
+  },
+  {
+    "name": "lobulated",
+    "trans": [
+      " 分叶状"
+    ],
+    "usphone": "[ˈlɑːbjuleɪtɪd]",
+    "ukphone": "[ˈlɒbjʊleɪtɪd]"
+  },
+  {
+    "name": "lochia",
+    "trans": [
+      "n. 恶露（分娩后的子宫阴道分泌物）"
+    ],
+    "usphone": "[ˈlokɪə]",
+    "ukphone": "[ˈlɒkɪə]"
+  },
+  {
+    "name": "lodgment",
+    "trans": [
+      "n. 沉淀，贮存"
+    ],
+    "usphone": "[ˈlɑːdʒmənt]",
+    "ukphone": "[ˈlɒdʒmənt]"
+  },
+  {
+    "name": "lordosis",
+    "trans": [
+      "n. 脊柱前弯症"
+    ],
+    "usphone": "[lɔrˈdosɪs]",
+    "ukphone": "[lɔːˈdəʊsɪs]"
+  },
+  {
+    "name": "lucency",
+    "trans": [
+      "n. 透明；光亮"
+    ],
+    "usphone": "[ˈlusənsɪ]",
+    "ukphone": "[ˈluːsnsi]"
+  },
+  {
+    "name": "lumbago",
+    "trans": [
+      "n. [中医][外科] 腰痛"
+    ],
+    "usphone": "[lʌmˈbeɪɡoʊ]",
+    "ukphone": "[lʌmˈbeɪɡəʊ]"
+  },
+  {
+    "name": "lupus",
+    "trans": [
+      "n. [内科][皮肤] 狼疮；天狼座"
+    ],
+    "usphone": "[ˈluːpəs]",
+    "ukphone": "[ˈluːpəs]"
+  },
+  {
+    "name": "luteal",
+    "trans": [
+      "adj. 黄体的"
+    ],
+    "usphone": "[ˈluːtiəl]",
+    "ukphone": "[ˈluːtɪəl]"
+  },
+  {
+    "name": "luteinization",
+    "trans": [
+      "n. 使成为黄体部分"
+    ],
+    "usphone": "[ˌluːtɪənəˈzeɪʃn]",
+    "ukphone": "[ˌluːtɪɪnaɪˈzeɪʃ(ə)n]"
+  },
+  {
+    "name": "luteinize",
+    "trans": [
+      "v. 使成为黄体部分"
+    ],
+    "usphone": "['lu:tiinaiz]",
+    "ukphone": "[ˈluːtiːnaɪz]"
+  },
+  {
+    "name": "luteum",
+    "trans": [
+      " [医]（拉）黄色，黄体酮，己酸孕酮"
+    ],
+    "usphone": "[luːˈtiːəm]",
+    "ukphone": "[ˈluːtɪəm]"
+  },
+  {
+    "name": "lyme",
+    "trans": [
+      "n. 莱姆病（由扁虱叮咬而出现麻疹、发烧等症状的一种传染性疾病）"
+    ],
+    "usphone": "[laɪm]",
+    "ukphone": "[laim]"
+  },
+  {
+    "name": "lymphadenectomy",
+    "trans": [
+      "[医] 淋巴切除术"
+    ],
+    "usphone": "[lɪmfədˈnektəmi]",
+    "ukphone": "[lɪmfədˈnektəmi]"
+  },
+  {
+    "name": "lymphadenitis",
+    "trans": [
+      "n. 淋巴腺炎"
+    ],
+    "usphone": "[lɪmˌfædɪˈnaɪtɪs]",
+    "ukphone": "[lɪmˌfædɪˈnaɪtɪs]"
+  },
+  {
+    "name": "lymphadenoma",
+    "trans": [
+      "n. [医]淋巴腺瘤"
+    ],
+    "usphone": "[lɪmˌfædəˈnoʊmə]",
+    "ukphone": "[lɪmˌfædəˈnəʊmə]"
+  },
+  {
+    "name": "lymphadenopathy",
+    "trans": [
+      "n. [内科] 淋巴结病"
+    ],
+    "usphone": "[lɪmˌfædəˈnɑːpəθi]",
+    "ukphone": "[lɪmˌfædɪˈnɒpəθɪ]"
+  },
+  {
+    "name": "lymphangiography",
+    "trans": [
+      "n. [医]淋巴管造影术"
+    ],
+    "usphone": "[lɪmˌfændʒɪˈɑɡrəfi]",
+    "ukphone": "[ˌlɪmfændʒɪˈɒɡrəfɪ]"
+  },
+  {
+    "name": "lymphangioma",
+    "trans": [
+      "n. 淋巴管瘤"
+    ],
+    "usphone": "[lɪmˌfændʒɪˈoʊmə]",
+    "ukphone": "[lɪmˌfændʒɪˈəʊmə]"
+  },
+  {
+    "name": "lymphangitis",
+    "trans": [
+      "n. 淋巴管炎"
+    ],
+    "usphone": "[ˌlɪmfənˈdʒaɪtɪs]",
+    "ukphone": "[ˌlɪmfænˈdʒaɪtɪs]"
+  },
+  {
+    "name": "lymphatic",
+    "trans": [
+      "adj. 淋巴的；含淋巴的",
+      "n. 淋巴管；淋巴腺"
+    ],
+    "usphone": "[lɪmˈfætɪk]",
+    "ukphone": "[lɪmˈfætɪk]"
+  },
+  {
+    "name": "lymphedema",
+    "trans": [
+      "n. [内科] 淋巴水肿（等于lymphoedema）"
+    ],
+    "usphone": "[lɪmfɪˈdiːmə]",
+    "ukphone": "[lɪmfɪˈdiːmə]"
+  },
+  {
+    "name": "lymphoblast",
+    "trans": [
+      "n. 成淋巴细胞，淋巴母细菌"
+    ],
+    "usphone": "[ˈlɪmfoblæst]",
+    "ukphone": "[ˈlɪmfəʊˌblɑːst]"
+  },
+  {
+    "name": "lymphocytic",
+    "trans": [
+      "adj. 淋巴细胞的；淋巴球的"
+    ],
+    "usphone": "[ˌlɪmfəˈsaɪtɪk]",
+    "ukphone": "[ˌlɪmfəʊˈsɪtɪk]"
+  },
+  {
+    "name": "lymphocytosis",
+    "trans": [
+      "n. 淋巴球增多"
+    ],
+    "usphone": "[ˌlɪmfoʊsaɪˈtoʊsɪs]",
+    "ukphone": "[ˌlɪmfəʊsaɪˈtəʊsɪs]"
+  },
+  {
+    "name": "lymphogranuloma",
+    "trans": [
+      "n. 淋巴肉芽肿"
+    ],
+    "usphone": "[ˌlɪmfoʊˌɡrænjuːˈloʊmə]",
+    "ukphone": "[ˌlɪmfəʊˌɡrænjʊˈləʊmə]"
+  },
+  {
+    "name": "lymphoid",
+    "trans": [
+      "adj. 淋巴的；淋巴样的"
+    ],
+    "usphone": "[ˈlɪmfɔɪd]",
+    "ukphone": "[ˈlɪmfɔɪd]"
+  },
+  {
+    "name": "lymphokine",
+    "trans": [
+      "n. 淋巴因子，淋巴激活素"
+    ],
+    "usphone": "[ˈlɪmfəˌkaɪn]",
+    "ukphone": "[ˈlɪmfəʊkaɪn]"
+  },
+  {
+    "name": "lymphoma",
+    "trans": [
+      "n. [肿瘤] 淋巴瘤"
+    ],
+    "usphone": "[lɪmˈfoʊmə]",
+    "ukphone": "[lɪmˈfəʊmə]"
+  },
+  {
+    "name": "lymphopoiesis",
+    "trans": [
+      "n. 淋巴细胞增殖"
+    ],
+    "usphone": "[ˌlɪmfoʊpɔɪˈiːsɪs]",
+    "ukphone": "[ˌlɪmfəʊpɔɪˈiːsɪs]"
+  },
+  {
+    "name": "lymphotoxin",
+    "trans": [
+      "n. [医]淋巴毒素"
+    ],
+    "usphone": "[ˌlɪmfoʊˈtɑːksɪn]",
+    "ukphone": "[lɪmfəʊˈtɒksɪn]"
+  },
+  {
+    "name": "lyophilic",
+    "trans": [
+      "adj. 亲液的"
+    ],
+    "usphone": "[ˌlaɪoʊˈfɪlɪk]",
+    "ukphone": "[ˌlaɪəʊˈfɪlɪk]"
+  },
+  {
+    "name": "lyophilization",
+    "trans": [
+      "n. 冻干法"
+    ],
+    "usphone": "[laɪˌɑːfəlaɪˈzeɪʃn]",
+    "ukphone": "[laɪˌɒfəlaɪˈzeɪʃən]"
+  },
+  {
+    "name": "lyophobic",
+    "trans": [
+      "adj. 疏液的胶体"
+    ],
+    "usphone": "[ˌlaɪəˈfoʊbɪk]",
+    "ukphone": "[ˌlaɪəʊˈfəʊbɪk]"
+  },
+  {
+    "name": "lysine",
+    "trans": [
+      "n. [生化] 赖氨酸"
+    ],
+    "usphone": "[ˈlaɪsɪn]",
+    "ukphone": "[ˈlaɪsiːn]"
+  },
+  {
+    "name": "lysogeny",
+    "trans": [
+      "n. 溶原性，溶原现象"
+    ],
+    "usphone": "[laɪˈsɑdʒəni]",
+    "ukphone": "[laɪˈsɒdʒəni]"
+  },
+  {
+    "name": "lysosome",
+    "trans": [
+      "n. （细胞中的）[细胞] 溶酶体"
+    ],
+    "usphone": "[ˈlaɪsəˌsoʊm]",
+    "ukphone": "[ˈlaɪsəˌsəʊm]"
+  },
+  {
+    "name": "lysozyme",
+    "trans": [
+      "n. 溶解酵素"
+    ],
+    "usphone": "[ˈlaɪsəˌzaɪm]",
+    "ukphone": "[ˈlaɪsəˌzaɪm]"
+  },
+  {
+    "name": "lytic",
+    "trans": [
+      "adj. 细胞溶素的；促使细胞溶解的；渐退的"
+    ],
+    "usphone": "[ˈlɪtɪk]",
+    "ukphone": "[ˈlɪtɪk]"
+  },
+  {
+    "name": "linebacker",
+    "trans": [
+      "n. （橄榄球的）中后卫球员"
+    ],
+    "usphone": "[ˈlaɪnbækər]",
+    "ukphone": "[ˈlaɪnbækə(r)]"
+  },
+  {
+    "name": "loved",
+    "trans": [
+      "v. 热爱（love的过去分词）",
+      "adj. 恋爱的；受珍爱的"
+    ],
+    "usphone": "[lʌvd]",
+    "ukphone": "[lʌvd]"
+  },
+  {
+    "name": "listening",
+    "trans": [
+      "adj. 收听的；助听的",
+      "n. 倾听",
+      "v. 听（listen的ing形式）"
+    ],
+    "usphone": "[ˈlɪsnɪŋ]",
+    "ukphone": "[ˈlɪsənɪŋ]"
+  },
+  {
+    "name": "loading",
+    "trans": [
+      "n. 装载；装货；装载的货",
+      "v. 装载，装填，担负（load的ing形式）； 装入"
+    ],
+    "usphone": "[ˈləʊdɪŋ]",
+    "ukphone": "[ˈləʊdɪŋ]"
+  },
+  {
+    "name": "Lebanese",
+    "trans": [
+      "adj. 黎巴嫩的",
+      "n. 黎巴嫩人"
+    ],
+    "usphone": "[ˌlebəˈniːz]",
+    "ukphone": "[ˌlebəˈniːz]"
+  },
+  {
+    "name": "lending",
+    "trans": [
+      "n. 出借；出借物",
+      "adj. 出借的",
+      "v. 贷款；提供（lend的ing形式）；借给"
+    ],
+    "usphone": "[ˈlendɪŋ]",
+    "ukphone": "[ˈlendɪŋ]"
+  },
+  {
+    "name": "Lutheran",
+    "trans": [
+      "adj. 路德教会的",
+      "n. 路德教会"
+    ],
+    "usphone": "[ˈluːθərən]",
+    "ukphone": "[ˈluːθərən]"
+  },
+  {
+    "name": "long-range",
+    "trans": [
+      "adj. （飞机、火箭等）远程的；长期的；远大的"
+    ],
+    "usphone": "[ˌlɔːŋ ˈreɪndʒ]",
+    "ukphone": "[ˌlɒŋ ˈreɪndʒ]"
+  },
+  {
+    "name": "lifting",
+    "trans": [
+      "adj. 举起的，起重的",
+      "n. 举起，起重；提高，上升",
+      "v. 举起，抬起（lift的ing形式）"
+    ],
+    "usphone": "[ˈlɪftɪŋ]",
+    "ukphone": "[ˈlɪftɪŋ]"
+  },
+  {
+    "name": "last-minute",
+    "trans": [
+      "adj. 最后的，紧急关头的；归根究底的"
+    ],
+    "usphone": "[ˌlæst ˈmɪnɪt]",
+    "ukphone": "[ˌlɑːst ˈmɪnɪt]"
+  },
+  {
+    "name": "lineman",
+    "trans": [
+      "n. 线务员；线路工人"
+    ],
+    "usphone": "[ˈlaɪnmən]",
+    "ukphone": "[ˈlaɪnmən]"
+  },
+  {
+    "name": "limo",
+    "trans": [
+      "n. 豪华轿车"
+    ],
+    "usphone": "[ˈlɪmoʊ]",
+    "ukphone": "[ˈlɪməʊ]"
+  },
+  {
+    "name": "losing",
+    "trans": [
+      "n. 损失；失败",
+      "adj. 输的；失败的；导致失败的",
+      "v. 失去；损失（lose的ing形式）；错过"
+    ],
+    "usphone": "[ˈluːzɪŋ]",
+    "ukphone": "[ˈluːzɪŋ]"
+  },
+  {
+    "name": "limiting",
+    "trans": [
+      "adj. 限制的；限制性的",
+      "v. 限制；限定（limit的现在分词）"
+    ],
+    "usphone": "[ˈlɪmɪtɪŋ]",
+    "ukphone": "[ˈlɪmɪtɪŋ]"
+  },
+  {
+    "name": "late-night",
+    "trans": [
+      "adj. 深夜的；午夜的"
+    ],
+    "usphone": "[ˌleɪt ˈnaɪt]",
+    "ukphone": "[ˌleɪt ˈnaɪt]"
+  },
+  {
+    "name": "loaded",
+    "trans": [
+      "adj. 负荷的；装填子弹的；装好胶卷的；喝醉了的（美国俚语）；阔绰的（美国俚语）",
+      "v. 装载（load的变形）"
+    ],
+    "usphone": "[ˈloʊdɪd]",
+    "ukphone": "[ˈləʊdɪd]"
+  },
+  {
+    "name": "litigious",
+    "trans": [
+      "adj. 好诉讼的；好争论的"
+    ],
+    "usphone": "[lɪˈtɪdʒəs]",
+    "ukphone": "[lɪˈtɪdʒəs]"
+  },
+  {
+    "name": "long-time",
+    "trans": [
+      "adj. 长期；长期载荷"
+    ],
+    "usphone": "[ˈlɔːŋ taɪm]",
+    "ukphone": "[ˈlɒŋ taɪm]"
+  },
+  {
+    "name": "Lycra",
+    "trans": [
+      "n. 莱卡，人造弹性纤维品牌"
+    ],
+    "usphone": "[ˈlaɪkrə]",
+    "ukphone": "[ˈlaɪkrə]"
+  },
+  {
+    "name": "leggings",
+    "trans": [
+      "n. 裹腿，绑腿"
+    ],
+    "usphone": "[ˈleɡɪŋz]",
+    "ukphone": "[ˈleɡɪŋz]"
+  },
+  {
+    "name": "longtime",
+    "trans": [
+      "adj. 长时间的；为时甚久的",
+      "adv. 长久地"
+    ],
+    "usphone": "[ˈlɔːŋtaɪm]",
+    "ukphone": "[ˈlɒŋtaɪm]"
+  },
+  {
+    "name": "logos",
+    "trans": [
+      "n. 理性；理法"
+    ],
+    "usphone": "[ˈlɔɡos]",
+    "ukphone": "[ˈlɒɡəʊs]"
+  },
+  {
+    "name": "Lord",
+    "trans": [
+      "n. 主；上帝",
+      "int. 主，天啊",
+      "vt. 使成贵族",
+      "vi. 作威作福，称王称霸"
+    ],
+    "usphone": "[lɔːrd]",
+    "ukphone": "[lɔːd]"
+  },
+  {
+    "name": "legibly",
+    "trans": [
+      "adv. 明了地；易读地"
+    ],
+    "usphone": "[ˈledʒəbli]",
+    "ukphone": "[ˈledʒəbli]"
+  },
+  {
+    "name": "likeable",
+    "trans": [
+      "adj. 令人喜爱的，可爱的（等于likable）"
+    ],
+    "usphone": "[ˈlaɪkəbl]",
+    "ukphone": "[ˈlaɪkəbl]"
+  },
+  {
+    "name": "landau",
+    "trans": [
+      "n. 一种四轮马车"
+    ],
+    "usphone": "[ˈlændɔːˌˈlændaʊ]",
+    "ukphone": "[ˈlændɔː; ˈlændaʊ]"
+  },
+  {
+    "name": "lunchbox",
+    "trans": [
+      "n. 饭盒；便当"
+    ],
+    "usphone": "[ˈlʌntʃbɑːks]",
+    "ukphone": "[ˈlʌntʃˌbɒks]"
+  },
+  {
+    "name": "long-sighted",
+    "trans": [
+      "adj. 眼光远大的"
+    ],
+    "usphone": "[ˌlɔːŋ ˈsaɪtɪd]",
+    "ukphone": "[ˌlɒŋ ˈsaɪtɪd]"
+  },
+  {
+    "name": "limitative",
+    "trans": [
+      "adj. 限制的，限定的"
+    ],
+    "usphone": "[ˈlɪməˌteɪtɪv]",
+    "ukphone": "[ˈlɪmɪtətɪv]"
+  },
+  {
+    "name": "longest",
+    "trans": [
+      "adj. 最长的"
+    ],
+    "usphone": "[ˈlɔŋɡɪst]",
+    "ukphone": "[ˈlɒŋɡɪst]"
+  },
+  {
+    "name": "looseness",
+    "trans": [
+      "n. 松动；松弛；漠然"
+    ],
+    "usphone": "[ˈluːsnəs]",
+    "ukphone": "[ˈluːsnəs]"
+  },
+  {
+    "name": "loftiness",
+    "trans": [
+      "n. 高；崇高；高傲"
+    ],
+    "usphone": "[ˈlɔːftinəs]",
+    "ukphone": "[ˈlɒftinəs]"
+  },
+  {
+    "name": "localized",
+    "trans": [
+      "adj. 局部的；地区的；小范围的",
+      "v. 定位（localize的过去分词）"
+    ],
+    "usphone": "[ˈloʊkəlaɪzd]",
+    "ukphone": "[ˈləʊkəlaɪzd]"
+  },
+  {
+    "name": "Lucy",
+    "trans": [
+      "n. 露西（女子名）"
+    ],
+    "usphone": "[ˈluːsi]",
+    "ukphone": "[ˈluːsi]"
+  },
+  {
+    "name": "larger",
+    "trans": [
+      "adj. 大的；多量的；大的( large的比较级 )；大规模的；众多的；（服装、食物、日用品等）大型号的"
+    ],
+    "usphone": "[ˈlɑːrdʒər]",
+    "ukphone": "[lɑ:dʒə(r)]"
+  },
+  {
+    "name": "legit",
+    "trans": [
+      "adj. 合法的",
+      "n. 正统剧；正统剧院"
+    ],
+    "usphone": "[lɪˈdʒɪt]",
+    "ukphone": "[lɪˈdʒɪt]"
+  },
+  {
+    "name": "liber",
+    "trans": [
+      "n. 书籍；契据登记簿"
+    ],
+    "usphone": "[ˈlaɪbər]",
+    "ukphone": "[ˈlaɪbə(r)]"
+  },
+  {
+    "name": "layperson",
+    "trans": [
+      "n. 外行"
+    ],
+    "usphone": "[ˈleɪpɜːrsn]",
+    "ukphone": "[ˈleɪpɜːsn]"
+  },
+  {
+    "name": "liberating",
+    "trans": [
+      "解放，释放（liberate的现在分词）"
+    ],
+    "usphone": "[ˈlɪbəreɪtɪŋ]",
+    "ukphone": "[ˈlɪbəreɪtɪŋ]"
+  },
+  {
+    "name": "lost-and-found",
+    "trans": [
+      "n. 失物招领处"
+    ],
+    "usphone": "[ˌlɔːst ən ˈfaʊnd]",
+    "ukphone": "[ˌlɒst ən ˈfaʊnd]"
+  },
+  {
+    "name": "lowlife",
+    "trans": [
+      "n. 卑劣人；下层阶级的人；来历不明的男人"
+    ],
+    "usphone": "[ˈloʊˌlaɪf]",
+    "ukphone": "[ˈləʊˌlaɪf]"
+  },
+  {
+    "name": "luddite",
+    "trans": [
+      "n. 勒德分子（十九世纪初英国手工业工人中参加捣毁机器的人）；强烈反对机械化或自动化的人"
+    ],
+    "usphone": "[ˈlʌdaɪt]",
+    "ukphone": "[ˈlʌdaɪt]"
+  },
+  {
+    "name": "lied",
+    "trans": [
+      "n. 德国抒情歌曲，浪漫曲",
+      "v. 撒谎（lie的过去式）"
+    ],
+    "usphone": "[laɪd; liːd]",
+    "ukphone": "[laɪd; liːd]"
+  },
+  {
+    "name": "left-hander",
+    "trans": [
+      "n. 左撇子，惯用左手的人；左手投球；笨拙"
+    ],
+    "usphone": "[ˌleft ˈhændər]",
+    "ukphone": "[ˌleft ˈhændə(r)]"
+  },
+  {
+    "name": "litterbin",
+    "trans": [
+      "n. （英）废物箱"
+    ],
+    "usphone": "[ˈlɪtərbɪn]",
+    "ukphone": "[ˈlɪtəbɪn]"
+  },
+  {
+    "name": "loner",
+    "trans": [
+      "n. 孤独的人；不合群的动物"
+    ],
+    "usphone": "[ˈloʊnər]",
+    "ukphone": "[ˈləʊnə(r)]"
+  },
+  {
+    "name": "lolly",
+    "trans": [
+      "n. 棒棒糖；钱"
+    ],
+    "usphone": "[ˈlɑːli]",
+    "ukphone": "[ˈlɒli]"
+  },
+  {
+    "name": "lemming",
+    "trans": [
+      "n. [脊椎] 旅鼠（北极的一种动物）"
+    ],
+    "usphone": "[ˈlemɪŋ]",
+    "ukphone": "[ˈlemɪŋ]"
+  },
+  {
+    "name": "looks",
+    "trans": [
+      "n. 相貌"
+    ],
+    "usphone": "[lʊks]",
+    "ukphone": "[lʊks]"
+  },
+  {
+    "name": "lives",
+    "trans": [
+      "n. 生活，[生物] 生命（life的复数）",
+      "v. 生活（live的三单形式）；居住"
+    ],
+    "usphone": "[laɪvz; lɪvz]",
+    "ukphone": "[laɪvz; lɪvz]"
+  },
+  {
+    "name": "Lansing",
+    "trans": [
+      "n. 兰辛（美国密执根州首府）"
+    ],
+    "usphone": "[ˈlænsɪŋ]",
+    "ukphone": "[ˈlænsɪŋ]"
+  },
+  {
+    "name": "Libya",
+    "trans": [
+      "n. 埃及以西的北非地方古名；利比亚"
+    ],
+    "usphone": "[ˈlɪbiə]",
+    "ukphone": "[ˈlɪbiə]"
+  },
+  {
+    "name": "lycopene",
+    "trans": [
+      "n. [生化] 番茄红素"
+    ],
+    "usphone": "[ˈlaɪkəpin]",
+    "ukphone": "[ˈlaɪkəˌpiːn]"
+  },
+  {
+    "name": "locked",
+    "trans": [
+      "adj. 上锁的；不灵活的；下定决心的",
+      "v. 锁上；紧闭；紧抱住（lock的过去分词）"
+    ],
+    "usphone": "[lɔkt]",
+    "ukphone": "[lɒkt]"
+  },
+  {
+    "name": "lapel",
+    "trans": [
+      "n. 西服上的翻领"
+    ],
+    "usphone": "[ləˈpel]",
+    "ukphone": "[ləˈpel]"
+  },
+  {
+    "name": "looting",
+    "trans": [
+      "n. 抢劫；洗劫，趁乱打劫",
+      "v. 打劫（loot的现在分词）"
+    ],
+    "usphone": "[ˈluːtɪŋ]",
+    "ukphone": "[ˈluːtɪŋ]"
+  },
+  {
+    "name": "layered",
+    "trans": [
+      "adj. 分层的；层状的",
+      "v. 分层堆积；用压条法培植（layer的过去分词）"
+    ],
+    "usphone": "[ˈleər]",
+    "ukphone": "[ˈleɪəd]"
+  },
+  {
+    "name": "lighted",
+    "trans": [
+      "adj. 发光的；燃烧的",
+      "v. 点燃（light的过去分词）；照亮"
+    ],
+    "usphone": "[ˈlaɪtɪd]",
+    "ukphone": "[ˈlaɪtɪd]"
+  },
+  {
+    "name": "landscaping",
+    "trans": [
+      "n. 景观美化"
+    ],
+    "usphone": "[ˈlændskeɪpɪŋ]",
+    "ukphone": "[ˈlændskeɪpɪŋ]"
+  },
+  {
+    "name": "liturgical",
+    "trans": [
+      "adj. 礼拜仪式的（等于liturgic）"
+    ],
+    "usphone": "[lɪˈtɜːrdʒɪkl]",
+    "ukphone": "[lɪˈtɜːdʒɪkl]"
+  },
+  {
+    "name": "lite",
+    "trans": [
+      "adj. 清淡的；低盐的；简化的",
+      "n. 不重要的事物；简化物；软饮料"
+    ],
+    "usphone": "[laɪt]",
+    "ukphone": "[laɪt]"
+  },
+  {
+    "name": "looking",
+    "trans": [
+      "adj. 有…相貌的；有…样子的"
+    ],
+    "usphone": "[ˈlʊkɪŋ]",
+    "ukphone": "[ˈlʊkɪŋ]"
+  },
+  {
+    "name": "lacrosse",
+    "trans": [
+      "n. 长曲棍球"
+    ],
+    "usphone": "[ləˈkrɔːs]",
+    "ukphone": "[ləˈkrɒs]"
+  },
+  {
+    "name": "labeled",
+    "trans": [
+      "adj. 有标签的；示踪的",
+      "v. 示踪（label的过去分词）；贴标签于…；把…称为"
+    ],
+    "usphone": "[ˈleɪb(ə)ld]",
+    "ukphone": "[ˈleɪb(ə)ld]"
+  },
+  {
+    "name": "lying",
+    "trans": [
+      "adj. 说谎的；躺着的，卧着的",
+      "n. 说谎；横卧"
+    ],
+    "usphone": "[ˈlaɪɪŋ]",
+    "ukphone": "[ˈlaɪɪŋ]"
+  },
+  {
+    "name": "launching",
+    "trans": [
+      "n. 发射；下水；创设",
+      "v. 发射；发动；开始从事（launch的ing形式）"
+    ],
+    "usphone": "[ˈlɔːntʃɪŋ]",
+    "ukphone": "[ˈlɔːntʃɪŋ]"
+  },
+  {
+    "name": "life-or-death",
+    "trans": [
+      "adj. 生死攸关的"
+    ],
+    "usphone": "[ˌlaɪf ɔːr ˈdeθ]",
+    "ukphone": "[ˌlaɪf ɔː ˈdeθ]"
+  },
+  {
+    "name": "Look!",
+    "trans": [
+      "n. 看；外观；查找；瞧",
+      "v. 看；寻找；瞧；注意",
+      "linkv. 显得；似乎；看来好像",
+      "int. 听我说"
+    ],
+    "usphone": "[lʊk]",
+    "ukphone": "[lʊk]"
+  },
+  {
+    "name": "limbic system",
+    "trans": [
+      "n. （大脑）边缘系"
+    ],
+    "usphone": "[ˈlɪmbɪk sɪstəm]",
+    "ukphone": "[ˈlɪmbɪk sɪstəm]"
+  },
+  {
+    "name": "lines",
+    "trans": [
+      "n. 台词"
+    ],
+    "usphone": "[laɪnz]",
+    "ukphone": "[laɪnz]"
+  },
+  {
+    "name": "listeria",
+    "trans": [
+      "n. 李斯特菌属"
+    ],
+    "usphone": "[lɪˈstɪriə]",
+    "ukphone": "[lɪˈstɪəriə]"
+  },
+  {
+    "name": "like-minded",
+    "trans": [
+      "adj. 志趣相投的；具有相似意向或目的的"
+    ],
+    "usphone": "[ˌlaɪk ˈmaɪndɪd]",
+    "ukphone": "[ˌlaɪk ˈmaɪndɪd]"
+  },
+  {
+    "name": "labeling",
+    "trans": [
+      "n. 标签；标记；[计] 标号",
+      "v. 贴标签；分类（label的现在分词）"
+    ],
+    "usphone": "[ˈleɪblɪŋ]",
+    "ukphone": "['leibliŋ]"
+  },
+  {
+    "name": "lexicology",
+    "trans": [
+      "n. 词汇学；词典学"
+    ],
+    "usphone": "[ˌleksɪˈkɑːlədʒi]",
+    "ukphone": "[ˌleksɪˈkɒlədʒi]"
+  },
+  {
+    "name": "linguistician",
+    "trans": [
+      "n. 语言学家"
+    ],
+    "usphone": "[ˌlɪŋɡwəsˈtɪʃən]",
+    "ukphone": "[ˌlɪŋɡwɪsˈtɪʃən]"
+  },
+  {
+    "name": "liquidize",
+    "trans": [
+      "vt. 使液化",
+      "vi. 液化"
+    ],
+    "usphone": "[ˈlɪkwɪdaɪz]",
+    "ukphone": "[ˈlɪkwɪdaɪz]"
+  },
+  {
+    "name": "light-footed",
+    "trans": [
+      "adj. 轻盈的；脚步轻快的"
+    ],
+    "usphone": "[ˌlaɪt ˈfʊtɪd]",
+    "ukphone": "[ˌlaɪt ˈfʊtɪd]"
+  },
+  {
+    "name": "low-tech",
+    "trans": [
+      "adj. 低技术的"
+    ],
+    "usphone": "[ˌloʊ ˈtek]",
+    "ukphone": "[ˌləʊ ˈtek]"
+  },
+  {
+    "name": "ladybug",
+    "trans": [
+      "n. 瓢虫"
+    ],
+    "usphone": "[ˈleɪdiˌbʌɡ]",
+    "ukphone": "[ˈleɪdɪbʌɡ]"
+  },
+  {
+    "name": "low-spirited",
+    "trans": [
+      "adj. 无精神的；意志消沉的"
+    ],
+    "usphone": "['ləu'spiritid]",
+    "ukphone": "['ləu'spiritid]"
+  },
+  {
+    "name": "lintel",
+    "trans": [
+      "n. [建] 过梁（等于linto）"
+    ],
+    "usphone": "[ˈlɪntl]",
+    "ukphone": "[ˈlɪntl]"
+  },
+  {
+    "name": "lyricist",
+    "trans": [
+      "n. 抒情诗人；（流行歌曲等的）歌词作者"
+    ],
+    "usphone": "[ˈlɪrɪsɪst]",
+    "ukphone": "[ˈlɪrɪsɪst]"
+  },
+  {
+    "name": "longan",
+    "trans": [
+      "n. 龙眼"
+    ],
+    "usphone": "[ˈlɒŋɡən]",
+    "ukphone": "[ˈlɒŋɡ(ə)n]"
+  },
+  {
+    "name": "loquat",
+    "trans": [
+      "n. 枇杷；[园艺] 枇杷树"
+    ],
+    "usphone": "[ˈloʊkwɑːt]",
+    "ukphone": "[ˈləʊkwɒt]"
+  },
+  {
+    "name": "liana",
+    "trans": [
+      "n. [植] 藤本植物"
+    ],
+    "usphone": "[liˈɑːnə]",
+    "ukphone": "[lɪˈɑːnə]"
+  },
+  {
+    "name": "libration",
+    "trans": [
+      "n. 振动（形容词librational）；[天] 天平动"
+    ],
+    "usphone": "[laɪˈbreɪʃən]",
+    "ukphone": "[laɪˈbreɪʃən]"
+  },
+  {
+    "name": "lapping",
+    "trans": [
+      "n. 研磨；抛光；搭接",
+      "v. 舔；折叠（lap的ing形式）"
+    ],
+    "usphone": "[ˈlæpɪŋ]",
+    "ukphone": "[ˈlæpɪŋ]"
+  },
+  {
+    "name": "lodestone",
+    "trans": [
+      "n. 天然磁石；吸引人的东西（等于loadstone）"
+    ],
+    "usphone": "[ˈloʊdstoʊn]",
+    "ukphone": "[ˈləʊdstəʊn]"
+  },
+  {
+    "name": "larboard",
+    "trans": [
+      "n. 左舷",
+      "adj. 左舷方面的"
+    ],
+    "usphone": "[ˈlɑːˌbərd]",
+    "ukphone": "[ˈlɑːbəd]"
+  },
+  {
+    "name": "longevous",
+    "trans": [
+      "a. 长命的"
+    ],
+    "usphone": "[lɔn'dʒi:vəs]",
+    "ukphone": "[lɒnˈdʒiːvəs]"
+  },
+  {
+    "name": "leading edge",
+    "trans": [
+      "n. 前缘；领先地位；（尤指技术上的）前沿；（尤指飞机的）机翼前缘"
+    ],
+    "usphone": "[ˌliːdɪŋ ˈedʒ]",
+    "ukphone": "[ˌliːdɪŋ ˈedʒ]"
+  },
+  {
+    "name": "laissez-faire",
+    "trans": [
+      "n. 放任政策；不干涉主义",
+      "adj. 自由放任的；放任主义的"
+    ],
+    "usphone": "[ˌleseɪ ˈfer]",
+    "ukphone": "[ˌleseɪ ˈfeə(r)]"
+  },
+  {
+    "name": "Leningrad",
+    "trans": [
+      "n. 列宁格勒(前苏联西北部港市)"
+    ],
+    "usphone": "[ˈlenɪnˌɡræd]",
+    "ukphone": "[ˈlenənɡræd]"
+  },
+  {
+    "name": "launch-pad",
+    "trans": [
+      "na. (火箭等的)发射台"
+    ],
+    "usphone": "[ˈlɔːntʃ pæd]",
+    "ukphone": "[ˈlɔːntʃ pæd]"
+  },
+  {
+    "name": "LOL",
+    "trans": [
+      "abbr. 大声笑（Laugh Out Loud）",
+      "n. 英雄联盟（League of Legends）"
+    ],
+    "usphone": "[ˌel oʊ ˈel]",
+    "ukphone": "[ˌel əʊ ˈel]"
+  },
+  {
+    "name": "limnetic",
+    "trans": [
+      "adj. 淡水的；湖泊的"
+    ],
+    "usphone": "[lɪmˈnetɪk]",
+    "ukphone": "[lɪmˈnetɪk]"
+  },
+  {
+    "name": "lakes",
+    "trans": [
+      "n. 湖( lake的名词复数 ); 湖泊"
+    ],
+    "usphone": "[leɪks]",
+    "ukphone": "[leɪks]"
+  },
+  {
+    "name": "lakeside",
+    "trans": [
+      "n. 湖边"
+    ],
+    "usphone": "[ˈleɪksaɪd]",
+    "ukphone": "[ˈleɪksaɪd]"
+  },
+  {
+    "name": "lectures",
+    "trans": [
+      "n. 演讲，讲演（lecture复数形式）",
+      "v. 向…讲演；训斥（lecture的第三人称单数）"
+    ],
+    "usphone": "[ˈlektʃərz]",
+    "ukphone": "[ˈlektʃəz]"
+  },
+  {
+    "name": "levels",
+    "trans": [
+      "n. 水平，标准（level复数形式）；色阶调整；控制色阶",
+      "v. 拉平，变平（level的第三人称单数形式）"
+    ],
+    "usphone": "[ˈlevlz]",
+    "ukphone": "[ˈlev(ə)lz]"
+  },
+  {
+    "name": "labels",
+    "trans": [
+      "n. 标签；分类（label的复数形式）",
+      "v. 贴标签于；把…称为（label的三单形式）"
+    ],
+    "usphone": "[ˈleɪblz]",
+    "ukphone": "['leibəlz]"
+  },
+  {
+    "name": "ladders",
+    "trans": [
+      "n. 梯子( ladder的名词复数 ); 阶梯; 途径; （紧身裤袜或长筒袜的）滑丝"
+    ],
+    "usphone": "[ˈlædərz]",
+    "ukphone": "[ˈlædəz]"
+  },
+  {
+    "name": "lanes",
+    "trans": [
+      "n. 线路，跑道（lane复数形式）"
+    ],
+    "usphone": "[leɪnz]",
+    "ukphone": "[leɪnz]"
+  },
+  {
+    "name": "legroom",
+    "trans": [
+      "n. （车辆、飞机或剧院座位前的）放脚空间；踏脚处"
+    ],
+    "usphone": "[ˈleɡruːmˌˈleɡrʊm]",
+    "ukphone": "[ˈleɡruːm; ˈleɡrʊm]"
+  },
+  {
+    "name": "legal action",
+    "trans": [
+      "n. 法律诉讼"
+    ],
+    "usphone": "[ˈliːɡl ækʃn]",
+    "ukphone": "[ˈliːɡ(ə)l ækʃ(ə)n]"
+  },
+  {
+    "name": "lids",
+    "trans": [
+      "abbr. 入侵检测系统（Linux Intrusion Detection System）"
+    ],
+    "usphone": "[lɪdz]",
+    "ukphone": "[lɪdz]"
+  },
+  {
+    "name": "loans",
+    "trans": [
+      "n. [金融] 贷款（loan的复数形式）；借贷"
+    ],
+    "usphone": "[loʊnz]",
+    "ukphone": "[ləʊnz]"
+  },
+  {
+    "name": "lungs",
+    "trans": [
+      "n. [解剖] 肺（lung的复数形式）"
+    ],
+    "usphone": "[lʌŋz]",
+    "ukphone": "[lʌŋz]"
+  },
+  {
+    "name": "legate",
+    "trans": [
+      "n. 罗马教皇的使节；使者",
+      "vt. 当做遗产让与"
+    ],
+    "usphone": "[ˈleɡət]",
+    "ukphone": "[ˈleɡət]"
+  },
+  {
+    "name": "ludicrousness",
+    "trans": [
+      " 可笑，滑稽"
+    ],
+    "usphone": "[ˈluːdɪkrəsnəs]",
+    "ukphone": "[ˈluːdɪkrəsnəs]"
+  },
+  {
+    "name": "land clearing",
+    "trans": [
+      "地面清理;清理场地"
+    ],
+    "usphone": "[lænd ˈklɪrɪŋ]",
+    "ukphone": "[lænd ˈklɪərɪŋ]"
+  },
+  {
+    "name": "level-headed",
+    "trans": [
+      "adj. 冷静的；清醒的"
+    ],
+    "usphone": "[ˌlevl ˈhedɪd]",
+    "ukphone": "[ˌlevl ˈhedɪd]"
+  },
+  {
+    "name": "largo",
+    "trans": [
+      "n. 缓慢曲；广板",
+      "adv. 缓慢地；庄严地；宽广地",
+      "adj. 缓慢的；庄严的；宽广的"
+    ],
+    "usphone": "[ˈlɑːrɡoʊ]",
+    "ukphone": "[ˈlɑːɡəʊ]"
+  },
+  {
+    "name": "lento",
+    "trans": [
+      "adj. 徐缓的，柔和的"
+    ],
+    "usphone": "[ˈlentoʊ]",
+    "ukphone": "[ˈlentəʊ]"
+  },
+  {
+    "name": "Leif",
+    "trans": [
+      " [医][=leukocyte interferon]白细胞干扰素：抗肿瘤、抗病毒因子"
+    ],
+    "usphone": "[li:f]",
+    "ukphone": "[liːf]"
+  },
+  {
+    "name": "Labor",
+    "trans": [
+      "n. 劳动；工作；劳工；分娩",
+      "vi. 劳动；努力；苦干",
+      "vt. 详细分析；使厌烦"
+    ],
+    "usphone": "[ˈleɪbər]",
+    "ukphone": "[ˈleɪbə(r)]"
+  },
+  {
+    "name": "lumbering",
+    "trans": [
+      "adj. 笨拙的；动作迟缓的",
+      "n. 伐木业；木材业",
+      "v. 伐树；使陷入麻烦；笨重地移动（lumber的ing形式）"
+    ],
+    "usphone": "[ˈlʌmbərɪŋ]",
+    "ukphone": "[ˈlʌmbərɪŋ]"
+  },
+  {
+    "name": "lycra",
+    "trans": [
+      "n. 莱卡，人造弹性纤维品牌"
+    ],
+    "usphone": "[ˈlaɪkrə]",
+    "ukphone": "[ˈlaɪkrə]"
+  },
+  {
+    "name": "lamppost",
+    "trans": [
+      "n. 街灯柱；路灯柱"
+    ],
+    "usphone": "[ˈlæmpˌpoʊst]",
+    "ukphone": "[ˈlæmpˌpəʊst]"
+  },
+  {
+    "name": "Lily",
+    "trans": [
+      "n. 百合花，百合；类似百合花的植物；洁白之物",
+      "adj. 洁白的，纯洁的"
+    ],
+    "usphone": "[ˈlɪli]",
+    "ukphone": "[ˈlɪli]"
+  },
+  {
+    "name": "lamentation",
+    "trans": [
+      "n. 悲叹，哀悼；恸哭"
+    ],
+    "usphone": "[ˌlæmənˈteɪʃn]",
+    "ukphone": "[ˌlæmənˈteɪʃn]"
+  },
+  {
+    "name": "lurking",
+    "trans": [
+      "n. （新用户的）“潜伏”（在USENET上作为旁观者，不参加讨论）"
+    ],
+    "usphone": "['lə:kiŋ]",
+    "ukphone": "[ˈlɜːkɪŋ]"
+  },
+  {
+    "name": "lyrically",
+    "trans": [
+      "adv. 抒情地；诗意地；狂热地"
+    ],
+    "usphone": "[ˈlɪrɪkli]",
+    "ukphone": "[ˈlɪrɪkli]"
+  },
+  {
+    "name": "leaseholder",
+    "trans": [
+      "n. 租赁人，租借人"
+    ],
+    "usphone": "[ˈliːshoʊldər]",
+    "ukphone": "[ˈliːshəʊldə(r)]"
+  },
+  {
+    "name": "loanee",
+    "trans": [
+      "n. 借入者，债务人"
+    ],
+    "usphone": "[loʊˈniː]",
+    "ukphone": "[ləʊˈniː]"
+  },
+  {
+    "name": "loaner",
+    "trans": [
+      "n. 债权人；代替品"
+    ],
+    "usphone": "[ˈloʊnər]",
+    "ukphone": "[ˈləʊnə(r)]"
+  },
+  {
+    "name": "loco",
+    "trans": [
+      "n. 火车头；疯子；疯草病",
+      "adj. 发疯的，发狂的",
+      "vt. 使发疯；用疯草毒害"
+    ],
+    "usphone": "[ˈloʊkoʊ]",
+    "ukphone": "[ˈləʊkəʊ]"
+  },
+  {
+    "name": "leveling",
+    "trans": [
+      "n. [测] 水准测量"
+    ],
+    "usphone": "[ˈlevlɪŋ]",
+    "ukphone": "[ˈlev(ə)lɪŋ]"
+  },
+  {
+    "name": "loaves",
+    "trans": [
+      "n. 大块烤过的食物"
+    ],
+    "usphone": "[loʊvz]",
+    "ukphone": "[ləʊvz]"
+  },
+  {
+    "name": "laid",
+    "trans": [
+      "v. 放；铺设；安排（lay的过去分词）",
+      "adj. 松弛的；从容不迫的"
+    ],
+    "usphone": "[leɪd]",
+    "ukphone": "[leɪd]"
+  },
+  {
+    "name": "lent",
+    "trans": [
+      "n. 大斋节（亦称“齐斋节”，自圣灰星期三开始至复活节前的40天，在此期间进行斋戒和忏悔）"
+    ],
+    "usphone": "[lent]",
+    "ukphone": "[lent]"
+  },
+  {
+    "name": "lain",
+    "trans": [
+      "v. 躺，位于（lie的过去分词）"
+    ],
+    "usphone": "[leɪn]",
+    "ukphone": "[leɪn]"
+  },
+  {
+    "name": "localism",
+    "trans": [
+      "n. 有地方色彩，地方主义；方言"
+    ],
+    "usphone": "[ˈloʊkəlˌɪzəm]",
+    "ukphone": "[ˈləʊkəlɪz(ə)m]"
+  },
+  {
+    "name": "longsighted",
+    "trans": [
+      "有远见的"
+    ],
+    "usphone": "[ˌlɔːŋˈsaɪtɪd]",
+    "ukphone": "[lɒŋˌsaɪtɪd]"
+  },
+  {
+    "name": "landfall",
+    "trans": [
+      "n. 着陆；[水运] 初见陆地；到达陆地"
+    ],
+    "usphone": "[ˈlændfɔːl]",
+    "ukphone": "[ˈlændfɔːl]"
+  },
+  {
+    "name": "Labour",
+    "trans": [
+      "n. （英国）工党"
+    ],
+    "usphone": "[ˈleɪbər]",
+    "ukphone": "[ˈleɪbə(r)]"
+  },
+  {
+    "name": "lodger",
+    "trans": [
+      "n. 房客；寄宿人；投宿者"
+    ],
+    "usphone": "[ˈlɑːdʒər]",
+    "ukphone": "[ˈlɒdʒə(r)]"
+  },
+  {
+    "name": "logbook",
+    "trans": [
+      "n. 航海日志；航空日志"
+    ],
+    "usphone": "[ˈlɔːɡbʊk]",
+    "ukphone": "[ˈlɒɡbʊk]"
+  },
+  {
+    "name": "ludic",
+    "trans": [
+      "adj. 顽皮的；好开玩笑的"
+    ],
+    "usphone": "[ˈluːdɪk]",
+    "ukphone": "[ˈluːdɪk]"
+  },
+  {
+    "name": "live-action",
+    "trans": [
+      "n. 实景"
+    ],
+    "usphone": "[ˌlaɪv ˈækʃn]",
+    "ukphone": "[ˌlaɪv ˈækʃn]"
+  },
+  {
+    "name": "lateness",
+    "trans": [
+      "n. 晚，迟"
+    ],
+    "usphone": "[ˈleɪtnəs]",
+    "ukphone": "[ˈleɪtnəs]"
+  },
+  {
+    "name": "letters",
+    "trans": [
+      "n. [语] 字母；书信；读者投书栏（letter的复数）",
+      "v. 用字母标明；用印刷体写（letter的第三人称单数）"
+    ],
+    "usphone": "[ˈletər]",
+    "ukphone": "[letəz]"
+  },
+  {
+    "name": "life Sciences",
+    "trans": [
+      "生命科学(指生物学、生物化学、人类学、医学、心理学等任何涉及有生命的有机体的科学)"
+    ],
+    "usphone": "[ˈlaɪf saɪənsɪz]",
+    "ukphone": "[ˈlaɪf saɪənsɪz]"
+  },
+  {
+    "name": "Liverpool",
+    "trans": [
+      "n. 利物浦"
+    ],
+    "usphone": "['livəpu:l]",
+    "ukphone": "[ˈlɪvəpuːl]"
+  },
+  {
+    "name": "licked",
+    "trans": [
+      "vt. 舔；卷过；鞭打",
+      "vt. （非正式）战胜",
+      "vi. 舔；轻轻拍打",
+      "n. 舔；打；少许"
+    ],
+    "usphone": "[lɪk]",
+    "ukphone": "[lɪk]"
+  },
+  {
+    "name": "laughed",
+    "trans": [
+      "笑",
+      "为了开玩笑",
+      "有趣的事",
+      "嘲笑"
+    ],
+    "usphone": "[læft]",
+    "ukphone": "[lɑːft]"
+  },
+  {
+    "name": "lecherous",
+    "trans": [
+      "adj. 好色的；淫荡的；引起淫欲的"
+    ],
+    "usphone": "[ˈletʃərəs]",
+    "ukphone": "[ˈletʃərəs]"
+  },
+  {
+    "name": "livability",
+    "trans": [
+      "n. （家禽，牲畜的）存活率；适于居住性"
+    ],
+    "usphone": "[ˌlɪvəˈbɪləti]",
+    "ukphone": "[ˌlɪvəˈbɪlɪti]"
+  },
+  {
+    "name": "laudation",
+    "trans": [
+      "n. 赞美；颂词；称赞"
+    ],
+    "usphone": "[lɔːˈdeɪʃ(ə)n]",
+    "ukphone": "[lɔːˈdeɪʃ(ə)n]"
+  },
+  {
+    "name": "lummox",
+    "trans": [
+      "n. 笨伯；愚蠢不中用者"
+    ],
+    "usphone": "[ˈlʌməks]",
+    "ukphone": "[ˈlʌməks]"
+  },
+  {
+    "name": "litmus",
+    "trans": [
+      "n. [试剂] 石蕊"
+    ],
+    "usphone": "[ˈlɪtməs]",
+    "ukphone": "[ˈlɪtməs]"
+  },
+  {
+    "name": "Lanthanum",
+    "trans": [
+      "n. [化学] 镧"
+    ],
+    "usphone": "[ˈlænθənəm]",
+    "ukphone": "[ˈlænθənəm]"
+  },
+  {
+    "name": "La",
+    "trans": [
+      "n. 全音阶中的第6个音；A音的唱名"
+    ],
+    "usphone": "[lɑː]",
+    "ukphone": "[lɑː]"
+  },
+  {
+    "name": "Lawrencium",
+    "trans": [
+      "n. [化学] 铹（人工获得的放射性元素，超铀元素之一）"
+    ],
+    "usphone": "[lɔːˈrensiəm]",
+    "ukphone": "[lɒˈrensiəm]"
+  },
+  {
+    "name": "Lead",
+    "trans": [
+      "n. 领导；铅；导线；榜样",
+      "vt. 领导；致使；引导；指挥",
+      "vi. 领导；导致；用水砣测深",
+      "adj. 带头的；最重要的"
+    ],
+    "usphone": "[liːd; led]",
+    "ukphone": "[liːd]"
+  },
+  {
+    "name": "limewater",
+    "trans": [
+      "n. 石灰水"
+    ],
+    "usphone": "[ˈlaɪmˌwɔtər]",
+    "ukphone": "[ˈlaɪmˌwɔːtə]"
+  },
+  {
+    "name": "lipids",
+    "trans": [
+      "n. 脂肪，油脂；[生化] 脂类（lipid的复数）"
+    ],
+    "usphone": "['lipidz]",
+    "ukphone": "['lipidz]"
+  },
+  {
+    "name": "lipin",
+    "trans": [
+      "n. 油脂; 脂质; 脂类"
+    ],
+    "usphone": "[ˈlɪpɪn]",
+    "ukphone": "[ˈlɪpɪn]"
+  },
+  {
+    "name": "Li",
+    "trans": [
+      "n. 里（长度单位，等于500米左右）"
+    ],
+    "usphone": "[li]",
+    "ukphone": "[liː]"
+  },
+  {
+    "name": "Lutetium",
+    "trans": [
+      "n. 镥"
+    ],
+    "usphone": "[luːˈtiːʃiəm]",
+    "ukphone": "[luːˈtiːʃiəm; luːˈtiːsiəm]"
+  },
+  {
+    "name": "Lu",
+    "trans": [
+      "abbr. 手太阴肺经"
+    ],
+    "usphone": "[ˈlʌ]",
+    "ukphone": "[ˈlʌ; luː]"
+  },
+  {
+    "name": "levitation",
+    "trans": [
+      "n. 升空；飘浮"
+    ],
+    "usphone": "[ˌlevɪˈteɪʃn]",
+    "ukphone": "[ˌlevɪˈteɪʃn]"
+  },
+  {
+    "name": "lepton",
+    "trans": [
+      "n. 轻粒子（希腊的货币单位，古希腊的最小硬币）"
+    ],
+    "usphone": "[ˈleptɑn]",
+    "ukphone": "[ˈleptɒn]"
+  },
+  {
+    "name": "lengthways",
+    "trans": [
+      "adv. 纵向地",
+      "adj. 纵向的"
+    ],
+    "usphone": "[ˈleŋθweɪz]",
+    "ukphone": "[ˈleŋθweɪz]"
+  },
+  {
+    "name": "laboured",
+    "trans": [
+      "adj. 吃力的；缓慢的；矫揉造作的",
+      "v. 干苦力活（labour的过去分词）"
+    ],
+    "usphone": "[ˈleɪbərd]",
+    "ukphone": "[ˈleɪbəd]"
+  },
+  {
+    "name": "Lausanne",
+    "trans": [
+      "n. 洛桑市（瑞士一城市名）"
+    ],
+    "usphone": "[loˈzæn]",
+    "ukphone": "[ləʊˈzæn]"
+  },
+  {
+    "name": "Luke",
+    "trans": [
+      "n. 卢克（男子名）；路加（基督教早期信徒之一）；路加福音"
+    ],
+    "usphone": "[luːk]",
+    "ukphone": "[luːk]"
+  },
+  {
+    "name": "lighten up",
+    "trans": [
+      "na. 同“lighten ”"
+    ],
+    "usphone": "[ˈlaɪtn ʌp]",
+    "ukphone": "[ˈlaɪtn ʌp]"
+  },
+  {
+    "name": "longhorn",
+    "trans": [
+      "n. 音乐探测器；长角牛"
+    ],
+    "usphone": "[ˈlɔŋhɔn]",
+    "ukphone": "[ˈlɒŋhɔːn]"
+  },
+  {
+    "name": "looked",
+    "trans": [
+      "v. 看，瞧( look的过去式和过去分词 )；注意；面向；寻找"
+    ],
+    "usphone": "[lʊkt]",
+    "ukphone": "[lʊkt]"
+  },
+  {
+    "name": "Lithium",
+    "trans": [
+      "n. 锂（符号Li）"
+    ],
+    "usphone": "[ˈlɪθiəm]",
+    "ukphone": "[ˈlɪθiəm]"
+  },
+  {
+    "name": "lucifugous",
+    "trans": [
+      "adj. 畏光的；怕光的"
+    ],
+    "usphone": "[lʊˈsɪfjəɡəs]",
+    "ukphone": "[luːˈsɪfjʊɡəs]"
+  },
+  {
+    "name": "lucent",
+    "trans": [
+      "adj. 透明的，光亮的；美国朗讯科技公司（原AT&T实验室）"
+    ],
+    "usphone": "[ˈluːsnt]",
+    "ukphone": "[ˈluːsənt]"
+  },
+  {
+    "name": "longanimous",
+    "trans": [
+      "a. 忍受的, 忍耐的"
+    ],
+    "usphone": "[lɔŋˈɡænɪməs]",
+    "ukphone": "[lɒŋˈɡænɪməs]"
+  },
+  {
+    "name": "lacework",
+    "trans": [
+      "n. 花边；网状物"
+    ],
+    "usphone": "['leiswə:k]",
+    "ukphone": "[ˈleɪswɜːk]"
+  },
+  {
+    "name": "labour-intensive",
+    "trans": [
+      "adj. 劳动密集型的"
+    ],
+    "usphone": "[ˌleɪbər ɪnˈtensɪv]",
+    "ukphone": "[ˌleɪbər ɪnˈtensɪv]"
+  },
+  {
+    "name": "lobotomy",
+    "trans": [
+      "n. 叶切断术；前脑叶白质切除术"
+    ],
+    "usphone": "[ləˈbɑːtəmi]",
+    "ukphone": "[ləˈbɒtəmi]"
+  },
+  {
+    "name": "long-run",
+    "trans": [
+      "adj. 长期的；（公债等）长久才能兑现的"
+    ],
+    "usphone": "[ˈlɔŋˈrʌn]",
+    "ukphone": "[lɒŋ rʌn]"
+  },
+  {
+    "name": "loop-the-loop",
+    "trans": [
+      "n. 环路火车； 筋斗"
+    ],
+    "usphone": "[luːp ðə luːp]",
+    "ukphone": "[luːp ðə luːp]"
+  },
+  {
+    "name": "liberal-arts",
+    "trans": [
+      "n. 大学文科"
+    ],
+    "usphone": "[ˌlɪbərəl ˈɑːrts]",
+    "ukphone": "[ˌlɪbərəl ˈɑːts]"
+  },
+  {
+    "name": "Log",
+    "trans": [
+      "vi. 伐木",
+      "vt. 切；伐木；航行",
+      "n. 记录；航行日志；原木"
+    ],
+    "usphone": "[lɔːɡ]",
+    "ukphone": "[lɒɡ]"
+  },
+  {
+    "name": "lacy",
+    "trans": [
+      "adj. 花边的；丝带的"
+    ],
+    "usphone": "[ˈleɪsi]",
+    "ukphone": "[ˈleɪsi]"
+  },
+  {
+    "name": "ladyship",
+    "trans": [
+      "n. 夫人；小姐；贵妇身分"
+    ],
+    "usphone": "[ˈleɪdiʃɪp]",
+    "ukphone": "[ˈleɪdiʃɪp]"
+  },
+  {
+    "name": "latterly",
+    "trans": [
+      "adv. 最近；近来"
+    ],
+    "usphone": "[ˈlætərli]",
+    "ukphone": "[ˈlætəli]"
+  },
+  {
+    "name": "li",
+    "trans": [
+      "n. 里（长度单位，等于500米左右）"
+    ],
+    "usphone": "[li]",
+    "ukphone": "[liː]"
+  },
+  {
+    "name": "lichee",
+    "trans": [
+      "n. （汉）荔枝；荔枝果（等于litchi）"
+    ],
+    "usphone": "[ˈliːtʃiˌˈlaɪtʃi]",
+    "ukphone": "[ˈlaɪtʃi]"
+  },
+  {
+    "name": "lodgings",
+    "trans": [
+      "n. 寄宿; 住所; 寄宿舍; 租住的房间; 出租的房间( lodging的名词复数 ); 暂住; 寄宿; 借宿"
+    ],
+    "usphone": "[ˈlɑdʒɪŋ]",
+    "ukphone": "[ˈlɒdʒɪŋz]"
+  },
+  {
+    "name": "laugher",
+    "trans": [
+      "n. 笑者；好笑的一边倒比赛"
+    ],
+    "usphone": "[ˈlæfər]",
+    "ukphone": "[ˈlɑːfə]"
+  },
+  {
+    "name": "L",
+    "trans": [
+      "n. 字母l（英语字母中的第十二个字母）"
+    ],
+    "usphone": "[el]",
+    "ukphone": "[el]"
+  },
+  {
+    "name": "Linda",
+    "trans": [
+      "n. 琳达（女子名）"
+    ],
+    "usphone": "['lində]",
+    "ukphone": "['lində]"
+  },
+  {
+    "name": "lactating",
+    "trans": [
+      "v. 授乳（lactate的现在分词）",
+      "n. 泌乳；哺乳中的女性，授乳妇女"
+    ],
+    "usphone": "[lækˈteɪtɪŋ]",
+    "ukphone": "[ˈlækteɪtɪŋ]"
+  },
+  {
+    "name": "lucerne",
+    "trans": [
+      "n. [作物] 苜蓿；紫花苜蓿"
+    ],
+    "usphone": "[luːˈsɜːrn]",
+    "ukphone": "[luːˈsɜːn]"
+  },
+  {
+    "name": "landing-craft",
+    "trans": [
+      "n. 登陆艇"
+    ],
+    "usphone": "[ˈlændɪŋ kræft]",
+    "ukphone": "[ˈlændɪŋ krɑːft]"
+  },
+  {
+    "name": "liquefier",
+    "trans": [
+      "n. 液化器；液化器操作工"
+    ],
+    "usphone": "[lɪkwɪfaɪər]",
+    "ukphone": "[ˈlɪkwɪfaɪə(r)]"
+  },
+  {
+    "name": "luculent",
+    "trans": [
+      "a. 清楚的, 光亮的, 透明的"
+    ],
+    "usphone": "[ˈluːkjuːlənt]",
+    "ukphone": "[ˈluːkjʊlənt]"
+  },
+  {
+    "name": "lacerable",
+    "trans": [
+      "a. 撕得碎的",
+      "[医] 可撕裂的"
+    ],
+    "usphone": "[ˈlæsərəbəl]",
+    "ukphone": "[ˈlæsərəbl]"
+  },
+  {
+    "name": "lacerative",
+    "trans": [
+      "a. 有伤害或撕裂力的, 割碎的"
+    ],
+    "usphone": "[ˈlæsəˌretɪv]",
+    "ukphone": "[ˈlæsəˌreɪtɪv]"
+  },
+  {
+    "name": "lapsed",
+    "trans": [
+      "adj. 失效的；堕落的；转归他人的",
+      "v. 陷入（lapse的过去分词）；流逝；结束"
+    ],
+    "usphone": "[læpst]",
+    "ukphone": "[læpst]"
+  },
+  {
+    "name": "lignification",
+    "trans": [
+      "n. 木质化, 木化",
+      "[化] 木质化; 木质化作用"
+    ],
+    "usphone": "[ˌlɪɡnəfɪˈkeɪʃn]",
+    "ukphone": "[ˌlɪɡnɪfɪˈkeɪʃən]"
+  },
+  {
+    "name": "lignify",
+    "trans": [
+      "v. （变）木质化"
+    ],
+    "usphone": "['liɡnifai]",
+    "ukphone": "[ˈlɪɡnɪˌfaɪ]"
+  },
+  {
+    "name": "lithic",
+    "trans": [
+      "adj. 石的；膀胱结石的；锂的"
+    ],
+    "usphone": "[ˈlɪθɪk]",
+    "ukphone": "[ˈlɪθɪk]"
+  },
+  {
+    "name": "lubric",
+    "trans": [
+      "adj. <古>光滑的，难捉摸的"
+    ],
+    "usphone": "['lu:brik,-kəl]",
+    "ukphone": "[ˈluːbrɪk]"
+  },
+  {
+    "name": "lunula",
+    "trans": [
+      "n. 新月形的东西，新月形表记"
+    ],
+    "usphone": "[ˈlʊnjʊlə]",
+    "ukphone": "[ˈluːnjʊlə]"
+  },
+  {
+    "name": "loafer",
+    "trans": [
+      "n. 乐福鞋；懒汉鞋"
+    ],
+    "usphone": "[ˈloʊfər]",
+    "ukphone": "[ˈləʊfə(r)]"
+  },
+  {
+    "name": "laundering",
+    "trans": [
+      "n. 洗烫",
+      "v. 洗涤；洗黑钱（launder的ing形式）"
+    ],
+    "usphone": "[ˈlɔːndərɪŋ]",
+    "ukphone": "[ˈlɔːndərɪŋ]"
+  },
+  {
+    "name": "lettering",
+    "trans": [
+      "n. 刻字；印字；书写的文字",
+      "v. 用字母写；用印刷体写（letter的ing形式）"
+    ],
+    "usphone": "[ˈletərɪŋ]",
+    "ukphone": "[ˈletərɪŋ]"
+  },
+  {
+    "name": "long-awaited",
+    "trans": [
+      "adj. 被期待已久的"
+    ],
+    "usphone": "[ˌlɔːŋ əˈweɪtɪd]",
+    "ukphone": "[ˌlɒŋ əˈweɪtɪd]"
+  },
+  {
+    "name": "leaving",
+    "trans": [
+      "n. 离开；残余；渣滓",
+      "v. 离开；留下；舍弃（leave的ing形式）"
+    ],
+    "usphone": "[ˈliːvɪŋ]",
+    "ukphone": "[ˈliːvɪŋ]"
+  },
+  {
+    "name": "long-running",
+    "trans": [
+      "adj. 长期上演的；连续上演很长时间的"
+    ],
+    "usphone": "[ˈlɔːŋ rʌnɪŋ]",
+    "ukphone": "[ˈlɒŋ rʌnɪŋ]"
+  },
+  {
+    "name": "leveraged",
+    "trans": [
+      "adj. 杠杆的；杠杆作用的",
+      "v. （美）杠杆式投机，举债经营（leverage的过去分词形式）"
+    ],
+    "usphone": "['levəridʒd]",
+    "ukphone": "[ˈliːvərɪdʒd]"
+  },
+  {
+    "name": "landed",
+    "trans": [
+      "adj. 拥有土地的；陆地上的",
+      "v. 登陆，登岸（land的过去时和过去分词）"
+    ],
+    "usphone": "[ˈlændɪd]",
+    "ukphone": "[ˈlændɪd]"
+  },
+  {
+    "name": "Libyan",
+    "trans": [
+      "adj. 利比亚的；利比亚人的",
+      "n. 利比亚人；古代利比亚语"
+    ],
+    "usphone": "[ˈlɪbiən]",
+    "ukphone": "[ˈlɪbiən]"
+  },
+  {
+    "name": "leasing",
+    "trans": [
+      "n. 租赁；（苏）谎言",
+      "v. 出租（lease的ing形式）"
+    ],
+    "usphone": "[ˈliːsɪŋ]",
+    "ukphone": "[ˈliːsɪŋ]"
+  },
+  {
+    "name": "lowering",
+    "trans": [
+      "adj. 使低劣的；昏暗的；减少体力的"
+    ],
+    "usphone": "[ˈlaʊərɪŋ]",
+    "ukphone": "[ˈləʊərɪŋ]"
+  },
+  {
+    "name": "latte",
+    "trans": [
+      "n. 牛奶；拿铁咖啡（coffee latte）"
+    ],
+    "usphone": "[ˈlɑːteɪ]",
+    "ukphone": "[ˈlɑːteɪ; ˈlæteɪ]"
+  },
+  {
+    "name": "lefty",
+    "trans": [
+      "n. 左撇子；左翼分子"
+    ],
+    "usphone": "[ˈlefti]",
+    "ukphone": "[ˈlefti]"
+  },
+  {
+    "name": "lined",
+    "trans": [
+      "adj. 有内衬的；具线纹的",
+      "v. 排队（line的过去分词）；填满"
+    ],
+    "usphone": "[laɪnd]",
+    "ukphone": "[laɪnd]"
+  },
+  {
+    "name": "latter-day",
+    "trans": [
+      "adj. 近代的；现代的；当今的"
+    ],
+    "usphone": "[ˈlætər deɪ]",
+    "ukphone": "[ˈlætə deɪ]"
+  },
+  {
+    "name": "liqueur",
+    "trans": [
+      "n. 利口酒；白酒；烧酒；香酒"
+    ],
+    "usphone": "[lɪˈkɜːr]",
+    "ukphone": "[lɪˈkjʊə(r)]"
+  },
+  {
+    "name": "llama",
+    "trans": [
+      "n. 美洲驼；无峰驼"
+    ],
+    "usphone": "[ˈlɑːmə]",
+    "ukphone": "[ˈlɑːmə]"
+  },
+  {
+    "name": "loader",
+    "trans": [
+      "n. 装货的人；载入程序；装货设备；装填器"
+    ],
+    "usphone": "[ˈloʊdər]",
+    "ukphone": "[ˈləʊdə(r)]"
+  },
+  {
+    "name": "long-lost",
+    "trans": [
+      "adj. 遗失了很长时间的"
+    ],
+    "usphone": "[ˈlɔːŋ lɔːst]",
+    "ukphone": "[ˈlɒŋ lɒst]"
+  },
+  {
+    "name": "lightbulb",
+    "trans": [
+      "n. 电灯泡"
+    ],
+    "usphone": "[ˈlaɪtbʌlb]",
+    "ukphone": "[ˈlaɪtbʌlb]"
+  },
+  {
+    "name": "larger-than-life",
+    "trans": [
+      "a. 有英雄(或传奇)色彩的"
+    ],
+    "usphone": "['lɑ:dʒəðən'laif]",
+    "ukphone": "['lɑ:dʒəðən'laif]"
+  },
+  {
+    "name": "long-lived",
+    "trans": [
+      "adj. 长命的；历时长久的"
+    ],
+    "usphone": "[ˌlɔːŋ ˈlɪvdˌˌlɔːŋ ˈlaɪvd]",
+    "ukphone": "[ˌlɒŋ ˈlɪvd]"
+  },
+  {
+    "name": "limbs",
+    "trans": [
+      "n. [解剖] 四肢（limb的复数）"
+    ],
+    "usphone": "[lɪmz]",
+    "ukphone": "[lɪmz]"
+  },
+  {
+    "name": "legwork",
+    "trans": [
+      "n. 外出搜集情况的工作"
+    ],
+    "usphone": "[ˈleɡwɜːrk]",
+    "ukphone": "[ˈleɡwɜːk]"
+  },
+  {
+    "name": "life size",
+    "trans": [
+      "与实物一样大小"
+    ],
+    "usphone": "[ˈlaɪf saɪz]",
+    "ukphone": "[ˈlaɪf saɪz]"
+  },
+  {
+    "name": "lowercase",
+    "trans": [
+      "n. 小写字母；小写字体",
+      "adj. 小写字体的",
+      "vt. 用小写字体书写"
+    ],
+    "usphone": "[ˌloʊərˈkeɪs]",
+    "ukphone": "[,ləʊə'keɪs]"
+  },
+  {
+    "name": "leading light",
+    "trans": [
+      "重要人物（等于leading luminary）；[水运] 导航灯（等于range light）"
+    ],
+    "usphone": "[ˌliːdɪŋ ˈlaɪt]",
+    "ukphone": "[ˌliːdɪŋ ˈlaɪt]"
+  },
+  {
+    "name": "lector",
+    "trans": [
+      "n. 讲师；助理牧师；（教堂礼拜时的）读经者"
+    ],
+    "usphone": "[ˈlektɔːr]",
+    "ukphone": "[ˈlektɔː(r)]"
+  },
+  {
+    "name": "legalese",
+    "trans": [
+      "n. 法律术语，法律措辞"
+    ],
+    "usphone": "[ˌliːɡəˈliːz]",
+    "ukphone": "[ˌliːɡəˈliːz]"
+  },
+  {
+    "name": "lexeme",
+    "trans": [
+      "n. 词位（词的单位）；[语][计] 语义"
+    ],
+    "usphone": "[ˈleksiːm]",
+    "ukphone": "[ˈleksiːm]"
+  },
+  {
+    "name": "librarianship",
+    "trans": [
+      "n. 图书馆事业；图书馆管理员职位；图书馆管理业务"
+    ],
+    "usphone": "[laɪˈbreriənʃɪp]",
+    "ukphone": "[laɪˈbreəriənʃɪp]"
+  },
+  {
+    "name": "librettist",
+    "trans": [
+      "n. 歌词作者；剧本作者"
+    ],
+    "usphone": "[lɪˈbretɪst]",
+    "ukphone": "[lɪˈbretɪst]"
+  },
+  {
+    "name": "literation",
+    "trans": [
+      "n. 用字母代表声音或词"
+    ],
+    "usphone": "[ˌlɪtəˈreɪʃn]",
+    "ukphone": "[ˌlɪtəˈreɪʃən]"
+  },
+  {
+    "name": "leonine",
+    "trans": [
+      "adj. 狮子的，狮子般的"
+    ],
+    "usphone": "[ˈliːənaɪn]",
+    "ukphone": "[ˈliːənaɪn]"
+  },
+  {
+    "name": "lechery",
+    "trans": [
+      "n. 好色；淫荡"
+    ],
+    "usphone": "[ˈletʃəri]",
+    "ukphone": "[ˈletʃəri]"
+  },
+  {
+    "name": "libidinous",
+    "trans": [
+      "adj. 性欲的；好色的；淫荡的"
+    ],
+    "usphone": "[lɪˈbɪdɪnəs]",
+    "ukphone": "[lɪˈbɪdɪnəs]"
+  },
+  {
+    "name": "laypeople",
+    "trans": [
+      "n. 外行；非专业人员；俗人"
+    ],
+    "usphone": "[ˈleˌpi pəl]",
+    "ukphone": "[ˈleɪˌpi pəl]"
+  },
+  {
+    "name": "Lynn",
+    "trans": [
+      "n. 林恩（姓氏）"
+    ],
+    "usphone": "[lɪn]",
+    "ukphone": "[lɪn]"
+  },
+  {
+    "name": "lift-off",
+    "trans": [
+      "n. （火箭等）离地升空，垂直发射"
+    ],
+    "usphone": "[ˈlɪft ɔːf]",
+    "ukphone": "[ˈlɪft ɒf]"
+  },
+  {
+    "name": "longish",
+    "trans": [
+      "adj. 稍长的；略长的"
+    ],
+    "usphone": "[ˈlɔːŋɪʃ]",
+    "ukphone": "[ˈlɒŋɪʃ]"
+  },
+  {
+    "name": "legal aid",
+    "trans": [
+      "n. 法律援助（政府或某机构向需要帮助的人提供费用，使其能够寻求法律咨询或聘请律师）"
+    ],
+    "usphone": "[ˌliːɡl ˈeɪd]",
+    "ukphone": "[ˈliːɡəl ˈeɪd]"
+  },
+  {
+    "name": "linking",
+    "trans": [
+      "n. 连接；耦合",
+      "v. 链接（link的ing形式）"
+    ],
+    "usphone": "[lɪŋkɪŋ]",
+    "ukphone": "[lɪŋkɪŋ]"
+  },
+  {
+    "name": "Luna",
+    "trans": [
+      "n. 月亮；月神"
+    ],
+    "usphone": "[ˈluːnə]",
+    "ukphone": "[ˈluːnə]"
+  },
+  {
+    "name": "Londoner",
+    "trans": [
+      "n. 伦敦人"
+    ],
+    "usphone": "[ˈlʌndənər]",
+    "ukphone": "[ˈlʌndənə(r)]"
+  }
+]

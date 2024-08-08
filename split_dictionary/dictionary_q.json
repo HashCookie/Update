@@ -1,0 +1,1413 @@
+[
+  {
+    "name": "question",
+    "trans": [
+      "n. 问题，疑问；询问；疑问句",
+      "vt. 询问；怀疑；审问",
+      "vi. 询问；怀疑；审问"
+    ],
+    "usphone": "[ˈkwestʃən]",
+    "ukphone": "[ˈkwestʃən]"
+  },
+  {
+    "name": "questionable",
+    "trans": [
+      "adj. 可疑的；有问题的"
+    ],
+    "usphone": "[ˈkwestʃənəbl]",
+    "ukphone": "[ˈkwestʃənəbl]"
+  },
+  {
+    "name": "query",
+    "trans": [
+      "n. 疑问，质问；疑问号 ；[计] 查询",
+      "vi. 询问；表示怀疑",
+      "vt. 询问；对……表示疑问"
+    ],
+    "usphone": "[ˈkwɪri]",
+    "ukphone": "[ˈkwɪəri]"
+  },
+  {
+    "name": "quality",
+    "trans": [
+      "n. 质量，[统计] 品质；特性；才能",
+      "adj. 优质的；高品质的；<英俚>棒极了"
+    ],
+    "usphone": "[ˈkwɑːləti]",
+    "ukphone": "[ˈkwɒləti]"
+  },
+  {
+    "name": "quantity",
+    "trans": [
+      "n. 量，数量；大量；总量"
+    ],
+    "usphone": "[ˈkwɑːntəti]",
+    "ukphone": "[ˈkwɒntəti]"
+  },
+  {
+    "name": "quantitative",
+    "trans": [
+      "adj. 定量的；量的，数量的"
+    ],
+    "usphone": "[ˈkwɑːntəteɪtɪv]",
+    "ukphone": "[ˈkwɒntɪtətɪv]"
+  },
+  {
+    "name": "quit",
+    "trans": [
+      "n. 离开；[计] 退出",
+      "vt. 离开；放弃；停止；使…解除",
+      "adj. 摆脱了…的；已经了结的",
+      "vi. 离开；辞职；停止"
+    ],
+    "usphone": "[kwɪt]",
+    "ukphone": "[kwɪt]"
+  },
+  {
+    "name": "quote",
+    "trans": [
+      "n. 引用",
+      "vi. 报价；引用；引证",
+      "vt. 报价；引述；举证"
+    ],
+    "usphone": "[kwoʊt]",
+    "ukphone": "[kwəʊt]"
+  },
+  {
+    "name": "quarrel",
+    "trans": [
+      "n. 吵架；反目；怨言；争吵的原因；方头凿",
+      "vi. 吵架；争论；挑剔"
+    ],
+    "usphone": "[ˈkwɑːrəl]",
+    "ukphone": "[ˈkwɒrəl]"
+  },
+  {
+    "name": "quota",
+    "trans": [
+      "n. 配额；定额；限额"
+    ],
+    "usphone": "[ˈkwoʊtə]",
+    "ukphone": "[ˈkwəʊtə]"
+  },
+  {
+    "name": "qualify",
+    "trans": [
+      "vi. 取得资格，有资格",
+      "vt. 限制；使具有资格；证明…合格"
+    ],
+    "usphone": "[ˈkwɑːlɪfaɪ]",
+    "ukphone": "[ˈkwɒlɪfaɪ]"
+  },
+  {
+    "name": "qualified",
+    "trans": [
+      "v. 限制（qualify的过去分词）；描述；授权予",
+      "adj. 合格的；有资格的"
+    ],
+    "usphone": "[ˈkwɑːlɪfaɪd]",
+    "ukphone": "[ˈkwɒlɪfaɪd]"
+  },
+  {
+    "name": "qualification",
+    "trans": [
+      "n. 资格；条件；限制；赋予资格"
+    ],
+    "usphone": "[ˌkwɑːlɪfɪˈkeɪʃn]",
+    "ukphone": "[ˌkwɒlɪfɪˈkeɪʃn]"
+  },
+  {
+    "name": "quest",
+    "trans": [
+      "n. 追求；寻找",
+      "vt. 探索",
+      "vi. 追求；寻找"
+    ],
+    "usphone": "[kwest]",
+    "ukphone": "[kwest]"
+  },
+  {
+    "name": "qualitative",
+    "trans": [
+      "adj. 定性的；质的，性质上的"
+    ],
+    "usphone": "[ˈkwɑːlɪteɪtɪv]",
+    "ukphone": "[ˈkwɒlɪtətɪv]"
+  },
+  {
+    "name": "quantify",
+    "trans": [
+      "vt. 量化；为…定量；确定数量",
+      "vi. 量化；定量"
+    ],
+    "usphone": "[ˈkwɑːntɪfaɪ]",
+    "ukphone": "[ˈkwɒntɪfaɪ]"
+  },
+  {
+    "name": "quarantine",
+    "trans": [
+      "n. 检疫；隔离；检疫期；封锁",
+      "vt. 检疫；隔离；使隔离",
+      "vi. 实行隔离"
+    ],
+    "usphone": "[ˈkwɔːrəntiːn]",
+    "ukphone": "[ˈkwɒrəntiːn]"
+  },
+  {
+    "name": "quart",
+    "trans": [
+      "n. 夸脱（容量单位）；一夸脱的容器"
+    ],
+    "usphone": "[kwɔːrt]",
+    "ukphone": "[kwɔːt]"
+  },
+  {
+    "name": "queendom",
+    "trans": [
+      "n. 女王国，女王的尊严"
+    ],
+    "usphone": "[ˈkwindəm]",
+    "ukphone": "[ˈkwiːndəm]"
+  },
+  {
+    "name": "queer",
+    "trans": [
+      "n. 同性恋者；怪人；伪造的货币",
+      "adj. 奇怪的；同性恋的；不舒服的；心智不平衡的",
+      "vt. 搞糟；使陷于不利地位"
+    ],
+    "usphone": "[kwɪr]",
+    "ukphone": "[kwɪə(r)]"
+  },
+  {
+    "name": "questionnaire",
+    "trans": [
+      "n. 问卷；调查表"
+    ],
+    "usphone": "[ˌkwestʃəˈner]",
+    "ukphone": "[ˌkwestʃəˈneə(r)]"
+  },
+  {
+    "name": "quiver",
+    "trans": [
+      "n. 颤抖；箭袋；震动",
+      "vi. 颤抖；振动",
+      "vt. 使…颤动；抖动"
+    ],
+    "usphone": "[ˈkwɪvər]",
+    "ukphone": "[ˈkwɪvə(r)]"
+  },
+  {
+    "name": "quotation",
+    "trans": [
+      "n. [贸易] 报价单；引用语；引证"
+    ],
+    "usphone": "[kwoʊˈteɪʃn]",
+    "ukphone": "[kwəʊˈteɪʃn]"
+  },
+  {
+    "name": "quarter",
+    "trans": [
+      "num. 四分之一",
+      "n. 四分之一；地区；季度；一刻钟；两角五分；节",
+      "vt. 将…四等分；供某人住宿",
+      "vi. 住宿；驻扎"
+    ],
+    "usphone": "[ˈkwɔːrtər]",
+    "ukphone": "[ˈkwɔːtə(r)]"
+  },
+  {
+    "name": "quarterly",
+    "trans": [
+      "n. 季刊",
+      "adj. 季度的，按季度的；一年四次的",
+      "adv. 按季度，[农] 一季一次地；纵横四分地"
+    ],
+    "usphone": "[ˈkwɔːrtərli]",
+    "ukphone": "[ˈkwɔːtəli]"
+  },
+  {
+    "name": "queen",
+    "trans": [
+      "n. 女王，王后；（纸牌中的）皇后；（蜜蜂等的）蜂王",
+      "vt. 使…成为女王或王后",
+      "vi. 做女王"
+    ],
+    "usphone": "[kwiːn]",
+    "ukphone": "[kwiːn]"
+  },
+  {
+    "name": "queue",
+    "trans": [
+      "n. 队列；长队；辫子",
+      "vt. 将…梳成辫子；使…排队",
+      "vi. 排队；排队等候"
+    ],
+    "usphone": "[kjuː]",
+    "ukphone": "[kjuː]"
+  },
+  {
+    "name": "quick",
+    "trans": [
+      "n. 核心；伤口的嫩肉",
+      "adj. 快的；迅速的，敏捷的；灵敏的",
+      "adv. 迅速地，快"
+    ],
+    "usphone": "[kwɪk]",
+    "ukphone": "[kwɪk]"
+  },
+  {
+    "name": "quiet",
+    "trans": [
+      "n. 安静；和平",
+      "adj. 安静的；安定的；不动的；温顺的",
+      "vt. 使平息；安慰",
+      "vi. 平静下来"
+    ],
+    "usphone": "[ˈkwaɪət]",
+    "ukphone": "[ˈkwaɪət]"
+  },
+  {
+    "name": "quilt",
+    "trans": [
+      "n. 被子；棉被",
+      "vt. 东拼西凑地编；加软衬料后缝制",
+      "vi. 缝被子"
+    ],
+    "usphone": "[kwɪlt]",
+    "ukphone": "[kwɪlt]"
+  },
+  {
+    "name": "quite",
+    "trans": [
+      "adv. 很；相当；完全"
+    ],
+    "usphone": "[kwaɪt]",
+    "ukphone": "[kwaɪt]"
+  },
+  {
+    "name": "quiz",
+    "trans": [
+      "n. 考查；恶作剧；课堂测验",
+      "vt. 挖苦；张望；对…进行测验"
+    ],
+    "usphone": "[kwɪz]",
+    "ukphone": "[kwɪz]"
+  },
+  {
+    "name": "quirky",
+    "trans": [
+      "adj. 古怪的；离奇的；诡诈的"
+    ],
+    "usphone": "[ˈkwɜːrki]",
+    "ukphone": "[ˈkwɜːki]"
+  },
+  {
+    "name": "quickly",
+    "trans": [
+      "adv. 迅速地；很快地"
+    ],
+    "usphone": "[ˈkwɪkli]",
+    "ukphone": "[ˈkwɪkli]"
+  },
+  {
+    "name": "quartz",
+    "trans": [
+      "n. 石英"
+    ],
+    "usphone": "[kwɔːrts]",
+    "ukphone": "[kwɔːts]"
+  },
+  {
+    "name": "quench",
+    "trans": [
+      "vt. 熄灭，[机] 淬火；解渴；结束；冷浸",
+      "vi. 熄灭；平息"
+    ],
+    "usphone": "[kwentʃ]",
+    "ukphone": "[kwentʃ]"
+  },
+  {
+    "name": "quietly",
+    "trans": [
+      "adv. 安静地；秘密地；平稳地"
+    ],
+    "usphone": "[ˈkwaɪətli]",
+    "ukphone": "[ˈkwaɪətli]"
+  },
+  {
+    "name": "quake",
+    "trans": [
+      "vi. 震动；颤抖",
+      "n. 地震；颤抖"
+    ],
+    "usphone": "[kweɪk]",
+    "ukphone": "[kweɪk]"
+  },
+  {
+    "name": "quantification",
+    "trans": [
+      "n. [统计] 定量，量化"
+    ],
+    "usphone": "[ˌkwɑːntɪfɪˈkeɪʃn]",
+    "ukphone": "[ˌkwɒntɪfɪˈkeɪʃn]"
+  },
+  {
+    "name": "quarrelsome",
+    "trans": [
+      "adj. 喜欢吵架的；好争论的"
+    ],
+    "usphone": "[ˈkwɑːrəlsəm]",
+    "ukphone": "[ˈkwɒrəlsəm]"
+  },
+  {
+    "name": "quotient",
+    "trans": [
+      "n. [数] 商；系数；份额"
+    ],
+    "usphone": "[ˈkwoʊʃnt]",
+    "ukphone": "[ˈkwəʊʃ(ə)nt]"
+  },
+  {
+    "name": "queerly",
+    "trans": [
+      "adv. 奇怪地；奇妙地"
+    ],
+    "usphone": "[ˈkwɪrli]",
+    "ukphone": "[ˈkwɪəli]"
+  },
+  {
+    "name": "quibble",
+    "trans": [
+      "n. 谬论；双关语；遁辞",
+      "vi. 诡辩；挑剔；说模棱两可的话",
+      "vt. 对…诡辩"
+    ],
+    "usphone": "[ˈkwɪb(ə)l]",
+    "ukphone": "[ˈkwɪb(ə)l]"
+  },
+  {
+    "name": "quite a few",
+    "trans": [
+      "na. 很多；许多；相当多"
+    ],
+    "usphone": "[kwaɪt ə fjuː]",
+    "ukphone": "[kwaɪt ə fjuː]"
+  },
+  {
+    "name": "quaint",
+    "trans": [
+      "adj. 古雅的；奇怪的；离奇有趣的；做得很精巧的"
+    ],
+    "usphone": "[kweɪnt]",
+    "ukphone": "[kweɪnt]"
+  },
+  {
+    "name": "quash",
+    "trans": [
+      "vt. 撤销；镇压；宣布无效；捣碎"
+    ],
+    "usphone": "[kwɑːʃ]",
+    "ukphone": "[kwɒʃ]"
+  },
+  {
+    "name": "qualm",
+    "trans": [
+      "n. 疑虑；不安"
+    ],
+    "usphone": "[kwɑːmˌkwɔːm]",
+    "ukphone": "[kwɑːm; kwɔːm]"
+  },
+  {
+    "name": "quell",
+    "trans": [
+      "vt. 平息；镇压；减轻；消除"
+    ],
+    "usphone": "[kwel]",
+    "ukphone": "[kwel]"
+  },
+  {
+    "name": "quail",
+    "trans": [
+      "n. 鹌鹑",
+      "vi. 畏缩，胆怯；感到恐惧"
+    ],
+    "usphone": "[kweɪl]",
+    "ukphone": "[kweɪl]"
+  },
+  {
+    "name": "quizzical",
+    "trans": [
+      "adj. 古怪的；引人发笑的；探询的；嘲弄的"
+    ],
+    "usphone": "[ˈkwɪzɪkl]",
+    "ukphone": "[ˈkwɪzɪkl]"
+  },
+  {
+    "name": "quaver",
+    "trans": [
+      "n. 颤抖；八分音符；颤音",
+      "vt. 颤抖",
+      "vi. 颤抖；发颤音"
+    ],
+    "usphone": "[ˈkweɪvər]",
+    "ukphone": "[ˈkweɪvə(r)]"
+  },
+  {
+    "name": "quadruple",
+    "trans": [
+      "n. 四倍",
+      "adj. 四倍的；四重的",
+      "vt. 使…成四倍",
+      "vi. 成为四倍"
+    ],
+    "usphone": "[kwɑːˈdruːpl]",
+    "ukphone": "[ˈkwɒdrʊp(ə)l; kwɒˈdruːp(ə)l]"
+  },
+  {
+    "name": "quack",
+    "trans": [
+      "n. 庸医；鸭叫声",
+      "adj. 骗人的；冒牌医生的",
+      "vi. （鸭子）嘎嘎叫；吹嘘；大声闲聊"
+    ],
+    "usphone": "[kwæk]",
+    "ukphone": "[kwæk]"
+  },
+  {
+    "name": "quadrangle",
+    "trans": [
+      "n. 四边形；方院"
+    ],
+    "usphone": "[ˈkwɑːdræŋɡl]",
+    "ukphone": "[ˈkwɒdræŋɡl]"
+  },
+  {
+    "name": "quadrant",
+    "trans": [
+      "n. 象限；[海洋][天] 象限仪；四分之一圆"
+    ],
+    "usphone": "[ˈkwɑːdrənt]",
+    "ukphone": "[ˈkwɒdrənt]"
+  },
+  {
+    "name": "quadratic",
+    "trans": [
+      "n. 二次方程式",
+      "adj. [数] 二次的"
+    ],
+    "usphone": "[kwɑːˈdrætɪk]",
+    "ukphone": "[kwɒˈdrætɪk]"
+  },
+  {
+    "name": "quadrilateral",
+    "trans": [
+      "n. 四边形",
+      "adj. 四边形的"
+    ],
+    "usphone": "[ˌkwɑːdrɪˈlætərəl]",
+    "ukphone": "[ˌkwɒdrɪˈlætərəl]"
+  },
+  {
+    "name": "Quaker",
+    "trans": [
+      "n. 教友派信徒；贵格会教徒"
+    ],
+    "usphone": "[ˈkweɪkər]",
+    "ukphone": "[ˈkweɪkə(r)]"
+  },
+  {
+    "name": "qualifier",
+    "trans": [
+      "n. [语] 修饰语",
+      "n. 资格赛，预选赛；取得资格的人"
+    ],
+    "usphone": "[ˈkwɑːlɪfaɪər]",
+    "ukphone": "[ˈkwɒlɪfaɪə(r)]"
+  },
+  {
+    "name": "quantifier",
+    "trans": [
+      "n. [数][语] 量词；数量词；精于计算的人"
+    ],
+    "usphone": "[ˈkwɑːntɪfaɪər]",
+    "ukphone": "[ˈkwɒntɪfaɪə(r)]"
+  },
+  {
+    "name": "quantum",
+    "trans": [
+      "n. 量子论；额；美国昆腾公司（世界领先的硬盘生产商）"
+    ],
+    "usphone": "[ˈkwɑːntəm]",
+    "ukphone": "[ˈkwɒntəm]"
+  },
+  {
+    "name": "quartet",
+    "trans": [
+      "n. 四重奏；四重唱；四件一套"
+    ],
+    "usphone": "[kwɔːrˈtet]",
+    "ukphone": "[kwɔːˈtet]"
+  },
+  {
+    "name": "querulous",
+    "trans": [
+      "adj. 易怒的，暴躁的；爱发牢骚的，抱怨的；爱挑剔的"
+    ],
+    "usphone": "[ˈkwerələsˌˈkwerjələs]",
+    "ukphone": "[ˈkwerələs]"
+  },
+  {
+    "name": "quicksand",
+    "trans": [
+      "n. [水利] 流沙，危险状态"
+    ],
+    "usphone": "[ˈkwɪksænd]",
+    "ukphone": "[ˈkwɪksænd]"
+  },
+  {
+    "name": "quintessence",
+    "trans": [
+      "n. 精华；典范；第五元素（被视为地、水、火、风以外之构成宇宙的元素）"
+    ],
+    "usphone": "[kwɪnˈtesns]",
+    "ukphone": "[kwɪnˈtes(ə)ns]"
+  },
+  {
+    "name": "quintet",
+    "trans": [
+      "n. 五重奏，五重唱；男子篮球队；[计] 五位字节"
+    ],
+    "usphone": "[kwɪnˈtet]",
+    "ukphone": "[kwɪnˈtet]"
+  },
+  {
+    "name": "quip",
+    "trans": [
+      "n. 妙语；嘲弄；讽刺语",
+      "vi. 嘲弄；讥讽",
+      "vt. 嘲弄"
+    ],
+    "usphone": "[kwɪp]",
+    "ukphone": "[kwɪp]"
+  },
+  {
+    "name": "quirk",
+    "trans": [
+      "n. 怪癖；急转；借口"
+    ],
+    "usphone": "[kwɜːrk]",
+    "ukphone": "[kwɜːk]"
+  },
+  {
+    "name": "quitter",
+    "trans": [
+      "n. 轻易放弃的人；懒人"
+    ],
+    "usphone": "[ˈkwɪtər]",
+    "ukphone": "[ˈkwɪtə(r)]"
+  },
+  {
+    "name": "quixotic",
+    "trans": [
+      "adj. 唐吉诃德式的；狂想家的；愚侠的"
+    ],
+    "usphone": "[kwɪkˈsɑːtɪk]",
+    "ukphone": "[kwɪkˈsɒtɪk]"
+  },
+  {
+    "name": "quintessentially",
+    "trans": [
+      "adv. 典型地；标准地"
+    ],
+    "usphone": "[ˌkwɪntɪˈsenʃəli]",
+    "ukphone": "[ˌkwɪntɪˈsenʃəli]"
+  },
+  {
+    "name": "quarter-final",
+    "trans": [
+      "n. 复赛",
+      "adj. 复赛的"
+    ],
+    "usphone": "[ˌkwɔːrtər ˈfaɪnl]",
+    "ukphone": "[ˌkwɔːtə ˈfaɪn(ə)l]"
+  },
+  {
+    "name": "quanta",
+    "trans": [
+      "n. 量；量子（quantum的复数）；额"
+    ],
+    "usphone": "[ˈkwɑːntə]",
+    "ukphone": "[ˈkwɒntə]"
+  },
+  {
+    "name": "quandary",
+    "trans": [
+      "n. 困惑；窘境；为难"
+    ],
+    "usphone": "[ˈkwɑːndəri]",
+    "ukphone": "[ˈkwɒndəri]"
+  },
+  {
+    "name": "quiescent",
+    "trans": [
+      "adj. 静止的；不活动的；沉寂的"
+    ],
+    "usphone": "[kwiˈes(ə)nt]",
+    "ukphone": "[kwiˈes(ə)nt]"
+  },
+  {
+    "name": "quintessential",
+    "trans": [
+      "adj. 精髓的，精萃的"
+    ],
+    "usphone": "[ˌkwɪntɪˈsenʃl]",
+    "ukphone": "[ˌkwɪntɪˈsenʃl]"
+  },
+  {
+    "name": "queasy",
+    "trans": [
+      "adj. 呕吐的；不稳定的；催吐的"
+    ],
+    "usphone": "[ˈkwiːzi]",
+    "ukphone": "[ˈkwiːzi]"
+  },
+  {
+    "name": "quarry",
+    "trans": [
+      "n. 采石场；猎物；来源",
+      "vt. 挖出；努力挖掘",
+      "vi. 费力地找"
+    ],
+    "usphone": "[ˈkwɑːri]",
+    "ukphone": "[ˈkwɒri]"
+  },
+  {
+    "name": "quasar",
+    "trans": [
+      "n. [天] 类星体；恒星状球体"
+    ],
+    "usphone": "[ˈkweɪzɑːr]",
+    "ukphone": "[ˈkweɪzɑː(r)]"
+  },
+  {
+    "name": "quinine",
+    "trans": [
+      "n. 奎宁；金鸡纳碱"
+    ],
+    "usphone": "[ˈkwaɪnaɪn]",
+    "ukphone": "[ˈkwɪniːn]"
+  },
+  {
+    "name": "quinsy",
+    "trans": [
+      "n. 扁桃腺炎，咽门炎"
+    ],
+    "usphone": "[kwɪnzi]",
+    "ukphone": "[ˈkwɪnzi]"
+  },
+  {
+    "name": "qualms",
+    "trans": [
+      "n. 良心之谴责；不安"
+    ],
+    "usphone": "[kwɑːmz; kwɔːmz]",
+    "ukphone": "[kwɑːmz]"
+  },
+  {
+    "name": "quietude",
+    "trans": [
+      "n. 平静；寂静；沉着"
+    ],
+    "usphone": "[ˈkwaɪətuːd]",
+    "ukphone": "[ˈkwaɪətjuːd]"
+  },
+  {
+    "name": "quick-witted",
+    "trans": [
+      "adj. 机智灵敏的"
+    ],
+    "usphone": "[ˌkwɪk ˈwɪtɪd]",
+    "ukphone": "[ˌkwɪk ˈwɪtɪd]"
+  },
+  {
+    "name": "qualitatively",
+    "trans": [
+      "adv. 定性地；从品质上讲"
+    ],
+    "usphone": "[ˈkwɑːlɪteɪtɪvli]",
+    "ukphone": "[ˈkwɒlɪtətɪvli]"
+  },
+  {
+    "name": "Queensland",
+    "trans": [
+      "n. 昆士兰（澳大利亚州）"
+    ],
+    "usphone": "[ˈkwinzlənd]",
+    "ukphone": "[ˈkwiːnzlənd]"
+  },
+  {
+    "name": "quick-fix",
+    "trans": [
+      "adj. 应急的；权宜之计的"
+    ],
+    "usphone": "[kwɪk fɪks]",
+    "ukphone": "[kwɪk fɪks]"
+  },
+  {
+    "name": "quagmire",
+    "trans": [
+      "n. 沼泽，沼泽地；无法脱身的困境"
+    ],
+    "usphone": "[ˈkwæɡmaɪər]",
+    "ukphone": "[ˈkwæɡmaɪə(r); ˈkwɒɡmaɪə(r)]"
+  },
+  {
+    "name": "quay",
+    "trans": [
+      "n. 码头"
+    ],
+    "usphone": "[kiː]",
+    "ukphone": "[kiː]"
+  },
+  {
+    "name": "quittance",
+    "trans": [
+      "n. 免除; 解除; 赦免; 赔偿"
+    ],
+    "usphone": "[ˈkwɪtəns]",
+    "ukphone": "[ˈkwɪt(ə)ns]"
+  },
+  {
+    "name": "quorum",
+    "trans": [
+      "n. 法定人数"
+    ],
+    "usphone": "[ˈkwɔːrəm]",
+    "ukphone": "[ˈkwɔːrəm]"
+  },
+  {
+    "name": "quasi",
+    "trans": [
+      "adj. 准的；类似的；外表的",
+      "adv. 似是；有如"
+    ],
+    "usphone": "[ˈkweɪzaɪˌˈkweɪsaɪˌˈkwɑːzi]",
+    "ukphone": "[ˈkweɪzaɪ; ˈkweɪsaɪ; ˈkwɑːzi]"
+  },
+  {
+    "name": "quaff",
+    "trans": [
+      "vt. 大口地喝，痛饮",
+      "vi. 狂饮，痛饮"
+    ],
+    "usphone": "[kwæfˌkwɑːf]",
+    "ukphone": "[kwɒf]"
+  },
+  {
+    "name": "quotidian",
+    "trans": [
+      "n. 每天发生的事；日发疟",
+      "adj. 每日的；平凡的；每日发作的"
+    ],
+    "usphone": "[kwoʊˈtɪdiən]",
+    "ukphone": "[kwɒˈtɪdiən]"
+  },
+  {
+    "name": "quoted",
+    "trans": [
+      "v. 引证（quote的过去式）"
+    ],
+    "usphone": "[ˈkwoʊtɪd]",
+    "ukphone": "[kwəʊtid]"
+  },
+  {
+    "name": "quid",
+    "trans": [
+      "n. 咀嚼物；一英镑；一镑金币"
+    ],
+    "usphone": "[kwɪd]",
+    "ukphone": "[kwɪd]"
+  },
+  {
+    "name": "quartermaster",
+    "trans": [
+      "n. 军需官；舵手"
+    ],
+    "usphone": "[ˈkwɔːrtərmæstər]",
+    "ukphone": "[ˈkwɔːtəmɑːstə(r)]"
+  },
+  {
+    "name": "quicken",
+    "trans": [
+      "vt. 加快；鼓舞；使复活",
+      "vi. 加快；变活跃；进入胎动期"
+    ],
+    "usphone": "[ˈkwɪkən]",
+    "ukphone": "[ˈkwɪkən]"
+  },
+  {
+    "name": "quickness",
+    "trans": [
+      "n. 急速，迅速；尖锐化"
+    ],
+    "usphone": "[ˈkwɪknəs]",
+    "ukphone": "[ˈkwɪknəs]"
+  },
+  {
+    "name": "qualifications",
+    "trans": [
+      "n. 资格证书；任职资格；职位要求；限定性条件（qualification的复数形式）"
+    ],
+    "usphone": "[,kwɑləfə'keʃənz]",
+    "ukphone": "[kwɒlɪfɪ'keɪʃnz]"
+  },
+  {
+    "name": "quantic",
+    "trans": [
+      "n. 同次多项式; 齐式"
+    ],
+    "usphone": "[ˈkwɒntɪk]",
+    "ukphone": "[ˈkwɒntɪk]"
+  },
+  {
+    "name": "quantifiable",
+    "trans": [
+      "adj. 可以计量的"
+    ],
+    "usphone": "[ˈkwɑːntɪfaɪəblˌˌkwɑːntɪˈfaɪəbl]",
+    "ukphone": "[ˈkwɒntɪfaɪəbl; ˌkwɒntɪˈfaɪəbl]"
+  },
+  {
+    "name": "quadruped",
+    "trans": [
+      "n. [脊椎] 四足动物",
+      "adj. 有四足的"
+    ],
+    "usphone": "[ˈkwɑːdruped]",
+    "ukphone": "[ˈkwɒdruped]"
+  },
+  {
+    "name": "quisling",
+    "trans": [
+      "n. 卖国贼；内奸",
+      "v. 卖国；叛国（quisle的ing形式）"
+    ],
+    "usphone": "[ˈkwɪzlɪŋ]",
+    "ukphone": "[ˈkwɪzlɪŋ]"
+  },
+  {
+    "name": "quill",
+    "trans": [
+      "n. 大翎毛；羽茎；（豪猪、刺猬的）刚毛",
+      "vt. 刺穿"
+    ],
+    "usphone": "[kwɪl]",
+    "ukphone": "[kwɪl]"
+  },
+  {
+    "name": "QC",
+    "trans": [
+      "abbr. 质量控制（Quality Control）"
+    ],
+    "usphone": "[ˌkjuː ˈsiː]",
+    "ukphone": "[ˌkjuː ˈsiː]"
+  },
+  {
+    "name": "quilting",
+    "trans": [
+      "n. 被上缝花纹的缝法；缝被子"
+    ],
+    "usphone": "[ˈkwɪltɪŋ]",
+    "ukphone": "[ˈkwɪltɪŋ]"
+  },
+  {
+    "name": "quitting",
+    "trans": [
+      "n. 放弃，[计] 退出；书面收据"
+    ],
+    "usphone": "[ˈkwɪtɪŋ]",
+    "ukphone": "[kwɪtɪŋ]"
+  },
+  {
+    "name": "quadriplegic",
+    "trans": [
+      "n. 四肢瘫痪者",
+      "adj. 四肢瘫痪的"
+    ],
+    "usphone": "[ˌkwɑːdrɪˈpliːdʒɪk]",
+    "ukphone": "[ˌkwɒdrɪˈpliːdʒɪk]"
+  },
+  {
+    "name": "Quebec",
+    "trans": [
+      "n. 魁北克（加拿大港市省名）"
+    ],
+    "usphone": "[kəˈbek]",
+    "ukphone": "[kwɪˈbek]"
+  },
+  {
+    "name": "quotable",
+    "trans": [
+      "adj. 可引用的；适于引用的；有引用价值的"
+    ],
+    "usphone": "[ˈkwoʊtəbl]",
+    "ukphone": "[ˈkwəʊtəbl]"
+  },
+  {
+    "name": "Quinine",
+    "trans": [
+      "n. 奎宁；金鸡纳碱"
+    ],
+    "usphone": "[ˈkwaɪnaɪn]",
+    "ukphone": "[ˈkwɪniːn]"
+  },
+  {
+    "name": "quo",
+    "trans": [
+      "vt. 说"
+    ],
+    "usphone": "[kwoʊ]",
+    "ukphone": "[kwəʊ]"
+  },
+  {
+    "name": "Quechua",
+    "trans": [
+      "n. 盖丘亚族（南美印第安人的一大分支）盖丘亚族人[语]"
+    ],
+    "usphone": "[kəˈtʃʊə]",
+    "ukphone": "[ˈketʃwə]"
+  },
+  {
+    "name": "quaintly",
+    "trans": [
+      "adv. 离奇有趣地；古雅地；优雅地"
+    ],
+    "usphone": "[ˈkweɪntli]",
+    "ukphone": "[ˈkweɪntli]"
+  },
+  {
+    "name": "quadrate",
+    "trans": [
+      "n. 正方形；方骨肌",
+      "adj. 正方形的，方形的",
+      "vt. 使成正方形；使适合",
+      "vi. 适合，一致；成正方形"
+    ],
+    "usphone": "[ˈkwɑːdrɪt]",
+    "ukphone": "[ˈkwɒdrɪt]"
+  },
+  {
+    "name": "quadriceps",
+    "trans": [
+      "n. [解剖] 四头肌"
+    ],
+    "usphone": "[ˈkwɑːdrɪseps]",
+    "ukphone": "[ˈkwɒdrɪseps]"
+  },
+  {
+    "name": "quadriplegia",
+    "trans": [
+      "n. [内科] 四肢麻痹；四肢瘫痪"
+    ],
+    "usphone": "[ˌkwɑːdrɪˈpliːdʒə]",
+    "ukphone": "[ˌkwɒdrɪˈpliːdʒə]"
+  },
+  {
+    "name": "quadruplet",
+    "trans": [
+      "n. 四胎儿；四胞胎之一；成套的四件"
+    ],
+    "usphone": "[kwɑːˈdruːplət]",
+    "ukphone": "[ˈkwɒdrʊplət]"
+  },
+  {
+    "name": "quantitate",
+    "trans": [
+      "vt. 测定的数量；估计的数量；用数量来表示"
+    ],
+    "usphone": "[ˈkwɑːntəˌteɪt]",
+    "ukphone": "[ˈkwɒntɪˌteɪt]"
+  },
+  {
+    "name": "quantitatively",
+    "trans": [
+      "adv. 数量上；分量上"
+    ],
+    "usphone": "[ˈkwɑːntəteɪtɪvli]",
+    "ukphone": "[ˈkwɒntɪtətɪvli]"
+  },
+  {
+    "name": "quartan",
+    "trans": [
+      "adj. 每四天的",
+      "n. 四日热"
+    ],
+    "usphone": "[ˈkwɔrtn]",
+    "ukphone": "[ˈkwɔːt(ə)n]"
+  },
+  {
+    "name": "quaternary",
+    "trans": [
+      "n. 四；四个一组",
+      "adj. [数] 四进制的；四个一组的"
+    ],
+    "usphone": "[kwəˈtɜːrnəri]",
+    "ukphone": "[kwəˈtɜːn(ə)rɪ]"
+  },
+  {
+    "name": "quickening",
+    "trans": [
+      "n. 胎动；兴奋",
+      "v. 加速；活跃（quicken的ing形式）",
+      "adj. 使活泼的；使复苏的"
+    ],
+    "usphone": "[ˈkwɪkənɪŋ]",
+    "ukphone": "[ˈkwɪkənɪŋ]"
+  },
+  {
+    "name": "quinidine",
+    "trans": [
+      "n. 奎纳定"
+    ],
+    "usphone": "[ˈkwɪnɪdɪn]",
+    "ukphone": "[ˈkwɪnɪdiːn]"
+  },
+  {
+    "name": "questioning",
+    "trans": [
+      "n. 质问",
+      "v. 询问，审问（question的现在分词）"
+    ],
+    "usphone": "[ˈkwestʃənɪŋ]",
+    "ukphone": "[ˈkwestʃənɪŋ]"
+  },
+  {
+    "name": "quicksilver",
+    "trans": [
+      "n. 水银；汞；快银（漫威漫画旗下超级英雄）",
+      "adj. 水银的；水银似的；多变的",
+      "vt. 涂水银于；用水银处理"
+    ],
+    "usphone": "[ˈkwɪksɪlvər]",
+    "ukphone": "[ˈkwɪksɪlvə(r)]"
+  },
+  {
+    "name": "quaintness",
+    "trans": [
+      "n. 离奇有趣；古怪之事物"
+    ],
+    "usphone": "[ˈkweɪntnəs]",
+    "ukphone": "[ˈkweɪntnəs]"
+  },
+  {
+    "name": "quotative",
+    "trans": [
+      "adj. 引证的"
+    ],
+    "usphone": "[ˈkwoʊtətɪv]",
+    "ukphone": "[ˈkwəʊtətɪv]"
+  },
+  {
+    "name": "quasi-",
+    "trans": [
+      "pref. 准；类似（用以构成复合词）"
+    ],
+    "usphone": "[kweɪzaɪ; kweɪsaɪ; kwɑːzi]",
+    "ukphone": "[kwɑːzi; kweɪzaɪ]"
+  },
+  {
+    "name": "quizzically",
+    "trans": [
+      "adv. 取笑地；疑惑地"
+    ],
+    "usphone": "[ˈkwɪzɪkli]",
+    "ukphone": "[ˈkwɪzɪkli]"
+  },
+  {
+    "name": "quenchless",
+    "trans": [
+      "adj. 不可熄灭的"
+    ],
+    "usphone": "[ˈkwentʃləs]",
+    "ukphone": "[ˈkwentʃləs]"
+  },
+  {
+    "name": "quad",
+    "trans": [
+      "n. 四方院子；四胞胎之一；嵌条；成套的四件东西"
+    ],
+    "usphone": "[kwɑːd]",
+    "ukphone": "[kwɒd]"
+  },
+  {
+    "name": "quicker",
+    "trans": [
+      "adj. 快些（quick的形容词比较级）"
+    ],
+    "usphone": "[ˈkwɪkər]",
+    "ukphone": "[ˈkwɪkə(r)]"
+  },
+  {
+    "name": "quagga",
+    "trans": [
+      "n. 已绝种的南非小斑马"
+    ],
+    "usphone": "[ˈkwæɡə]",
+    "ukphone": "[ˈkwæɡə]"
+  },
+  {
+    "name": "quintuplet",
+    "trans": [
+      "n. 五胞胎之一；五个一组；五件一套"
+    ],
+    "usphone": "[kwɪnˈtʌplət]",
+    "ukphone": "[ˈkwɪntʊplət]"
+  },
+  {
+    "name": "quartzite",
+    "trans": [
+      "n. 石英岩；硅岩"
+    ],
+    "usphone": "[ˈkwɔrtsˌaɪt]",
+    "ukphone": "[ˈkwɔːtsaɪt]"
+  },
+  {
+    "name": "quant",
+    "trans": [
+      "n. 船桨；数量分析专家",
+      "vt. 用篙撑",
+      "vi. 用篙撑船"
+    ],
+    "usphone": "[kwɑːnt]",
+    "ukphone": "[kwɒnt]"
+  },
+  {
+    "name": "quiescence",
+    "trans": [
+      "n. 静止；沉默"
+    ],
+    "usphone": "[kwiˈesns]",
+    "ukphone": "[kwiˈes(ə)ns]"
+  },
+  {
+    "name": "quondam",
+    "trans": [
+      "adj. 原来的，以前的"
+    ],
+    "usphone": "[ˈkwɑːndəm]",
+    "ukphone": "[ˈkwɒndæm]"
+  },
+  {
+    "name": "queen size",
+    "trans": [
+      "na. 大号的"
+    ],
+    "usphone": "[ˈkwiːn saɪz]",
+    "ukphone": "[ˈkwiːn saɪz]"
+  },
+  {
+    "name": "questions",
+    "trans": [
+      "n. [数] 问题（question的复数）",
+      "v. 质疑（question的第三人称单数形式）"
+    ],
+    "usphone": "[ˈkwestʃənz]",
+    "ukphone": "['kwestʃənz]"
+  },
+  {
+    "name": "quartile",
+    "trans": [
+      "n. 四分位数；四分点"
+    ],
+    "usphone": "[ˈkwɔːrtaɪlˌˈkwɔːrtl]",
+    "ukphone": "[ˈkwɔːtaɪl]"
+  },
+  {
+    "name": "Qigong",
+    "trans": [
+      "n. 气功"
+    ],
+    "usphone": "[tʃiːˈɡɔːŋ]",
+    "ukphone": "[ˈtʃiːˈɡɒŋ]"
+  },
+  {
+    "name": "Quack!",
+    "trans": [
+      "n. 庸医；鸭叫声",
+      "adj. 骗人的；冒牌医生的",
+      "vi. （鸭子）嘎嘎叫；吹嘘；大声闲聊"
+    ],
+    "usphone": "[kwæk]",
+    "ukphone": "[kwæk]"
+  },
+  {
+    "name": "quietness",
+    "trans": [
+      "n. 平静，安静"
+    ],
+    "usphone": "[ˈkwaɪətnəs]",
+    "ukphone": "[ˈkwaɪətnəs]"
+  },
+  {
+    "name": "quadrennial",
+    "trans": [
+      "n. 第四周年纪念",
+      "adj. 每四年一次的；连续四年的"
+    ],
+    "usphone": "[kwɑdˈrenɪəl]",
+    "ukphone": "[kwɒdˈrenɪəl]"
+  },
+  {
+    "name": "quaker",
+    "trans": [
+      "n. 教友派信徒；贵格会教徒"
+    ],
+    "usphone": "[ˈkweɪkər]",
+    "ukphone": "[ˈkweɪkə(r)]"
+  },
+  {
+    "name": "quibbler",
+    "trans": [
+      "n. 诡辩者",
+      "[法] 诡辩者, 狡辩者"
+    ],
+    "usphone": "[kˈwɪblər]",
+    "ukphone": "[ˈkwɪblə(r)]"
+  },
+  {
+    "name": "quizzes",
+    "trans": [
+      "n. 小测验（quiz复数形式）；智力比赛",
+      "v. 测验；盘问（quiz的第三人称单数形式）"
+    ],
+    "usphone": "[ˈkwɪzɪz]",
+    "ukphone": "[ˈkwɪzɪz]"
+  },
+  {
+    "name": "quarterback",
+    "trans": [
+      "n. 橄榄球的四分卫",
+      "vt. （以四分卫）指挥进攻；领导；操纵",
+      "vi. （橄榄球中）担任四分卫"
+    ],
+    "usphone": "[ˈkwɔːrtərbæk]",
+    "ukphone": "[ˈkwɔːtəbæk]"
+  },
+  {
+    "name": "quivering",
+    "trans": [
+      "adj. 颤抖的",
+      "v. 颤抖；抖动（quiver的ing形式）"
+    ],
+    "usphone": "[ˈkwɪvərɪŋ]",
+    "ukphone": "[ˈkwɪvərɪŋ]"
+  },
+  {
+    "name": "quarters",
+    "trans": [
+      "n. 住处；四分之一（quarter的复数）；营房",
+      "v. 把…四等分；供…住宿（quarter的三单形式）"
+    ],
+    "usphone": "[ˈkwɔːrtərz]",
+    "ukphone": "[ˈkwɔːtəz]"
+  },
+  {
+    "name": "quietus",
+    "trans": [
+      "n. 解除；偿清；生命的终止；寂灭"
+    ],
+    "usphone": "[kwaɪˈiːtəs]",
+    "ukphone": "[kwaɪˈiːtəs]"
+  },
+  {
+    "name": "quantization",
+    "trans": [
+      "n. [量子] 量子化；分层；数字化"
+    ],
+    "usphone": "[ˌkwɑːntɪˈzeɪʃən]",
+    "ukphone": "[ˌkwɒntɪˈzeɪʃən]"
+  },
+  {
+    "name": "quitclaim",
+    "trans": [
+      "n. 放弃权利",
+      "vt. 放弃权利"
+    ],
+    "usphone": "[ˈkwɪtˌkleɪm]",
+    "ukphone": "[ˈkwɪtˌkleɪm]"
+  },
+  {
+    "name": "quadrangular",
+    "trans": [
+      "adj. 四边形的；四角形的"
+    ],
+    "usphone": "[kwɑːˈdræŋɡjələr]",
+    "ukphone": "[kwɒˈdræŋɡjələ(r)]"
+  },
+  {
+    "name": "questioningly",
+    "trans": [
+      "adv. 怀疑地；质问地"
+    ],
+    "usphone": "[ˈkwestʃənɪŋli]",
+    "ukphone": "[ˈkwestʃənɪŋli]"
+  },
+  {
+    "name": "quayside",
+    "trans": [
+      "n. 码头周围地区"
+    ],
+    "usphone": "[ˈkiːsaɪd]",
+    "ukphone": "[ˈkiːsaɪd]"
+  },
+  {
+    "name": "quickest",
+    "trans": [
+      "adj. 最快的"
+    ],
+    "usphone": "[ˈkwɪkɪst]",
+    "ukphone": "[ˈkwɪkɪst]"
+  },
+  {
+    "name": "quark",
+    "trans": [
+      "n. [高能][天] 夸克（理论上一种比原子更小的基本粒子）"
+    ],
+    "usphone": "[kwɔːrkˌkwɑːrk]",
+    "ukphone": "[kwɑːk]"
+  },
+  {
+    "name": "questioner",
+    "trans": [
+      "n. 发问者；质问者"
+    ],
+    "usphone": "[ˈkwestʃənər]",
+    "ukphone": "[ˈkwestʃənə(r)]"
+  },
+  {
+    "name": "quarterfinal",
+    "trans": [
+      "n. 四分之一决赛",
+      "adj. 四分之一决赛的"
+    ],
+    "usphone": "[,kwɔ:tə'fainəl]",
+    "ukphone": "[,kwɔ:tə'fainəl]"
+  },
+  {
+    "name": "Queens",
+    "trans": [
+      "n. 皇后区；女王（queen的复数形式）"
+    ],
+    "usphone": "[kwiːnz]",
+    "ukphone": "[kwiːnz]"
+  },
+  {
+    "name": "quackery",
+    "trans": [
+      "n. 庸医的医术；骗子的行为"
+    ],
+    "usphone": "[ˈkwækəri]",
+    "ukphone": "[ˈkwækəri]"
+  }
+]

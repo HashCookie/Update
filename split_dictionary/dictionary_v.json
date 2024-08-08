@@ -1,0 +1,5165 @@
+[
+  {
+    "name": "view",
+    "trans": [
+      "n. 观察；视野；意见；风景",
+      "vt. 观察；考虑；查看"
+    ],
+    "usphone": "[vjuː]",
+    "ukphone": "[vjuː]"
+  },
+  {
+    "name": "value",
+    "trans": [
+      "n. 值；价值；价格；重要性；确切涵义",
+      "vt. 评价；重视；估价"
+    ],
+    "usphone": "[ˈvæljuː]",
+    "ukphone": "[ˈvæljuː]"
+  },
+  {
+    "name": "valuable",
+    "trans": [
+      "n. 贵重物品",
+      "adj. 有价值的；贵重的；可估价的"
+    ],
+    "usphone": "[ˈvæljuəbl]",
+    "ukphone": "[ˈvæljuəbl]"
+  },
+  {
+    "name": "vocabulary",
+    "trans": [
+      "n. 词汇；词表；词汇量"
+    ],
+    "usphone": "[vəˈkæbjəleri]",
+    "ukphone": "[vəˈkæbjələri]"
+  },
+  {
+    "name": "verify",
+    "trans": [
+      "vt. 核实；查证"
+    ],
+    "usphone": "[ˈverɪfaɪ]",
+    "ukphone": "[ˈverɪfaɪ]"
+  },
+  {
+    "name": "victory",
+    "trans": [
+      "n. 胜利；成功；克服"
+    ],
+    "usphone": "[ˈvɪktəri]",
+    "ukphone": "[ˈvɪktəri]"
+  },
+  {
+    "name": "vast",
+    "trans": [
+      "n. 浩瀚；广阔无垠的空间",
+      "adj. 广阔的；巨大的；大量的；巨额的"
+    ],
+    "usphone": "[væst]",
+    "ukphone": "[vɑːst]"
+  },
+  {
+    "name": "vastly",
+    "trans": [
+      "adv. 极大地；广大地；深远地"
+    ],
+    "usphone": "[ˈvæstli]",
+    "ukphone": "[ˈvɑːstli]"
+  },
+  {
+    "name": "version",
+    "trans": [
+      "n. 版本；译文；倒转术"
+    ],
+    "usphone": "[ˈvɜːrʒn]",
+    "ukphone": "[ˈvɜːʃ(ə)n]"
+  },
+  {
+    "name": "vertical",
+    "trans": [
+      "n. 垂直线，垂直面",
+      "adj. 垂直的，直立的；[解剖] 头顶的，顶点的"
+    ],
+    "usphone": "[ˈvɜːrtɪkl]",
+    "ukphone": "[ˈvɜːtɪk(ə)l]"
+  },
+  {
+    "name": "verdict",
+    "trans": [
+      "n. 结论；裁定"
+    ],
+    "usphone": "[ˈvɜːrdɪkt]",
+    "ukphone": "[ˈvɜːdɪkt]"
+  },
+  {
+    "name": "variety",
+    "trans": [
+      "n. 多样；种类；杂耍；变化，多样化"
+    ],
+    "usphone": "[vəˈraɪəti]",
+    "ukphone": "[vəˈraɪəti]"
+  },
+  {
+    "name": "vary",
+    "trans": [
+      "vi. 变化；变异；违反",
+      "vt. 改变；使多样化；变奏"
+    ],
+    "usphone": "[ˈveri; ˈværi]",
+    "ukphone": "[ˈveəri]"
+  },
+  {
+    "name": "varied",
+    "trans": [
+      "v. 改变；使多样化（vary的过去式和过去分词形式）",
+      "adj. 多变的；各式各样的；杂色的"
+    ],
+    "usphone": "[ˈveridˌˈværid]",
+    "ukphone": "[ˈveərid]"
+  },
+  {
+    "name": "varying",
+    "trans": [
+      "adj. 不同的；变化的",
+      "v. 变化，改变（vary的现在分词）"
+    ],
+    "usphone": "[ˈveriɪŋ; ˈværiɪŋ]",
+    "ukphone": "[ˈveəriɪŋ]"
+  },
+  {
+    "name": "various",
+    "trans": [
+      "adj. 各种各样的；多方面的"
+    ],
+    "usphone": "[ˈveriəs; ˈværiəs]",
+    "ukphone": "[ˈveəriəs]"
+  },
+  {
+    "name": "variable",
+    "trans": [
+      "n. [数] 变量；可变物，可变因素",
+      "adj. 变量的；可变的；易变的，多变的；变异的，[生物] 畸变的"
+    ],
+    "usphone": "[ˈveriəblˌˈværiəbl]",
+    "ukphone": "[ˈveəriəb(ə)l]"
+  },
+  {
+    "name": "variation",
+    "trans": [
+      "n. 变化；[生物] 变异，变种"
+    ],
+    "usphone": "[ˌveriˈeɪʃn]",
+    "ukphone": "[ˌveəriˈeɪʃn]"
+  },
+  {
+    "name": "virus",
+    "trans": [
+      "n. [病毒] 病毒；恶毒；毒害"
+    ],
+    "usphone": "[ˈvaɪrəs]",
+    "ukphone": "[ˈvaɪrəs]"
+  },
+  {
+    "name": "vote",
+    "trans": [
+      "n. 投票，选举；选票；得票数",
+      "vi. 选举，投票",
+      "vt. 提议，使投票；投票决定；公认"
+    ],
+    "usphone": "[voʊt]",
+    "ukphone": "[vəʊt]"
+  },
+  {
+    "name": "voting",
+    "trans": [
+      "n. 投票；选举",
+      "adj. 投票的",
+      "v. 投票（vote的ing形式）；选举"
+    ],
+    "usphone": "[ˈvoʊtɪŋ]",
+    "ukphone": "[ˈvəʊtɪŋ]"
+  },
+  {
+    "name": "veto",
+    "trans": [
+      "n. 否决权",
+      "vt. 否决；禁止",
+      "vi. 否决；禁止"
+    ],
+    "usphone": "[ˈviːtoʊ]",
+    "ukphone": "[ˈviːtəʊ]"
+  },
+  {
+    "name": "vocal",
+    "trans": [
+      "adj. 直言不讳的",
+      "adj. 歌唱的；声音的，有声的",
+      "n. 声乐作品；元音"
+    ],
+    "usphone": "[ˈvoʊkl]",
+    "ukphone": "[ˈvəʊk(ə)l]"
+  },
+  {
+    "name": "vocational",
+    "trans": [
+      "adj. 职业的，行业的"
+    ],
+    "usphone": "[voʊˈkeɪʃənl]",
+    "ukphone": "[vəʊˈkeɪʃən(ə)l]"
+  },
+  {
+    "name": "vision",
+    "trans": [
+      "n. 视力；美景；眼力；幻象；想象力；幻视（漫威漫画旗下超级英雄）",
+      "vt. 想象；显现；梦见"
+    ],
+    "usphone": "[ˈvɪʒn]",
+    "ukphone": "[ˈvɪʒn]"
+  },
+  {
+    "name": "visible",
+    "trans": [
+      "n. 可见物；进出口贸易中的有形项目",
+      "adj. 明显的；看得见的；现有的；可得到的"
+    ],
+    "usphone": "[ˈvɪzəbl]",
+    "ukphone": "[ˈvɪzəb(ə)l]"
+  },
+  {
+    "name": "visibility",
+    "trans": [
+      "n. 能见度，可见性；能见距离；明显性"
+    ],
+    "usphone": "[ˌvɪzəˈbɪləti]",
+    "ukphone": "[ˌvɪzəˈbɪləti]"
+  },
+  {
+    "name": "visual",
+    "trans": [
+      "adj. 视觉的，视力的；栩栩如生的"
+    ],
+    "usphone": "[ˈvɪʒuəl]",
+    "ukphone": "[ˈvɪʒuəl]"
+  },
+  {
+    "name": "visualize",
+    "trans": [
+      "vt. 形象，形象化；想像，设想",
+      "vi. 显现"
+    ],
+    "usphone": "[ˈvɪʒuəlaɪz]",
+    "ukphone": "[ˈvɪʒuəlaɪz]"
+  },
+  {
+    "name": "volunteer",
+    "trans": [
+      "n. 志愿者；志愿兵",
+      "adj. 志愿的",
+      "vt. 自愿",
+      "vi. 自愿"
+    ],
+    "usphone": "[ˌvɑːlənˈtɪr]",
+    "ukphone": "[ˌvɒlənˈtɪə(r)]"
+  },
+  {
+    "name": "voluntary",
+    "trans": [
+      "n. 志愿者；自愿行动",
+      "adj. 自愿的；志愿的；自发的；故意的"
+    ],
+    "usphone": "[ˈvɑːlənteri]",
+    "ukphone": "[ˈvɒləntri]"
+  },
+  {
+    "name": "verbal",
+    "trans": [
+      "n. 动词的非谓语形式",
+      "adj. 口头的；言语的；动词的；照字面的"
+    ],
+    "usphone": "[ˈvɜːrbl]",
+    "ukphone": "[ˈvɜːb(ə)l]"
+  },
+  {
+    "name": "verbalize",
+    "trans": [
+      "vt. 使…变成动词；用言语表达",
+      "vi. 累赘；唠叨；以言语表述"
+    ],
+    "usphone": "[ˈvɜːrbəlaɪz]",
+    "ukphone": "[ˈvɜːbəlaɪz]"
+  },
+  {
+    "name": "vanish",
+    "trans": [
+      "n. 弱化音",
+      "vi. 消失；突然不见；成为零",
+      "vt. 使不见，使消失"
+    ],
+    "usphone": "[ˈvænɪʃ]",
+    "ukphone": "[ˈvænɪʃ]"
+  },
+  {
+    "name": "vague",
+    "trans": [
+      "adj. 模糊的；含糊的；不明确的；暧昧的"
+    ],
+    "usphone": "[veɪɡ]",
+    "ukphone": "[veɪɡ]"
+  },
+  {
+    "name": "violate",
+    "trans": [
+      "vt. 违反；侵犯，妨碍；亵渎"
+    ],
+    "usphone": "[ˈvaɪəleɪt]",
+    "ukphone": "[ˈvaɪəleɪt]"
+  },
+  {
+    "name": "virtue",
+    "trans": [
+      "n. 美德；优点；贞操；功效"
+    ],
+    "usphone": "[ˈvɜːrtʃuː]",
+    "ukphone": "[ˈvɜːtʃuː]"
+  },
+  {
+    "name": "virtual",
+    "trans": [
+      "adj. [计] 虚拟的；实质上的，事实上的（但未在名义上或正式获承认）"
+    ],
+    "usphone": "[ˈvɜːrtʃuəl]",
+    "ukphone": "[ˈvɜːtʃuəl]"
+  },
+  {
+    "name": "virtually",
+    "trans": [
+      "adv. 事实上，几乎；实质上"
+    ],
+    "usphone": "[ˈvɜːrtʃuəli]",
+    "ukphone": "[ˈvɜːtʃuəli]"
+  },
+  {
+    "name": "virtuosity",
+    "trans": [
+      "n. 精湛技巧；对艺术品的爱好；艺术爱好者"
+    ],
+    "usphone": "[ˌvɜːrtʃuˈɑːsəti]",
+    "ukphone": "[ˌvɜːtʃuˈɒsəti]"
+  },
+  {
+    "name": "virgin",
+    "trans": [
+      "n. 处女",
+      "adj. 处女的；纯洁的；未经利用的，处于原始状态的"
+    ],
+    "usphone": "[ˈvɜːrdʒɪn]",
+    "ukphone": "[ˈvɜːdʒɪn]"
+  },
+  {
+    "name": "vital",
+    "trans": [
+      "adj. 至关重要的；生死攸关的；有活力的"
+    ],
+    "usphone": "[ˈvaɪtl]",
+    "ukphone": "[ˈvaɪt(ə)l]"
+  },
+  {
+    "name": "vivid",
+    "trans": [
+      "adj. 生动的；鲜明的；鲜艳的"
+    ],
+    "usphone": "[ˈvɪvɪd]",
+    "ukphone": "[ˈvɪvɪd]"
+  },
+  {
+    "name": "vigorous",
+    "trans": [
+      "adj. 有力的；精力充沛的"
+    ],
+    "usphone": "[ˈvɪɡərəs]",
+    "ukphone": "[ˈvɪɡərəs]"
+  },
+  {
+    "name": "vigorously",
+    "trans": [
+      "adv. 精神旺盛地，活泼地"
+    ],
+    "usphone": "[ˈvɪɡərəsli]",
+    "ukphone": "[ˈvɪɡərəsli]"
+  },
+  {
+    "name": "viable",
+    "trans": [
+      "adj. 可行的；能养活的；能生育的"
+    ],
+    "usphone": "[ˈvaɪəbl]",
+    "ukphone": "[ˈvaɪəb(ə)l]"
+  },
+  {
+    "name": "vulnerable",
+    "trans": [
+      "adj. 易受攻击的，易受…的攻击；易受伤害的；有弱点的"
+    ],
+    "usphone": "[ˈvʌlnərəbl]",
+    "ukphone": "[ˈvʌlnərəbl]"
+  },
+  {
+    "name": "valid",
+    "trans": [
+      "adj. 有效的；有根据的；合法的；正当的"
+    ],
+    "usphone": "[ˈvælɪd]",
+    "ukphone": "[ˈvælɪd]"
+  },
+  {
+    "name": "validity",
+    "trans": [
+      "n. [计] 有效性；正确；正确性"
+    ],
+    "usphone": "[vəˈlɪdəti]",
+    "ukphone": "[vəˈlɪdəti]"
+  },
+  {
+    "name": "vice",
+    "trans": [
+      "prep. 代替",
+      "n. 恶习；缺点；[机] 老虎钳；卖淫",
+      "adj. 副的；代替的",
+      "vt. 钳住"
+    ],
+    "usphone": "[vaɪs]",
+    "ukphone": "[vaɪs]"
+  },
+  {
+    "name": "vicious",
+    "trans": [
+      "adj. 恶毒的；恶意的；堕落的；有错误的；品性不端的；剧烈的"
+    ],
+    "usphone": "[ˈvɪʃəs]",
+    "ukphone": "[ˈvɪʃəs]"
+  },
+  {
+    "name": "voyage",
+    "trans": [
+      "n. 航行；航程；旅行记",
+      "vt. 飞过；渡过",
+      "vi. 航行；航海"
+    ],
+    "usphone": "[ˈvɔɪɪdʒ]",
+    "ukphone": "[ˈvɔɪɪdʒ]"
+  },
+  {
+    "name": "victim",
+    "trans": [
+      "n. 受害人；牺牲品；牺牲者"
+    ],
+    "usphone": "[ˈvɪktɪm]",
+    "ukphone": "[ˈvɪktɪm]"
+  },
+  {
+    "name": "violent",
+    "trans": [
+      "adj. 暴力的；猛烈的"
+    ],
+    "usphone": "[ˈvaɪələnt]",
+    "ukphone": "[ˈvaɪələnt]"
+  },
+  {
+    "name": "violently",
+    "trans": [
+      "adv. 猛烈地，激烈地；极端地"
+    ],
+    "usphone": "[ˈvaɪələntli]",
+    "ukphone": "[ˈvaɪələntli]"
+  },
+  {
+    "name": "violence",
+    "trans": [
+      "n. 暴力；侵犯；激烈；歪曲"
+    ],
+    "usphone": "[ˈvaɪələns]",
+    "ukphone": "[ˈvaɪələns]"
+  },
+  {
+    "name": "vehicle",
+    "trans": [
+      "n. [车辆] 车辆；工具；交通工具；运载工具；传播媒介；媒介物"
+    ],
+    "usphone": "[ˈviːəkl; ˈviːhɪkl]",
+    "ukphone": "[ˈviːəkl]"
+  },
+  {
+    "name": "volume",
+    "trans": [
+      "n. 量；体积；卷；音量；大量；册",
+      "adj. 大量的",
+      "vt. 把…收集成卷",
+      "vi. 成团卷起"
+    ],
+    "usphone": "[ˈvɑːljuːmˌˈvɑːljəm]",
+    "ukphone": "[ˈvɒljuːm]"
+  },
+  {
+    "name": "vegetable",
+    "trans": [
+      "n. 蔬菜；植物；植物人",
+      "adj. 蔬菜的；植物的"
+    ],
+    "usphone": "[ˈvedʒtəbl]",
+    "ukphone": "[ˈvedʒtəb(ə)l]"
+  },
+  {
+    "name": "vain",
+    "trans": [
+      "adj. 徒劳的；自负的；无结果的；无用的"
+    ],
+    "usphone": "[veɪn]",
+    "ukphone": "[veɪn]"
+  },
+  {
+    "name": "vanity",
+    "trans": [
+      "n. 虚荣心；空虚；浮华；无价值的东西"
+    ],
+    "usphone": "[ˈvænəti]",
+    "ukphone": "[ˈvænəti]"
+  },
+  {
+    "name": "vacuum",
+    "trans": [
+      "n. 真空；空间；真空吸尘器",
+      "adj. 真空的；利用真空的；产生真空的",
+      "vt. 用真空吸尘器清扫"
+    ],
+    "usphone": "[ˈvækjuːm]",
+    "ukphone": "[ˈvækjuːm]"
+  },
+  {
+    "name": "vessel",
+    "trans": [
+      "n. 船，舰；[组织] 脉管，血管；容器，器皿"
+    ],
+    "usphone": "[ˈvesl]",
+    "ukphone": "[ˈves(ə)l]"
+  },
+  {
+    "name": "volcano",
+    "trans": [
+      "n. 火山"
+    ],
+    "usphone": "[vɑːlˈkeɪnoʊ]",
+    "ukphone": "[vɒlˈkeɪnəʊ]"
+  },
+  {
+    "name": "venture",
+    "trans": [
+      "n. 企业；风险；冒险",
+      "vt. 敢于",
+      "vi. 冒险；投机"
+    ],
+    "usphone": "[ˈventʃər]",
+    "ukphone": "[ˈventʃə(r)]"
+  },
+  {
+    "name": "vacancy",
+    "trans": [
+      "n. 空缺；空位；空白；空虚"
+    ],
+    "usphone": "[ˈveɪkənsi]",
+    "ukphone": "[ˈveɪkənsi]"
+  },
+  {
+    "name": "vengeance",
+    "trans": [
+      "n. 复仇；报复；报仇"
+    ],
+    "usphone": "[ˈvendʒəns]",
+    "ukphone": "[ˈvendʒəns]"
+  },
+  {
+    "name": "vacant",
+    "trans": [
+      "adj. 空虚的；空的；空缺的；空闲的；茫然的"
+    ],
+    "usphone": "[ˈveɪkənt]",
+    "ukphone": "[ˈveɪkənt]"
+  },
+  {
+    "name": "validation",
+    "trans": [
+      "n. 确认；批准；生效"
+    ],
+    "usphone": "[ˌvælɪˈdeɪʃn]",
+    "ukphone": "[ˌvælɪˈdeɪʃn]"
+  },
+  {
+    "name": "valve",
+    "trans": [
+      "n. 阀；[解剖] 瓣膜；真空管；活门",
+      "vt. 装阀于；以活门调节"
+    ],
+    "usphone": "[vælv]",
+    "ukphone": "[vælv]"
+  },
+  {
+    "name": "vapor",
+    "trans": [
+      "n. 蒸汽；烟雾",
+      "vt. 使……蒸发；使……汽化",
+      "vi. 蒸发；吹牛；沮丧"
+    ],
+    "usphone": "[ˈveɪpər]",
+    "ukphone": "[ˈveɪpə(r)]"
+  },
+  {
+    "name": "vapour",
+    "trans": [
+      "n. 蒸气（等于vapor）；水蒸气"
+    ],
+    "usphone": "[ˈveɪpər]",
+    "ukphone": "[ˈveɪpə(r)]"
+  },
+  {
+    "name": "variance",
+    "trans": [
+      "n. 变异；变化；不一致；分歧；[数] 方差"
+    ],
+    "usphone": "[ˈveriənsˌˈværiəns]",
+    "ukphone": "[ˈveəriəns]"
+  },
+  {
+    "name": "vegetarian",
+    "trans": [
+      "n. 素食者；食草动物",
+      "adj. 素食的"
+    ],
+    "usphone": "[ˌvedʒəˈteriən]",
+    "ukphone": "[ˌvedʒəˈteəriən]"
+  },
+  {
+    "name": "vegetation",
+    "trans": [
+      "n. 植被；植物，草木；呆板单调的生活"
+    ],
+    "usphone": "[ˌvedʒəˈteɪʃn]",
+    "ukphone": "[ˌvedʒəˈteɪʃn]"
+  },
+  {
+    "name": "velocity",
+    "trans": [
+      "n. 【物】速度"
+    ],
+    "usphone": "[vəˈlɑːsəti]",
+    "ukphone": "[vəˈlɒsəti]"
+  },
+  {
+    "name": "velvet",
+    "trans": [
+      "adj. 天鹅绒的",
+      "n. 天鹅绒，丝绒；天鹅绒似的东西"
+    ],
+    "usphone": "[ˈvelvɪt]",
+    "ukphone": "[ˈvelvɪt]"
+  },
+  {
+    "name": "ventilation",
+    "trans": [
+      "n. 通风设备；空气流通"
+    ],
+    "usphone": "[ˌventɪˈleɪʃn]",
+    "ukphone": "[ˌventɪˈleɪʃn]"
+  },
+  {
+    "name": "versatile",
+    "trans": [
+      "adj. 多才多艺的；通用的，万能的；多面手的"
+    ],
+    "usphone": "[ˈvɜːrsətl]",
+    "ukphone": "[ˈvɜːsətaɪl]"
+  },
+  {
+    "name": "verse",
+    "trans": [
+      "n. 诗，诗篇；韵文；诗节",
+      "vi. 作诗",
+      "vt. 使熟练，使精通"
+    ],
+    "usphone": "[vɜːrs]",
+    "ukphone": "[vɜːs]"
+  },
+  {
+    "name": "versus",
+    "trans": [
+      "prep. 对；与...相对；对抗"
+    ],
+    "usphone": "[ˈvɜːrsəs]",
+    "ukphone": "[ˈvɜːsəs]"
+  },
+  {
+    "name": "veteran",
+    "trans": [
+      "n. 老兵；老手；富有经验的人；老运动员",
+      "adj. 经验丰富的；老兵的"
+    ],
+    "usphone": "[ˈvetərən]",
+    "ukphone": "[ˈvetərən]"
+  },
+  {
+    "name": "vibrate",
+    "trans": [
+      "vt. 使振动；使颤动",
+      "vi. 振动；颤动；摇摆；踌躇"
+    ],
+    "usphone": "[ˈvaɪbreɪt]",
+    "ukphone": "[vaɪˈbreɪt]"
+  },
+  {
+    "name": "vicinity",
+    "trans": [
+      "n. 邻近，附近；近处"
+    ],
+    "usphone": "[vəˈsɪnəti]",
+    "ukphone": "[vəˈsɪnəti]"
+  },
+  {
+    "name": "vinegar",
+    "trans": [
+      "n. 醋"
+    ],
+    "usphone": "[ˈvɪnɪɡər]",
+    "ukphone": "[ˈvɪnɪɡə(r)]"
+  },
+  {
+    "name": "visionary",
+    "trans": [
+      "n. 空想家；梦想者；有眼力的人",
+      "adj. 梦想的；幻影的"
+    ],
+    "usphone": "[ˈvɪʒəneri]",
+    "ukphone": "[ˈvɪʒənri]"
+  },
+  {
+    "name": "vocation",
+    "trans": [
+      "n. 职业；天职；天命；神召"
+    ],
+    "usphone": "[voʊˈkeɪʃn]",
+    "ukphone": "[vəʊˈkeɪʃn]"
+  },
+  {
+    "name": "void",
+    "trans": [
+      "n. 空虚；空间；空隙",
+      "adj. 空的；无效的；无人的",
+      "vt. 使无效；排放"
+    ],
+    "usphone": "[vɔɪd]",
+    "ukphone": "[vɔɪd]"
+  },
+  {
+    "name": "volatile",
+    "trans": [
+      "n. 挥发物；有翅的动物",
+      "adj. [化学] 挥发性的；不稳定的；爆炸性的；反复无常的"
+    ],
+    "usphone": "[ˈvɑːlətl]",
+    "ukphone": "[ˈvɒlətaɪl]"
+  },
+  {
+    "name": "volcanic",
+    "trans": [
+      "n. 火山岩",
+      "adj. 火山的；猛烈的；易突然发作的"
+    ],
+    "usphone": "[vɑːlˈkænɪk]",
+    "ukphone": "[vɒlˈkænɪk]"
+  },
+  {
+    "name": "voltage",
+    "trans": [
+      "n. [电] 电压"
+    ],
+    "usphone": "[ˈvoʊltɪdʒ]",
+    "ukphone": "[ˈvəʊltɪdʒ]"
+  },
+  {
+    "name": "vulgar",
+    "trans": [
+      "n. 平民，百姓",
+      "adj. 粗俗的；通俗的；本土的"
+    ],
+    "usphone": "[ˈvʌlɡər]",
+    "ukphone": "[ˈvʌlɡə(r)]"
+  },
+  {
+    "name": "vacation",
+    "trans": [
+      "n. 假期；（房屋）搬出",
+      "vi. 休假，度假"
+    ],
+    "usphone": "[veɪˈkeɪʃn; vəˈkeɪʃn]",
+    "ukphone": "[veɪˈkeɪʃn; vəˈkeɪʃn]"
+  },
+  {
+    "name": "valley",
+    "trans": [
+      "n. 山谷；流域；溪谷"
+    ],
+    "usphone": "[ˈvæli]",
+    "ukphone": "[ˈvæli]"
+  },
+  {
+    "name": "van",
+    "trans": [
+      "n. 先锋；厢式货车；增值网",
+      "vt. 用车搬运"
+    ],
+    "usphone": "[væn]",
+    "ukphone": "[væn]"
+  },
+  {
+    "name": "vase",
+    "trans": [
+      "n. 瓶；花瓶"
+    ],
+    "usphone": "[veɪs; veɪz]",
+    "ukphone": "[vɑːz]"
+  },
+  {
+    "name": "veil",
+    "trans": [
+      "n. 面纱；面罩；遮蔽物；托词",
+      "vt. 遮蔽；掩饰；以面纱遮掩；用帷幕分隔",
+      "vi. 蒙上面纱；出现轻度灰雾"
+    ],
+    "usphone": "[veɪl]",
+    "ukphone": "[veɪl]"
+  },
+  {
+    "name": "vein",
+    "trans": [
+      "n. 血管；叶脉；[地质] 岩脉；纹理；翅脉；性情",
+      "vt. 使成脉络；象脉络般分布于"
+    ],
+    "usphone": "[veɪn]",
+    "ukphone": "[veɪn]"
+  },
+  {
+    "name": "venue",
+    "trans": [
+      "n. 审判地；犯罪地点；发生地点；集合地点"
+    ],
+    "usphone": "[ˈvenjuː]",
+    "ukphone": "[ˈvenjuː]"
+  },
+  {
+    "name": "verb",
+    "trans": [
+      "n. 动词；动词词性；动词性短语或从句",
+      "adj. 动词的；有动词性质的；起动词作用的"
+    ],
+    "usphone": "[vɜːrb]",
+    "ukphone": "[vɜːb]"
+  },
+  {
+    "name": "very",
+    "trans": [
+      "adv. 非常，很；完全",
+      "adj. 恰好是，正是；甚至；十足的；特有的"
+    ],
+    "usphone": "[ˈveri]",
+    "ukphone": "[ˈveri]"
+  },
+  {
+    "name": "vest",
+    "trans": [
+      "n. 背心；汗衫",
+      "vt. 授予；使穿衣",
+      "vi. 归属；穿衣服"
+    ],
+    "usphone": "[vest]",
+    "ukphone": "[vest]"
+  },
+  {
+    "name": "via",
+    "trans": [
+      "prep. 渠道，通过；经由"
+    ],
+    "usphone": "[ˈvaɪə; ˈviːə]",
+    "ukphone": "[ˈvaɪə]"
+  },
+  {
+    "name": "video",
+    "trans": [
+      "n. [电子] 视频；录像，录像机；电视",
+      "adj. 视频的；录像的；电视的",
+      "v. 录制"
+    ],
+    "usphone": "[ˈvɪdioʊ]",
+    "ukphone": "[ˈvɪdiəʊ]"
+  },
+  {
+    "name": "village",
+    "trans": [
+      "n. 村庄；村民；（动物的）群落"
+    ],
+    "usphone": "[ˈvɪlɪdʒ]",
+    "ukphone": "[ˈvɪlɪdʒ]"
+  },
+  {
+    "name": "violet",
+    "trans": [
+      "n. 紫罗兰；堇菜；羞怯的人",
+      "adj. 紫色的；紫罗兰色的"
+    ],
+    "usphone": "[ˈvaɪələt]",
+    "ukphone": "[ˈvaɪələt]"
+  },
+  {
+    "name": "violin",
+    "trans": [
+      "n. 小提琴；小提琴手"
+    ],
+    "usphone": "[ˌvaɪəˈlɪn]",
+    "ukphone": "[ˌvaɪəˈlɪn]"
+  },
+  {
+    "name": "violinist",
+    "trans": [
+      "n. 小提琴演奏者，小提琴家"
+    ],
+    "usphone": "[ˌvaɪəˈlɪnɪst]",
+    "ukphone": "[ˌvaɪəˈlɪnɪst]"
+  },
+  {
+    "name": "visa",
+    "trans": [
+      "n. 签证",
+      "vt. 签发签证"
+    ],
+    "usphone": "[ˈviːzə]",
+    "ukphone": "[ˈviːzə]"
+  },
+  {
+    "name": "visit",
+    "trans": [
+      "n. 访问；参观；逗留",
+      "vt. 访问；参观；视察",
+      "vi. 访问；暂住；闲谈"
+    ],
+    "usphone": "[ˈvɪzɪt]",
+    "ukphone": "[ˈvɪzɪt]"
+  },
+  {
+    "name": "visitor",
+    "trans": [
+      "n. 访问者，参观者；视察者；候鸟"
+    ],
+    "usphone": "[ˈvɪzɪtər]",
+    "ukphone": "[ˈvɪzɪtə(r)]"
+  },
+  {
+    "name": "vitamin",
+    "trans": [
+      "n. [生化] 维生素；[生化] 维他命"
+    ],
+    "usphone": "[ˈvaɪtəmɪn]",
+    "ukphone": "[ˈvɪtəmɪn]"
+  },
+  {
+    "name": "voice",
+    "trans": [
+      "n. 声音；嗓音；发言权；愿望",
+      "vt. 表达；吐露"
+    ],
+    "usphone": "[vɔɪs]",
+    "ukphone": "[vɔɪs]"
+  },
+  {
+    "name": "volleyball",
+    "trans": [
+      "n. 排球"
+    ],
+    "usphone": "[ˈvɑːlibɔːl]",
+    "ukphone": "[ˈvɒlibɔːl]"
+  },
+  {
+    "name": "volt",
+    "trans": [
+      "n. 伏特（电压单位）；环骑；闪避"
+    ],
+    "usphone": "[voʊlt]",
+    "ukphone": "[vəʊlt]"
+  },
+  {
+    "name": "vowel",
+    "trans": [
+      "n. 元音；母音",
+      "adj. 元音的"
+    ],
+    "usphone": "[ˈvaʊəl]",
+    "ukphone": "[ˈvaʊəl]"
+  },
+  {
+    "name": "vaccination",
+    "trans": [
+      "n. 接种疫苗；种痘"
+    ],
+    "usphone": "[ˌvæksɪˈneɪʃn]",
+    "ukphone": "[ˌvæksɪˈneɪʃn]"
+  },
+  {
+    "name": "videophone",
+    "trans": [
+      "n. 电视电话"
+    ],
+    "usphone": "[ˈvɪdioʊfoʊn]",
+    "ukphone": "[ˈvɪdiəʊfəʊn]"
+  },
+  {
+    "name": "vaccine",
+    "trans": [
+      "n. 疫苗；牛痘苗",
+      "adj. 疫苗的；牛痘的"
+    ],
+    "usphone": "[vækˈsiːn]",
+    "ukphone": "[ˈvæksiːn]"
+  },
+  {
+    "name": "vaccinate",
+    "trans": [
+      "vt. 给…注射疫苗",
+      "vi. 接种疫苗",
+      "n. 被接种牛痘者"
+    ],
+    "usphone": "[ˈvæksɪneɪt]",
+    "ukphone": "[ˈvæksɪneɪt]"
+  },
+  {
+    "name": "Victorian",
+    "trans": [
+      "n. 维多利亚时代；维多利亚女王时代的人",
+      "adj. 维多利亚女王时代的；英国维多利亚女王时代的"
+    ],
+    "usphone": "[vɪkˈtɔːriən]",
+    "ukphone": "[vɪkˈtɔːriən]"
+  },
+  {
+    "name": "variant",
+    "trans": [
+      "n. 变体；转化",
+      "adj. 不同的；多样的"
+    ],
+    "usphone": "[ˈveriəntˌˈværiənt]",
+    "ukphone": "[ˈveəriənt]"
+  },
+  {
+    "name": "variously",
+    "trans": [
+      "adv. 不同地；多方面地；个别地；多彩地"
+    ],
+    "usphone": "[ˈveriəsliˌˈværiəsli]",
+    "ukphone": "[ˈveəriəsli]"
+  },
+  {
+    "name": "voluntarily",
+    "trans": [
+      "adv. 自动地；以自由意志"
+    ],
+    "usphone": "[ˌvɑːlənˈterəli]",
+    "ukphone": "[ˈvɒləntrəli]"
+  },
+  {
+    "name": "vegetables",
+    "trans": [
+      "n. [园艺] 蔬菜（vegetable的复数形式）；菜类"
+    ],
+    "usphone": "[ˈvedʒtəb(ə)lz]",
+    "ukphone": "[ˈvedʒtəb(ə)lz]"
+  },
+  {
+    "name": "visually",
+    "trans": [
+      "adv. 形象化地；外表上；看得见地"
+    ],
+    "usphone": "[ˈvɪʒuəli]",
+    "ukphone": "[ˈvɪʒuəli]"
+  },
+  {
+    "name": "vibrant",
+    "trans": [
+      "adj. 振动的；充满生气的；响亮的；战栗的"
+    ],
+    "usphone": "[ˈvaɪbrənt]",
+    "ukphone": "[ˈvaɪbrənt]"
+  },
+  {
+    "name": "viewpoint",
+    "trans": [
+      "n. 观点，看法；视角"
+    ],
+    "usphone": "[ˈvjuːpɔɪnt]",
+    "ukphone": "[ˈvjuːpɔɪnt]"
+  },
+  {
+    "name": "ventilate",
+    "trans": [
+      "vt. 使通风；给…装通风设备；宣布"
+    ],
+    "usphone": "[ˈventɪleɪt]",
+    "ukphone": "[ˈventɪleɪt]"
+  },
+  {
+    "name": "verge",
+    "trans": [
+      "n. 边缘",
+      "vi. 濒临，接近；处在边缘"
+    ],
+    "usphone": "[vɜːrdʒ]",
+    "ukphone": "[vɜːdʒ]"
+  },
+  {
+    "name": "visualise",
+    "trans": [
+      "vt. 使…可见；使…具体化（等于visualize）",
+      "vi. 想象；显现"
+    ],
+    "usphone": "[ˈvɪʒʊəˌlaɪz; -zjʊ-]",
+    "ukphone": "[ˈvɪʒʊəˌlaɪz; -zjʊ-]"
+  },
+  {
+    "name": "vigor",
+    "trans": [
+      "n. [生物] 活力，精力"
+    ],
+    "usphone": "[ˈvɪɡər]",
+    "ukphone": "[ˈvɪɡə(r)]"
+  },
+  {
+    "name": "vigour",
+    "trans": [
+      "n. 活力；气势"
+    ],
+    "usphone": "[ˈvɪɡər]",
+    "ukphone": "[ˈvɪɡə(r)]"
+  },
+  {
+    "name": "vomit",
+    "trans": [
+      "n. 呕吐；呕吐物；催吐剂",
+      "vi. 呕吐；吐出",
+      "vt. 吐出；使……呕吐"
+    ],
+    "usphone": "[ˈvɑːmɪt]",
+    "ukphone": "[ˈvɒmɪt]"
+  },
+  {
+    "name": "vow",
+    "trans": [
+      "n. 发誓；誓言；许愿",
+      "vi. 发誓；郑重宣告",
+      "vt. 发誓；郑重宣告"
+    ],
+    "usphone": "[vaʊ]",
+    "ukphone": "[vaʊ]"
+  },
+  {
+    "name": "vacate",
+    "trans": [
+      "vt. 空出，搬出；取消；使撤退",
+      "vi. 空出，腾出；辞职；休假"
+    ],
+    "usphone": "[ˈveɪkeɪt]",
+    "ukphone": "[vəˈkeɪt; veɪˈkeɪt]"
+  },
+  {
+    "name": "vent",
+    "trans": [
+      "n. （感情的）发泄；出口；通风孔",
+      "vt. 发泄感情；放出…；给…开孔",
+      "vi. 放出；（通过排泄等）减轻压力"
+    ],
+    "usphone": "[vent]",
+    "ukphone": "[vent]"
+  },
+  {
+    "name": "vigilant",
+    "trans": [
+      "adj. 警惕的；警醒的；注意的；警戒的"
+    ],
+    "usphone": "[ˈvɪdʒɪlənt]",
+    "ukphone": "[ˈvɪdʒɪlənt]"
+  },
+  {
+    "name": "vice versa",
+    "trans": [
+      "adv. 反之亦然；反过来也一样"
+    ],
+    "usphone": "[ˌvaɪs ˈvɜːrsə; ˌvaɪsi ˈvɜːrsə]",
+    "ukphone": "[ˌvaɪs ˈvɜːsə; ˌvaɪsi ˈvɜːsə]"
+  },
+  {
+    "name": "videotape",
+    "trans": [
+      "n. 录像带",
+      "vt. 将…录到录像带上"
+    ],
+    "usphone": "[ˈvɪdioʊteɪp]",
+    "ukphone": "[ˈvɪdiəʊteɪp]"
+  },
+  {
+    "name": "vet",
+    "trans": [
+      "n. 兽医",
+      "vt. 审查；诊疗",
+      "vi. 作兽医；诊疗"
+    ],
+    "usphone": "[vet]",
+    "ukphone": "[vet]"
+  },
+  {
+    "name": "validate",
+    "trans": [
+      "vt. 证实，验证；确认；使生效"
+    ],
+    "usphone": "[ˈvælɪdeɪt]",
+    "ukphone": "[ˈvælɪdeɪt]"
+  },
+  {
+    "name": "vendor",
+    "trans": [
+      "n. 卖主；小贩；供应商；[贸易] 自动售货机"
+    ],
+    "usphone": "[ˈvendər]",
+    "ukphone": "[ˈvendə(r)]"
+  },
+  {
+    "name": "verification",
+    "trans": [
+      "n. 确认，查证；核实"
+    ],
+    "usphone": "[ˌverɪfɪˈkeɪʃn]",
+    "ukphone": "[ˌverɪfɪˈkeɪʃn]"
+  },
+  {
+    "name": "vibration",
+    "trans": [
+      "n. 振动；犹豫；心灵感应"
+    ],
+    "usphone": "[vaɪˈbreɪʃn]",
+    "ukphone": "[vaɪˈbreɪʃn]"
+  },
+  {
+    "name": "victimize",
+    "trans": [
+      "vt. 使受害；使牺牲；欺骗"
+    ],
+    "usphone": "[ˈvɪktɪmaɪz]",
+    "ukphone": "[ˈvɪktɪmaɪz]"
+  },
+  {
+    "name": "victorious",
+    "trans": [
+      "adj. 胜利的；凯旋的"
+    ],
+    "usphone": "[vɪkˈtɔːriəs]",
+    "ukphone": "[vɪkˈtɔːriəs]"
+  },
+  {
+    "name": "villager",
+    "trans": [
+      "n. 乡村居民，村民"
+    ],
+    "usphone": "[ˈvɪlɪdʒər]",
+    "ukphone": "[ˈvɪlɪdʒə(r)]"
+  },
+  {
+    "name": "violation",
+    "trans": [
+      "n. 违反；妨碍，侵害；违背；强奸"
+    ],
+    "usphone": "[ˌvaɪəˈleɪʃn]",
+    "ukphone": "[ˌvaɪəˈleɪʃ(ə)n]"
+  },
+  {
+    "name": "virginity",
+    "trans": [
+      "n. 童贞；处女；纯洁"
+    ],
+    "usphone": "[vərˈdʒɪnəti]",
+    "ukphone": "[vəˈdʒɪnəti]"
+  },
+  {
+    "name": "virtuous",
+    "trans": [
+      "adj. 善良的；有道德的；贞洁的；正直的；有效力的"
+    ],
+    "usphone": "[ˈvɜːrtʃuəs]",
+    "ukphone": "[ˈvɜːtʃuəs]"
+  },
+  {
+    "name": "vitality",
+    "trans": [
+      "n. 活力，生气；生命力，生动性"
+    ],
+    "usphone": "[vaɪˈtæləti]",
+    "ukphone": "[vaɪˈtæləti]"
+  },
+  {
+    "name": "vogue",
+    "trans": [
+      "n. 时尚；流行，时髦",
+      "adj. 时髦的，流行的"
+    ],
+    "usphone": "[voʊɡ]",
+    "ukphone": "[vəʊɡ]"
+  },
+  {
+    "name": "volatility",
+    "trans": [
+      "n. [化学] 挥发性；易变；活泼"
+    ],
+    "usphone": "[ˌvɑːləˈtɪləti]",
+    "ukphone": "[ˌvɒləˈtɪləti]"
+  },
+  {
+    "name": "voluminous",
+    "trans": [
+      "adj. 大量的；多卷的，长篇的；著书多的"
+    ],
+    "usphone": "[vəˈluːmɪnəs]",
+    "ukphone": "[vəˈluːmɪnəs]"
+  },
+  {
+    "name": "voter",
+    "trans": [
+      "n. 选举人，投票人；有投票权者"
+    ],
+    "usphone": "[ˈvoʊtər]",
+    "ukphone": "[ˈvəʊtə(r)]"
+  },
+  {
+    "name": "voucher",
+    "trans": [
+      "n. 收据；证人；保证人；证明者；代金",
+      "vt. 证实...的可靠性"
+    ],
+    "usphone": "[ˈvaʊtʃər]",
+    "ukphone": "[ˈvaʊtʃə(r)]"
+  },
+  {
+    "name": "vulnerability",
+    "trans": [
+      "n. 易损性；弱点"
+    ],
+    "usphone": "[ˌvʌlnərəˈbɪləti]",
+    "ukphone": "[ˌvʌlnərəˈbɪləti]"
+  },
+  {
+    "name": "variability",
+    "trans": [
+      "n. 可变性，变化性；[生物][数] 变异性"
+    ],
+    "usphone": "[ˌveriəˈbɪlətiˌˌværiəˈbɪləti]",
+    "ukphone": "[ˌveəriəˈbɪləti]"
+  },
+  {
+    "name": "viewer",
+    "trans": [
+      "n. 观察者；观看者；观众；[仪] 指示器"
+    ],
+    "usphone": "[ˈvjuːər]",
+    "ukphone": "[ˈvjuːə(r)]"
+  },
+  {
+    "name": "vocalization",
+    "trans": [
+      "n. 发声，发音；发声法"
+    ],
+    "usphone": "[ˌvoʊkələˈzeɪʃn]",
+    "ukphone": "[ˌvəʊkəlaɪˈzeɪʃn]"
+  },
+  {
+    "name": "vertebrate",
+    "trans": [
+      "adj. 脊椎动物的；有脊椎的",
+      "n. 脊椎动物"
+    ],
+    "usphone": "[ˈvɜːrtɪbrət]",
+    "ukphone": "[ˈvɜːtɪbrət]"
+  },
+  {
+    "name": "venom",
+    "trans": [
+      "n. 毒液；恶意",
+      "vt. 使有毒；放毒"
+    ],
+    "usphone": "[ˈvenəm]",
+    "ukphone": "[ˈvenəm]"
+  },
+  {
+    "name": "varnish",
+    "trans": [
+      "n. 亮光漆，清漆；虚饰；光泽面",
+      "vt. 装饰，粉饰；在…上涂清漆；使…有光泽"
+    ],
+    "usphone": "[ˈvɑːrnɪʃ]",
+    "ukphone": "[ˈvɑːnɪʃ]"
+  },
+  {
+    "name": "venomous",
+    "trans": [
+      "adj. 有毒的；恶毒的；分泌毒液的；怨恨的"
+    ],
+    "usphone": "[ˈvenəməs]",
+    "ukphone": "[ˈvenəməs]"
+  },
+  {
+    "name": "villa",
+    "trans": [
+      "n. 别墅；郊区住宅"
+    ],
+    "usphone": "[ˈvɪlə]",
+    "ukphone": "[ˈvɪlə]"
+  },
+  {
+    "name": "vine",
+    "trans": [
+      "n. 藤；葡萄树；藤本植物；攀缘植物",
+      "vi. 长成藤蔓；爬藤"
+    ],
+    "usphone": "[vaɪn]",
+    "ukphone": "[vaɪn]"
+  },
+  {
+    "name": "vitalism",
+    "trans": [
+      "n. [生物] 活力论；[生物] 生机说"
+    ],
+    "usphone": "[ˈvaɪtlɪzəm]",
+    "ukphone": "[ˈvaɪtəˌlɪzəm]"
+  },
+  {
+    "name": "vale",
+    "trans": [
+      "n. 谷；溪谷",
+      "int. 再见；再会"
+    ],
+    "usphone": "[veɪl]",
+    "ukphone": "[veɪl]"
+  },
+  {
+    "name": "volunteerism",
+    "trans": [
+      "n. 志愿精神；志愿服务"
+    ],
+    "usphone": "[ˌvɑːlənˈtɪrɪzəm]",
+    "ukphone": "[ˌvɒlənˈtɪərɪzəm]"
+  },
+  {
+    "name": "viewership",
+    "trans": [
+      "n. （总称）电视观众"
+    ],
+    "usphone": "[ˈvjuːərʃɪp]",
+    "ukphone": "[ˈvjuːəʃɪp]"
+  },
+  {
+    "name": "viciously",
+    "trans": [
+      "adv. 邪恶地；敌意地"
+    ],
+    "usphone": "[ˈvɪʃəsli]",
+    "ukphone": "[ˈvɪʃəsli]"
+  },
+  {
+    "name": "vengeful",
+    "trans": [
+      "adj. 复仇的，报复的；复仇心重的"
+    ],
+    "usphone": "[ˈvendʒfl]",
+    "ukphone": "[ˈvendʒf(ə)l]"
+  },
+  {
+    "name": "ventilator",
+    "trans": [
+      "n. 通风设备；换气扇；【医】呼吸机"
+    ],
+    "usphone": "[ˈventɪleɪtər]",
+    "ukphone": "[ˈventɪleɪtə(r)]"
+  },
+  {
+    "name": "verity",
+    "trans": [
+      "n. 真实；真理；事实；真实性"
+    ],
+    "usphone": "[ˈverəti]",
+    "ukphone": "[ˈverəti]"
+  },
+  {
+    "name": "viscous",
+    "trans": [
+      "adj. 粘性的；黏的"
+    ],
+    "usphone": "[ˈvɪskəs]",
+    "ukphone": "[ˈvɪskəs]"
+  },
+  {
+    "name": "victimise",
+    "trans": [
+      "vt. 责怪或处罚某人不当（使之受冤或代人受过）; 不正当地使某人受损害或受苦难，欺负某人"
+    ],
+    "usphone": "[ˈvɪktɪmaɪz]",
+    "ukphone": "[ˈvɪktɪmaɪz]"
+  },
+  {
+    "name": "veer",
+    "trans": [
+      "n. 转向；方向的转变",
+      "vt. 使转向；使顺风；使船尾向上风",
+      "vi. 转向；改变观点；风向顺时针转；调转船尾向上风"
+    ],
+    "usphone": "[vɪr]",
+    "ukphone": "[vɪə(r)]"
+  },
+  {
+    "name": "versatility",
+    "trans": [
+      "n. 多功能性；多才多艺；用途广泛"
+    ],
+    "usphone": "[ˌvɜːrsəˈtɪləti]",
+    "ukphone": "[ˌvɜːsəˈtɪləti]"
+  },
+  {
+    "name": "vernacular",
+    "trans": [
+      "n. 本地话，方言；动植物的俗名",
+      "adj. 本国的；地方的；用本地语写成的"
+    ],
+    "usphone": "[vərˈnækjələr]",
+    "ukphone": "[vəˈnækjələ(r)]"
+  },
+  {
+    "name": "voracious",
+    "trans": [
+      "adj. 贪婪的；贪吃的；狼吞虎咽的"
+    ],
+    "usphone": "[vəˈreɪʃəs]",
+    "ukphone": "[vəˈreɪʃəs]"
+  },
+  {
+    "name": "viral",
+    "trans": [
+      "adj. 病毒性的"
+    ],
+    "usphone": "[ˈvaɪrəl]",
+    "ukphone": "[ˈvaɪrəl]"
+  },
+  {
+    "name": "vanguard",
+    "trans": [
+      "n. 先锋；前锋科学卫星"
+    ],
+    "usphone": "[ˈvænɡɑːrd]",
+    "ukphone": "[ˈvænɡɑːd]"
+  },
+  {
+    "name": "Vietnam",
+    "trans": [
+      "n. 越南（东南亚国家）"
+    ],
+    "usphone": "[ˌviːetˈnɑːm]",
+    "ukphone": "[ˌviːetˈnɑːm; ˌviːetˈnæm]"
+  },
+  {
+    "name": "vending machine",
+    "trans": [
+      "n. （出售香烟、饮料等的）投币式自动售货机"
+    ],
+    "usphone": "[ˈvendɪŋ məʃiːn]",
+    "ukphone": "[ˈvendɪŋ məʃiːn]"
+  },
+  {
+    "name": "venerable",
+    "trans": [
+      "adj. 庄严的，值得尊敬的；珍贵的"
+    ],
+    "usphone": "[ˈvenərəbl]",
+    "ukphone": "[ˈvenərəb(ə)l]"
+  },
+  {
+    "name": "veritable",
+    "trans": [
+      "adj. 真正的，名副其实的"
+    ],
+    "usphone": "[ˈverɪtəbl]",
+    "ukphone": "[ˈverɪtəb(ə)l]"
+  },
+  {
+    "name": "vitalize",
+    "trans": [
+      "vt. 赋予…生命；激发；使有生气"
+    ],
+    "usphone": "[ˈvaɪt(ə)lˌaɪz]",
+    "ukphone": "[ˈvaɪt(ə)laɪz]"
+  },
+  {
+    "name": "vindicate",
+    "trans": [
+      "vt. 维护；证明…无辜；证明…正确"
+    ],
+    "usphone": "[ˈvɪndɪkeɪt]",
+    "ukphone": "[ˈvɪndɪkeɪt]"
+  },
+  {
+    "name": "verbatim",
+    "trans": [
+      "adj. 逐字的",
+      "adv. 逐字地"
+    ],
+    "usphone": "[vɜːrˈbeɪtɪm]",
+    "ukphone": "[vɜːˈbeɪtɪm]"
+  },
+  {
+    "name": "vanquish",
+    "trans": [
+      "vt. 征服；击败；克服；抑制（感情等）"
+    ],
+    "usphone": "[ˈvæŋkwɪʃ]",
+    "ukphone": "[ˈvæŋkwɪʃ]"
+  },
+  {
+    "name": "vex",
+    "trans": [
+      "vt. 使烦恼；使困惑；使恼怒",
+      "vi. 烦恼"
+    ],
+    "usphone": "[veks]",
+    "ukphone": "[veks]"
+  },
+  {
+    "name": "vile",
+    "trans": [
+      "adj. 卑鄙的；邪恶的；低廉的；肮脏的"
+    ],
+    "usphone": "[vaɪl]",
+    "ukphone": "[vaɪl]"
+  },
+  {
+    "name": "vagrant",
+    "trans": [
+      "n. 游民；流浪者；无赖；漂泊者",
+      "adj. 流浪的；漂泊的；游荡的"
+    ],
+    "usphone": "[ˈveɪɡrənt]",
+    "ukphone": "[ˈveɪɡrənt]"
+  },
+  {
+    "name": "vie",
+    "trans": [
+      "vi. 争；竞争",
+      "vt. 使针锋相对；提出...来竞争；以...作较量"
+    ],
+    "usphone": "[vaɪ]",
+    "ukphone": "[vaɪ]"
+  },
+  {
+    "name": "vista",
+    "trans": [
+      "n. 远景，狭长的街景；展望；回顾"
+    ],
+    "usphone": "[ˈvɪstə]",
+    "ukphone": "[ˈvɪstə]"
+  },
+  {
+    "name": "vestige",
+    "trans": [
+      "n. 遗迹；残余；退化的器官"
+    ],
+    "usphone": "[ˈvestɪdʒ]",
+    "ukphone": "[ˈvestɪdʒ]"
+  },
+  {
+    "name": "virulent",
+    "trans": [
+      "adj. 剧毒的；恶性的；有恶意的"
+    ],
+    "usphone": "[ˈvɪrələntˌˈvɪrjələnt]",
+    "ukphone": "[ˈvɪrələnt]"
+  },
+  {
+    "name": "vault",
+    "trans": [
+      "n. 拱顶；撑竿跳；地下室",
+      "vi. 跳跃；成穹状弯曲",
+      "vt. 做成圆拱形；撑竿跳过"
+    ],
+    "usphone": "[vɔːlt]",
+    "ukphone": "[vɔːlt]"
+  },
+  {
+    "name": "valet",
+    "trans": [
+      "n. 贴身男仆；用车的人；伺候客人停车",
+      "vt. 为...管理衣物；替...洗熨衣服",
+      "vi. 清洗汽车；服侍"
+    ],
+    "usphone": "[ˈvæleɪˌˈvælɪtˌvæˈleɪ]",
+    "ukphone": "[ˈvæleɪ; ˈvælɪt]"
+  },
+  {
+    "name": "venerate",
+    "trans": [
+      "vt. 崇敬，尊敬"
+    ],
+    "usphone": "[ˈvenəreɪt]",
+    "ukphone": "[ˈvenəreɪt]"
+  },
+  {
+    "name": "vicarious",
+    "trans": [
+      "adj. 替代的；代理的；发同感的"
+    ],
+    "usphone": "[vaɪˈkeriəs]",
+    "ukphone": "[vɪˈkeəriəs]"
+  },
+  {
+    "name": "vagabond",
+    "trans": [
+      "n. 流浪者；浪子；流氓；懒汉",
+      "adj. 流浪的；流浪者的；浪荡的；漂泊的",
+      "vi. 到处流浪"
+    ],
+    "usphone": "[ˈvæɡəbɑːnd]",
+    "ukphone": "[ˈvæɡəbɒnd]"
+  },
+  {
+    "name": "valor",
+    "trans": [
+      "n. 英勇；勇猛（等于valour）"
+    ],
+    "usphone": "[ˈvælər]",
+    "ukphone": "[ˈvælə(r)]"
+  },
+  {
+    "name": "valour",
+    "trans": [
+      "n. 勇猛"
+    ],
+    "usphone": "[ˈvælər]",
+    "ukphone": "[ˈvælə(r)]"
+  },
+  {
+    "name": "vandal",
+    "trans": [
+      "n. 文化艺术的破坏者；蓄意破坏者",
+      "adj. 破坏文化艺术的"
+    ],
+    "usphone": "[ˈvændl]",
+    "ukphone": "[ˈvændl]"
+  },
+  {
+    "name": "vandalism",
+    "trans": [
+      "n. 汪达尔人作风；故意毁坏文物的行为；破坏他人财产的行为"
+    ],
+    "usphone": "[ˈvændəlɪzəm]",
+    "ukphone": "[ˈvændəlɪzəm]"
+  },
+  {
+    "name": "vanilla",
+    "trans": [
+      "n. 香子兰，香草",
+      "adj. 香草味的"
+    ],
+    "usphone": "[vəˈnɪlə]",
+    "ukphone": "[vəˈnɪlə]"
+  },
+  {
+    "name": "vantage",
+    "trans": [
+      "n. 优势；有利情况"
+    ],
+    "usphone": "[ˈvæntɪdʒ]",
+    "ukphone": "[ˈvɑːntɪdʒ]"
+  },
+  {
+    "name": "varicose",
+    "trans": [
+      "adj. 静脉曲张的；曲张的，肿胀的"
+    ],
+    "usphone": "[ˈværɪˌkos]",
+    "ukphone": "[ˈværɪkəʊs; -kəs; -z]"
+  },
+  {
+    "name": "vat",
+    "trans": [
+      "abbr. 增值税（Value Added Tax）"
+    ],
+    "usphone": "[væt]",
+    "ukphone": "[væt]"
+  },
+  {
+    "name": "veal",
+    "trans": [
+      "n. 小牛（等于vealer）；小牛肉"
+    ],
+    "usphone": "[viːl]",
+    "ukphone": "[viːl]"
+  },
+  {
+    "name": "vehement",
+    "trans": [
+      "adj. 激烈的，猛烈的；热烈的"
+    ],
+    "usphone": "[ˈviːəmənt]",
+    "ukphone": "[ˈviːəmənt]"
+  },
+  {
+    "name": "venereal",
+    "trans": [
+      "adj. 性病的；性交的；由性交传染的"
+    ],
+    "usphone": "[vəˈnɪriəl]",
+    "ukphone": "[vəˈnɪəriəl]"
+  },
+  {
+    "name": "venison",
+    "trans": [
+      "n. 鹿肉；野味"
+    ],
+    "usphone": "[ˈvenɪsnˌˈvenɪzn]",
+    "ukphone": "[ˈvenɪsn; ˈvenɪzn]"
+  },
+  {
+    "name": "ventral",
+    "trans": [
+      "n. 腹鳍",
+      "adj. 腹侧的；[解剖] 腹部的"
+    ],
+    "usphone": "[ˈventrəl]",
+    "ukphone": "[ˈventrəl]"
+  },
+  {
+    "name": "ventricle",
+    "trans": [
+      "n. 室；心室；脑室"
+    ],
+    "usphone": "[ˈventrɪkl]",
+    "ukphone": "[ˈventrɪkl]"
+  },
+  {
+    "name": "ventricular",
+    "trans": [
+      "adj. 心室的；脑室的；膨胀的；腹部的"
+    ],
+    "usphone": "[venˈtrɪkjələr]",
+    "ukphone": "[venˈtrɪkjələ(r)]"
+  },
+  {
+    "name": "verdure",
+    "trans": [
+      "n. 碧绿"
+    ],
+    "usphone": "[ˈvɜːrdʒər]",
+    "ukphone": "[ˈvɜːdʒə(r)]"
+  },
+  {
+    "name": "vermin",
+    "trans": [
+      "n. 害虫；寄生虫；歹徒"
+    ],
+    "usphone": "[ˈvɜːrmɪn]",
+    "ukphone": "[ˈvɜːmɪn]"
+  },
+  {
+    "name": "vernal",
+    "trans": [
+      "adj. 春天的；和煦的；青春的"
+    ],
+    "usphone": "[ˈvɜːrnl]",
+    "ukphone": "[ˈvɜːn(ə)l]"
+  },
+  {
+    "name": "vertex",
+    "trans": [
+      "n. 顶点；[昆] 头顶；[天] 天顶"
+    ],
+    "usphone": "[ˈvɜːrteks]",
+    "ukphone": "[ˈvɜːteks]"
+  },
+  {
+    "name": "verve",
+    "trans": [
+      "n. 热情；神韵；活力；气魄"
+    ],
+    "usphone": "[vɜːrv]",
+    "ukphone": "[vɜːv]"
+  },
+  {
+    "name": "vial",
+    "trans": [
+      "n. 小瓶；药水瓶",
+      "vt. 装入小瓶"
+    ],
+    "usphone": "[ˈvaɪəl]",
+    "ukphone": "[ˈvaɪəl]"
+  },
+  {
+    "name": "vicarage",
+    "trans": [
+      "n. 教区牧师的住宅"
+    ],
+    "usphone": "[ˈvɪkərɪdʒ]",
+    "ukphone": "[ˈvɪkərɪdʒ]"
+  },
+  {
+    "name": "vigil",
+    "trans": [
+      "n. 守夜；监视；不眠；警戒"
+    ],
+    "usphone": "[ˈvɪdʒɪl]",
+    "ukphone": "[ˈvɪdʒɪl]"
+  },
+  {
+    "name": "vignette",
+    "trans": [
+      "n. 装饰图案；小插图",
+      "n. 梗概，简介，花絮",
+      "vt. 把……印放为虚光照，晕映"
+    ],
+    "usphone": "[vɪnˈjet]",
+    "ukphone": "[vɪnˈjet]"
+  },
+  {
+    "name": "villainous",
+    "trans": [
+      "adj. 罪恶的；恶棍的；恶毒的；坏透的"
+    ],
+    "usphone": "[ˈvɪlənəs]",
+    "ukphone": "[ˈvɪlənəs]"
+  },
+  {
+    "name": "vindictive",
+    "trans": [
+      "adj. 怀恨的；有报仇心的；惩罚的"
+    ],
+    "usphone": "[vɪnˈdɪktɪv]",
+    "ukphone": "[vɪnˈdɪktɪv]"
+  },
+  {
+    "name": "viola",
+    "trans": [
+      "n. 中提琴，中提琴演奏者"
+    ],
+    "usphone": "[viˈoʊlə]",
+    "ukphone": "[viˈəʊlə]"
+  },
+  {
+    "name": "virile",
+    "trans": [
+      "adj. 男性的；有男子气概的；刚健的"
+    ],
+    "usphone": "[ˈvɪrəl]",
+    "ukphone": "[ˈvɪraɪl]"
+  },
+  {
+    "name": "visage",
+    "trans": [
+      "n. 面貌，容貌；外表"
+    ],
+    "usphone": "[ˈvɪzɪdʒ]",
+    "ukphone": "[ˈvɪzɪdʒ]"
+  },
+  {
+    "name": "viscera",
+    "trans": [
+      "n. 内脏；内容（viscus的复数）"
+    ],
+    "usphone": "[ˈvɪsərə]",
+    "ukphone": "[ˈvɪsərə]"
+  },
+  {
+    "name": "viscount",
+    "trans": [
+      "n. （英国的）子爵"
+    ],
+    "usphone": "[ˈvaɪkaʊnt]",
+    "ukphone": "[ˈvaɪkaʊnt]"
+  },
+  {
+    "name": "visitation",
+    "trans": [
+      "n. 访问；探视；视察；正式访问"
+    ],
+    "usphone": "[ˌvɪzɪˈteɪʃn]",
+    "ukphone": "[ˌvɪzɪˈteɪʃn]"
+  },
+  {
+    "name": "vivacity",
+    "trans": [
+      "n. 活泼；快活；精神充沛"
+    ],
+    "usphone": "[vɪˈvæsətiˌvaɪˈvæsəti]",
+    "ukphone": "[vɪˈvæsəti]"
+  },
+  {
+    "name": "vocally",
+    "trans": [
+      "adv. 用声音；口头地"
+    ],
+    "usphone": "[ˈvoʊkəli]",
+    "ukphone": "[ˈvəʊkəli]"
+  },
+  {
+    "name": "vocative",
+    "trans": [
+      "n. 呼格",
+      "adj. 呼格的；称呼的"
+    ],
+    "usphone": "[ˈvɑːkətɪv]",
+    "ukphone": "[ˈvɒkətɪv]"
+  },
+  {
+    "name": "vodka",
+    "trans": [
+      "n. 伏特加酒"
+    ],
+    "usphone": "[ˈvɑːdkə]",
+    "ukphone": "[ˈvɒdkə]"
+  },
+  {
+    "name": "volitional",
+    "trans": [
+      "adj. 意志的；凭意志的"
+    ],
+    "usphone": "[voˈlɪʃənl]",
+    "ukphone": "[vəu'liʃənəl]"
+  },
+  {
+    "name": "voluble",
+    "trans": [
+      "adj. 健谈的；缠绕的；易旋转的"
+    ],
+    "usphone": "[ˈvɑːljəbl]",
+    "ukphone": "[ˈvɒljəbl]"
+  },
+  {
+    "name": "vortex",
+    "trans": [
+      "n. [航][流] 涡流；漩涡；（动乱，争论等的）中心；旋风"
+    ],
+    "usphone": "[ˈvɔːrteks]",
+    "ukphone": "[ˈvɔːteks]"
+  },
+  {
+    "name": "vulgarity",
+    "trans": [
+      "n. 粗俗；粗俗语；粗野的动作"
+    ],
+    "usphone": "[vʌlˈɡærəti]",
+    "ukphone": "[vʌlˈɡærəti]"
+  },
+  {
+    "name": "vulture",
+    "trans": [
+      "n. 秃鹰，秃鹫；贪婪的人"
+    ],
+    "usphone": "[ˈvʌltʃər]",
+    "ukphone": "[ˈvʌltʃə(r)]"
+  },
+  {
+    "name": "vaporize",
+    "trans": [
+      "vt. 使…蒸发",
+      "vi. 蒸发"
+    ],
+    "usphone": "[ˈveɪpəraɪz]",
+    "ukphone": "[ˈveɪpəraɪz]"
+  },
+  {
+    "name": "vice president",
+    "trans": [
+      "un. 副董事长"
+    ],
+    "usphone": "[ˌvaɪs ˈprezɪdənt]",
+    "ukphone": "[ˌvaɪs ˈprezɪdənt]"
+  },
+  {
+    "name": "vixen",
+    "trans": [
+      "n. 雌狐；泼妇，刁妇；唠叨的女人；坏心眼的女人"
+    ],
+    "usphone": "[ˈvɪksn]",
+    "ukphone": "[ˈvɪksn]"
+  },
+  {
+    "name": "vaguely",
+    "trans": [
+      "adv. 含糊地；暧昧地；茫然地"
+    ],
+    "usphone": "[ˈveɪɡli]",
+    "ukphone": "[ˈveɪɡli]"
+  },
+  {
+    "name": "vaunted",
+    "trans": [
+      "adj. 自夸的；大肆吹嘘的",
+      "v. 夸耀；吹牛（vaunt的过去分词）"
+    ],
+    "usphone": "[ˈvɔːntɪd]",
+    "ukphone": "[ˈvɔːntɪd]"
+  },
+  {
+    "name": "Venus",
+    "trans": [
+      "n. [天] 金星；维纳斯（爱与美的女神）"
+    ],
+    "usphone": "[ˈviːnəs]",
+    "ukphone": "[ˈviːnəs]"
+  },
+  {
+    "name": "vector",
+    "trans": [
+      "n. 矢量；带菌者；航线",
+      "vt. 用无线电导航"
+    ],
+    "usphone": "[ˈvektər]",
+    "ukphone": "[ˈvektə(r)]"
+  },
+  {
+    "name": "vascular",
+    "trans": [
+      "adj. [生物] 血管的"
+    ],
+    "usphone": "[ˈvæskjələr]",
+    "ukphone": "[ˈvæskjələ(r)]"
+  },
+  {
+    "name": "venous",
+    "trans": [
+      "adj. 静脉的；有脉纹的"
+    ],
+    "usphone": "[ˈviːnəs]",
+    "ukphone": "[ˈviːnəs]"
+  },
+  {
+    "name": "victor",
+    "trans": [
+      "n. 胜利者"
+    ],
+    "usphone": "[ˈvɪktər]",
+    "ukphone": "[ˈvɪktə(r)]"
+  },
+  {
+    "name": "vertices",
+    "trans": [
+      "n. 至高点；天顶；头顶（vertex的复数）"
+    ],
+    "usphone": "[ˈvɜːrtəˌsiz]",
+    "ukphone": "[ˈvɜːtɪsiːz]"
+  },
+  {
+    "name": "vs.",
+    "trans": [
+      "na. V字形；V形物；(罗马数码)五；五年徒刑"
+    ],
+    "usphone": "[ˈvɜːrsəs]",
+    "ukphone": "[ˈvɜːsəs]"
+  },
+  {
+    "name": "vaunt",
+    "trans": [
+      "n. 自吹自擂",
+      "vt. 自夸；吹嘘",
+      "vi. 自夸；吹嘘"
+    ],
+    "usphone": "[vɔ:nt]",
+    "ukphone": "[vɔːnt]"
+  },
+  {
+    "name": "vigilance",
+    "trans": [
+      "n. 警戒，警觉；警醒症"
+    ],
+    "usphone": "[ˈvɪdʒɪləns]",
+    "ukphone": "[ˈvɪdʒɪləns]"
+  },
+  {
+    "name": "vicissitude",
+    "trans": [
+      "n. 变迁；盛衰；变化无常；变迁兴衰"
+    ],
+    "usphone": "[vɪˈsɪsɪtuːd]",
+    "ukphone": "[vɪˈsɪsɪtjuːd]"
+  },
+  {
+    "name": "vitiate",
+    "trans": [
+      "vt. 损害，弄坏；使无效；污染"
+    ],
+    "usphone": "[ˈvɪʃieɪt]",
+    "ukphone": "[ˈvɪʃieɪt]"
+  },
+  {
+    "name": "vacillate",
+    "trans": [
+      "vi. 犹豫；踌躇；摇摆"
+    ],
+    "usphone": "[ˈvæsəleɪt]",
+    "ukphone": "[ˈvæsəleɪt]"
+  },
+  {
+    "name": "vagary",
+    "trans": [
+      "n. 奇想；奇特行为"
+    ],
+    "usphone": "[ˈveɪɡəri; vəˈɡeri; ˈveɪˈɡæri]",
+    "ukphone": "[ˈveɪɡərɪ]"
+  },
+  {
+    "name": "vagina",
+    "trans": [
+      "n. [解剖] 阴道；叶鞘；鞘"
+    ],
+    "usphone": "[vəˈdʒaɪnə]",
+    "ukphone": "[vəˈdʒaɪnə]"
+  },
+  {
+    "name": "vaginitis",
+    "trans": [
+      "n. [妇产] 阴道炎；[外科] 鞘炎"
+    ],
+    "usphone": "[ˌvædʒəˈnaɪtɪs]",
+    "ukphone": "[ˌvædʒɪˈnaɪtɪs]"
+  },
+  {
+    "name": "valence",
+    "trans": [
+      "n. [化学] 价；[化学] 原子价；[化学] 化合价；效价"
+    ],
+    "usphone": "[ˈveɪləns]",
+    "ukphone": "[ˈvæləns; ˈveɪləns]"
+  },
+  {
+    "name": "valiant",
+    "trans": [
+      "n. 勇士；勇敢的人",
+      "adj. 英勇的，勇敢的"
+    ],
+    "usphone": "[ˈvæliənt]",
+    "ukphone": "[ˈvæliənt]"
+  },
+  {
+    "name": "valvular",
+    "trans": [
+      "adj. 瓣的；瓣形的；活门的"
+    ],
+    "usphone": "[ˈvælvjələr]",
+    "ukphone": "[ˈvælvjʊlə(r)]"
+  },
+  {
+    "name": "valvulitis",
+    "trans": [
+      "n. 瓣炎，心瓣炎"
+    ],
+    "usphone": "[ˌvælvjʊˈlaɪtɪs]",
+    "ukphone": "[ˌvælvjʊˈlaɪtɪs]"
+  },
+  {
+    "name": "vaporization",
+    "trans": [
+      "n. 蒸发；喷雾器；蒸馏器"
+    ],
+    "usphone": "[ˌveɪpərəˈzeɪʃn]",
+    "ukphone": "[ˌveɪpəraɪˈzeɪʃn]"
+  },
+  {
+    "name": "variola",
+    "trans": [
+      "n. 天花，痘症; 痘疮"
+    ],
+    "usphone": "[vəˈraɪələ]",
+    "ukphone": "[vəˈraɪələ]"
+  },
+  {
+    "name": "varix",
+    "trans": [
+      "n. 静脉曲张"
+    ],
+    "usphone": "[ˈverɪks]",
+    "ukphone": "[ˈveərɪks]"
+  },
+  {
+    "name": "Vaseline",
+    "trans": [
+      "n. 凡士林，[油气] 矿脂"
+    ],
+    "usphone": "[ˈvæsəliːn]",
+    "ukphone": "[ˈvæsəliːn]"
+  },
+  {
+    "name": "vasoactive",
+    "trans": [
+      "adj. 血管活性的，（尤指在血管的舒张或收缩方面）作用于血管的，影响血管的"
+    ],
+    "usphone": "[ˌveɪzoʊˈæktɪv; ˌvæsoʊˈæktɪv]",
+    "ukphone": "[ˌveɪzəʊˈæktɪv]"
+  },
+  {
+    "name": "vasospasm",
+    "trans": [
+      "n. 血管痉挛"
+    ],
+    "usphone": "[ˈvæsouˌspæzəm; ˈveɪzoʊˌspæzəm]",
+    "ukphone": "[ˈveɪzəʊˌspæzəm]"
+  },
+  {
+    "name": "vegan",
+    "trans": [
+      "n. （英）严格的素食主义者",
+      "adj. 严守素食主义的"
+    ],
+    "usphone": "[ˈviːɡən]",
+    "ukphone": "[ˈviːɡən]"
+  },
+  {
+    "name": "vegetative",
+    "trans": [
+      "adj. 植物的；植物人状态的，无所作为的；促使植物生长的；有生长力的"
+    ],
+    "usphone": "[ˈvedʒɪteɪtɪv]",
+    "ukphone": "[ˈvedʒɪtətɪv]"
+  },
+  {
+    "name": "venenous",
+    "trans": [
+      "a. 有毒的",
+      "[医] 有毒的, 毒性的"
+    ],
+    "usphone": "[venɪnəs]",
+    "ukphone": "[ˈvenɪnəs]"
+  },
+  {
+    "name": "veranda",
+    "trans": [
+      "n. 走廊，游廊；阳台"
+    ],
+    "usphone": "[vəˈrændə]",
+    "ukphone": "[vəˈrændə]"
+  },
+  {
+    "name": "verbose",
+    "trans": [
+      "adj. 冗长的；啰嗦的"
+    ],
+    "usphone": "[vɜːrˈboʊs]",
+    "ukphone": "[vɜːˈbəʊs]"
+  },
+  {
+    "name": "Vermont",
+    "trans": [
+      "n. 佛蒙特州（美国州名，略作VT）"
+    ],
+    "usphone": "[vərˈmɑːnt]",
+    "ukphone": "[vəˈmɒnt]"
+  },
+  {
+    "name": "vertebra",
+    "trans": [
+      "n. [解剖] 椎骨；[解剖] 脊椎"
+    ],
+    "usphone": "[ˈvɜːrtɪbrə]",
+    "ukphone": "[ˈvɜːtɪbrə]"
+  },
+  {
+    "name": "vesicle",
+    "trans": [
+      "n. 泡，囊；[医] 水疱"
+    ],
+    "usphone": "[ˈvesɪkl]",
+    "ukphone": "[ˈvesɪkl]"
+  },
+  {
+    "name": "veterinarian",
+    "trans": [
+      "n. [兽医] 兽医"
+    ],
+    "usphone": "[ˌvetərɪˈneriən]",
+    "ukphone": "[ˌvetərɪˈneəriən]"
+  },
+  {
+    "name": "veterinary",
+    "trans": [
+      "n. 兽医（等于veterinarian）",
+      "adj. 兽医的"
+    ],
+    "usphone": "[ˈvetərəneri]",
+    "ukphone": "[ˈvetrənəri]"
+  },
+  {
+    "name": "vexation",
+    "trans": [
+      "n. 苦恼；恼怒；令人烦恼的事"
+    ],
+    "usphone": "[vekˈseɪʃn]",
+    "ukphone": "[vekˈseɪʃn]"
+  },
+  {
+    "name": "vibrio",
+    "trans": [
+      "n. [微] 弧菌（一种S形霍乱菌）"
+    ],
+    "usphone": "[ˈvɪbrɪˌo]",
+    "ukphone": "[ˈvɪbrɪəʊ; ˈvaɪ-]"
+  },
+  {
+    "name": "villain",
+    "trans": [
+      "n. 坏人，恶棍；戏剧、小说中的反派角色；顽童；罪犯"
+    ],
+    "usphone": "[ˈvɪlən]",
+    "ukphone": "[ˈvɪlən]"
+  },
+  {
+    "name": "villus",
+    "trans": [
+      "n. [脊椎] 绒毛；长茸毛"
+    ],
+    "usphone": "[ˈvɪləs]",
+    "ukphone": "[ˈvɪləs]"
+  },
+  {
+    "name": "virology",
+    "trans": [
+      "n. [病毒] 病毒学，滤过性微生物学"
+    ],
+    "usphone": "[vaɪˈrɑːlədʒi]",
+    "ukphone": "[vaɪˈrɒlədʒi]"
+  },
+  {
+    "name": "virulence",
+    "trans": [
+      "n. 毒力；毒性；恶意（等于virulency）"
+    ],
+    "usphone": "[ˈvɪrələnsˌˈvɪrjələns]",
+    "ukphone": "[ˈvɪrələns]"
+  },
+  {
+    "name": "vivacious",
+    "trans": [
+      "adj. 活泼的；快活的；有生气的"
+    ],
+    "usphone": "[vɪˈveɪʃəs; vaɪˈveɪʃəs]",
+    "ukphone": "[vɪˈveɪʃəs]"
+  },
+  {
+    "name": "vivisect",
+    "trans": [
+      "vt. 活生生解剖"
+    ],
+    "usphone": "[ˌvɪvəˈsekt]",
+    "ukphone": "[ˈvɪvɪsekt; ˌvɪvɪˈsekt]"
+  },
+  {
+    "name": "vociferous",
+    "trans": [
+      "adj. 大声叫的；喊叫的，喧嚷的"
+    ],
+    "usphone": "[voʊˈsɪfərəs]",
+    "ukphone": "[vəˈsɪfərəs]"
+  },
+  {
+    "name": "valueless",
+    "trans": [
+      "adj. 无价值的；不值钱的；微不足道的"
+    ],
+    "usphone": "[ˈvæljuːləs]",
+    "ukphone": "[ˈvæljuːləs]"
+  },
+  {
+    "name": "vacuous",
+    "trans": [
+      "adj. 空的；空虚的；空洞的；无意义的"
+    ],
+    "usphone": "[ˈvækjuəs]",
+    "ukphone": "[ˈvækjuəs]"
+  },
+  {
+    "name": "valedictory",
+    "trans": [
+      "n. 告别辞",
+      "adj. 告别的"
+    ],
+    "usphone": "[ˌvælɪˈdɪktəri]",
+    "ukphone": "[ˌvælɪˈdɪktəri]"
+  },
+  {
+    "name": "vampire",
+    "trans": [
+      "n. 吸血鬼；[脊椎] 吸血蝙蝠"
+    ],
+    "usphone": "[ˈvæmpaɪər]",
+    "ukphone": "[ˈvæmpaɪə(r)]"
+  },
+  {
+    "name": "vapid",
+    "trans": [
+      "adj. 无趣味的；无生气的；索然乏味的"
+    ],
+    "usphone": "[ˈvæpɪd]",
+    "ukphone": "[ˈvæpɪd]"
+  },
+  {
+    "name": "variegated",
+    "trans": [
+      "adj. 杂色的；斑驳的；富于变化的",
+      "v. 成为杂色（variegate的过去式）"
+    ],
+    "usphone": "[ˈverɪɡeɪtɪd]",
+    "ukphone": "[ˈveəriəɡeɪtɪd]"
+  },
+  {
+    "name": "venal",
+    "trans": [
+      "adj. 贪污的；用金钱买得的；贿赂的；贪赃枉法的"
+    ],
+    "usphone": "[ˈviːn(ə)l]",
+    "ukphone": "[ˈviːn(ə)l]"
+  },
+  {
+    "name": "venial",
+    "trans": [
+      "adj. 可原谅的；（罪过）轻微的；可宽恕的"
+    ],
+    "usphone": "[ˈviːniəl]",
+    "ukphone": "[ˈviːniəl]"
+  },
+  {
+    "name": "ventriloquist",
+    "trans": [
+      "n. 腹语术者；口技艺人"
+    ],
+    "usphone": "[venˈtrɪləkwɪst]",
+    "ukphone": "[venˈtrɪləkwɪst]"
+  },
+  {
+    "name": "venturesome",
+    "trans": [
+      "adj. 冒险的；危险的；好冒险的"
+    ],
+    "usphone": "[ˈventʃərsəm]",
+    "ukphone": "[ˈventʃəsəm]"
+  },
+  {
+    "name": "veracity",
+    "trans": [
+      "n. 诚实；精确性；老实；说真实话"
+    ],
+    "usphone": "[vəˈræsəti]",
+    "ukphone": "[vəˈræsəti]"
+  },
+  {
+    "name": "verdant",
+    "trans": [
+      "adj. 青翠的；翠绿的；没有经验的；不老练的"
+    ],
+    "usphone": "[ˈvɜːrdnt]",
+    "ukphone": "[ˈvɜːd(ə)nt]"
+  },
+  {
+    "name": "vertigo",
+    "trans": [
+      "n. 晕头转向，[临床] 眩晕"
+    ],
+    "usphone": "[ˈvɜːrtɪɡoʊ]",
+    "ukphone": "[ˈvɜːtɪɡəʊ]"
+  },
+  {
+    "name": "vilify",
+    "trans": [
+      "vt. 诽谤；中伤；轻视；贬低"
+    ],
+    "usphone": "[ˈvɪlɪfaɪ]",
+    "ukphone": "[ˈvɪlɪfaɪ]"
+  },
+  {
+    "name": "virtuoso",
+    "trans": [
+      "n. 艺术品鉴赏家；古董收藏家；艺术大师",
+      "adj. 行家里手的；艺术爱好者的"
+    ],
+    "usphone": "[ˌvɜːrtʃuˈoʊsoʊˌˌvɜːrtʃuˈoʊzoʊ]",
+    "ukphone": "[ˌvɜːtʃuˈəʊsəʊ]"
+  },
+  {
+    "name": "vitriolic",
+    "trans": [
+      "adj. 硫酸的；刻薄的"
+    ],
+    "usphone": "[ˌvɪtriˈɑːlɪk]",
+    "ukphone": "[ˌvɪtriˈɒlɪk]"
+  },
+  {
+    "name": "vituperative",
+    "trans": [
+      "adj. 责骂的"
+    ],
+    "usphone": "[vaɪˈtuːpəreɪtɪv]",
+    "ukphone": "[vɪˈtjuːpərətɪv]"
+  },
+  {
+    "name": "volition",
+    "trans": [
+      "n. 意志，意志力；决断力"
+    ],
+    "usphone": "[voʊˈlɪʃnˌvəˈlɪʃn]",
+    "ukphone": "[vəˈlɪʃ(ə)n]"
+  },
+  {
+    "name": "voluptuous",
+    "trans": [
+      "adj. 撩人的；骄奢淫逸的；沉溺酒色的"
+    ],
+    "usphone": "[vəˈlʌptʃuəs]",
+    "ukphone": "[vəˈlʌptʃuəs]"
+  },
+  {
+    "name": "vouchsafe",
+    "trans": [
+      "vt. 允诺；赐予",
+      "vi. 屈尊；俯就"
+    ],
+    "usphone": "[ˌvaʊtʃˈseɪf]",
+    "ukphone": "[ˌvaʊtʃˈseɪf]"
+  },
+  {
+    "name": "Viking",
+    "trans": [
+      "n. 北欧海盗"
+    ],
+    "usphone": "[ˈvaɪkɪŋ]",
+    "ukphone": "[ˈvaɪkɪŋ]"
+  },
+  {
+    "name": "VCD",
+    "trans": [
+      "[电] 可变电容二极体的简写"
+    ],
+    "usphone": "[ˌviː siː ˈdiː]",
+    "ukphone": "[ˌviː siː ˈdiː]"
+  },
+  {
+    "name": "villainy",
+    "trans": [
+      "n. 邪恶；恶行；坏事；罪恶"
+    ],
+    "usphone": "[ˈvɪləni]",
+    "ukphone": "[ˈvɪləni]"
+  },
+  {
+    "name": "valediction",
+    "trans": [
+      "n. 告别演说；告别词"
+    ],
+    "usphone": "[ˌvælɪˈdɪkʃn]",
+    "ukphone": "[ˌvælɪˈdɪkʃn]"
+  },
+  {
+    "name": "vanished",
+    "trans": [
+      "n. 销声匿迹，无影无踪（美国电视连续剧剧名）"
+    ],
+    "usphone": "[ˈvænɪʃt]",
+    "ukphone": "[ˈvænɪʃd]"
+  },
+  {
+    "name": "vertically",
+    "trans": [
+      "adv. 垂直地"
+    ],
+    "usphone": "[ˈvɜːrtɪkli]",
+    "ukphone": "[ˈvɜːtɪkli]"
+  },
+  {
+    "name": "viability",
+    "trans": [
+      "n. 生存能力，发育能力；可行性"
+    ],
+    "usphone": "[ˌvaɪəˈbɪləti]",
+    "ukphone": "[ˌvaɪəˈbɪləti]"
+  },
+  {
+    "name": "viciousness",
+    "trans": [
+      "n. 邪恶；恶意"
+    ],
+    "usphone": "[ˈvɪʃəsnəs]",
+    "ukphone": "[ˈvɪʃəsnəs]"
+  },
+  {
+    "name": "vividly",
+    "trans": [
+      "adv. 生动地；强烈地"
+    ],
+    "usphone": "[ˈvɪvɪdli]",
+    "ukphone": "[ˈvɪvɪdli]"
+  },
+  {
+    "name": "vividness",
+    "trans": [
+      "n. 生动；活泼；明亮"
+    ],
+    "usphone": "[ˈvɪvɪdnəs]",
+    "ukphone": "[ˈvɪvɪdnəs]"
+  },
+  {
+    "name": "vocalist",
+    "trans": [
+      "n. 歌手；声乐家"
+    ],
+    "usphone": "[ˈvoʊkəlɪst]",
+    "ukphone": "[ˈvəʊkəlɪst]"
+  },
+  {
+    "name": "vicar",
+    "trans": [
+      "n. 教区牧师，教堂牧师；传教牧师；代理人"
+    ],
+    "usphone": "[ˈvɪkər]",
+    "ukphone": "[ˈvɪkə(r)]"
+  },
+  {
+    "name": "vacuuming",
+    "trans": [
+      "n. 真空处理；资料移除",
+      "vt. 吸尘（vacuum的现在分词形式）；用真空吸尘器打扫"
+    ],
+    "usphone": "[ˈvækjuːmɪŋ]",
+    "ukphone": "['vækjuəmiŋ]"
+  },
+  {
+    "name": "vocable",
+    "trans": [
+      "n. （无义）词，词外壳"
+    ],
+    "usphone": "[ˈvoʊkəbl]",
+    "ukphone": "[ˈvəʊkəb(ə)l]"
+  },
+  {
+    "name": "vintage",
+    "trans": [
+      "n. 葡萄收获期；葡萄酒酿造期",
+      "adj. 古老的；最佳的；过时的",
+      "vt. 采葡萄；用葡萄酿酒",
+      "vi. 采葡萄"
+    ],
+    "usphone": "[ˈvɪntɪdʒ]",
+    "ukphone": "[ˈvɪntɪdʒ]"
+  },
+  {
+    "name": "virginal",
+    "trans": [
+      "n. 十六、七世纪的小型有键乐器",
+      "adj. 处女的；无瑕的"
+    ],
+    "usphone": "[ˈvɜːrdʒɪnl]",
+    "ukphone": "[ˈvɜːdʒɪnl]"
+  },
+  {
+    "name": "vineyard",
+    "trans": [
+      "n. 葡萄园"
+    ],
+    "usphone": "[ˈvɪnjərd]",
+    "ukphone": "[ˈvɪnjəd]"
+  },
+  {
+    "name": "visited",
+    "trans": [
+      "v. 拜访，访问（visit的过去式）"
+    ],
+    "usphone": "[ˈvɪzɪtɪd]",
+    "ukphone": "['vɪzɪtɪd]"
+  },
+  {
+    "name": "vicariously",
+    "trans": [
+      "adv. 代理地，担任代理者地；间接感受到地"
+    ],
+    "usphone": "[vaɪˈkeriəsli]",
+    "ukphone": "[vɪˈkeəriəsli]"
+  },
+  {
+    "name": "vice-",
+    "trans": [
+      "pref. 表示“副的，次的”之义"
+    ],
+    "usphone": "[vaɪs]",
+    "ukphone": "[vaɪs]"
+  },
+  {
+    "name": "vegetarianism",
+    "trans": [
+      "n. 素食主义"
+    ],
+    "usphone": "[ˌvedʒəˈteriənɪzəm]",
+    "ukphone": "[ˌvedʒəˈteəriənɪzəm]"
+  },
+  {
+    "name": "viper",
+    "trans": [
+      "n. 毒蛇；毒如蛇蝎的人，阴险的人"
+    ],
+    "usphone": "[ˈvaɪpər]",
+    "ukphone": "[ˈvaɪpə(r)]"
+  },
+  {
+    "name": "volcanism",
+    "trans": [
+      "n. [地质] 火山作用"
+    ],
+    "usphone": "[ˈvɑlkənɪzm]",
+    "ukphone": "[ˈvɒlkənɪz(ə)m]"
+  },
+  {
+    "name": "Vesuvius",
+    "trans": [
+      "n. 维苏威火山（意大利西南部）"
+    ],
+    "usphone": "[vi'su:vjəs]",
+    "ukphone": "[vi'su:vjəs]"
+  },
+  {
+    "name": "vaudeville",
+    "trans": [
+      "n. 杂耍；轻歌舞剧；歌舞杂耍表演"
+    ],
+    "usphone": "[ˈvɔːdəvɪl]",
+    "ukphone": "[ˈvɔːdəvɪl]"
+  },
+  {
+    "name": "verbally",
+    "trans": [
+      "adv. 口头地，非书面地；用言辞地"
+    ],
+    "usphone": "[ˈvɜːrbəli]",
+    "ukphone": "[ˈvɜːbəli]"
+  },
+  {
+    "name": "Versailles",
+    "trans": [
+      "n. 凡尔赛（法国城市）"
+    ],
+    "usphone": "[vεə'sai]",
+    "ukphone": "[vεə'sai]"
+  },
+  {
+    "name": "vanpool",
+    "trans": [
+      "n. 上下班交通车合用小组"
+    ],
+    "usphone": "[ˈvænˌpʊl]",
+    "ukphone": "[ˈvænpuːl]"
+  },
+  {
+    "name": "veggie",
+    "trans": [
+      "n. 素食者"
+    ],
+    "usphone": "[ˈvedʒi]",
+    "ukphone": "[ˈvedʒi]"
+  },
+  {
+    "name": "valuation",
+    "trans": [
+      "n. 评价，估价；计算"
+    ],
+    "usphone": "[ˌvæljuˈeɪʃn]",
+    "ukphone": "[ˌvæljuˈeɪʃn]"
+  },
+  {
+    "name": "V-neck",
+    "trans": [
+      "n. V型领"
+    ],
+    "usphone": "[ˈviː nek]",
+    "ukphone": "[ˈviː nek]"
+  },
+  {
+    "name": "values",
+    "trans": [
+      "n. 价值观念；价值标准"
+    ],
+    "usphone": "[ˈvæljuːz]",
+    "ukphone": "[ˈvæljuːz]"
+  },
+  {
+    "name": "vice-president",
+    "trans": [
+      "n. 副总裁；副总统；副校长"
+    ],
+    "usphone": "[ˌvaɪs ˈprezɪdənt]",
+    "ukphone": "[ˌvaɪs ˈprezɪdənt]"
+  },
+  {
+    "name": "viand",
+    "trans": [
+      "n. 食物；食品"
+    ],
+    "usphone": "[ˈvaɪənd]",
+    "ukphone": "[ˈviːənd; ˈvaɪənd]"
+  },
+  {
+    "name": "videoconference",
+    "trans": [
+      "n. 可视会议"
+    ],
+    "usphone": "[ˈvɪdɪoˌkɑnfərəns]",
+    "ukphone": "[ˈvɪdɪəʊˌkɒnf(ə)r(ə)ns]"
+  },
+  {
+    "name": "vita",
+    "trans": [
+      "n. 生活；生命；个人简历（复数vitae）"
+    ],
+    "usphone": "[ˈviːtə]",
+    "ukphone": "[ˈviːtə]"
+  },
+  {
+    "name": "vouch",
+    "trans": [
+      "vi. 保证；证明；确定",
+      "vt. 担保；证明；传出庭作证"
+    ],
+    "usphone": "[vaʊtʃ]",
+    "ukphone": "[vaʊtʃ]"
+  },
+  {
+    "name": "visualization",
+    "trans": [
+      "n. 形象化；清楚地呈现在心"
+    ],
+    "usphone": "[ˌvɪʒuələˈzeɪʃn]",
+    "ukphone": "[ˌvɪʒuəlaɪˈzeɪʃn]"
+  },
+  {
+    "name": "versed",
+    "trans": [
+      "adj. 精通的；熟练的"
+    ],
+    "usphone": "[vɜːrst]",
+    "ukphone": "[vɜːst]"
+  },
+  {
+    "name": "viscid",
+    "trans": [
+      "adj. 粘质的；半流体的"
+    ],
+    "usphone": "[ˈvɪsɪd]",
+    "ukphone": "[ˈvɪsɪd]"
+  },
+  {
+    "name": "vituperate",
+    "trans": [
+      "vt. 谩骂；责骂"
+    ],
+    "usphone": "[vaɪˈtuːpərˌeɪt]",
+    "ukphone": "[vɪˈtjuːpəˌreɪt]"
+  },
+  {
+    "name": "valorize",
+    "trans": [
+      "vt. 规定价格，稳定物价"
+    ],
+    "usphone": "[ˈvæləˌraɪz]",
+    "ukphone": "[ˈvæləˌraɪz]"
+  },
+  {
+    "name": "vim",
+    "trans": [
+      "n. 精力，活力；精神，生气"
+    ],
+    "usphone": "[vɪm]",
+    "ukphone": "[vɪm]"
+  },
+  {
+    "name": "verisimilar",
+    "trans": [
+      "adj. 好像是真的"
+    ],
+    "usphone": "[ˌverəˈsɪmələr]",
+    "ukphone": "[ˌverɪˈsɪmɪlə(r)]"
+  },
+  {
+    "name": "veneer",
+    "trans": [
+      "n. 外表；虚饰；饰面；胶合板的一层；薄木片",
+      "vt. 胶合；虚饰；给…镶以饰片"
+    ],
+    "usphone": "[vəˈnɪr]",
+    "ukphone": "[vəˈnɪə(r)]"
+  },
+  {
+    "name": "veracious",
+    "trans": [
+      "adj. 诚实的；真实的"
+    ],
+    "usphone": "[vəˈreʃəs]",
+    "ukphone": "[vəˈreɪʃəs]"
+  },
+  {
+    "name": "votary",
+    "trans": [
+      "n. 崇拜者；出家人",
+      "adj. 立誓任圣职的；誓约的"
+    ],
+    "usphone": "[ˈvoʊtəri]",
+    "ukphone": "[ˈvəʊtəri]"
+  },
+  {
+    "name": "vend",
+    "trans": [
+      "vt. 出售；公开发表",
+      "vi. 出售"
+    ],
+    "usphone": "[vend]",
+    "ukphone": "[vend]"
+  },
+  {
+    "name": "vested",
+    "trans": [
+      "v. （财产、权利等）授予（vest的过去式和过去分词）；使穿衣服",
+      "adj. 既定的；穿着衣服（尤指祭服）的；（美）带背心的（指西服套装）"
+    ],
+    "usphone": "[ˈvestɪd]",
+    "ukphone": "[ˈvestɪd]"
+  },
+  {
+    "name": "volcanologist",
+    "trans": [
+      "n. 火山学家"
+    ],
+    "usphone": "[ˌvɑːlkəˈnɑːlədʒɪst]",
+    "ukphone": "[ˌvɒlkən ˈɒlədʒɪst]"
+  },
+  {
+    "name": "viewfinder",
+    "trans": [
+      "n. 取景器；反光镜；检像器"
+    ],
+    "usphone": "[ˈvjuːfaɪndər]",
+    "ukphone": "[ˈvjuːfaɪndə(r)]"
+  },
+  {
+    "name": "verifiable",
+    "trans": [
+      "adj. 可证实的；能作证的；可检验的"
+    ],
+    "usphone": "[ˈverɪfaɪəbl]",
+    "ukphone": "[ˈverɪfaɪəb(ə)l]"
+  },
+  {
+    "name": "Venezuela",
+    "trans": [
+      "n. 委内瑞拉"
+    ],
+    "usphone": "[ˌvenəˈzweɪlə]",
+    "ukphone": "[ˌvenəˈzweɪlə]"
+  },
+  {
+    "name": "Veda",
+    "trans": [
+      "n. 吠陀经；吠陀本集（印度最古老的宗教文献和文学作品的总称）"
+    ],
+    "usphone": "[ˈveɪdəˌˈviːdə]",
+    "ukphone": "[ˈveɪdə; ˈviːdə]"
+  },
+  {
+    "name": "volley",
+    "trans": [
+      "n. 齐射；齐射出的子弹；凌空状态",
+      "vt. 截击；齐发；连声发出",
+      "vi. 截击；齐鸣；进行群射"
+    ],
+    "usphone": "[ˈvɑːli]",
+    "ukphone": "[ˈvɒli]"
+  },
+  {
+    "name": "vindication",
+    "trans": [
+      "n. 辩护；证明无罪"
+    ],
+    "usphone": "[ˌvɪndɪˈkeɪʃn]",
+    "ukphone": "[ˌvɪndɪˈkeɪʃ(ə)n]"
+  },
+  {
+    "name": "vane",
+    "trans": [
+      "n. 叶片；[气象] 风向标；风信旗"
+    ],
+    "usphone": "[veɪn]",
+    "ukphone": "[veɪn]"
+  },
+  {
+    "name": "virtu",
+    "trans": [
+      "n. 古董；艺术品爱好"
+    ],
+    "usphone": "[və:'tu:]",
+    "ukphone": "[vɜːˈt(j)uː]"
+  },
+  {
+    "name": "vitals",
+    "trans": [
+      "n. 命脉（vital的复数）；（人体的）重要器官；要害"
+    ],
+    "usphone": "[ˈvaɪtlz]",
+    "ukphone": "[ˈvaɪt(ə)lz]"
+  },
+  {
+    "name": "Voyager",
+    "trans": [
+      "n. 航海者，航行者"
+    ],
+    "usphone": "[ˈvɔɪɪdʒər]",
+    "ukphone": "[ˈvɔɪɪdʒə(r)]"
+  },
+  {
+    "name": "verbiage",
+    "trans": [
+      "n. 冗词；废话；措辞方式"
+    ],
+    "usphone": "[ˈvɜːrbiɪdʒ]",
+    "ukphone": "[ˈvɜːbiɪdʒ]"
+  },
+  {
+    "name": "vocalize",
+    "trans": [
+      "vt. 使发成元音；使发声",
+      "vi. 发声；喊叫"
+    ],
+    "usphone": "[ˈvoʊkəlaɪz]",
+    "ukphone": "[ˈvəʊkəlaɪz]"
+  },
+  {
+    "name": "vivify",
+    "trans": [
+      "vt. 使生动；使活跃；给与生气"
+    ],
+    "usphone": "[ˈvɪvəˌfaɪ]",
+    "ukphone": "[ˈvɪvɪˌfaɪ]"
+  },
+  {
+    "name": "very much",
+    "trans": [
+      "adv. 非常"
+    ],
+    "usphone": "[ˈveri mʌtʃ]",
+    "ukphone": "[ˈveri mʌtʃ]"
+  },
+  {
+    "name": "vantage point",
+    "trans": [
+      "n. （观察事物的）有利地点；（尤指考虑旧时事物的）有利时刻"
+    ],
+    "usphone": "[ˈvæntɪdʒ pɔɪnt]",
+    "ukphone": "[ˈvɑːntɪdʒ pɔɪnt]"
+  },
+  {
+    "name": "vacillation",
+    "trans": [
+      "n. 踌躇；不果断；游移不定"
+    ],
+    "usphone": "[ˌvæsəˈleɪʃn]",
+    "ukphone": "[ˌvæsəˈleɪʃn]"
+  },
+  {
+    "name": "voluptuousness",
+    "trans": [
+      "n. 性感；淫乐；感官享受"
+    ],
+    "usphone": "[vəˈlʌptʃuəsnəs]",
+    "ukphone": "[vəˈlʌptʃuəsnəs]"
+  },
+  {
+    "name": "volubility",
+    "trans": [
+      "n. 流利；健谈"
+    ],
+    "usphone": "[vɑːljʊˈbɪlɪtɪ]",
+    "ukphone": "[vɒljʊˈbɪlɪti]"
+  },
+  {
+    "name": "vainglory",
+    "trans": [
+      "n. 极度的虚荣心，夸耀"
+    ],
+    "usphone": "[ˈveɪnɡlɔːri]",
+    "ukphone": "[ˌveɪnˈɡlɔːri]"
+  },
+  {
+    "name": "vehemence",
+    "trans": [
+      "n. 激烈；热烈"
+    ],
+    "usphone": "[ˈviːəməns]",
+    "ukphone": "[ˈviːəməns]"
+  },
+  {
+    "name": "vitamine",
+    "trans": [
+      "n. 维生素, 维他命"
+    ],
+    "usphone": "[ˈvɪtəmɪn]",
+    "ukphone": "[ˈvɪtəmɪn]"
+  },
+  {
+    "name": "varsity",
+    "trans": [
+      "n. 大学；大学运动代表队",
+      "adj. 大学代表队的"
+    ],
+    "usphone": "[ˈvɑːrsəti]",
+    "ukphone": "[ˈvɑːsəti]"
+  },
+  {
+    "name": "viscosity",
+    "trans": [
+      "n. [物] 黏性，[物] 黏度"
+    ],
+    "usphone": "[vɪˈskɑːsəti]",
+    "ukphone": "[vɪˈskɒsəti]"
+  },
+  {
+    "name": "vortices",
+    "trans": [
+      "n. 旋涡；（指水或风形成的）涡流( vortex的名词复数 )"
+    ],
+    "usphone": "[ˈvɔtɪsiz]",
+    "ukphone": "[ˈvɔːtɪsiːz]"
+  },
+  {
+    "name": "vexatious",
+    "trans": [
+      "adj. 令人烦恼的；麻烦的；无理纠缠的"
+    ],
+    "usphone": "[vekˈseɪʃəs]",
+    "ukphone": "[vekˈseɪʃəs]"
+  },
+  {
+    "name": "valentine",
+    "trans": [
+      "n. 情人；情人节礼物"
+    ],
+    "usphone": "[ˈvæləntaɪn]",
+    "ukphone": "[ˈvæləntaɪn]"
+  },
+  {
+    "name": "verandah",
+    "trans": [
+      "阳台",
+      "游廊",
+      "露台"
+    ],
+    "usphone": "[vəˈrændə]",
+    "ukphone": "[vəˈrændə]"
+  },
+  {
+    "name": "vegetable oil",
+    "trans": [
+      "na. 植物油"
+    ],
+    "usphone": "[ˈvedʒtəbl ɔɪl]",
+    "ukphone": "[ˈvedʒtəbl ɔɪl]"
+  },
+  {
+    "name": "vagueness",
+    "trans": [
+      "n. 模糊；含糊；暧昧；茫然"
+    ],
+    "usphone": "[ˈveɪɡnəs]",
+    "ukphone": "[ˈveɪɡnəs]"
+  },
+  {
+    "name": "VAT",
+    "trans": [
+      "abbr. 增值税（Value Added Tax）"
+    ],
+    "usphone": "[væt]",
+    "ukphone": "[væt]"
+  },
+  {
+    "name": "video game",
+    "trans": [
+      "n. 电子游戏"
+    ],
+    "usphone": "[ˈvɪdioʊ ɡeɪm]",
+    "ukphone": "[ˈvɪdiəʊ ɡeɪm]"
+  },
+  {
+    "name": "V",
+    "trans": [
+      "n. 英语字母中的第二十二个字母",
+      "abbr. 钒（vanadium）；伏特（volt）"
+    ],
+    "usphone": "[viː]",
+    "ukphone": "[viː]"
+  },
+  {
+    "name": "vid.",
+    "trans": [
+      "vt. 请看, 参看"
+    ],
+    "usphone": "[vɪd]",
+    "ukphone": "[vɪd]"
+  },
+  {
+    "name": "vacuum cleaner",
+    "trans": [
+      "n. 真空吸尘器"
+    ],
+    "usphone": "[ˈvækjuəm ˈklinɚ]",
+    "ukphone": "[ˈvækjuəm ˈkli:nə]"
+  },
+  {
+    "name": "vivisection",
+    "trans": [
+      "n. 活体解剖"
+    ],
+    "usphone": "[ˌvɪvɪˈsekʃn]",
+    "ukphone": "[ˌvɪvɪˈsekʃn]"
+  },
+  {
+    "name": "vestment",
+    "trans": [
+      "n. （作礼拜时教士的）法衣；官服；祭坛布；礼服；衣服"
+    ],
+    "usphone": "[ˈvestmənt]",
+    "ukphone": "[ˈvestmənt]"
+  },
+  {
+    "name": "voodoo",
+    "trans": [
+      "n. 伏都教（一种西非原始宗教）；伏都教徒",
+      "adj. 伏都教的",
+      "vt. 施伏都巫术迷惑"
+    ],
+    "usphone": "[ˈvuːduː]",
+    "ukphone": "[ˈvuːduː]"
+  },
+  {
+    "name": "vintner",
+    "trans": [
+      "n. 葡萄酒商；酿造葡萄酒的人"
+    ],
+    "usphone": "[ˈvɪntnər]",
+    "ukphone": "[ˈvɪntnə(r)]"
+  },
+  {
+    "name": "valetudinarian",
+    "trans": [
+      "n. 体弱多病的人；过分担心自己健康的人",
+      "adj. 虚弱的；有病的；过分担心健康的"
+    ],
+    "usphone": "[ˈvæləˌtjʊdnˈerɪən]",
+    "ukphone": "[ˌvælɪtjuːdɪˈneərɪən]"
+  },
+  {
+    "name": "virago",
+    "trans": [
+      "n. 泼妇；悍妇；有男子气概的女子"
+    ],
+    "usphone": "[vɪˈrɑːɡoʊ]",
+    "ukphone": "[vɪˈrɑːɡəʊ]"
+  },
+  {
+    "name": "vesture",
+    "trans": [
+      "n. 衣裳；覆盖物",
+      "vt. 使穿衣服；覆盖"
+    ],
+    "usphone": "[ˈvestʃər]",
+    "ukphone": "[ˈvestʃə]"
+  },
+  {
+    "name": "viaduct",
+    "trans": [
+      "n. 高架桥；高架铁路"
+    ],
+    "usphone": "[ˈvaɪədʌkt]",
+    "ukphone": "[ˈvaɪədʌkt]"
+  },
+  {
+    "name": "viands",
+    "trans": [
+      "n. 食物；粮食（viand的复数形式）"
+    ],
+    "usphone": "[ˈvaɪəndz]",
+    "ukphone": "[ˈvaɪəndz]"
+  },
+  {
+    "name": "variegation",
+    "trans": [
+      "n. 彩色；上色；斑"
+    ],
+    "usphone": "[ˌverɪˈɡeʃən]",
+    "ukphone": "[ˌveərɪˈɡeɪʃən]"
+  },
+  {
+    "name": "vaporous",
+    "trans": [
+      "adj. 空想的；多蒸气的；雾状的"
+    ],
+    "usphone": "[ˈveɪpərəs]",
+    "ukphone": "[ˈveɪpərəs]"
+  },
+  {
+    "name": "verbosity",
+    "trans": [
+      "n. 冗长；赘言；唠叨"
+    ],
+    "usphone": "[vɜːrˈbɑːsəti]",
+    "ukphone": "[vɜːˈbɒsəti]"
+  },
+  {
+    "name": "verdigris",
+    "trans": [
+      "n. 铜锈，[材] 铜绿；碱式碳酸铜"
+    ],
+    "usphone": "[ˈvɜːrdɪɡriːˌˈvɜːrdɪɡriːs]",
+    "ukphone": "[ˈvɜːdɪɡriː; ˈvɜːdɪɡriːs]"
+  },
+  {
+    "name": "variegate",
+    "trans": [
+      "vt. 使多样化，使丰富多彩；使成杂色"
+    ],
+    "usphone": "[ˈveriəˌgeɪt]",
+    "ukphone": "[ˈveərɪəɡeɪt]"
+  },
+  {
+    "name": "visceral",
+    "trans": [
+      "adj. 内脏的；出于本能的；发自肺腑的；粗俗的"
+    ],
+    "usphone": "[ˈvɪsərəl]",
+    "ukphone": "[ˈvɪsərəl]"
+  },
+  {
+    "name": "vibrancy",
+    "trans": [
+      "n. 振动；活力"
+    ],
+    "usphone": "[ˈvaɪbrənsi]",
+    "ukphone": "[ˈvaɪbrənsi]"
+  },
+  {
+    "name": "valorous",
+    "trans": [
+      "adj. 勇敢的；勇武的"
+    ],
+    "usphone": "[ˈvælərəs]",
+    "ukphone": "[ˈvælərəs]"
+  },
+  {
+    "name": "vainglorious",
+    "trans": [
+      "adj. 虚荣心强的；非常自负的"
+    ],
+    "usphone": "[ˌveɪnˈɡlɔːriəs]",
+    "ukphone": "[ˌveɪnˈɡlɔːriəs]"
+  },
+  {
+    "name": "voyeur",
+    "trans": [
+      "n. 偷看下流场面的人；窥淫狂者",
+      "vi. 窥淫"
+    ],
+    "usphone": "[vwɑːˈjɜːr]",
+    "ukphone": "[vɔɪˈɜː(r)]"
+  },
+  {
+    "name": "vise",
+    "trans": [
+      "n. 虎钳，老虎钳",
+      "vt. 钳住"
+    ],
+    "usphone": "[vaɪs]",
+    "ukphone": "[vaɪs]"
+  },
+  {
+    "name": "vulpine",
+    "trans": [
+      "adj. 狐狸的；诡计多端的"
+    ],
+    "usphone": "[ˈvʌlpaɪn]",
+    "ukphone": "[ˈvʌlpaɪn]"
+  },
+  {
+    "name": "voracity",
+    "trans": [
+      "n. 贪食，贪婪"
+    ],
+    "usphone": "[vəˈræsəti]",
+    "ukphone": "[vəˈræsəti]"
+  },
+  {
+    "name": "vendetta",
+    "trans": [
+      "n. （尤指族间或血亲间的）仇杀；深仇"
+    ],
+    "usphone": "[venˈdetə]",
+    "ukphone": "[venˈdetə]"
+  },
+  {
+    "name": "virility",
+    "trans": [
+      "n. 男子气；男子特点；生殖力"
+    ],
+    "usphone": "[vəˈrɪləti]",
+    "ukphone": "[vəˈrɪləti]"
+  },
+  {
+    "name": "vaunting",
+    "trans": [
+      "n. 自吹自擂",
+      "adj. 吹嘘的；傲慢的",
+      "v. 吹嘘（vaunt的ing形式）；夸耀"
+    ],
+    "usphone": "[ˈvɑːntɪŋ]",
+    "ukphone": "[ˈvɔːntɪŋ]"
+  },
+  {
+    "name": "vestigial",
+    "trans": [
+      "adj. 退化的；残余的；发育不全的"
+    ],
+    "usphone": "[veˈstɪdʒiəl]",
+    "ukphone": "[veˈstɪdʒiəl]"
+  },
+  {
+    "name": "vying",
+    "trans": [
+      "v. 争夺（vie的现在分词）",
+      "adj. 竞争的"
+    ],
+    "usphone": "[ˈvaɪɪŋ]",
+    "ukphone": "[ˈvaɪɪŋ]"
+  },
+  {
+    "name": "vandalize",
+    "trans": [
+      "vt. 肆意毁坏；摧残（等于vandalise）"
+    ],
+    "usphone": "[ˈvændəlaɪz]",
+    "ukphone": "[ˈvændəlaɪz]"
+  },
+  {
+    "name": "vagrancy",
+    "trans": [
+      "n. 流浪；漂泊；思想游移不定"
+    ],
+    "usphone": "[ˈveɪɡrənsi]",
+    "ukphone": "[ˈveɪɡrənsi]"
+  },
+  {
+    "name": "vegetate",
+    "trans": [
+      "vi. 过单调呆板的生活"
+    ],
+    "usphone": "[ˈvedʒəteɪt]",
+    "ukphone": "[ˈvedʒəteɪt]"
+  },
+  {
+    "name": "vicissitudinous",
+    "trans": [
+      "adj. 变迁的；有变化的；有盛衰的"
+    ],
+    "usphone": "[vɪsɪsɪˈtjuːdɪnəs]",
+    "ukphone": "[vɪsɪsɪˈtjuːdɪnəs]"
+  },
+  {
+    "name": "verified",
+    "trans": [
+      "adj. 已查清的，已证实的"
+    ],
+    "usphone": "[ˈverɪfaɪd]",
+    "ukphone": "[ˈverɪfaɪd]"
+  },
+  {
+    "name": "vacationer",
+    "trans": [
+      "n. 休假者；度假者"
+    ],
+    "usphone": "[veɪˈkeɪʃənərˌvəˈkeɪʃənər]",
+    "ukphone": "[veɪˈkeɪʃənə(r); vəˈkeɪʃənə(r)]"
+  },
+  {
+    "name": "Vancouver",
+    "trans": [
+      "n. 温哥华（加拿大主要港市）"
+    ],
+    "usphone": "[vænˈkuːvər]",
+    "ukphone": "[vænˈkuːvə(r)]"
+  },
+  {
+    "name": "Vietnamese",
+    "trans": [
+      "n. 越南人；越南语",
+      "adj. 越南的；越南人的"
+    ],
+    "usphone": "[ˌviːetnəˈmiːz]",
+    "ukphone": "[ˌvjetnəˈmiːz; viˌetnəˈmiːz]"
+  },
+  {
+    "name": "volcanology",
+    "trans": [
+      "n. 火山学"
+    ],
+    "usphone": "[ˌvɑːlkəˈnɑːlədʒi]",
+    "ukphone": "[ˌvɒlkəˈnɒlədʒi]"
+  },
+  {
+    "name": "visibly",
+    "trans": [
+      "adv. 明显地；显然；看得见地"
+    ],
+    "usphone": "[ˈvɪzəbli]",
+    "ukphone": "[ˈvɪzəbli]"
+  },
+  {
+    "name": "valued",
+    "trans": [
+      "adj. 重要的；宝贵的；贵重的；经估价的"
+    ],
+    "usphone": "[ˈvæljuːd]",
+    "ukphone": "[ˈvæljuːd]"
+  },
+  {
+    "name": "vinegary",
+    "trans": [
+      "adj. 酸的；尖酸的"
+    ],
+    "usphone": "[ˈvɪnɪɡəri]",
+    "ukphone": "[ˈvɪnɪɡəri]"
+  },
+  {
+    "name": "verily",
+    "trans": [
+      "adv. 真正地；真实地"
+    ],
+    "usphone": "[ˈverɪli]",
+    "ukphone": "[ˈverɪli]"
+  },
+  {
+    "name": "Virginia",
+    "trans": [
+      "n. 弗吉尼亚（女子名）；弗吉尼亚州",
+      "adj. 弗吉尼亚州的"
+    ],
+    "usphone": "[vərˈdʒɪniə]",
+    "ukphone": "[vəˈdʒɪniə]"
+  },
+  {
+    "name": "vacuole",
+    "trans": [
+      "n. [细胞] 液泡；[地质] 空泡"
+    ],
+    "usphone": "[ˈvækjuoʊl]",
+    "ukphone": "[ˈvækjuəʊl]"
+  },
+  {
+    "name": "vasopressin",
+    "trans": [
+      "n. 加压素；[生化] 抗利尿激素；[生化] 后叶加压素"
+    ],
+    "usphone": "[ˌvæsoʊˈpresən]",
+    "ukphone": "[ˌvæsəʊˈpresɪn]"
+  },
+  {
+    "name": "Venusian",
+    "trans": [
+      "adj. 金星的，太白星的"
+    ],
+    "usphone": "[vi'nju:siən]",
+    "ukphone": "[vi'nju:siən]"
+  },
+  {
+    "name": "vellum",
+    "trans": [
+      "n. 牛皮纸；皮纸文书；上等皮纸"
+    ],
+    "usphone": "[ˈveləm]",
+    "ukphone": "[ˈveləm]"
+  },
+  {
+    "name": "vainly",
+    "trans": [
+      "adv. 徒劳地；无益地；枉然地"
+    ],
+    "usphone": "[ˈveɪnli]",
+    "ukphone": "[ˈveɪnli]"
+  },
+  {
+    "name": "venality",
+    "trans": [
+      "n. 唯利是图；贪赃枉法；受贿"
+    ],
+    "usphone": "[viːˈnæləti]",
+    "ukphone": "[viːˈnæləti]"
+  },
+  {
+    "name": "verisimilitude",
+    "trans": [
+      "n. 逼真，貌似真实；逼真的事物"
+    ],
+    "usphone": "[ˌverɪsɪˈmɪlɪtuːd]",
+    "ukphone": "[ˌverɪsɪˈmɪlɪtjuːd]"
+  },
+  {
+    "name": "vitriol",
+    "trans": [
+      "n. 硫酸，[无化] 硫酸盐；尖刻的话",
+      "vt. 用硫酸处理；用尖刻的话伤害"
+    ],
+    "usphone": "[ˈvɪtriəl]",
+    "ukphone": "[ˈvɪtriəl]"
+  },
+  {
+    "name": "vibe",
+    "trans": [
+      "n. 气氛，氛围"
+    ],
+    "usphone": "[vaɪb]",
+    "ukphone": "[vaɪb]"
+  },
+  {
+    "name": "vinaigrette",
+    "trans": [
+      "n. 一种油，醋，盐，香料等合成的浓烈调味品；香料嗅瓶",
+      "adj. 加醋油沙司的"
+    ],
+    "usphone": "[ˌvɪnɪˈɡret]",
+    "ukphone": "[ˌvɪnɪˈɡret]"
+  },
+  {
+    "name": "veg",
+    "trans": [
+      "n. 蔬菜",
+      "vi. 虚度"
+    ],
+    "usphone": "[vedʒ]",
+    "ukphone": "[vedʒ]"
+  },
+  {
+    "name": "vibrative",
+    "trans": [
+      "adj. 震动的，颤动的"
+    ],
+    "usphone": "[vai'breitiv]",
+    "ukphone": "[vai'breitiv]"
+  },
+  {
+    "name": "visional",
+    "trans": [
+      "adj. 虚幻的；视力的；梦幻般的"
+    ],
+    "usphone": "[ˈvɪʒənəl]",
+    "ukphone": "[ˈvɪʒənəl]"
+  },
+  {
+    "name": "Venice",
+    "trans": [
+      "n. 威尼斯（意大利港市）"
+    ],
+    "usphone": "[ˈvenɪs]",
+    "ukphone": "[ˈvenɪs]"
+  },
+  {
+    "name": "vendition",
+    "trans": [
+      "n. 贩卖, 销售"
+    ],
+    "usphone": "[venˈdɪʃn]",
+    "ukphone": "[venˈdɪʃ(ə)n]"
+  },
+  {
+    "name": "voicemail",
+    "trans": [
+      "n. 语音信箱"
+    ],
+    "usphone": "[ˈvɔɪsmeɪl]",
+    "ukphone": "[ˈvɔɪsmeɪl]"
+  },
+  {
+    "name": "vicissitudes",
+    "trans": [
+      "n. 变迁；兴衰；枯荣；（人生的）盛衰（vicissitude的复数）"
+    ],
+    "usphone": "[vi'sisitju:dz]",
+    "ukphone": "[vɪˈsɪsɪtjuːdz]"
+  },
+  {
+    "name": "vadose",
+    "trans": [
+      "adj. 渗流的"
+    ],
+    "usphone": "[ˈveɪdoʊs]",
+    "ukphone": "[ˈveɪdəʊs]"
+  },
+  {
+    "name": "voyager",
+    "trans": [
+      "n. 航海者，航行者"
+    ],
+    "usphone": "[ˈvɔɪɪdʒər]",
+    "ukphone": "[ˈvɔɪɪdʒə(r)]"
+  },
+  {
+    "name": "versa",
+    "trans": [
+      "adj. 反的"
+    ],
+    "usphone": "[ˈvɜːrsə]",
+    "ukphone": "[ˈvɜːsə]"
+  },
+  {
+    "name": "varicolored",
+    "trans": [
+      "adj. 杂色的，五颜六色的"
+    ],
+    "usphone": "[ˈverɪˌkʌlərd]",
+    "ukphone": "[ˈveərɪˌkʌləd]"
+  },
+  {
+    "name": "vehemently",
+    "trans": [
+      "adv. 激烈地；暴烈地；竭尽全力地"
+    ],
+    "usphone": "[ˈviːəməntli]",
+    "ukphone": "[ˈviːəməntli]"
+  },
+  {
+    "name": "Vera",
+    "trans": [
+      "abbr. 通用实验性反应堆装置（Versatile Experimental Reactor Assembly ）"
+    ],
+    "usphone": "[ˈvɪrə]",
+    "ukphone": "['vɪərə]"
+  },
+  {
+    "name": "vagal",
+    "trans": [
+      "adj. 迷走神经的"
+    ],
+    "usphone": "[ˈveɪɡəl]",
+    "ukphone": "[ˈveɪɡ(ə)l]"
+  },
+  {
+    "name": "vaginal",
+    "trans": [
+      "adj. [解剖] 阴道的；叶鞘的"
+    ],
+    "usphone": "[vəˈdʒaɪnl]",
+    "ukphone": "[vəˈdʒaɪnl]"
+  },
+  {
+    "name": "vagotomy",
+    "trans": [
+      "n. 迷走神经切断术"
+    ],
+    "usphone": "[veɪˈɡɑːtəmi]",
+    "ukphone": "[væˈɡɒtəmi]"
+  },
+  {
+    "name": "vagus",
+    "trans": [
+      "n. [解剖] 迷走神经"
+    ],
+    "usphone": "[ˈveɪɡəs]",
+    "ukphone": "[ˈveɪɡəs]"
+  },
+  {
+    "name": "valine",
+    "trans": [
+      "n. [生化] 缬氨酸"
+    ],
+    "usphone": "[ˈvælin]",
+    "ukphone": "[ˈveɪliːn]"
+  },
+  {
+    "name": "valium",
+    "trans": [
+      "n. [药] 安定（商标名称）"
+    ],
+    "usphone": "[ˈvæliəm]",
+    "ukphone": "[ˈvæliəm]"
+  },
+  {
+    "name": "valvuloplasty",
+    "trans": [
+      "[医] 瓣膜成形术"
+    ],
+    "usphone": "[vælvjʊˈləplæsti]",
+    "ukphone": "[vælvjʊˈləplæsti]"
+  },
+  {
+    "name": "vancomycin",
+    "trans": [
+      "n. 万古霉素"
+    ],
+    "usphone": "[ˌvænkoʊˈmaɪsɪn]",
+    "ukphone": "[ˌvænkəʊˈmaɪsɪn]"
+  },
+  {
+    "name": "vanishing",
+    "trans": [
+      "n. 消失",
+      "v. 消失（vanish的ing形式）",
+      "adj. 消没的"
+    ],
+    "usphone": "[ˈvænɪʃɪŋ]",
+    "ukphone": "['vænɪʃɪŋ]"
+  },
+  {
+    "name": "varicella",
+    "trans": [
+      "n. [内科] 水痘"
+    ],
+    "usphone": "[ˌværəˈselə]",
+    "ukphone": "[ˈværəˈselə]"
+  },
+  {
+    "name": "varicocele",
+    "trans": [
+      "n. 精索静脉曲张"
+    ],
+    "usphone": "[ˈværɪkoˌsil]",
+    "ukphone": "[ˈværɪkə(ʊ)ˌsiːl]"
+  },
+  {
+    "name": "vascularity",
+    "trans": [
+      "n. 多血管；血管质"
+    ],
+    "usphone": "[ˌvæskjəˈlærəti]",
+    "ukphone": "[ˌvæskjʊˈlærɪti]"
+  },
+  {
+    "name": "vascularize",
+    "trans": [
+      " 血管化"
+    ],
+    "usphone": "[ˈvæskjələˌraɪz]",
+    "ukphone": "[ˈvæskjʊləˌraɪz]"
+  },
+  {
+    "name": "vasculature",
+    "trans": [
+      "n. 脉管系统"
+    ],
+    "usphone": "[ˈvæskjələˌtʃər]",
+    "ukphone": "[ˈvæskjʊlətʃə(r)]"
+  },
+  {
+    "name": "vasculitis",
+    "trans": [
+      "n. [内科] 血管炎；结节性脉管炎"
+    ],
+    "usphone": "[ˌvæskjəˈlaɪtɪs]",
+    "ukphone": "[ˌvæskjʊˈlaɪtɪs]"
+  },
+  {
+    "name": "vas deferens",
+    "trans": [
+      "n. 输精管"
+    ],
+    "usphone": "[ˌvæs ˈdefərenz]",
+    "ukphone": "[ˌvæs ˈdefərenz]"
+  },
+  {
+    "name": "vasectomy",
+    "trans": [
+      "n. [泌尿] 输精管切除术"
+    ],
+    "usphone": "[vəˈsektəmi]",
+    "ukphone": "[vəˈsektəmi]"
+  },
+  {
+    "name": "vaseline",
+    "trans": [
+      "n. 凡士林，[油气] 矿脂"
+    ],
+    "usphone": "[ˈvæsəliːn]",
+    "ukphone": "[ˈvæsəliːn]"
+  },
+  {
+    "name": "vasoconstriction",
+    "trans": [
+      "n. [生理] 血管收缩"
+    ],
+    "usphone": "[ˌveɪzoʊkənˈstrɪkʃn]",
+    "ukphone": "[ˌveɪzəʊkənˈstrɪkʃn]"
+  },
+  {
+    "name": "vasoconstrictor",
+    "trans": [
+      "n. 血管收缩剂；血管收缩神经",
+      "adj. 血管收缩的"
+    ],
+    "usphone": "[ˌvæsoʊkənˈstrɪktər]",
+    "ukphone": "[ˌveɪzəʊkənˈstrɪktə(r)]"
+  },
+  {
+    "name": "vasodilation",
+    "trans": [
+      "n. 血管舒张"
+    ],
+    "usphone": "[ˌveɪzoʊdaɪˈleɪʃn]",
+    "ukphone": "[ˌveɪzəʊdaɪˈleɪʃn]"
+  },
+  {
+    "name": "vasodilator",
+    "trans": [
+      "n. 血管扩张神经；[药][生理] 血管舒张药",
+      "adj. [药][生理] 血管扩张的"
+    ],
+    "usphone": "[ˌveɪzoʊdaɪˈleɪtər]",
+    "ukphone": "[,veɪzəʊ'daɪleɪtə]"
+  },
+  {
+    "name": "vasoligation",
+    "trans": [
+      "n. 输精管结扎术",
+      "[医] 输精管结扎术"
+    ],
+    "usphone": "[ˌveɪzoʊlaɪ'geɪʃən]",
+    "ukphone": "[væsəʊlɪ'geɪʃən]"
+  },
+  {
+    "name": "vasomotor",
+    "trans": [
+      "adj. [生理] 血管舒缩的；影响血管舒缩的"
+    ],
+    "usphone": "[ˌvæsəˈmoʊtər]",
+    "ukphone": "[ˌveɪzəʊˈməʊtə(r)]"
+  },
+  {
+    "name": "vasopressor",
+    "trans": [
+      "adj. 血管加压的"
+    ],
+    "usphone": "[ˈveɪzoʊˌpresər]",
+    "ukphone": "[ˌveɪzəʊˈpresə(r)]"
+  },
+  {
+    "name": "venipuncture",
+    "trans": [
+      "n. 静脉穿刺，静脉针灸"
+    ],
+    "usphone": "[ˌvenəˈpʌŋktʃər]",
+    "ukphone": "[ˈvenɪˌpʌŋktʃə]"
+  },
+  {
+    "name": "venography",
+    "trans": [
+      "n. 静脉造影术，静脉搏描记法"
+    ],
+    "usphone": "[vɪˈnɑːɡrəfi]",
+    "ukphone": "[vɪˈnɒɡrəfi]"
+  },
+  {
+    "name": "vertebral",
+    "trans": [
+      "adj. 脊椎的；椎骨的；由椎骨组成的；有脊椎的"
+    ],
+    "usphone": "[ˈvɜːrtɪbrəl]",
+    "ukphone": "[ˈvɜːtɪbrəl]"
+  },
+  {
+    "name": "vesical",
+    "trans": [
+      "adj. 膀胱的，椭圆形的"
+    ],
+    "usphone": "[ˈvesɪkəl]",
+    "ukphone": "[ˈvesɪkəl]"
+  },
+  {
+    "name": "vesicant",
+    "trans": [
+      "adj. 发泡的，起发泡的",
+      "n. 发泡剂"
+    ],
+    "usphone": "[ˈvesɪkənt]",
+    "ukphone": "[ˈvesɪkənt]"
+  },
+  {
+    "name": "vesicoureteral",
+    "trans": [
+      "[医] 膀胱输尿管的"
+    ],
+    "usphone": "[vesɪˈkʌretərəl]",
+    "ukphone": "[vesɪˈkʌretərəl]"
+  },
+  {
+    "name": "vesicular",
+    "trans": [
+      "adj. 囊的；水泡的；有泡的"
+    ],
+    "usphone": "[vəˈsɪkjʊlər]",
+    "ukphone": "[vəˈsɪkjələ(r)]"
+  },
+  {
+    "name": "vestibular",
+    "trans": [
+      "adj. 前庭的；门厅的，门口走廊的"
+    ],
+    "usphone": "[ˈvestɪbjuːlər]",
+    "ukphone": "[veˈstɪbjʊlə(r)]"
+  },
+  {
+    "name": "vestibule",
+    "trans": [
+      "n. 前厅；门廊",
+      "vt. 为…设门廊"
+    ],
+    "usphone": "[ˈvestɪbjuːl]",
+    "ukphone": "[ˈvestɪbjuːl]"
+  },
+  {
+    "name": "vibriosis",
+    "trans": [
+      "n. 弧菌病，弧菌感染； （牛、羊等的）弧菌性流产，传染性流产"
+    ],
+    "usphone": "[ˈvɪbriˌoʊsɪs]",
+    "ukphone": "[ˌvɪbriˈəʊsɪs]"
+  },
+  {
+    "name": "villous",
+    "trans": [
+      "adj. 覆有一层绒毛的，覆有长茸毛的"
+    ],
+    "usphone": "[ˈvɪləs]",
+    "ukphone": "[ˈvɪləs]"
+  },
+  {
+    "name": "vincristine",
+    "trans": [
+      "n. [药] 长春新碱（一种抗肿瘤药）"
+    ],
+    "usphone": "[vɪnˈkrɪsˌtin]",
+    "ukphone": "[vɪnˈkrɪstiːn]"
+  },
+  {
+    "name": "virucide",
+    "trans": [
+      "n. 杀病毒剂",
+      "[医] 杀病毒剂"
+    ],
+    "usphone": "['vaiərəsaid]",
+    "ukphone": "[ˈvaɪərəsaɪd]"
+  },
+  {
+    "name": "viscoelasticity",
+    "trans": [
+      "n. 黏弹性"
+    ],
+    "usphone": "[ˈvɪskoʊɪlæsˈtɪsɪti]",
+    "ukphone": "[ˈvɪskəʊɪlæsˈtɪsɪti]"
+  },
+  {
+    "name": "viscus",
+    "trans": [
+      "n. [解剖] 内脏；腑脏"
+    ],
+    "usphone": "[ˈvɪskəs]",
+    "ukphone": "[ˈvɪskəs]"
+  },
+  {
+    "name": "visuospatial",
+    "trans": [
+      "adj. 视觉空间的"
+    ],
+    "usphone": "[ˌvɪʃʊoˈspeʃəl]",
+    "ukphone": "[vɪzjʊəʊˈspeɪʃəl]"
+  },
+  {
+    "name": "vitreous",
+    "trans": [
+      "adj. 玻璃的；玻璃状的；玻璃似的"
+    ],
+    "usphone": "[ˈvɪtriəs]",
+    "ukphone": "[ˈvɪtriəs]"
+  },
+  {
+    "name": "vitrification",
+    "trans": [
+      "n. 玻璃化；透明化；玻璃状物（等于vitrifaction）"
+    ],
+    "usphone": "[ˌvɪtrɪfɪˈkeɪʃn]",
+    "ukphone": "[ˌvɪtrɪfɪˈkeɪʃn]"
+  },
+  {
+    "name": "vitro",
+    "trans": [
+      "n. 在试管内"
+    ],
+    "usphone": "[ˈviːtroʊ]",
+    "ukphone": "[ˈviːtrəʊ]"
+  },
+  {
+    "name": "vivo",
+    "trans": [
+      "adj. 生动的；活泼的；充满活力的（等于vivace）",
+      "adv. 活泼地；生动地（等于vivace）"
+    ],
+    "usphone": "[ˈviːvoʊ]",
+    "ukphone": "[ˈviːvəʊ]"
+  },
+  {
+    "name": "volvulus",
+    "trans": [
+      "n. 肠扭转，肠扭结"
+    ],
+    "usphone": "[ˈvɑːlvjələs]",
+    "ukphone": "[ˈvɒlvjʊləs]"
+  },
+  {
+    "name": "vomiting",
+    "trans": [
+      "v. 呕吐（vomit的ing形式）"
+    ],
+    "usphone": "[ˈvɑmɪt]",
+    "ukphone": "[ˈvɒmɪtɪŋ]"
+  },
+  {
+    "name": "vomitus",
+    "trans": [
+      "n. 呕吐，呕吐物"
+    ],
+    "usphone": "[ˈvɑːmɪtəs]",
+    "ukphone": "[ˈvɒmɪtəs]"
+  },
+  {
+    "name": "voxel",
+    "trans": [
+      "n. 三维像素"
+    ],
+    "usphone": "[vɒkˈsəl]",
+    "ukphone": "[ˈvɒksəl]"
+  },
+  {
+    "name": "vulgaris",
+    "trans": [
+      " 寻常的"
+    ],
+    "usphone": "['vʌlgəris]",
+    "ukphone": "['vʌlgəris]"
+  },
+  {
+    "name": "vulva",
+    "trans": [
+      "n. 阴户；[解剖] 女阴；孔"
+    ],
+    "usphone": "[ˈvʌlvə]",
+    "ukphone": "[ˈvʌlvə]"
+  },
+  {
+    "name": "vulvectomy",
+    "trans": [
+      "[医] 外阴切除术"
+    ],
+    "usphone": "[vʌlˈvektəmi]",
+    "ukphone": "[vʌlˈvektəmi]"
+  },
+  {
+    "name": "vulvitis",
+    "trans": [
+      "n. 外阴炎"
+    ],
+    "usphone": "[vʌlˈvaɪtɪs]",
+    "ukphone": "[vʌlˈvaɪtɪs]"
+  },
+  {
+    "name": "vulvovaginal",
+    "trans": [
+      " [医]外阴阴道的"
+    ],
+    "usphone": "[vʌlvɑːvəˈdʒaɪnl]",
+    "ukphone": "[ˌvʌlvəʊvəˈdʒaɪn(ə)l]"
+  },
+  {
+    "name": "visiting",
+    "trans": [
+      "n. 拜访，访问；参观",
+      "adj. 参观的；游览的",
+      "v. 参观（visit的现在分词）；拜访"
+    ],
+    "usphone": "[ˈvɪzɪtɪŋ]",
+    "ukphone": "[ˈvɪzɪtɪŋ]"
+  },
+  {
+    "name": "viewing",
+    "trans": [
+      "v. 观察；查看（view的ing形式）",
+      "adj. 可见的"
+    ],
+    "usphone": "[ˈvjuːɪŋ]",
+    "ukphone": "[ˈvjuːɪŋ]"
+  },
+  {
+    "name": "vinyl",
+    "trans": [
+      "n. 乙烯基"
+    ],
+    "usphone": "[ˈvaɪnl]",
+    "ukphone": "[ˈvaɪnl]"
+  },
+  {
+    "name": "vigilante",
+    "trans": [
+      "n. 义务警员；治安维持会成员"
+    ],
+    "usphone": "[ˌvɪdʒɪˈlænti]",
+    "ukphone": "[ˌvɪdʒɪˈlænti]"
+  },
+  {
+    "name": "Vatican",
+    "trans": [
+      "n. 罗马教廷；梵蒂冈"
+    ],
+    "usphone": "[ˈvætɪkən]",
+    "ukphone": "[ˈvætɪkən]"
+  },
+  {
+    "name": "vice-chairman",
+    "trans": [
+      "n. 副主席；副议长"
+    ],
+    "usphone": "['vais'tʃεəmən]",
+    "ukphone": "['vais'tʃεəmən]"
+  },
+  {
+    "name": "Valentine",
+    "trans": [
+      "n. 情人；情人节礼物"
+    ],
+    "usphone": "[ˈvæləntaɪn]",
+    "ukphone": "[ˈvæləntaɪn]"
+  },
+  {
+    "name": "VIP",
+    "trans": [
+      "abbr. 大人物，贵宾（Very Important Person）；视频接口处理器（Video Interface Processor）；可变信息处理（Variable Information Processing）"
+    ],
+    "usphone": "[ˌviː aɪ ˈpiː]",
+    "ukphone": "[ˌviː aɪ ˈpiː]"
+  },
+  {
+    "name": "viburnum",
+    "trans": [
+      "n. 荚莲属的植物"
+    ],
+    "usphone": "[vaɪˈbɜːrnəm]",
+    "ukphone": "[vaɪˈbɜːnəm]"
+  },
+  {
+    "name": "viperine",
+    "trans": [
+      "a. 毒蛇的",
+      "[医] 蝰的, 蝰"
+    ],
+    "usphone": "[ˈvaɪpərɪn]",
+    "ukphone": "[ˈvaɪpəˌraɪn]"
+  },
+  {
+    "name": "vole",
+    "trans": [
+      "n. 大满贯；野鼠",
+      "vi. 赢得大满贯"
+    ],
+    "usphone": "[voʊl]",
+    "ukphone": "[vəʊl]"
+  },
+  {
+    "name": "victorian",
+    "trans": [
+      "n. 维多利亚时代；维多利亚女王时代的人",
+      "adj. 维多利亚女王时代的；英国维多利亚女王时代的"
+    ],
+    "usphone": "[vɪkˈtɔːriən]",
+    "ukphone": "[vɪkˈtɔːriən]"
+  },
+  {
+    "name": "voice-activated",
+    "trans": [
+      "adj. 声控的；通过声音启动的"
+    ],
+    "usphone": "[ˈvɔɪs æktɪveɪtɪd]",
+    "ukphone": "[ˈvɔɪs æktɪveɪtɪd]"
+  },
+  {
+    "name": "vice-chancellor",
+    "trans": [
+      "n. 大学副校长；副大法官"
+    ],
+    "usphone": "[ˌvaɪs ˈtʃænsələr]",
+    "ukphone": "[ˌvaɪs ˈtʃɑːnsələ(r)]"
+  },
+  {
+    "name": "vibrantly",
+    "trans": [
+      "adv. 充满活力地"
+    ],
+    "usphone": "[ˈvaɪbrəntli]",
+    "ukphone": "[ˈvaɪbrəntli]"
+  },
+  {
+    "name": "versant",
+    "trans": [
+      "n. 斜度; 坡度; 山坡地区; （指一地区的）坡度"
+    ],
+    "usphone": "[ˈvɜːrsənt]",
+    "ukphone": "[ˈvɜːs(ə)nt]"
+  },
+  {
+    "name": "valiantly",
+    "trans": [
+      "adv. 勇敢地；英勇地"
+    ],
+    "usphone": "[ˈvæliəntli]",
+    "ukphone": "[ˈvæliəntli]"
+  },
+  {
+    "name": "veiled",
+    "trans": [
+      "adj. 隐藏的；含蓄的；蒙上面纱的；不清楚的",
+      "v. 戴面纱（veil的过去式和过去分词）"
+    ],
+    "usphone": "[veɪld]",
+    "ukphone": "[veɪld]"
+  },
+  {
+    "name": "videocassette",
+    "trans": [
+      "n. 录影带"
+    ],
+    "usphone": "[ˌvɪdɪoʊkəˈset]",
+    "ukphone": "[ˌvɪdɪəʊkəˈset]"
+  },
+  {
+    "name": "veneration",
+    "trans": [
+      "n. 尊敬；崇拜"
+    ],
+    "usphone": "[ˌvenəˈreɪʃn]",
+    "ukphone": "[ˌvenəˈreɪʃn]"
+  },
+  {
+    "name": "vexing",
+    "trans": [
+      "adj. 令人烦恼的",
+      "v. （使）烦恼；（使）苦恼（vex的ing形式）"
+    ],
+    "usphone": "[ˈveksɪŋ]",
+    "ukphone": "[ˈveksɪŋ]"
+  },
+  {
+    "name": "valuate",
+    "trans": [
+      "vt. 对…作估价"
+    ],
+    "usphone": "[ˈvæljʊˌeɪt]",
+    "ukphone": "[ˈvæljʊˌeɪt]"
+  },
+  {
+    "name": "vitally",
+    "trans": [
+      "adv. 极其；紧要地；生死攸关地"
+    ],
+    "usphone": "[ˈvaɪtəli]",
+    "ukphone": "[ˈvaɪtəli]"
+  },
+  {
+    "name": "victimization",
+    "trans": [
+      "n. 牺牲；欺骗"
+    ],
+    "usphone": "[ˌvɪktɪməˈzeɪʃn]",
+    "ukphone": "[ˌvɪktɪmaɪˈzeɪʃn]"
+  },
+  {
+    "name": "Venetian",
+    "trans": [
+      "n. 威尼斯人",
+      "adj. 威尼斯的；威尼斯人的；威尼斯文化的；威尼斯风格的"
+    ],
+    "usphone": "[vəˈniːʃn]",
+    "ukphone": "[vəˈniːʃ(ə)n]"
+  },
+  {
+    "name": "vis-a-vis",
+    "trans": [
+      "prep. 关于；和…面对面；同…相比",
+      "n. 面对面的人；相对着；两人对座的长椅",
+      "adv. 相向着；相对着"
+    ],
+    "usphone": "[ˌviːz ɑː ˈviː]",
+    "ukphone": "[ˌviːz ɑː ˈviː]"
+  },
+  {
+    "name": "visor",
+    "trans": [
+      "n. 遮阳板；面甲；帽舌",
+      "vt. （用面具等）遮护"
+    ],
+    "usphone": "[ˈvaɪzər]",
+    "ukphone": "[ˈvaɪzə(r)]"
+  },
+  {
+    "name": "vender",
+    "trans": [
+      "n. 卖主；小贩；自动售货机（等于vendor）"
+    ],
+    "usphone": "[ˈvendər]",
+    "ukphone": "[ˈvendə(r)]"
+  },
+  {
+    "name": "vaulted",
+    "trans": [
+      "adj. 拱形的；圆顶的",
+      "v. 做成拱形；撑杆跳跃（vault的过去分词形式）"
+    ],
+    "usphone": "[ˈvɔːltɪd]",
+    "ukphone": "[ˈvɔːltɪd]"
+  },
+  {
+    "name": "versification",
+    "trans": [
+      "n. 作诗；诗律"
+    ],
+    "usphone": "[ˌvɜːrsɪfɪˈkeɪʃn]",
+    "ukphone": "[ˌvɜːsɪfɪˈkeɪʃn]"
+  },
+  {
+    "name": "vagarious",
+    "trans": [
+      "adj. 异想天开的，越出常规的，奇特的"
+    ],
+    "usphone": "[vəˈɡerɪəs]",
+    "ukphone": "[vəˈɡeərɪəs]"
+  },
+  {
+    "name": "vitalist",
+    "trans": [
+      "n. 活力论者"
+    ],
+    "usphone": "[ˈvaɪtəlɪst]",
+    "ukphone": "[ˈvaɪtəlɪst]"
+  },
+  {
+    "name": "vastness",
+    "trans": [
+      "n. 巨大；广大；广漠"
+    ],
+    "usphone": "[ˈvæstnəs]",
+    "ukphone": "[ˈvɑːstnəs]"
+  },
+  {
+    "name": "vital statistics",
+    "trans": [
+      "n. 人口动态统计（显示一国出生和死亡的人口数字）；女子三围尺寸"
+    ],
+    "usphone": "[ˌvaɪtl stəˈtɪstɪks]",
+    "ukphone": "[ˌvaɪtl stəˈtɪstɪks]"
+  },
+  {
+    "name": "veining",
+    "trans": [
+      "n. 叶脉的形成，饰以脉纹，脉纹的排列; 晶畦"
+    ],
+    "usphone": "[ˈveɪnɪŋ]",
+    "ukphone": "[ˈveɪnɪŋ]"
+  },
+  {
+    "name": "vitalise",
+    "trans": [
+      "vt. <主英>激发"
+    ],
+    "usphone": "[ˈvaɪtəlaɪz]",
+    "ukphone": "[ˈvaɪtəlaɪz]"
+  },
+  {
+    "name": "velvety",
+    "trans": [
+      "adj. 天鹅绒般柔软的；醇和的，可口的"
+    ],
+    "usphone": "[ˈvelvəti]",
+    "ukphone": "[ˈvelvəti]"
+  },
+  {
+    "name": "verboten",
+    "trans": [
+      "adj. 禁止的，严禁的"
+    ],
+    "usphone": "[vərˈboʊtn; fərˈboʊtn]",
+    "ukphone": "[vəˈbəʊt(ə)n]"
+  },
+  {
+    "name": "varies",
+    "trans": [
+      "n. 多重复合",
+      "v. 使不同；改变；违背（vary的三单形式）"
+    ],
+    "usphone": "[ˈveriz]",
+    "ukphone": "[ˈveəriz]"
+  },
+  {
+    "name": "visitors",
+    "trans": [
+      "n. 访问者，游客（visitor 复数）"
+    ],
+    "usphone": "[ˈvɪzɪtər]",
+    "ukphone": "['vɪzɪtəz]"
+  },
+  {
+    "name": "vetting",
+    "trans": [
+      "n. 审查，审核"
+    ],
+    "usphone": "[ˈvetɪŋ]",
+    "ukphone": "[ˈvetɪŋ]"
+  },
+  {
+    "name": "vituperation",
+    "trans": [
+      "n. 谩骂；辱骂；坏话"
+    ],
+    "usphone": "[vaɪˌtuːpəˈreɪʃn]",
+    "ukphone": "[vɪˌtjuːpəˈreɪʃn]"
+  },
+  {
+    "name": "vacuousness",
+    "trans": [
+      "n. 空虚，无聊，愚蠢"
+    ],
+    "usphone": "[ˈvækjuəsnəs]",
+    "ukphone": "[ˈvækjuəsnəs]"
+  },
+  {
+    "name": "voiceprint",
+    "trans": [
+      "n. 声纹"
+    ],
+    "usphone": "[ˈvɔɪsprɪnt]",
+    "ukphone": "[ˈvɔɪsprɪnt]"
+  },
+  {
+    "name": "vulcanism",
+    "trans": [
+      "n. 火山作用"
+    ],
+    "usphone": "[ˈvʌlkəˌnɪzəm]",
+    "ukphone": "[ˈvʌlkənɪzəm]"
+  },
+  {
+    "name": "vivace",
+    "trans": [
+      "adv. 活泼地",
+      "adj. 活泼的"
+    ],
+    "usphone": "[vɪˈvɑːtʃeɪ]",
+    "ukphone": "[vɪˈvɑːtʃeɪ]"
+  },
+  {
+    "name": "vibrato",
+    "trans": [
+      "n. （意）颤音；抑扬顿挫"
+    ],
+    "usphone": "[vɪˈbrɑːtoʊ]",
+    "ukphone": "[vɪˈbrɑːtəʊ]"
+  },
+  {
+    "name": "vaquero",
+    "trans": [
+      "n. 牧童；放牛者；牧人"
+    ],
+    "usphone": "[vɑˈkerə]",
+    "ukphone": "[vəˈkeərəʊ]"
+  },
+  {
+    "name": "vs",
+    "trans": [
+      "abbr. 对，相对（versus）"
+    ],
+    "usphone": "[ˈvɜːrsəs]",
+    "ukphone": "[ˈvɜːsəs]"
+  },
+  {
+    "name": "vitae",
+    "trans": [
+      "n. 个人简历；血液（vita的复数形式）"
+    ],
+    "usphone": "[ˈviːtaɪ]",
+    "ukphone": "[ˈviːtaɪ]"
+  },
+  {
+    "name": "vicelike",
+    "trans": [
+      "adj. 牢固的，坚实的"
+    ],
+    "usphone": "['vaislaik]",
+    "ukphone": "[ˈvaɪslaɪk]"
+  },
+  {
+    "name": "viviparous",
+    "trans": [
+      "adj. [脊椎] 胎生的；在母体上发芽的"
+    ],
+    "usphone": "[vɪˈvɪpərəs]",
+    "ukphone": "[vɪˈvɪpərəs]"
+  },
+  {
+    "name": "vexed",
+    "trans": [
+      "adj. 生气的，烦恼的，恼怒的；为难的；焦急的"
+    ],
+    "usphone": "[vekst]",
+    "ukphone": "[vekst]"
+  },
+  {
+    "name": "vibes",
+    "trans": [
+      "n. 共鸣；电颤琴；气氛（vibe的复数）",
+      "v. 发生共鸣（vibe的三单形式）"
+    ],
+    "usphone": "[vaɪbz]",
+    "ukphone": "[vaɪbz]"
+  },
+  {
+    "name": "vertiginous",
+    "trans": [
+      "adj. 眩晕的，眼花的；旋转的；不稳定的"
+    ],
+    "usphone": "[vɜːrˈtɪdʒɪnəs]",
+    "ukphone": "[vɜːˈtɪdʒɪnəs]"
+  },
+  {
+    "name": "valedictorian",
+    "trans": [
+      "n. 告别演说者；致告别辞者"
+    ],
+    "usphone": "[ˌvælɪdɪkˈtɔːriən]",
+    "ukphone": "[ˌvælɪdɪkˈtɔːriən]"
+  },
+  {
+    "name": "Vitascope",
+    "trans": [
+      "n. 老式放映机"
+    ],
+    "usphone": "[ˈvaɪtəskoʊp]",
+    "ukphone": "[ˈvaɪtəskəʊp]"
+  },
+  {
+    "name": "vacuity",
+    "trans": [
+      "n. 空虚；空白；思想贫乏；无聊之事"
+    ],
+    "usphone": "[vəˈkjuːəti]",
+    "ukphone": "[vəˈkjuːəti]"
+  },
+  {
+    "name": "volitive",
+    "trans": [
+      "adj. 意志的；表示意志的；发自意志的"
+    ],
+    "usphone": "[ˈvɑːlətɪv]",
+    "ukphone": "[ˈvɒlɪtɪv]"
+  },
+  {
+    "name": "viceroy",
+    "trans": [
+      "n. 总督；（北美）一种黑色蝴蝶"
+    ],
+    "usphone": "[ˈvaɪsrɔɪ]",
+    "ukphone": "[ˈvaɪsrɔɪ]"
+  },
+  {
+    "name": "votive",
+    "trans": [
+      "adj. 奉献的（副词votively）；献纳的；诚心祈求的"
+    ],
+    "usphone": "[ˈvoʊtɪv]",
+    "ukphone": "[ˈvəʊtɪv]"
+  },
+  {
+    "name": "vociferate",
+    "trans": [
+      "vt. 喊叫；大叫",
+      "vi. 大声呼叫"
+    ],
+    "usphone": "[voʊˈsɪfəˌreɪt]",
+    "ukphone": "[vəˈsɪfəreɪt]"
+  },
+  {
+    "name": "volant",
+    "trans": [
+      "adj. 会飞的，迅速的"
+    ],
+    "usphone": "[ˈvoʊlənt]",
+    "ukphone": "[ˈvəʊlənt]"
+  },
+  {
+    "name": "vermicide",
+    "trans": [
+      "n. 驱虫剂，打虫药; 杀肠虫药; 杀蠕虫药"
+    ],
+    "usphone": "[ˈvɜːrmɪˌsaɪd]",
+    "ukphone": "[ˈvɜːmɪˌsaɪd]"
+  },
+  {
+    "name": "vegetal",
+    "trans": [
+      "n. 植物；蔬菜",
+      "adj. 植物的，植物性的；生长的"
+    ],
+    "usphone": "[ˈvedʒət(ə)l]",
+    "ukphone": "[ˈvedʒət(ə)l]"
+  },
+  {
+    "name": "vinery",
+    "trans": [
+      "n. 葡萄园，葡萄温室"
+    ],
+    "usphone": "[ˈvaɪnəri]",
+    "ukphone": "[ˈvaɪnərɪ]"
+  },
+  {
+    "name": "valency",
+    "trans": [
+      "n. [化学] 化合价；[化学] 原子价"
+    ],
+    "usphone": "[ˈveɪlənsi]",
+    "ukphone": "[ˈveɪlənsi]"
+  },
+  {
+    "name": "Vanadium",
+    "trans": [
+      "n. [化学] 钒"
+    ],
+    "usphone": "[vəˈneɪdiəm]",
+    "ukphone": "[vəˈneɪdiəm]"
+  },
+  {
+    "name": "vernier",
+    "trans": [
+      "n. 游标（等于vernier scale）；微调发动机（等于vernier engine）",
+      "adj. 装游标的；有微调装置的"
+    ],
+    "usphone": "[ˈvɜːrnɪər]",
+    "ukphone": "[ˈvɜːnɪə(r)]"
+  },
+  {
+    "name": "vernier caliper",
+    "trans": [
+      "na. 游标卡尺"
+    ],
+    "usphone": "[ˈvɜrniər ˈkæləpər]",
+    "ukphone": "[ˈvɜːniər ˈkæləpər]"
+  },
+  {
+    "name": "voltmeter",
+    "trans": [
+      "n. [电] 伏特计，电压计"
+    ],
+    "usphone": "[ˈvoʊltmiːtər]",
+    "ukphone": "[ˈvəʊltmiːtə(r)]"
+  },
+  {
+    "name": "Victor",
+    "trans": [
+      "n. 胜利者"
+    ],
+    "usphone": "[ˈvɪktər]",
+    "ukphone": "[ˈvɪktə(r)]"
+  },
+  {
+    "name": "vocalise",
+    "trans": [
+      "v. 发声，元音化"
+    ],
+    "usphone": "[ˈvoʊkəlaɪz]",
+    "ukphone": "[ˈvəʊkəlaɪz]"
+  },
+  {
+    "name": "vibrator",
+    "trans": [
+      "n. 振动器；[电子] 振子；振动按摩器；振动滚筒；簧片"
+    ],
+    "usphone": "[ˈvaɪbreɪtər]",
+    "ukphone": "[vaɪˈbreɪtə(r)]"
+  },
+  {
+    "name": "valuables",
+    "trans": [
+      "n. 贵重物品"
+    ],
+    "usphone": "[ˈvæljuəblz]",
+    "ukphone": "[ˈvæljuəblz]"
+  },
+  {
+    "name": "v",
+    "trans": [
+      "n. 英语字母中的第二十二个字母",
+      "abbr. 钒（vanadium）；伏特（volt）"
+    ],
+    "usphone": "[viː]",
+    "ukphone": "[viː]"
+  },
+  {
+    "name": "vanadium",
+    "trans": [
+      "n. [化学] 钒"
+    ],
+    "usphone": "[vəˈneɪdiəm]",
+    "ukphone": "[vəˈneɪdiəm]"
+  },
+  {
+    "name": "violoncello",
+    "trans": [
+      "n. 大提琴"
+    ],
+    "usphone": "[ˌvaɪələnˈtʃeloʊ]",
+    "ukphone": "[ˌvaɪələnˈtʃeləʊ]"
+  },
+  {
+    "name": "voiced",
+    "trans": [
+      "v. 表达（voice的过去式和过去分词）；说出",
+      "adj. 浊音的；有声的"
+    ],
+    "usphone": "[vɔɪst]",
+    "ukphone": "[vɔɪst]"
+  },
+  {
+    "name": "volatilize",
+    "trans": [
+      "vt. 使挥发；使发散",
+      "vi. 挥发"
+    ],
+    "usphone": "[ˈvɑːlətəlˌaɪz]",
+    "ukphone": "[vɒˈlætɪˌlaɪz]"
+  },
+  {
+    "name": "vibrissa",
+    "trans": [
+      "n. 鼻毛，（猫等嘴边的）触须，（食虫鸟类等的）羽须"
+    ],
+    "usphone": "[vaɪˈbrɪsə]",
+    "ukphone": "[vaɪˈbrɪsə]"
+  },
+  {
+    "name": "vulgarian",
+    "trans": [
+      "n. 俗人；俗物；庸俗的暴发户"
+    ],
+    "usphone": "[vʌlˈɡeriən]",
+    "ukphone": "[vʌlˈɡeəriən]"
+  },
+  {
+    "name": "vivarium",
+    "trans": [
+      "n. 植物园；动物园"
+    ],
+    "usphone": "[vaɪˈveriəmˌvɪˈveriəm]",
+    "ukphone": "[vaɪˈveəriəm; vɪˈveəriəm]"
+  },
+  {
+    "name": "vagile",
+    "trans": [
+      "adj. 漫游的；自由活动的"
+    ],
+    "usphone": "[ˈvædʒəl]",
+    "ukphone": "[ˈveɪdʒaɪl]"
+  },
+  {
+    "name": "variform",
+    "trans": [
+      "adj. 形状不同的；有多种形态的"
+    ],
+    "usphone": "[ˈverɪˌfɔrm]",
+    "ukphone": "[ˈveərɪfɔːm]"
+  },
+  {
+    "name": "vehicular",
+    "trans": [
+      "adj. 车辆的；作为媒介的；用车辆运载的"
+    ],
+    "usphone": "[viːˈhɪkjələr]",
+    "ukphone": "[vəˈhɪkjələ(r)]"
+  },
+  {
+    "name": "verdancy",
+    "trans": [
+      "n. 翠绿, 新绿, 未成熟, 稚嫩, 不老练"
+    ],
+    "usphone": "['və:dənsi]",
+    "ukphone": "['və:dənsi]"
+  },
+  {
+    "name": "vitiation",
+    "trans": [
+      "n. 损害，败坏；无效"
+    ],
+    "usphone": "[ˌvɪʃɪˈeɪʃən]",
+    "ukphone": "[ˌvɪʃɪˈeɪʃən]"
+  },
+  {
+    "name": "vulgus",
+    "trans": [
+      "n. 拉丁文或希腊文的作诗作业"
+    ],
+    "usphone": "[ˈvʌlɡəs]",
+    "ukphone": "[ˈvʌlɡəs]"
+  },
+  {
+    "name": "vulturine",
+    "trans": [
+      "adj. 秃鹫似的；贪婪的；掠夺成性的"
+    ],
+    "usphone": "[ˈvʌltʃəˌraɪn]",
+    "ukphone": "[ˈvʌltʃʊraɪn]"
+  },
+  {
+    "name": "violator",
+    "trans": [
+      "n. 违背者；违反者；妨碍者"
+    ],
+    "usphone": "[ˈvaɪəleɪtər]",
+    "ukphone": "[ˈvaɪəleɪtə(r)]"
+  },
+  {
+    "name": "vagaries",
+    "trans": [
+      "n. 异常行为（vagary的复数形式）；奇特"
+    ],
+    "usphone": "[ˈveɪɡəriz]",
+    "ukphone": "[ˈveɪɡəriz]"
+  },
+  {
+    "name": "vanquished",
+    "trans": [
+      "adj. 被征服的",
+      "v. 征服（vanquish的过去式）"
+    ],
+    "usphone": "[ˈvæŋkwɪʃt]",
+    "ukphone": "[ˈvæŋkwɪʃt]"
+  },
+  {
+    "name": "video-game",
+    "trans": [
+      "视频游戏；电视游戏"
+    ],
+    "usphone": "[ˈvɪdioʊ ɡeɪm]",
+    "ukphone": "[ˈvɪdiəʊ ɡeɪm]"
+  },
+  {
+    "name": "voraciously",
+    "trans": [
+      "adv. 狼吞虎咽地；贪得无厌地"
+    ],
+    "usphone": "[vəˈreɪʃəsli]",
+    "ukphone": "[vəˈreɪʃəsli]"
+  },
+  {
+    "name": "vulgarization",
+    "trans": [
+      "n. 通俗化；粗俗化"
+    ],
+    "usphone": "[ˌvʌlɡərəˈzeɪʃn]",
+    "ukphone": "[ˌvʌlɡəraɪˈzeɪʃn]"
+  },
+  {
+    "name": "vanishing point",
+    "trans": [
+      "n. 灭点"
+    ],
+    "usphone": "[ˈvænɪʃɪŋ pɔɪnt]",
+    "ukphone": "[ˈvænɪʃɪŋ pɔɪnt]"
+  },
+  {
+    "name": "vectoring",
+    "trans": [
+      "n. 引导，定向，定航向"
+    ],
+    "usphone": "[ˈvektərɪŋ]",
+    "ukphone": "[ˈvektərɪŋ]"
+  },
+  {
+    "name": "viatical",
+    "trans": [
+      "n. 旅行必需品（尤指行军的辎重）"
+    ],
+    "usphone": "[vaɪˈætəkəl]",
+    "ukphone": "[vaɪˈætɪkəl]"
+  },
+  {
+    "name": "viaticum",
+    "trans": [
+      "n. 旅费，临终的圣餐"
+    ],
+    "usphone": "[vaɪˈætɪkəm]",
+    "ukphone": "[vaɪˈætɪkəm]"
+  },
+  {
+    "name": "virilism",
+    "trans": [
+      "n. [生理] 男性化；[医] 男性化现象"
+    ],
+    "usphone": "[ˈvɪrəlˌɪzm]",
+    "ukphone": "[ˈvɪrɪlɪz(ə)m]"
+  },
+  {
+    "name": "volution",
+    "trans": [
+      "n. 涡旋; 螺旋形; 旋圈; 螺环"
+    ],
+    "usphone": "[vəˈljʊʃən]",
+    "ukphone": "[vəˈl(j)uːʃ(ə)n]"
+  },
+  {
+    "name": "vassal",
+    "trans": [
+      "n. 诸侯；封臣",
+      "adj. 臣属的"
+    ],
+    "usphone": "[ˈvæsl]",
+    "ukphone": "[ˈvæsl]"
+  },
+  {
+    "name": "victuals",
+    "trans": [
+      "n. 食物，食品；给养"
+    ],
+    "usphone": "[ˈvɪtlz]",
+    "ukphone": "[ˈvɪtlz]"
+  },
+  {
+    "name": "Vienna",
+    "trans": [
+      "n. 维也纳（奥地利首都）"
+    ],
+    "usphone": "[viˈenə]",
+    "ukphone": "[viˈenə]"
+  },
+  {
+    "name": "ventiduct",
+    "trans": [
+      "n. [建] 通风管"
+    ],
+    "usphone": "[ˈventɪˌdʌkt]",
+    "ukphone": "[ˈventɪdʌkt]"
+  }
+]

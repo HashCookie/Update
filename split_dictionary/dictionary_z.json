@@ -1,0 +1,558 @@
+[
+  {
+    "name": "zeal",
+    "trans": [
+      "n. 热情；热心；热诚"
+    ],
+    "usphone": "[ziːl]",
+    "ukphone": "[ziːl]"
+  },
+  {
+    "name": "zone",
+    "trans": [
+      " [地名] 地带、地区（德语）"
+    ],
+    "usphone": "[zoʊn]",
+    "ukphone": "[zəʊn]"
+  },
+  {
+    "name": "zip",
+    "trans": [
+      "n. 拉链; 精力，活力; 尖啸声; 一种程序压缩格式",
+      "vt. 给予…速度; 用拉链拉上或扣上",
+      "vt.& vi. 尖啸而过; （使沿某方向）快速移动"
+    ],
+    "usphone": "[zɪp]",
+    "ukphone": "[zɪp]"
+  },
+  {
+    "name": "zoom",
+    "trans": [
+      "vi. 嗡嗡作响; 急速上升",
+      "n. 嗡嗡声; 隆隆声; （车辆等）疾驰的声音; 变焦",
+      "vt. 使急速上升; 使猛增"
+    ],
+    "usphone": "[zuːm]",
+    "ukphone": "[zuːm]"
+  },
+  {
+    "name": "zebra",
+    "trans": [
+      "n. [脊椎] 斑马",
+      "adj. 有斑纹的"
+    ],
+    "usphone": "[ˈziːbrə]",
+    "ukphone": "[ˈzebrə]"
+  },
+  {
+    "name": "zero",
+    "trans": [
+      "num. 零",
+      "n. 零点，零度"
+    ],
+    "usphone": "[ˈzɪroʊ]",
+    "ukphone": "[ˈzɪərəʊ]"
+  },
+  {
+    "name": "zigzag",
+    "trans": [
+      "n. 之字形；Z字形",
+      "vt. 使成之字形；使曲折行进",
+      "vi. 曲折行进；作之字形行进",
+      "adj. 曲折的；锯齿形的；之字形的",
+      "adv. 曲折地；之字形地；Z字形地"
+    ],
+    "usphone": "[ˈzɪɡzæɡ]",
+    "ukphone": "[ˈzɪɡzæɡ]"
+  },
+  {
+    "name": "zoo",
+    "trans": [
+      "n. 动物园; <美俚>（铁路货车的最后一节）守车; <美俚>核粒子园"
+    ],
+    "usphone": "[zuː]",
+    "ukphone": "[zuː]"
+  },
+  {
+    "name": "zinc",
+    "trans": [
+      "n. [化]锌",
+      "vt. 镀锌于…; 在…上镀锌"
+    ],
+    "usphone": "[zɪŋk]",
+    "ukphone": "[zɪŋk]"
+  },
+  {
+    "name": "zealous",
+    "trans": [
+      "adj. 热心的，热情的，积极的"
+    ],
+    "usphone": "[ˈzeləs]",
+    "ukphone": "[ˈzeləs]"
+  },
+  {
+    "name": "zipper",
+    "trans": [
+      " [人名] 齐珀"
+    ],
+    "usphone": "[ˈzɪpər]",
+    "ukphone": "[ˈzɪpə(r)]"
+  },
+  {
+    "name": "zoology",
+    "trans": [
+      "n. 动物学，动物学课程; （某一地区的）全部动物，（某种动物的）动物特性[特征]"
+    ],
+    "usphone": "[zuˈɑːlədʒi]",
+    "ukphone": "[zuˈɒlədʒi; zəʊˈɒlədʒi]"
+  },
+  {
+    "name": "zoological",
+    "trans": [
+      "adj. 动物的，动物学的",
+      "n. 动物园"
+    ],
+    "usphone": "[ˌzuːəˈlɑːdʒɪk(ə)l]",
+    "ukphone": "[ˌzuːəˈlɒdʒɪk(ə)l]"
+  },
+  {
+    "name": "zoologist",
+    "trans": [
+      "n. 动物学家"
+    ],
+    "usphone": "[zuˈɑːlədʒɪstˌzoʊˈɑːlədʒɪst]",
+    "ukphone": "[zuˈɒlədʒɪst; zəʊˈɒlədʒɪst]"
+  },
+  {
+    "name": "zest",
+    "trans": [
+      "n. 风味；热心；强烈的兴趣",
+      "vt. 给…调味"
+    ],
+    "usphone": "[zest]",
+    "ukphone": "[zest]"
+  },
+  {
+    "name": "zenith",
+    "trans": [
+      "n. 顶峰；顶点；最高点",
+      "n. 真力时（瑞士名表）"
+    ],
+    "usphone": "[ˈziːnɪθ]",
+    "ukphone": "[ˈzenɪθ]"
+  },
+  {
+    "name": "zany",
+    "trans": [
+      "n. 小丑；笨人；马屁精",
+      "adj. 滑稽的；古怪的；愚蠢的"
+    ],
+    "usphone": "[ˈzeɪni]",
+    "ukphone": "[ˈzeɪni]"
+  },
+  {
+    "name": "zealot",
+    "trans": [
+      "n. 狂热者；犹太教狂热信徒"
+    ],
+    "usphone": "[ˈzelət]",
+    "ukphone": "[ˈzelət]"
+  },
+  {
+    "name": "Zionism",
+    "trans": [
+      "n.犹太复国主义, 犹太复国运动"
+    ],
+    "usphone": "[ˈzaɪənɪzəm]",
+    "ukphone": "[ˈzaɪənɪzəm]"
+  },
+  {
+    "name": "Zulu",
+    "trans": [
+      "n. 祖鲁语；祖鲁人"
+    ],
+    "usphone": "[ˈzuːluː]",
+    "ukphone": "[ˈzuːluː]"
+  },
+  {
+    "name": "zoning",
+    "trans": [
+      "n. （城市规划中分成工厂区、住宅区等的）分区制; 成区; 分带"
+    ],
+    "usphone": "[ˈzoʊnɪŋ]",
+    "ukphone": "[ˈzəʊnɪŋ]"
+  },
+  {
+    "name": "zing",
+    "trans": [
+      "vt.& vi. <非正> （使）呼啸疾行; 轻快，活泼",
+      "vt. 攻击",
+      "n. 活力; <非正> 兴趣; <俚><拟声语>尖啸声; 精神"
+    ],
+    "usphone": "[zɪŋ]",
+    "ukphone": "[zɪŋ]"
+  },
+  {
+    "name": "zodiac",
+    "trans": [
+      "n. 黄道带; 黄道十二宫图; <罕>一圈"
+    ],
+    "usphone": "[ˈzoʊdiæk]",
+    "ukphone": "[ˈzəʊdiæk]"
+  },
+  {
+    "name": "Zoe",
+    "trans": [
+      "v. 指控某人逃漏税",
+      "abbr. zero energy 零能量; 零功率; 起始能量; zinc oxide-eugenol 氧化锌-丁香粉"
+    ],
+    "usphone": "['zəui]",
+    "ukphone": "['zəui]"
+  },
+  {
+    "name": "zesty",
+    "trans": [
+      "adj. 兴致很高的",
+      "vt. 给…增兴趣"
+    ],
+    "usphone": "[ˈzesti]",
+    "ukphone": "[ˈzesti]"
+  },
+  {
+    "name": "zoom lens",
+    "trans": [
+      "n. 变焦镜头"
+    ],
+    "usphone": "[ˈzuːm lenz]",
+    "ukphone": "[ˈzuːm lenz]"
+  },
+  {
+    "name": "zinger",
+    "trans": [
+      "n. 有力地驳斥;  击中要害的话; 意想不到的事;  令人震惊的事"
+    ],
+    "usphone": "[ˈzɪŋər]",
+    "ukphone": "[ˈzɪŋə(r)]"
+  },
+  {
+    "name": "zap",
+    "trans": [
+      "n. 活力；意志；杀死；震击",
+      "vt. 攻击；打败；快速推动",
+      "int. 咝！；糟了！",
+      "vi. 快速移动"
+    ],
+    "usphone": "[zæp]",
+    "ukphone": "[zæp]"
+  },
+  {
+    "name": "zoom in",
+    "trans": [
+      "un. 放大；移向目标"
+    ],
+    "usphone": "[zuːm ɪn]",
+    "ukphone": "[zuːm ɪn]"
+  },
+  {
+    "name": "Zen",
+    "trans": [
+      "n. 禅；禅宗；禅宗信徒（等于Zen Buddhism）"
+    ],
+    "usphone": "[zen]",
+    "ukphone": "[zen]"
+  },
+  {
+    "name": "zephyr",
+    "trans": [
+      "n. 和风；西风；轻薄织物"
+    ],
+    "usphone": "[ˈzefər]",
+    "ukphone": "[ˈzefə(r)]"
+  },
+  {
+    "name": "zealotry",
+    "trans": [
+      "n. 狂热的行为；狂言；狂热"
+    ],
+    "usphone": "[ˈzelətri]",
+    "ukphone": "[ˈzelətri]"
+  },
+  {
+    "name": "Zimbabwe",
+    "trans": [
+      "n. 津巴布韦（国家名，位于非洲）"
+    ],
+    "usphone": "[zɪmˈbɑːbweɪ; zɪmˈbɑːbwi]",
+    "ukphone": "[zɪmˈbɑːbweɪ; zɪmˈbɑːbwi]"
+  },
+  {
+    "name": "zither",
+    "trans": [
+      "n. 筝，齐特琴，扁琴"
+    ],
+    "usphone": "[ˈzɪðər]",
+    "ukphone": "[ˈzɪðə(r)]"
+  },
+  {
+    "name": "zeitgeist",
+    "trans": [
+      "n. 时代思潮，时代精神"
+    ],
+    "usphone": "[ˈzaɪtɡaɪst]",
+    "ukphone": "[ˈzaɪtɡaɪst]"
+  },
+  {
+    "name": "Zaire",
+    "trans": [
+      "n. 扎伊尔（非洲中西部一共和国）"
+    ],
+    "usphone": "[zaɪə]",
+    "ukphone": "[zaɪˈɪə]"
+  },
+  {
+    "name": "Zealand",
+    "trans": [
+      "n. 西兰岛（丹麦最大的岛）"
+    ],
+    "usphone": "[ˈziːlənd]",
+    "ukphone": "[ˈziːlənd]"
+  },
+  {
+    "name": "Zurich",
+    "trans": [
+      "n. 苏黎士"
+    ],
+    "usphone": "[ˈzʊrɪk]",
+    "ukphone": "['zʊərɪk]"
+  },
+  {
+    "name": "zilch",
+    "trans": [
+      "n. 零，无；无价值之物；小人物"
+    ],
+    "usphone": "[zɪltʃ]",
+    "ukphone": "[zɪltʃ]"
+  },
+  {
+    "name": "zircon",
+    "trans": [
+      "n. 锆石"
+    ],
+    "usphone": "[ˈzɜːrkɑn]",
+    "ukphone": "[ˈzɜːkɒn]"
+  },
+  {
+    "name": "zedoary",
+    "trans": [
+      "n. 莪木，片姜黄"
+    ],
+    "usphone": "[ˈzedoʊˌeri]",
+    "ukphone": "[ˈzedəʊəri]"
+  },
+  {
+    "name": "zein",
+    "trans": [
+      " [人名] 蔡恩"
+    ],
+    "usphone": "[ˈziɪn]",
+    "ukphone": "[ˈziːɪn]"
+  },
+  {
+    "name": "zoster",
+    "trans": [
+      "n. 带，带状疹子"
+    ],
+    "usphone": "[ˈzɑːstər]",
+    "ukphone": "[ˈzɒstə(r)]"
+  },
+  {
+    "name": "zwitterion",
+    "trans": [
+      "n. 两性离子",
+      "[化] 两性离子"
+    ],
+    "usphone": "[ˈzwɪtərˌaɪɑːn]",
+    "ukphone": "[ˈtsvɪtəraɪən]"
+  },
+  {
+    "name": "zygoma",
+    "trans": [
+      "n. 颊骨, 颧骨, 颞骨突起",
+      "[医] 颧骨; 颧弓"
+    ],
+    "usphone": "[zɪˈɡomər]",
+    "ukphone": "[zaɪˈɡəʊmə; zɪɡ-]"
+  },
+  {
+    "name": "zygote",
+    "trans": [
+      "n. 合子, 受精卵",
+      "[医] 合子"
+    ],
+    "usphone": "[ˈzaɪɡoʊt]",
+    "ukphone": "[ˈzaɪɡəʊt]"
+  },
+  {
+    "name": "zygotene",
+    "trans": [
+      "n. [生](细胞减数分裂前期的)偶线期,合线期"
+    ],
+    "usphone": "[ˈzɪɡotin]",
+    "ukphone": "[ˈzaɪgə(ʊ)tiːn]"
+  },
+  {
+    "name": "zymogen",
+    "trans": [
+      "n. 酶原, 发酵性细菌",
+      "[化] 酶原"
+    ],
+    "usphone": "[ˈzaɪmədʒən]",
+    "ukphone": "[ˈzaɪməʊˌdʒen]"
+  },
+  {
+    "name": "zymolysis",
+    "trans": [
+      "n. 发酵, 酶解(作用)",
+      "[化] 酶解; 酶解作用; 发酵"
+    ],
+    "usphone": "[zaɪˈmɑːləsɪs]",
+    "ukphone": "[zaɪˈmɒlɪsɪs]"
+  },
+  {
+    "name": "zoomorphic",
+    "trans": [
+      "adj. 动物形像的，表现动物形像的; 兽形"
+    ],
+    "usphone": "[ˌzoəˈmɔrfɪk]",
+    "ukphone": "[ˌzuːə(ʊ)ˈmɔːfɪk; ˌzəʊə(ʊ)-; zuːˈmɔːfɪk]"
+  },
+  {
+    "name": "zero-sum",
+    "trans": [
+      "adj. 零和的"
+    ],
+    "usphone": "[ˈziroˈsʌm]",
+    "ukphone": "['ziərəu'sʌm, 'zi:-]"
+  },
+  {
+    "name": "zapper",
+    "trans": [
+      "n. 微波灭虫器；微波除草器；电视的遥控器；使用电视遥控器的人"
+    ],
+    "usphone": "[ˈzæpər]",
+    "ukphone": "[ˈzæpə(r)]"
+  },
+  {
+    "name": "zucchini",
+    "trans": [
+      "n. 夏季产南瓜之一种; (US) N [C/U] 绿皮密生西葫芦 [英=courgette]"
+    ],
+    "usphone": "[zuˈkiːni]",
+    "ukphone": "[zuˈkiːni]"
+  },
+  {
+    "name": "zombie",
+    "trans": [
+      "n. （某些非洲和加勒比地区的宗教及恐怖故事中）靠巫术起死回生的僵尸; 无生气的人，麻木迟钝的人"
+    ],
+    "usphone": "[ˈzɑːmbi]",
+    "ukphone": "[ˈzɒmbi]"
+  },
+  {
+    "name": "Zambia",
+    "trans": [
+      "n. 赞比亚（非洲中南部国）"
+    ],
+    "usphone": "[ˈzæmbiə]",
+    "ukphone": "[ˈzæmbiə]"
+  },
+  {
+    "name": "zombify",
+    "trans": [
+      "vt. <口>使失去活力"
+    ],
+    "usphone": "[ˈzɑːmbəˌfaɪ]",
+    "ukphone": "[ˈzɒmbɪˌfaɪ]"
+  },
+  {
+    "name": "zip up",
+    "trans": [
+      "na. 打气"
+    ],
+    "usphone": "[ˈzɪp ʌp]",
+    "ukphone": "[ˈzɪp ʌp]"
+  },
+  {
+    "name": "Zirconium",
+    "trans": [
+      "n. 锆"
+    ],
+    "usphone": "[zɜːrˈkoʊniəm]",
+    "ukphone": "[zɜːˈkəʊniəm]"
+  },
+  {
+    "name": "zoophilous",
+    "trans": [
+      "adj. 由小动物传播的，爱护动物的"
+    ],
+    "usphone": "[zoˈɑfələs]",
+    "ukphone": "[zəʊˈɒfɪləs]"
+  },
+  {
+    "name": "zoonosis",
+    "trans": [
+      "n. 动物传染病"
+    ],
+    "usphone": "[ˌzoʊəˈnoʊsɪs; zoʊˈɑːnəsɪs]",
+    "ukphone": "[zəʊˈɒnəsɪs]"
+  },
+  {
+    "name": "zymotic",
+    "trans": [
+      "a. 发酵的, 引起发酵的, 发酵病的",
+      "[医] 发酵的, 发酵病的, 传染病的"
+    ],
+    "usphone": "[zai'mɔtik]",
+    "ukphone": "[zaɪˈmɒtɪk]"
+  },
+  {
+    "name": "zonular",
+    "trans": [
+      "adj. 小带的，小带状的"
+    ],
+    "usphone": "[ˈzoʊnjələr]",
+    "ukphone": "[ˈzəʊnjʊlə(r)]"
+  },
+  {
+    "name": "zoic",
+    "trans": [
+      "adj. 动物的; 有生物的; 动物生活的; 含化石的"
+    ],
+    "usphone": "[ˈzoʊɪk]",
+    "ukphone": "[ˈzəʊɪk]"
+  },
+  {
+    "name": "zootomy",
+    "trans": [
+      "n. 比较解剖学，动物解剖学"
+    ],
+    "usphone": "[zoʊˈɑːtəmi]",
+    "ukphone": "[zəʊˈɒtəmi]"
+  },
+  {
+    "name": "zooplankton",
+    "trans": [
+      "n. 浮游动物"
+    ],
+    "usphone": "[ˌzuːəˈplæŋktən; ˌzoʊəˈplæŋktən]",
+    "ukphone": "[ˌzuːəˈplæŋktən; ˌzəʊəˈplæŋktən]"
+  },
+  {
+    "name": "zoogenic",
+    "trans": [
+      "adj. 由动物传染的，源于动物的"
+    ],
+    "usphone": "[ˌzaɪməˈdʒenɪk]",
+    "ukphone": "[ˌzənəˈdʒenɪk]"
+  }
+]

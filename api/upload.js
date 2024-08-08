@@ -35,25 +35,25 @@ function validateJsonFormat(jsonContent) {
 }
 
 // 从字典中获取翻译
-async function getTranslationsFromDictionary() {
+async function getTranslationsFromDictionary(letter) {
   try {
+    const dictionaryPath = `split_dictionary/dictionary_${letter}.json`;
     const { data } = await octokit.repos.getContent({
       owner: "HashCookie",
       repo: "Update",
-      path: "dictionary.json",
+      path: dictionaryPath,
       ref: "main",
     });
     const content = Buffer.from(data.content, 'base64').toString('utf-8');
-    console.log("Raw dictionary content:", content.substring(0, 200) + "..."); // 打印前200个字符
     const dictionary = JSON.parse(content);
-    console.log("Dictionary loaded successfully. Sample entries:", dictionary.slice(0, 5));
+    console.log(`Dictionary for letter '${letter}' loaded successfully. Sample entries:`, dictionary.slice(0, 5));
     // 将字典转换为以 name 为键的对象，同时转换为小写
     return dictionary.reduce((acc, item) => {
       acc[item.name.toLowerCase()] = item;
       return acc;
     }, {});
   } catch (error) {
-    console.error("Error fetching dictionary:", error);
+    console.error(`Error fetching dictionary for letter '${letter}':`, error);
     console.error("Error details:", error.message);
     return {};
   }
@@ -61,13 +61,9 @@ async function getTranslationsFromDictionary() {
 
 // 转换文件内容为所需的 JSON 格式
 async function convertToRequiredFormat(fileContent, fileType) {
-  const dictionary = await getTranslationsFromDictionary();
-  console.log("Dictionary keys:", Object.keys(dictionary).slice(0, 10));
-
   let words;
 
   if (fileType === 'txt') {
-    // 确保 fileContent 是字符串
     const content = fileContent.toString('utf-8');
     words = content.split('\n').filter(word => word.trim() !== '');
   } else if (fileType === 'xlsx') {
@@ -81,28 +77,33 @@ async function convertToRequiredFormat(fileContent, fileType) {
 
   console.log("Words to process:", words);
 
-  return words.map(word => {
+  const result = [];
+  for (const word of words) {
     const trimmedWord = word.trim().toLowerCase();
     console.log(`Processing word: "${trimmedWord}"`);
-    const dictEntry = dictionary[trimmedWord];
+    const firstLetter = trimmedWord[0];
+    const letterDictionary = await getTranslationsFromDictionary(firstLetter);
+    const dictEntry = letterDictionary[trimmedWord];
     if (dictEntry) {
       console.log(`Translation found for "${trimmedWord}":`, dictEntry);
-      return {
+      result.push({
         name: trimmedWord,
         trans: dictEntry.trans,
         usphone: dictEntry.usphone || "",
         ukphone: dictEntry.ukphone || ""
-      };
+      });
     } else {
       console.log(`No translation found for "${trimmedWord}"`);
-      return {
+      result.push({
         name: trimmedWord,
         trans: ["未在字典中找到翻译"],
         usphone: "",
         ukphone: ""
-      };
+      });
     }
-  });
+  }
+
+  return result;
 }
 
 export default async function handler(req, res) {

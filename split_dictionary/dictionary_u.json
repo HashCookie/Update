@@ -1,0 +1,9265 @@
+[
+  {
+    "name": "unremarked",
+    "trans": [
+      "adj. 未被注意的",
+      "未被注意的"
+    ],
+    "usphone": "[ˌʌnrɪˈmɑːrkt]",
+    "ukphone": "[ˌʌnrɪˈmɑːkt]"
+  },
+  {
+    "name": "uneconomic",
+    "trans": [
+      "adj. 不经济的；浪费的"
+    ],
+    "usphone": "[ˌʌnˌiːkəˈnɑːmɪkˌˌʌnˌekəˈnɑːmɪk]",
+    "ukphone": "[ˌʌnˌiːkəˈnɒmɪk; ˌʌnˌekəˈnɒmɪk]"
+  },
+  {
+    "name": "unbelievable",
+    "trans": [
+      "adj. 难以置信的；不可信的"
+    ],
+    "usphone": "[ˌʌnbɪˈliːvəbl]",
+    "ukphone": "[ˌʌnbɪˈliːvəbl]"
+  },
+  {
+    "name": "uniform",
+    "trans": [
+      "n. 制服",
+      "adj. 统一的；一致的；相同的；均衡的；始终如一的",
+      "vt. 使穿制服；使成一样"
+    ],
+    "usphone": "[ˈjuːnɪfɔːrm]",
+    "ukphone": "[ˈjuːnɪfɔːm]"
+  },
+  {
+    "name": "uniformity",
+    "trans": [
+      "n. 均匀性；一致；同样"
+    ],
+    "usphone": "[ˌjuːnɪˈfɔːrməti]",
+    "ukphone": "[ˌjuːnɪˈfɔːməti]"
+  },
+  {
+    "name": "underestimate",
+    "trans": [
+      "n. 低估",
+      "vt. 低估；看轻"
+    ],
+    "usphone": "[ˌʌndərˈestɪmeɪt]",
+    "ukphone": "[ˌʌndərˈestɪmeɪt]"
+  },
+  {
+    "name": "unconcerned",
+    "trans": [
+      "adj. 不关心的；无关的；无忧虑的"
+    ],
+    "usphone": "[ˌʌnkənˈsɜːrnd]",
+    "ukphone": "[ˌʌnkənˈsɜːnd]"
+  },
+  {
+    "name": "unimpressive",
+    "trans": [
+      "adj. 无印象的；给人印象不深的；不惹人注意的"
+    ],
+    "usphone": "[ˌʌnɪmˈpresɪv]",
+    "ukphone": "[ˌʌnɪmˈpresɪv]"
+  },
+  {
+    "name": "undeveloped",
+    "trans": [
+      "adj. 未开发的；不发达的；未充分发育的"
+    ],
+    "usphone": "[ˌʌndɪˈveləpt]",
+    "ukphone": "[ˌʌndɪˈveləpt]"
+  },
+  {
+    "name": "unintentional",
+    "trans": [
+      "adj. 非故意的；无意识的"
+    ],
+    "usphone": "[ˌʌnɪnˈtenʃənl]",
+    "ukphone": "[ˌʌnɪnˈtenʃənl]"
+  },
+  {
+    "name": "unintentionally",
+    "trans": [
+      "adv. 无意地；非故意地；非存心地"
+    ],
+    "usphone": "[ˌʌnɪnˈtenʃənəli]",
+    "ukphone": "[ˌʌnɪnˈtenʃənəli]"
+  },
+  {
+    "name": "unaccountably",
+    "trans": [
+      "adv. 不能说明地；不可解释地；无责任的"
+    ],
+    "usphone": "[ˌʌnəˈkaʊntəbli]",
+    "ukphone": "[ˌʌnəˈkaʊntəbli]"
+  },
+  {
+    "name": "unite",
+    "trans": [
+      "vi. 团结；联合；混合",
+      "vt. 使…混合；使…联合；使…团结"
+    ],
+    "usphone": "[juˈnaɪt]",
+    "ukphone": "[juˈnaɪt]"
+  },
+  {
+    "name": "unity",
+    "trans": [
+      "n. 团结；一致；联合；个体"
+    ],
+    "usphone": "[ˈjuːnəti]",
+    "ukphone": "[ˈjuːnəti]"
+  },
+  {
+    "name": "unify",
+    "trans": [
+      "vt. 统一；使相同，使一致"
+    ],
+    "usphone": "[ˈjuːnɪfaɪ]",
+    "ukphone": "[ˈjuːnɪfaɪ]"
+  },
+  {
+    "name": "union",
+    "trans": [
+      "n. 联盟，协会；工会；联合"
+    ],
+    "usphone": "[ˈjuːniən]",
+    "ukphone": "[ˈjuːniən]"
+  },
+  {
+    "name": "unique",
+    "trans": [
+      "n. 独一无二的人或物",
+      "adj. 独特的，稀罕的；[数] 唯一的，独一无二的"
+    ],
+    "usphone": "[juˈniːk]",
+    "ukphone": "[juˈniːk]"
+  },
+  {
+    "name": "unanimous",
+    "trans": [
+      "adj. 全体一致的；意见一致的；无异议的"
+    ],
+    "usphone": "[juˈnænɪməs]",
+    "ukphone": "[juˈnænɪməs]"
+  },
+  {
+    "name": "unnatural",
+    "trans": [
+      "adj. 不自然的；反常的；不近人情的"
+    ],
+    "usphone": "[ʌnˈnætʃrəl]",
+    "ukphone": "[ʌnˈnætʃrəl]"
+  },
+  {
+    "name": "unsurpassed",
+    "trans": [
+      "adj. 非常卓越的；未被超越的"
+    ],
+    "usphone": "[ˌʌnsərˈpæst]",
+    "ukphone": "[ˌʌnsəˈpɑːst]"
+  },
+  {
+    "name": "unavoidable",
+    "trans": [
+      "adj. 不可避免的；不能废除的"
+    ],
+    "usphone": "[ˌʌnəˈvɔɪdəbl]",
+    "ukphone": "[ˌʌnəˈvɔɪdəb(ə)l]"
+  },
+  {
+    "name": "unnecessary",
+    "trans": [
+      "adj. 不必要的；多余的，无用的"
+    ],
+    "usphone": "[ʌnˈnesəseri]",
+    "ukphone": "[ʌnˈnesəsəri]"
+  },
+  {
+    "name": "uncertain",
+    "trans": [
+      "adj. 无常的；含糊的；靠不住的；迟疑不决的"
+    ],
+    "usphone": "[ʌnˈsɜːrtn]",
+    "ukphone": "[ʌnˈsɜːt(ə)n]"
+  },
+  {
+    "name": "uncertainty",
+    "trans": [
+      "n. 不确定，不可靠"
+    ],
+    "usphone": "[ʌnˈsɜːrtnti]",
+    "ukphone": "[ʌnˈsɜːt(ə)nti]"
+  },
+  {
+    "name": "underline",
+    "trans": [
+      "n. 下划线；下期节目预告",
+      "vt. 强调；在…下面划线；预告"
+    ],
+    "usphone": "[ˌʌndərˈlaɪn]",
+    "ukphone": "[ˌʌndəˈlaɪn]"
+  },
+  {
+    "name": "uncover",
+    "trans": [
+      "vt. 发现；揭开；揭露",
+      "vi. 发现；揭示；揭去盖子"
+    ],
+    "usphone": "[ʌnˈkʌvər]",
+    "ukphone": "[ʌnˈkʌvə(r)]"
+  },
+  {
+    "name": "undercover",
+    "trans": [
+      "adj. 秘密的，秘密从事的；从事间谍活动的"
+    ],
+    "usphone": "[ˌʌndərˈkʌvər]",
+    "ukphone": "[ˌʌndəˈkʌvə(r)]"
+  },
+  {
+    "name": "upset",
+    "trans": [
+      "n. 混乱；翻倒；颠覆",
+      "adj. 心烦的；混乱的；弄翻的",
+      "vt. 使心烦；颠覆；扰乱",
+      "vi. 翻倒"
+    ],
+    "usphone": "[ˌʌpˈset]",
+    "ukphone": "[ˌʌpˈset]"
+  },
+  {
+    "name": "upsetting",
+    "trans": [
+      "n. 缩锻，镦锻；倾复，倒转",
+      "adj. 令人心烦意乱的，令人苦恼的"
+    ],
+    "usphone": "[ʌpˈsetɪŋ]",
+    "ukphone": "[ʌpˈsetɪŋ]"
+  },
+  {
+    "name": "utmost",
+    "trans": [
+      "n. 极限；最大可能",
+      "adj. 极度的；最远的"
+    ],
+    "usphone": "[ˈʌtmoʊst]",
+    "ukphone": "[ˈʌtməʊst]"
+  },
+  {
+    "name": "understand",
+    "trans": [
+      "vi. 理解；懂得；熟悉",
+      "vt. 理解；懂；获悉；推断；省略"
+    ],
+    "usphone": "[ˌʌndərˈstænd]",
+    "ukphone": "[ˌʌndəˈstænd]"
+  },
+  {
+    "name": "understanding",
+    "trans": [
+      "n. 谅解，理解；理解力；协议",
+      "v. 理解；明白（understand的ing形式）",
+      "adj. 了解的；聪明的；有理解力的"
+    ],
+    "usphone": "[ˌʌndərˈstændɪŋ]",
+    "ukphone": "[ˌʌndəˈstændɪŋ]"
+  },
+  {
+    "name": "undergo",
+    "trans": [
+      "vt. 经历，经受；忍受"
+    ],
+    "usphone": "[ˌʌndərˈɡoʊ]",
+    "ukphone": "[ˌʌndəˈɡəʊ]"
+  },
+  {
+    "name": "underground",
+    "trans": [
+      "n. 地下；地铁；地道；地下组织；秘密活动；先锋派团体",
+      "adj. 地下的；秘密的；先锋派的",
+      "adv. 在地下；秘密地"
+    ],
+    "usphone": "[ˌʌndərˈɡraʊnd]",
+    "ukphone": "[ˌʌndəˈɡraʊnd]"
+  },
+  {
+    "name": "underlying",
+    "trans": [
+      "adj. 潜在的；根本的；在下面的；优先的",
+      "v. 放在…的下面；为…的基础；优先于（underlie的ing形式）"
+    ],
+    "usphone": "[ˌʌndərˈlaɪɪŋ]",
+    "ukphone": "[ˌʌndəˈlaɪɪŋ]"
+  },
+  {
+    "name": "unreliability",
+    "trans": [
+      "n. 不可靠，不可信赖；不安全"
+    ],
+    "usphone": "[ˌʌnrɪˌlaɪəˈbɪləti]",
+    "ukphone": "[ˌʌnrɪˌlaɪəˈbɪləti]"
+  },
+  {
+    "name": "unimaginable",
+    "trans": [
+      "adj. 不可思议的；难以想像的"
+    ],
+    "usphone": "[ˌʌnɪˈmædʒɪnəbl]",
+    "ukphone": "[ˌʌnɪˈmædʒɪnəbl]"
+  },
+  {
+    "name": "unrelated",
+    "trans": [
+      "adj. 无关的，不相干的"
+    ],
+    "usphone": "[ˌʌnrɪˈleɪtɪd]",
+    "ukphone": "[ˌʌnrɪˈleɪtɪd]"
+  },
+  {
+    "name": "unexpected",
+    "trans": [
+      "adj. 意外的，想不到的"
+    ],
+    "usphone": "[ˌʌnɪkˈspektɪd]",
+    "ukphone": "[ˌʌnɪkˈspektɪd]"
+  },
+  {
+    "name": "unrecognized",
+    "trans": [
+      "adj. 未被承认的；未被认出的；未被认可的"
+    ],
+    "usphone": "[ʌnˈrekəɡnaɪzd]",
+    "ukphone": "[ʌnˈrekəɡnaɪzd]"
+  },
+  {
+    "name": "unaffected",
+    "trans": [
+      "adj. 不受影响的；自然的；真挚的；不矫揉造作的"
+    ],
+    "usphone": "[ˌʌnəˈfektɪd]",
+    "ukphone": "[ˌʌnəˈfektɪd]"
+  },
+  {
+    "name": "undergraduate",
+    "trans": [
+      "n. 大学生；大学肄业生",
+      "adj. 大学生的"
+    ],
+    "usphone": "[ˌʌndərˈɡrædʒuət]",
+    "ukphone": "[ˌʌndəˈɡrædʒuət]"
+  },
+  {
+    "name": "upgrade",
+    "trans": [
+      "n. 升级；上升；上坡",
+      "vt. 使升级；提升；改良品种",
+      "adj. 向上的",
+      "adv. 往上"
+    ],
+    "usphone": "[ˈʌpɡreɪd]",
+    "ukphone": "[ˈʌpɡreɪd]"
+  },
+  {
+    "name": "unrealistic",
+    "trans": [
+      "adj. 不切实际的；不实在的"
+    ],
+    "usphone": "[ˌʌnriːəˈlɪstɪk]",
+    "ukphone": "[ˌʌnrɪəˈlɪstɪk]"
+  },
+  {
+    "name": "unsuitable",
+    "trans": [
+      "adj. 不适合的；不适宜的；不相称的"
+    ],
+    "usphone": "[ʌnˈsuːtəbl]",
+    "ukphone": "[ʌnˈsuːtəbl; ʌnˈsjuːtəbl]"
+  },
+  {
+    "name": "unless",
+    "trans": [
+      "conj. 除非，如果不",
+      "prep. 除…之外"
+    ],
+    "usphone": "[ənˈles]",
+    "ukphone": "[ənˈles]"
+  },
+  {
+    "name": "undermine",
+    "trans": [
+      "vt. 破坏，渐渐破坏；挖掘地基"
+    ],
+    "usphone": "[ˌʌndərˈmaɪn]",
+    "ukphone": "[ˌʌndəˈmaɪn]"
+  },
+  {
+    "name": "unemployed",
+    "trans": [
+      "adj. 失业的；未被利用的"
+    ],
+    "usphone": "[ˌʌnɪmˈplɔɪd]",
+    "ukphone": "[ˌʌnɪmˈplɔɪd]"
+  },
+  {
+    "name": "unemployment",
+    "trans": [
+      "n. 失业；失业率；失业人数"
+    ],
+    "usphone": "[ˌʌnɪmˈplɔɪmənt]",
+    "ukphone": "[ˌʌnɪmˈplɔɪmənt]"
+  },
+  {
+    "name": "unattractive",
+    "trans": [
+      "adj. 不吸引人注意的；没有魅力的；不美丽的"
+    ],
+    "usphone": "[ˌʌnəˈtræktɪv]",
+    "ukphone": "[ˌʌnəˈtræktɪv]"
+  },
+  {
+    "name": "undistracted",
+    "trans": [
+      "adj. 不分心的，注意力集中的，心神不烦乱的"
+    ],
+    "usphone": "['ʌndis'træktid]",
+    "ukphone": "[ʌndɪˈstræktɪd]"
+  },
+  {
+    "name": "unconscious",
+    "trans": [
+      "adj. 无意识的；失去知觉的；不省人事的；未发觉的"
+    ],
+    "usphone": "[ʌnˈkɑːnʃəs]",
+    "ukphone": "[ʌnˈkɒnʃəs]"
+  },
+  {
+    "name": "unconsciously",
+    "trans": [
+      "adv. 不知不觉；无意识地"
+    ],
+    "usphone": "[ʌnˈkɑːnʃəsli]",
+    "ukphone": "[ʌnˈkɒnʃəsli]"
+  },
+  {
+    "name": "unaware",
+    "trans": [
+      "adj. 不知道的，无意的；未察觉到的",
+      "adv. 意外地；不知不觉地"
+    ],
+    "usphone": "[ˌʌnəˈwer]",
+    "ukphone": "[ˌʌnəˈweə(r)]"
+  },
+  {
+    "name": "upheaval",
+    "trans": [
+      "n. 剧变；隆起；举起"
+    ],
+    "usphone": "[ʌpˈhiːvl]",
+    "ukphone": "[ʌpˈhiːv(ə)l]"
+  },
+  {
+    "name": "undoubted",
+    "trans": [
+      "adj. 无疑的；确实的"
+    ],
+    "usphone": "[ʌnˈdaʊtɪd]",
+    "ukphone": "[ʌnˈdaʊtɪd]"
+  },
+  {
+    "name": "undoubtedly",
+    "trans": [
+      "adv. 确实地，毋庸置疑的"
+    ],
+    "usphone": "[ʌnˈdaʊtɪdli]",
+    "ukphone": "[ʌnˈdaʊtɪdli]"
+  },
+  {
+    "name": "ultimate",
+    "trans": [
+      "n. 终极；根本；基本原则",
+      "adj. 最终的；极限的；根本的"
+    ],
+    "usphone": "[ˈʌltɪmət]",
+    "ukphone": "[ˈʌltɪmət]"
+  },
+  {
+    "name": "ultimately",
+    "trans": [
+      "adv. 最后；根本；基本上"
+    ],
+    "usphone": "[ˈʌltɪmətli]",
+    "ukphone": "[ˈʌltɪmətli]"
+  },
+  {
+    "name": "unpredictable",
+    "trans": [
+      "n. 不可预言的事",
+      "adj. 不可预知的；不定的；出乎意料的"
+    ],
+    "usphone": "[ˌʌnprɪˈdɪktəbl]",
+    "ukphone": "[ˌʌnprɪˈdɪktəbl]"
+  },
+  {
+    "name": "undesirable",
+    "trans": [
+      "n. 不良分子；不受欢迎的人",
+      "adj. 不良的；不受欢迎的；不合需要的"
+    ],
+    "usphone": "[ˌʌndɪˈzaɪərəbl]",
+    "ukphone": "[ˌʌndɪˈzaɪərəb(ə)l]"
+  },
+  {
+    "name": "uneasy",
+    "trans": [
+      "adj. 不舒服的；心神不安的；不稳定的"
+    ],
+    "usphone": "[ʌnˈiːzi]",
+    "ukphone": "[ʌnˈiːzi]"
+  },
+  {
+    "name": "unfavorable",
+    "trans": [
+      "adj. 不宜的；令人不快的；不顺利的"
+    ],
+    "usphone": "[ʌnˈfeɪvərəbl]",
+    "ukphone": "[ʌnˈfeɪvərəb(ə)l]"
+  },
+  {
+    "name": "unfavourable",
+    "trans": [
+      "adj. 不利的；不适宜的；反对的"
+    ],
+    "usphone": "[ʌnˈfeɪvərəbl]",
+    "ukphone": "[ʌnˈfeɪvərəbl]"
+  },
+  {
+    "name": "upward",
+    "trans": [
+      "adj. 向上的；上升的",
+      "adv. 向上"
+    ],
+    "usphone": "[ˈʌpwərd]",
+    "ukphone": "[ˈʌpwəd]"
+  },
+  {
+    "name": "update",
+    "trans": [
+      "n. 更新；现代化",
+      "vt. 更新；校正，修正；使现代化"
+    ],
+    "usphone": "[ˌʌpˈdeɪt]",
+    "ukphone": "[ˌʌpˈdeɪt]"
+  },
+  {
+    "name": "updated",
+    "trans": [
+      "v. 更新（update的过去式）",
+      "adj. 更新的；现代化的"
+    ],
+    "usphone": "[ˌʌpˈdeɪtɪd]",
+    "ukphone": "[ʌp'deɪtɪd]"
+  },
+  {
+    "name": "up-to-date",
+    "trans": [
+      "adj. 最新的，最近的；现代的，新式的"
+    ],
+    "usphone": "[ˌʌp tə ˈdeɪt]",
+    "ukphone": "[ˌʌp tə ˈdeɪt]"
+  },
+  {
+    "name": "urge",
+    "trans": [
+      "n. 强烈的欲望，迫切要求；推动力",
+      "vi. 强烈要求",
+      "vt. 力劝，催促；驱策，推进"
+    ],
+    "usphone": "[ɜːrdʒ]",
+    "ukphone": "[ɜːdʒ]"
+  },
+  {
+    "name": "urgent",
+    "trans": [
+      "adj. 紧急的；急迫的"
+    ],
+    "usphone": "[ˈɜːrdʒənt]",
+    "ukphone": "[ˈɜːdʒənt]"
+  },
+  {
+    "name": "urban",
+    "trans": [
+      "adj. 城市的；住在都市的"
+    ],
+    "usphone": "[ˈɜːrbən]",
+    "ukphone": "[ˈɜːbən]"
+  },
+  {
+    "name": "unlike",
+    "trans": [
+      "prep. 和…不同，不像",
+      "adj. 不同的，不相似的"
+    ],
+    "usphone": "[ˌʌnˈlaɪk]",
+    "ukphone": "[ˌʌnˈlaɪk]"
+  },
+  {
+    "name": "unlikely",
+    "trans": [
+      "adj. 不太可能的；没希望的",
+      "adv. 未必"
+    ],
+    "usphone": "[ʌnˈlaɪkli]",
+    "ukphone": "[ʌnˈlaɪkli]"
+  },
+  {
+    "name": "unfortunately",
+    "trans": [
+      "adv. 不幸地"
+    ],
+    "usphone": "[ʌnˈfɔːrtʃənətli]",
+    "ukphone": "[ʌnˈfɔːtʃənətli]"
+  },
+  {
+    "name": "unreasonable",
+    "trans": [
+      "adj. 不合理的；过度的；不切实际的；非理智的"
+    ],
+    "usphone": "[ʌnˈriːznəbl]",
+    "ukphone": "[ʌnˈriːz(ə)nəb(ə)l]"
+  },
+  {
+    "name": "universal",
+    "trans": [
+      "n. 一般概念；普通性",
+      "adj. 普遍的；通用的；宇宙的；全世界的；全体的"
+    ],
+    "usphone": "[ˌjuːnɪˈvɜːrsl]",
+    "ukphone": "[ˌjuːnɪˈvɜːs(ə)l]"
+  },
+  {
+    "name": "universalize",
+    "trans": [
+      "vt. 使普遍化，使一般化"
+    ],
+    "usphone": "[,ju:ni'və:səlaiz]",
+    "ukphone": "[juːnɪˈvɜːs(ə)laɪz]"
+  },
+  {
+    "name": "universe",
+    "trans": [
+      "n. 宇宙；世界；领域"
+    ],
+    "usphone": "[ˈjuːnɪvɜːrs]",
+    "ukphone": "[ˈjuːnɪvɜːs]"
+  },
+  {
+    "name": "unconventional",
+    "trans": [
+      "adj. 非常规的；非传统的；不依惯例的"
+    ],
+    "usphone": "[ˌʌnkənˈvenʃənl]",
+    "ukphone": "[ˌʌnkənˈvenʃənl]"
+  },
+  {
+    "name": "unfold",
+    "trans": [
+      "vi. 展开；显露",
+      "vt. 打开；呈现"
+    ],
+    "usphone": "[ʌnˈfoʊld]",
+    "ukphone": "[ʌnˈfəʊld]"
+  },
+  {
+    "name": "upright",
+    "trans": [
+      "n. 垂直；竖立",
+      "adj. 正直的，诚实的；垂直的，直立的；笔直的；合乎正道的"
+    ],
+    "usphone": "[ˈʌpraɪt]",
+    "ukphone": "[ˈʌpraɪt]"
+  },
+  {
+    "name": "upper",
+    "trans": [
+      "adj. 上面的，上部的；较高的"
+    ],
+    "usphone": "[ˈʌpər]",
+    "ukphone": "[ˈʌpə(r)]"
+  },
+  {
+    "name": "unflattering",
+    "trans": [
+      "adj. 不吸引人的，不好看的"
+    ],
+    "usphone": "[ʌnˈflætərɪŋ]",
+    "ukphone": "[ʌnˈflætərɪŋ]"
+  },
+  {
+    "name": "unfeasible",
+    "trans": [
+      "adj. 难实施的，不能实行的"
+    ],
+    "usphone": "[ʌnˈfiːzəbl]",
+    "ukphone": "[ʌnˈfiːzəbl]"
+  },
+  {
+    "name": "unilateral",
+    "trans": [
+      "adj. 单边的；[植] 单侧的；单方面的；单边音；（父母）单系的"
+    ],
+    "usphone": "[ˌjuːnɪˈlætrəl]",
+    "ukphone": "[ˌjuːnɪˈlætrəl]"
+  },
+  {
+    "name": "usage",
+    "trans": [
+      "n. 使用；用法；惯例"
+    ],
+    "usphone": "[ˈjuːsɪdʒˌˈjuːzɪdʒ]",
+    "ukphone": "[ˈjuːsɪdʒ]"
+  },
+  {
+    "name": "utterly",
+    "trans": [
+      "adv. 完全地；绝对地；全然地；彻底地，十足地"
+    ],
+    "usphone": "[ˈʌtərli]",
+    "ukphone": "[ˈʌtəli]"
+  },
+  {
+    "name": "utterance",
+    "trans": [
+      "n. 表达；说话；说话方式"
+    ],
+    "usphone": "[ˈʌtərəns]",
+    "ukphone": "[ˈʌtərəns]"
+  },
+  {
+    "name": "undo",
+    "trans": [
+      "vt. 取消；解开；破坏；扰乱",
+      "vi. 撤消"
+    ],
+    "usphone": "[ʌnˈduː]",
+    "ukphone": "[ʌnˈduː]"
+  },
+  {
+    "name": "unanimously",
+    "trans": [
+      "adv. 全体一致地"
+    ],
+    "usphone": "[juˈnænɪməsli]",
+    "ukphone": "[juˈnænɪməsli]"
+  },
+  {
+    "name": "unleash",
+    "trans": [
+      "vt. 发动；解开…的皮带；解除…的束缚",
+      "vi. 不受约束；自由自在；放荡不羁"
+    ],
+    "usphone": "[ʌnˈliːʃ]",
+    "ukphone": "[ʌnˈliːʃ]"
+  },
+  {
+    "name": "upend",
+    "trans": [
+      "vt. 倒放，颠倒；竖立"
+    ],
+    "usphone": "[ʌpˈend]",
+    "ukphone": "[ʌpˈend]"
+  },
+  {
+    "name": "ultraviolet",
+    "trans": [
+      "adj. 紫外的；紫外线的",
+      "n. 紫外线辐射，紫外光"
+    ],
+    "usphone": "[ˌʌltrəˈvaɪələt]",
+    "ukphone": "[ˌʌltrəˈvaɪələt]"
+  },
+  {
+    "name": "underfund",
+    "trans": [
+      "vt. 对…提供资金不足"
+    ],
+    "usphone": "[ˌʌndərˈfʌnd]",
+    "ukphone": "[ˌʌndəˈfʌnd]"
+  },
+  {
+    "name": "underlie",
+    "trans": [
+      "vt. 成为……的基础；位于……之下"
+    ],
+    "usphone": "[ˌʌndərˈlaɪ]",
+    "ukphone": "[ˌʌndəˈlaɪ]"
+  },
+  {
+    "name": "undertake",
+    "trans": [
+      "vt. 承担，保证；从事；同意；试图"
+    ],
+    "usphone": "[ˌʌndərˈteɪk]",
+    "ukphone": "[ˌʌndəˈteɪk]"
+  },
+  {
+    "name": "unload",
+    "trans": [
+      "vt. 卸；摆脱…之负担；倾销",
+      "vi. 卸货；退子弹"
+    ],
+    "usphone": "[ˌʌnˈloʊd]",
+    "ukphone": "[ˌʌnˈləʊd]"
+  },
+  {
+    "name": "uphold",
+    "trans": [
+      "vt. 支撑；鼓励；赞成；举起"
+    ],
+    "usphone": "[ʌpˈhoʊld]",
+    "ukphone": "[ʌpˈhəʊld]"
+  },
+  {
+    "name": "utilize",
+    "trans": [
+      "vt. 利用"
+    ],
+    "usphone": "[ˈjuːtəlaɪz]",
+    "ukphone": "[ˈjuːtəlaɪz]"
+  },
+  {
+    "name": "utilise",
+    "trans": [
+      "vt. 使用（等于utilize）；利用"
+    ],
+    "usphone": "[ˈjuːtəlaɪz]",
+    "ukphone": "[ˈjuːtəlaɪz]"
+  },
+  {
+    "name": "utter",
+    "trans": [
+      "adj. 完全的；彻底的；无条件的",
+      "vt. 发出，表达；发射"
+    ],
+    "usphone": "[ˈʌtər]",
+    "ukphone": "[ˈʌtə(r)]"
+  },
+  {
+    "name": "ugly",
+    "trans": [
+      "adj. 丑陋的；邪恶的；令人厌恶的"
+    ],
+    "usphone": "[ˈʌɡli]",
+    "ukphone": "[ˈʌɡli]"
+  },
+  {
+    "name": "umbrella",
+    "trans": [
+      "n. 雨伞；保护伞；庇护；伞形结构"
+    ],
+    "usphone": "[ʌmˈbrelə]",
+    "ukphone": "[ʌmˈbrelə]"
+  },
+  {
+    "name": "uncle",
+    "trans": [
+      "n. 叔叔；伯父；伯伯；舅父；姨丈；姑父"
+    ],
+    "usphone": "[ˈʌŋkl]",
+    "ukphone": "[ˈʌŋk(ə)l]"
+  },
+  {
+    "name": "under",
+    "trans": [
+      "prep. 低于，少于；在...之下",
+      "adj. 下面的；从属的",
+      "adv. 在下面；在下方"
+    ],
+    "usphone": "[ˈʌndər]",
+    "ukphone": "[ˈʌndə(r)]"
+  },
+  {
+    "name": "underneath",
+    "trans": [
+      "prep. 在…的下面；在…的形式下；在…的支配下",
+      "n. 下面；底部",
+      "adj. 下面的；底层的",
+      "adv. 在下面；在底下"
+    ],
+    "usphone": "[ˌʌndərˈniːθ]",
+    "ukphone": "[ˌʌndəˈniːθ]"
+  },
+  {
+    "name": "unit",
+    "trans": [
+      "n. 单位，单元；装置；[军] 部队；部件"
+    ],
+    "usphone": "[ˈjuːnɪt]",
+    "ukphone": "[ˈjuːnɪt]"
+  },
+  {
+    "name": "university",
+    "trans": [
+      "n. 大学；综合性大学；大学校舍"
+    ],
+    "usphone": "[ˌjuːnɪˈvɜːrsəti]",
+    "ukphone": "[ˌjuːnɪˈvɜːsəti]"
+  },
+  {
+    "name": "until",
+    "trans": [
+      "prep. 在…以前；到…为止",
+      "conj. 在…以前；直到…时"
+    ],
+    "usphone": "[ənˈtɪl]",
+    "ukphone": "[ənˈtɪl]"
+  },
+  {
+    "name": "unusual",
+    "trans": [
+      "adj. 不寻常的；与众不同的；不平常的"
+    ],
+    "usphone": "[ʌnˈjuːʒuəl; ʌnˈjuːʒəl]",
+    "ukphone": "[ʌnˈjuːʒuəl]"
+  },
+  {
+    "name": "up",
+    "trans": [
+      "prep. 在…之上；向…的较高处",
+      "n. 上升；繁荣",
+      "adj. 涨的；起床的；向上的",
+      "adv. 起来；上涨；向上"
+    ],
+    "usphone": "[ʌp]",
+    "ukphone": "[ʌp]"
+  },
+  {
+    "name": "upon",
+    "trans": [
+      "prep. 根据；接近；在…之上"
+    ],
+    "usphone": "[əˈpɑːn]",
+    "ukphone": "[əˈpɒn]"
+  },
+  {
+    "name": "upstairs",
+    "trans": [
+      "n. 楼上",
+      "adj. 楼上的",
+      "adv. 在楼上，向楼上；上楼；往楼上"
+    ],
+    "usphone": "[ˌʌpˈsterz]",
+    "ukphone": "[ˌʌpˈsteəz]"
+  },
+  {
+    "name": "us",
+    "trans": [
+      "pron. 我们"
+    ],
+    "usphone": "[əs; ʌs]",
+    "ukphone": "[əs; ʌs]"
+  },
+  {
+    "name": "use",
+    "trans": [
+      "n. 使用；用途；发挥",
+      "vt. 利用；耗费",
+      "vi. 使用，运用"
+    ],
+    "usphone": "[juːz]",
+    "ukphone": "[juːz]"
+  },
+  {
+    "name": "used",
+    "trans": [
+      "v. 用（use的过去式）；（used to）过去常做",
+      "adj. 习惯的；二手的，使用过的"
+    ],
+    "usphone": "[juːst; juːzd]",
+    "ukphone": "[juːst]"
+  },
+  {
+    "name": "useful",
+    "trans": [
+      "adj. 有用的，有益的；有帮助的"
+    ],
+    "usphone": "[ˈjuːsfl]",
+    "ukphone": "[ˈjuːsf(ə)l]"
+  },
+  {
+    "name": "usual",
+    "trans": [
+      "adj. 通常的，惯例的；平常的"
+    ],
+    "usphone": "[ˈjuːʒuəl; ˈjuːʒəl]",
+    "ukphone": "[ˈjuːʒuəl]"
+  },
+  {
+    "name": "usually",
+    "trans": [
+      "adv. 通常，经常"
+    ],
+    "usphone": "[ˈjuːʒuəli; ˈjuːʒəli]",
+    "ukphone": "[ˈjuːʒuəli]"
+  },
+  {
+    "name": "upside down",
+    "trans": [
+      "adv. 颠倒；倒转；翻转"
+    ],
+    "usphone": "[ˌʌpsaɪd ˈdaʊn]",
+    "ukphone": "[ˌʌpsaɪd ˈdaʊn]"
+  },
+  {
+    "name": "Uganda",
+    "trans": [
+      "n. 乌干达（非洲国家）"
+    ],
+    "usphone": "[juːˈɡændə; uːˈɡændə; juːˈɡɑːndə]",
+    "ukphone": "[juːˈɡændə]"
+  },
+  {
+    "name": "unfashionable",
+    "trans": [
+      "adj. 过时的；不时髦的"
+    ],
+    "usphone": "[ʌnˈfæʃnəbl]",
+    "ukphone": "[ʌnˈfæʃnəbl]"
+  },
+  {
+    "name": "unrepresentative",
+    "trans": [
+      "adj. 非代表性的，不典型的"
+    ],
+    "usphone": "[ˌʌnˌreprɪˈzentətɪv]",
+    "ukphone": "[ˌʌnˌreprɪˈzentətɪv]"
+  },
+  {
+    "name": "usher",
+    "trans": [
+      "n. 引座员，带位员；接待员；门房",
+      "vi. 作招待员；当引座员",
+      "vt. 引导，招待；迎接；开辟"
+    ],
+    "usphone": "[ˈʌʃər]",
+    "ukphone": "[ˈʌʃə(r)]"
+  },
+  {
+    "name": "unconstitutional",
+    "trans": [
+      "adj. 违反宪法的",
+      "违反宪法地"
+    ],
+    "usphone": "[ˌʌnˌkɑːnstɪˈtuːʃənl]",
+    "ukphone": "[ˌʌnˌkɒnstɪˈtjuːʃən(ə)l]"
+  },
+  {
+    "name": "unsubstantiated",
+    "trans": [
+      "adj. 未经证实的，无事实根据的"
+    ],
+    "usphone": "[ˌʌnsəbˈstænʃieɪtɪd]",
+    "ukphone": "[ˌʌnsəbˈstænʃieɪtɪd]"
+  },
+  {
+    "name": "uncompetitive",
+    "trans": [
+      "adj. 无竞争力的"
+    ],
+    "usphone": "[ˌʌnkəmˈpetətɪv]",
+    "ukphone": "[ˌʌnkəmˈpetətɪv]"
+  },
+  {
+    "name": "unified",
+    "trans": [
+      "adj. 统一的；一致标准的",
+      "v. 统一；使一致（unify的过去分词）"
+    ],
+    "usphone": "[ˈjuːnɪfaɪd]",
+    "ukphone": "[ˈjuːnɪfaɪd]"
+  },
+  {
+    "name": "uniqueness",
+    "trans": [
+      "n. 独特性；独一无二；单值性"
+    ],
+    "usphone": "[juˈniːknəs]",
+    "ukphone": "[juˈniːknəs]"
+  },
+  {
+    "name": "unpick",
+    "trans": [
+      "vt. 拆散；拆开；割开"
+    ],
+    "usphone": "[ˌʌnˈpɪk]",
+    "ukphone": "[ˌʌnˈpɪk]"
+  },
+  {
+    "name": "unwilling",
+    "trans": [
+      "adj. 不愿意的；不情愿的；勉强的"
+    ],
+    "usphone": "[ʌnˈwɪlɪŋ]",
+    "ukphone": "[ʌnˈwɪlɪŋ]"
+  },
+  {
+    "name": "unauthorized",
+    "trans": [
+      "adj. 非法的；未被授权的；独断的"
+    ],
+    "usphone": "[ʌnˈɔːθəraɪzd]",
+    "ukphone": "[ʌnˈɔːθəraɪzd]"
+  },
+  {
+    "name": "uncommon",
+    "trans": [
+      "adj. 不寻常的；罕有的",
+      "adv. 非常地"
+    ],
+    "usphone": "[ʌnˈkɑːmən]",
+    "ukphone": "[ʌnˈkɒmən]"
+  },
+  {
+    "name": "undivided",
+    "trans": [
+      "adj. 专心的；专一的；未分开的；完整的",
+      "v. 未分开（undivide的过去式和过去分词）"
+    ],
+    "usphone": "[ˌʌndɪˈvaɪdɪd]",
+    "ukphone": "[ˌʌndɪˈvaɪdɪd]"
+  },
+  {
+    "name": "unwittingly",
+    "trans": [
+      "adv. 不知不觉地；不知情地；不经意地"
+    ],
+    "usphone": "[ʌnˈwɪtɪŋli]",
+    "ukphone": "[ʌnˈwɪtɪŋli]"
+  },
+  {
+    "name": "unbearable",
+    "trans": [
+      "adj. 难以忍受的；承受不住的"
+    ],
+    "usphone": "[ʌnˈberəbl]",
+    "ukphone": "[ʌnˈbeərəb(ə)l]"
+  },
+  {
+    "name": "unfamiliar",
+    "trans": [
+      "adj. 不熟悉的；不常见的；没有经验的"
+    ],
+    "usphone": "[ˌʌnfəˈmɪliər]",
+    "ukphone": "[ˌʌnfəˈmɪliə(r)]"
+  },
+  {
+    "name": "uneasiness",
+    "trans": [
+      "n. 不安；担忧；局促"
+    ],
+    "usphone": "[ʌnˈizɪnɪs]",
+    "ukphone": "[ʌn'i:zinis]"
+  },
+  {
+    "name": "unnamed",
+    "trans": [
+      "adj. 无名的；未命名的；未提及的"
+    ],
+    "usphone": "[ˌʌnˈneɪmd]",
+    "ukphone": "[ˌʌnˈneɪmd]"
+  },
+  {
+    "name": "unplug",
+    "trans": [
+      "vt. 去掉…的障碍物；拔去…的塞子或插头"
+    ],
+    "usphone": "[ˌʌnˈplʌɡ]",
+    "ukphone": "[ˌʌnˈplʌɡ]"
+  },
+  {
+    "name": "unstoppable",
+    "trans": [
+      "adj. 无法阻碍的；无法停止的（副词unstoppably）"
+    ],
+    "usphone": "[ʌnˈstɑːpəbl]",
+    "ukphone": "[ʌnˈstɒpəbl]"
+  },
+  {
+    "name": "unease",
+    "trans": [
+      "n. 不安；不舒服"
+    ],
+    "usphone": "[ʌnˈiːz]",
+    "ukphone": "[ʌnˈiːz]"
+  },
+  {
+    "name": "unhealthy",
+    "trans": [
+      "adj. 不健康的；危险的；有害身心健康的"
+    ],
+    "usphone": "[ʌnˈhelθi]",
+    "ukphone": "[ʌnˈhelθi]"
+  },
+  {
+    "name": "upkeep",
+    "trans": [
+      "n. 维持；维修费；保养"
+    ],
+    "usphone": "[ˈʌpkiːp]",
+    "ukphone": "[ˈʌpkiːp]"
+  },
+  {
+    "name": "unresponsive",
+    "trans": [
+      "adj. 反应迟钝的；无反应的"
+    ],
+    "usphone": "[ˌʌnrɪˈspɑːnsɪv]",
+    "ukphone": "[ˌʌnrɪˈspɒnsɪv]"
+  },
+  {
+    "name": "unexpectedly",
+    "trans": [
+      "adv. 出乎意料地，意外地"
+    ],
+    "usphone": "[ˌʌnɪkˈspektɪdli]",
+    "ukphone": "[ˌʌnɪkˈspektɪdli]"
+  },
+  {
+    "name": "urbanization",
+    "trans": [
+      "n. 都市化；文雅化"
+    ],
+    "usphone": "[ˌɜːrbənəˈzeɪʃn]",
+    "ukphone": "[ˌɜːbənaɪˈzeɪʃn]"
+  },
+  {
+    "name": "uncontrollable",
+    "trans": [
+      "adj. 无法控制的；无法管束的；难以驾驭的"
+    ],
+    "usphone": "[ˌʌnkənˈtroʊləbl]",
+    "ukphone": "[ˌʌnkənˈtrəʊləbl]"
+  },
+  {
+    "name": "uproar",
+    "trans": [
+      "n. 骚动；喧嚣"
+    ],
+    "usphone": "[ˈʌprɔːr]",
+    "ukphone": "[ˈʌprɔː(r)]"
+  },
+  {
+    "name": "unbalanced",
+    "trans": [
+      "adj. 不平衡的；错乱的；不稳定的；收支不平衡的，未决算的",
+      "v. 使失去平衡；使（精神）错乱（unbalance的过去分词）"
+    ],
+    "usphone": "[ˌʌnˈbælənst]",
+    "ukphone": "[ˌʌnˈbælənst]"
+  },
+  {
+    "name": "unfortunate",
+    "trans": [
+      "adj. 不幸的；令人遗憾的；不成功的"
+    ],
+    "usphone": "[ʌnˈfɔːrtʃənət]",
+    "ukphone": "[ʌnˈfɔːtʃənət]"
+  },
+  {
+    "name": "uncritically",
+    "trans": [
+      "adv. 不加鉴别地；不加批评地"
+    ],
+    "usphone": "[ˌʌnˈkrɪtɪkli]",
+    "ukphone": "[ˌʌnˈkrɪtɪkli]"
+  },
+  {
+    "name": "upload",
+    "trans": [
+      "vt. 上传"
+    ],
+    "usphone": "[ˌʌpˈloʊd]",
+    "ukphone": "[ˌʌpˈləʊd]"
+  },
+  {
+    "name": "unjust",
+    "trans": [
+      "adj. 不公平的，不公正的；非正义的"
+    ],
+    "usphone": "[ˌʌnˈdʒʌst]",
+    "ukphone": "[ˌʌnˈdʒʌst]"
+  },
+  {
+    "name": "unprecedented",
+    "trans": [
+      "adj. 空前的；无前例的"
+    ],
+    "usphone": "[ʌnˈpresɪdentɪd]",
+    "ukphone": "[ʌnˈpresɪdentɪd]"
+  },
+  {
+    "name": "unqualified",
+    "trans": [
+      "adj. 不合格的；无资格的；不胜任的；不受限制的；无条件的；绝对的"
+    ],
+    "usphone": "[ˌʌnˈkwɑːlɪfaɪd]",
+    "ukphone": "[ˌʌnˈkwɒlɪfaɪd]"
+  },
+  {
+    "name": "unquestionable",
+    "trans": [
+      "adj. 毫无疑问的；确实的；无可挑剔的"
+    ],
+    "usphone": "[ʌnˈkwestʃənəbl]",
+    "ukphone": "[ʌnˈkwestʃənəb(ə)l]"
+  },
+  {
+    "name": "unrest",
+    "trans": [
+      "n. 不安；动荡的局面；不安的状态"
+    ],
+    "usphone": "[ʌnˈrest]",
+    "ukphone": "[ʌnˈrest]"
+  },
+  {
+    "name": "understandable",
+    "trans": [
+      "adj. 可以理解的；可以了解的"
+    ],
+    "usphone": "[ˌʌndərˈstændəbl]",
+    "ukphone": "[ˌʌndəˈstændəb(ə)l]"
+  },
+  {
+    "name": "uninformative",
+    "trans": [
+      "adj. 不提供信息的；不增长见闻的"
+    ],
+    "usphone": "[ˌʌnɪnˈfɔːrmətɪv]",
+    "ukphone": "[ˌʌnɪnˈfɔːmətɪv]"
+  },
+  {
+    "name": "unjustified",
+    "trans": [
+      "adj. 不正当的；未被证明其正确的"
+    ],
+    "usphone": "[ˌʌnˈdʒʌstɪfaɪd]",
+    "ukphone": "[ˌʌnˈdʒʌstɪfaɪd]"
+  },
+  {
+    "name": "upbringing",
+    "trans": [
+      "n. 教养；养育；抚育"
+    ],
+    "usphone": "[ˈʌpbrɪŋɪŋ]",
+    "ukphone": "[ˈʌpbrɪŋɪŋ]"
+  },
+  {
+    "name": "undignified",
+    "trans": [
+      "adj. 不庄重的；无威严的"
+    ],
+    "usphone": "[ʌnˈdɪɡnɪfaɪd]",
+    "ukphone": "[ʌnˈdɪɡnɪfaɪd]"
+  },
+  {
+    "name": "undue",
+    "trans": [
+      "adj. 过度的，过分的；不适当的；未到期的"
+    ],
+    "usphone": "[ˌʌnˈduː]",
+    "ukphone": "[ˌʌnˈdjuː]"
+  },
+  {
+    "name": "unearth",
+    "trans": [
+      "vt. 发掘；揭露，发现；从洞中赶出"
+    ],
+    "usphone": "[ʌnˈɜːrθ]",
+    "ukphone": "[ʌnˈɜːθ]"
+  },
+  {
+    "name": "unpack",
+    "trans": [
+      "vi. 打开包裹",
+      "vt. 卸下…；解除…的负担"
+    ],
+    "usphone": "[ˌʌnˈpæk]",
+    "ukphone": "[ˌʌnˈpæk]"
+  },
+  {
+    "name": "unveil",
+    "trans": [
+      "vt. 使公之于众，揭开；揭幕",
+      "vi. 除去面纱；显露"
+    ],
+    "usphone": "[ˌʌnˈveɪl]",
+    "ukphone": "[ˌʌnˈveɪl]"
+  },
+  {
+    "name": "utility",
+    "trans": [
+      "n. 实用；效用；公共设施；功用",
+      "adj. 实用的；通用的；有多种用途的"
+    ],
+    "usphone": "[juːˈtɪləti]",
+    "ukphone": "[juːˈtɪləti]"
+  },
+  {
+    "name": "uninhabited",
+    "trans": [
+      "adj. 无人居住的，杳无人迹的"
+    ],
+    "usphone": "[ˌʌnɪnˈhæbɪtɪd]",
+    "ukphone": "[ˌʌnɪnˈhæbɪtɪd]"
+  },
+  {
+    "name": "unconditional",
+    "trans": [
+      "adj. 无条件的；绝对的；无限制的"
+    ],
+    "usphone": "[ˌʌnkənˈdɪʃənl]",
+    "ukphone": "[ˌʌnkənˈdɪʃən(ə)l]"
+  },
+  {
+    "name": "unsettling",
+    "trans": [
+      "adj. 使人不安的；（消息）扰乱的",
+      "v. 动乱不定；心绪不宁（unsettle的ing形式）"
+    ],
+    "usphone": "[ʌnˈsetlɪŋ]",
+    "ukphone": "[ʌnˈsetlɪŋ]"
+  },
+  {
+    "name": "unwary",
+    "trans": [
+      "adj. 粗心的；不警惕的；不谨慎的"
+    ],
+    "usphone": "[ʌnˈweri]",
+    "ukphone": "[ʌnˈweəri]"
+  },
+  {
+    "name": "utensil",
+    "trans": [
+      "n. 用具，器皿"
+    ],
+    "usphone": "[juːˈtensl]",
+    "ukphone": "[juːˈtens(ə)l]"
+  },
+  {
+    "name": "umpire",
+    "trans": [
+      "n. 裁判员，仲裁人",
+      "vt. 仲裁，裁判",
+      "vi. 当裁判，任裁判"
+    ],
+    "usphone": "[ˈʌmpaɪər]",
+    "ukphone": "[ˈʌmpaɪə(r)]"
+  },
+  {
+    "name": "united",
+    "trans": [
+      "adj. 一致的，统一的；团结的，和睦的"
+    ],
+    "usphone": "[juˈnaɪtɪd]",
+    "ukphone": "[juˈnaɪtɪd]"
+  },
+  {
+    "name": "useless",
+    "trans": [
+      "adj. 无用的；无效的"
+    ],
+    "usphone": "[ˈjuːsləs]",
+    "ukphone": "[ˈjuːsləs]"
+  },
+  {
+    "name": "uncomfortable",
+    "trans": [
+      "adj. 不舒服的；不安的"
+    ],
+    "usphone": "[ʌnˈkʌmftəbl; ʌnˈkʌmfərtəbl]",
+    "ukphone": "[ʌnˈkʌmftəb(ə)l]"
+  },
+  {
+    "name": "ugliness",
+    "trans": [
+      "n. 丑陋，丑陋之物"
+    ],
+    "usphone": "[ˈʌɡlinəs]",
+    "ukphone": "[ˈʌɡlinəs]"
+  },
+  {
+    "name": "ultra",
+    "trans": [
+      "n. 极端主义者；过激论者；急进论者",
+      "adj. 极端的；过分的"
+    ],
+    "usphone": "[ˈʌltrə]",
+    "ukphone": "[ˈʌltrə]"
+  },
+  {
+    "name": "underdeveloped",
+    "trans": [
+      "adj. 不发达的"
+    ],
+    "usphone": "[ˌʌndərdɪˈveləpt]",
+    "ukphone": "[ˌʌndədɪˈveləpt]"
+  },
+  {
+    "name": "undertaking",
+    "trans": [
+      "n. 事业；企业；保证；殡仪业",
+      "v. 同意；担任；许诺（undertake的ing形式）"
+    ],
+    "usphone": "[ˌʌndərˈteɪkɪŋ]",
+    "ukphone": "[ˌʌndəˈteɪkɪŋ]"
+  },
+  {
+    "name": "underwear",
+    "trans": [
+      "n. 内衣物"
+    ],
+    "usphone": "[ˈʌndərwer]",
+    "ukphone": "[ˈʌndəweə(r)]"
+  },
+  {
+    "name": "unification",
+    "trans": [
+      "n. 统一；一致；联合"
+    ],
+    "usphone": "[ˌjuːnɪfɪˈkeɪʃn]",
+    "ukphone": "[ˌjuːnɪfɪˈkeɪʃn]"
+  },
+  {
+    "name": "uprising",
+    "trans": [
+      "n. 起义；升起",
+      "v. 起义（uprise的ing形式）；升起",
+      "adj. 升起的"
+    ],
+    "usphone": "[ˈʌpraɪzɪŋ]",
+    "ukphone": "[ˈʌpraɪzɪŋ]"
+  },
+  {
+    "name": "upwards",
+    "trans": [
+      "adv. 向上；在上部；向上游"
+    ],
+    "usphone": "[ˈʌpwərdz]",
+    "ukphone": "[ˈʌpwədz]"
+  },
+  {
+    "name": "uranium",
+    "trans": [
+      "n. [化学] 铀"
+    ],
+    "usphone": "[juˈreɪniəm]",
+    "ukphone": "[juˈreɪniəm]"
+  },
+  {
+    "name": "urbanize",
+    "trans": [
+      "vt. 使都市化；使文雅"
+    ],
+    "usphone": "[ˈɜːrbənaɪz]",
+    "ukphone": "[ˈɜːbənaɪz]"
+  },
+  {
+    "name": "urbanisation",
+    "trans": [
+      "n. 城市化（等于urbanization）"
+    ],
+    "usphone": "[,ə:bənai'zeiʃən]",
+    "ukphone": "[,ə:bənai'zeiʃən]"
+  },
+  {
+    "name": "urgency",
+    "trans": [
+      "n. 紧急；催促；紧急的事"
+    ],
+    "usphone": "[ˈɜːrdʒənsi]",
+    "ukphone": "[ˈɜːdʒənsi]"
+  },
+  {
+    "name": "urine",
+    "trans": [
+      "n. 尿"
+    ],
+    "usphone": "[ˈjʊrɪn]",
+    "ukphone": "[ˈjʊərɪn; ˈjʊəraɪn]"
+  },
+  {
+    "name": "urinate",
+    "trans": [
+      "vi. 小便，撒尿"
+    ],
+    "usphone": "[ˈjʊrɪneɪt]",
+    "ukphone": "[ˈjʊərɪneɪt]"
+  },
+  {
+    "name": "user",
+    "trans": [
+      "n. 用户",
+      "n. 使用者"
+    ],
+    "usphone": "[ˈjuːzər]",
+    "ukphone": "[ˈjuːzə(r)]"
+  },
+  {
+    "name": "utilization",
+    "trans": [
+      "n. 利用，使用"
+    ],
+    "usphone": "[ˌjuːtələˈzeɪʃn]",
+    "ukphone": "[ˌjuːtəlaɪˈzeɪʃn]"
+  },
+  {
+    "name": "utilisation",
+    "trans": [
+      "n. 使用（等于utilization）；利用"
+    ],
+    "usphone": "[,ju:tilai'zeiʃən]",
+    "ukphone": "[,ju:tilai'zeiʃən]"
+  },
+  {
+    "name": "underwater",
+    "trans": [
+      "n. 水下",
+      "adj. 在水中的；水面下的",
+      "adv. 在水下"
+    ],
+    "usphone": "[ˌʌndərˈwɔːtər]",
+    "ukphone": "[ˌʌndəˈwɔːtə(r)]"
+  },
+  {
+    "name": "utilitarian",
+    "trans": [
+      "n. 功利主义者",
+      "adj. 功利的；功利主义的；实利的"
+    ],
+    "usphone": "[ˌjutɪlɪˈterɪən]",
+    "ukphone": "[jʊˌtɪlɪˈteərɪən]"
+  },
+  {
+    "name": "unstable",
+    "trans": [
+      "adj. 不稳定的；动荡的；易变的"
+    ],
+    "usphone": "[ʌnˈsteɪb(ə)l]",
+    "ukphone": "[ʌnˈsteɪb(ə)l]"
+  },
+  {
+    "name": "uproot",
+    "trans": [
+      "vt. 根除，连根拔起；迫使某人离开出生地或定居处",
+      "vi. 迁离；改变生活方式"
+    ],
+    "usphone": "[ˌʌpˈruːt]",
+    "ukphone": "[ˌʌpˈruːt]"
+  },
+  {
+    "name": "unchanging",
+    "trans": [
+      "adj. 不变的"
+    ],
+    "usphone": "[ʌnˈtʃeɪndʒɪŋ]",
+    "ukphone": "[ʌnˈtʃeɪndʒɪŋ]"
+  },
+  {
+    "name": "unconsolidated",
+    "trans": [
+      "adj. 疏松的；松散的"
+    ],
+    "usphone": "[ˌʌnkənˈsɑːlɪˌdeɪtɪd]",
+    "ukphone": "[ˌʌnkənˈsɒlɪdeɪtɪd]"
+  },
+  {
+    "name": "understory",
+    "trans": [
+      "n. 林下叶层；下层植被"
+    ],
+    "usphone": "[ˈʌndərˌstɔri; ˈʌndərˌstori]",
+    "ukphone": "['ʌndə,stɔ:ri]"
+  },
+  {
+    "name": "urn",
+    "trans": [
+      "n. 瓮；缸；茶水壶；坟墓；骨灰瓮"
+    ],
+    "usphone": "[ɜːrn]",
+    "ukphone": "[ɜːn]"
+  },
+  {
+    "name": "uniformly",
+    "trans": [
+      "adv. 一致地"
+    ],
+    "usphone": "[ˈjuːnɪfɔːrmli]",
+    "ukphone": "[ˈjuːnɪfɔːmli]"
+  },
+  {
+    "name": "urchin",
+    "trans": [
+      "n. 顽童，淘气鬼；海胆；刺猬"
+    ],
+    "usphone": "[ˈɜːrtʃɪn]",
+    "ukphone": "[ˈɜːtʃɪn]"
+  },
+  {
+    "name": "usable",
+    "trans": [
+      "adj. 可用的；合用的（等于useable）"
+    ],
+    "usphone": "[ˈjuːzəb(ə)l]",
+    "ukphone": "[ˈjuːzəb(ə)l]"
+  },
+  {
+    "name": "unaltered",
+    "trans": [
+      "adj. 不变的；未被改变的；照旧的"
+    ],
+    "usphone": "[ʌnˈɔːltərd]",
+    "ukphone": "[ʌnˈɔːltəd]"
+  },
+  {
+    "name": "unoccupied",
+    "trans": [
+      "adj. 空闲的；没人住的；未占领的；无人占领的"
+    ],
+    "usphone": "[ˌʌnˈɑːkjupaɪd]",
+    "ukphone": "[ˌʌnˈɒkjupaɪd]"
+  },
+  {
+    "name": "unpleasant",
+    "trans": [
+      "adj. 讨厌的；使人不愉快的"
+    ],
+    "usphone": "[ʌnˈplez(ə)nt]",
+    "ukphone": "[ʌnˈplez(ə)nt]"
+  },
+  {
+    "name": "unprotected",
+    "trans": [
+      "v. 无保护（unprotect的过去分词）",
+      "adj. 无保护的；未设防的；不受关税保护的"
+    ],
+    "usphone": "[ˌʌnprəˈtektɪd]",
+    "ukphone": "[ˌʌnprəˈtektɪd]"
+  },
+  {
+    "name": "unsafe",
+    "trans": [
+      "adj. 不安全的；危险的；不安稳的"
+    ],
+    "usphone": "[ʌnˈseɪf]",
+    "ukphone": "[ʌnˈseɪf]"
+  },
+  {
+    "name": "upcoming",
+    "trans": [
+      "adj. 即将来临的"
+    ],
+    "usphone": "[ˈʌpkʌmɪŋ]",
+    "ukphone": "[ˈʌpkʌmɪŋ]"
+  },
+  {
+    "name": "unseen",
+    "trans": [
+      "n. （事前未看过原文的）即席翻译",
+      "adj. 看不见的，未看见的；未经预习的"
+    ],
+    "usphone": "[ˌʌnˈsiːn]",
+    "ukphone": "[ˌʌnˈsiːn]"
+  },
+  {
+    "name": "ugh",
+    "trans": [
+      "int. 啊；呸"
+    ],
+    "usphone": "[ʊx；ɜː]",
+    "ukphone": "[ɜː]"
+  },
+  {
+    "name": "unfurl",
+    "trans": [
+      "vt. 展开；使…临风招展",
+      "vi. 展开；公开"
+    ],
+    "usphone": "[ˌʌnˈfɜːrl]",
+    "ukphone": "[ˌʌnˈfɜːl]"
+  },
+  {
+    "name": "uncompromising",
+    "trans": [
+      "adj. 不妥协的，不让步的；坚定的"
+    ],
+    "usphone": "[ʌnˈkɑːmprəmaɪzɪŋ]",
+    "ukphone": "[ʌnˈkɒmprəmaɪzɪŋ]"
+  },
+  {
+    "name": "unquestioned",
+    "trans": [
+      "adj. 无争议的；不成问题的；无需调查的"
+    ],
+    "usphone": "[ʌnˈkwestʃənd]",
+    "ukphone": "[ʌnˈkwestʃənd]"
+  },
+  {
+    "name": "unenlightened",
+    "trans": [
+      "adj. 落后的；无知的；未受启迪的"
+    ],
+    "usphone": "[ˌʌnɪnˈlaɪtənd]",
+    "ukphone": "[ˌʌnɪnˈlaɪt(ə)nd]"
+  },
+  {
+    "name": "unlock",
+    "trans": [
+      "vt. 开启；开…的锁；表露",
+      "vi. 解开；解除锁定；被开启"
+    ],
+    "usphone": "[ˌʌnˈlɑːk]",
+    "ukphone": "[ˌʌnˈlɒk]"
+  },
+  {
+    "name": "unproductive",
+    "trans": [
+      "adj. 非生产性的；徒劳的；不毛的；不生产的"
+    ],
+    "usphone": "[ˌʌnprəˈdʌktɪv]",
+    "ukphone": "[ˌʌnprəˈdʌktɪv]"
+  },
+  {
+    "name": "unfulfilled",
+    "trans": [
+      "adj. 未得到满足的；没有成就感的"
+    ],
+    "usphone": "[ˌʌnfʊlˈfɪld]",
+    "ukphone": "[ˌʌnfʊlˈfɪld]"
+  },
+  {
+    "name": "uncoil",
+    "trans": [
+      "vi. 展开；解开"
+    ],
+    "usphone": "[ˌʌnˈkɔɪl]",
+    "ukphone": "[ˌʌnˈkɔɪl]"
+  },
+  {
+    "name": "unsustainable",
+    "trans": [
+      "adj. 无法支撑的；不可证实的；不能成立的"
+    ],
+    "usphone": "[ˌʌnsəˈsteɪnəbl]",
+    "ukphone": "[ˌʌnsəˈsteɪnəbl]"
+  },
+  {
+    "name": "unquestionably",
+    "trans": [
+      "adv. 无可非议地；确凿地"
+    ],
+    "usphone": "[ʌnˈkwestʃənəbli]",
+    "ukphone": "[ʌnˈkwestʃənəbli]"
+  },
+  {
+    "name": "unconquerable",
+    "trans": [
+      "adj. 克服不了的；不可征服的；压制不了的"
+    ],
+    "usphone": "[ʌnˈkɑːŋkərəbl]",
+    "ukphone": "[ʌnˈkɒŋkərəb(ə)l]"
+  },
+  {
+    "name": "unpromising",
+    "trans": [
+      "adj. 无前途的，没有希望的"
+    ],
+    "usphone": "[ʌnˈprɑːmɪsɪŋ]",
+    "ukphone": "[ʌnˈprɒmɪsɪŋ]"
+  },
+  {
+    "name": "underpin",
+    "trans": [
+      "vt. 巩固；支持；从下面支撑；加强…的基础"
+    ],
+    "usphone": "[ˌʌndərˈpɪn]",
+    "ukphone": "[ˌʌndəˈpɪn]"
+  },
+  {
+    "name": "unsatisfactory",
+    "trans": [
+      "adj. 不令人满意的；不满足的；不符合要求的"
+    ],
+    "usphone": "[ˌʌnˌsætɪsˈfæktəri]",
+    "ukphone": "[ˌʌnˌsætɪsˈfæktəri]"
+  },
+  {
+    "name": "unorthodox",
+    "trans": [
+      "adj. 非正统的；异端的；异教的"
+    ],
+    "usphone": "[ʌnˈɔːrθədɑːks]",
+    "ukphone": "[ʌnˈɔːθədɒks]"
+  },
+  {
+    "name": "unobtrusive",
+    "trans": [
+      "adj. 不唐突的；谦虚的；不引人注目的"
+    ],
+    "usphone": "[ˌʌnəbˈtruːsɪv]",
+    "ukphone": "[ˌʌnəbˈtruːsɪv]"
+  },
+  {
+    "name": "unparalleled",
+    "trans": [
+      "adj. 无比的；无双的；空前未有的"
+    ],
+    "usphone": "[ʌnˈpærəleld]",
+    "ukphone": "[ʌnˈpærəleld]"
+  },
+  {
+    "name": "ulterior",
+    "trans": [
+      "adj. 将来的，较远的；在那边的；隐秘不明的"
+    ],
+    "usphone": "[ʌlˈtɪriər]",
+    "ukphone": "[ʌlˈtɪəriə(r)]"
+  },
+  {
+    "name": "underscore",
+    "trans": [
+      "n. 底线，[计] 下划线",
+      "vt. 强调；划线于…下"
+    ],
+    "usphone": "[ˌʌndərˈskɔːr]",
+    "ukphone": "[ˌʌndəˈskɔː(r)]"
+  },
+  {
+    "name": "unadorned",
+    "trans": [
+      "adj. 朴素的；未装饰的"
+    ],
+    "usphone": "[ˌʌnəˈdɔːrnd]",
+    "ukphone": "[ˌʌnəˈdɔːnd]"
+  },
+  {
+    "name": "unbiased",
+    "trans": [
+      "adj. 公正的；无偏见的"
+    ],
+    "usphone": "[ʌnˈbaɪəst]",
+    "ukphone": "[ʌnˈbaɪəst]"
+  },
+  {
+    "name": "unyielding",
+    "trans": [
+      "adj. 不屈的；坚强的；[材] 不易弯曲的"
+    ],
+    "usphone": "[ʌnˈjiːldɪŋ]",
+    "ukphone": "[ʌnˈjiːldɪŋ]"
+  },
+  {
+    "name": "uphill",
+    "trans": [
+      "n. 上升；登高",
+      "adj. 上坡的，向上的",
+      "adv. 向上地；往上坡"
+    ],
+    "usphone": "[ˌʌpˈhɪl]",
+    "ukphone": "[ˌʌpˈhɪl]"
+  },
+  {
+    "name": "unblemished",
+    "trans": [
+      "adj. 无缺点的；清白的"
+    ],
+    "usphone": "[ʌnˈblemɪʃt]",
+    "ukphone": "[ʌnˈblemɪʃt]"
+  },
+  {
+    "name": "undetected",
+    "trans": [
+      "adj. 未被发现的；未检测到的"
+    ],
+    "usphone": "[ˌʌndɪˈtektɪd]",
+    "ukphone": "[ˌʌndɪˈtektɪd]"
+  },
+  {
+    "name": "unforeseen",
+    "trans": [
+      "adj. 未预见到的，无法预料的"
+    ],
+    "usphone": "[ˌʌnfɔːrˈsiːn]",
+    "ukphone": "[ˌʌnfɔːˈsiːn]"
+  },
+  {
+    "name": "unbeatable",
+    "trans": [
+      "adj. 无敌的；无以伦比的"
+    ],
+    "usphone": "[ʌnˈbiːtəbl]",
+    "ukphone": "[ʌnˈbiːtəb(ə)l]"
+  },
+  {
+    "name": "uncharted",
+    "trans": [
+      "adj. 未知的；图上未标明的"
+    ],
+    "usphone": "[ˌʌnˈtʃɑːrtɪd]",
+    "ukphone": "[ˌʌnˈtʃɑːtɪd]"
+  },
+  {
+    "name": "unmanned",
+    "trans": [
+      "adj. 无人的；无人操纵的；被阉割的",
+      "v. 使失去男子气质（unman的过去式和过去分词形式）"
+    ],
+    "usphone": "[ˌʌnˈmænd]",
+    "ukphone": "[ˌʌnˈmænd]"
+  },
+  {
+    "name": "undisguised",
+    "trans": [
+      "adj. 无伪装的；公开的；不戴假面具的"
+    ],
+    "usphone": "[ˌʌndɪsˈɡaɪzd]",
+    "ukphone": "[ˌʌndɪsˈɡaɪzd]"
+  },
+  {
+    "name": "unprejudiced",
+    "trans": [
+      "adj. 没有成见的；公平的；无偏见的"
+    ],
+    "usphone": "[ʌnˈpredʒədɪst]",
+    "ukphone": "[ʌnˈpredʒədɪst]"
+  },
+  {
+    "name": "ukulele",
+    "trans": [
+      "n. 尤克里里琴（夏威夷的四弦琴，等于ukelele）"
+    ],
+    "usphone": "[ˌjuːkəˈleɪli]",
+    "ukphone": "[ˌjuːkəˈleɪli]"
+  },
+  {
+    "name": "unethical",
+    "trans": [
+      "adj. 不道德的；缺乏职业道德的"
+    ],
+    "usphone": "[ʌnˈeθɪkl]",
+    "ukphone": "[ʌnˈeθɪkl]"
+  },
+  {
+    "name": "unhappy",
+    "trans": [
+      "adj. 不快乐的；不幸福的；不适当的"
+    ],
+    "usphone": "[ʌnˈhæpi]",
+    "ukphone": "[ʌnˈhæpi]"
+  },
+  {
+    "name": "unfriendly",
+    "trans": [
+      "adj. 不友好的；不利的",
+      "adv. 不友善地"
+    ],
+    "usphone": "[ʌnˈfrendli]",
+    "ukphone": "[ʌnˈfrendli]"
+  },
+  {
+    "name": "uplift",
+    "trans": [
+      "n. 举起，抬起；道德的向上；精神的高涨",
+      "vt. 提高；抬起",
+      "vi. 提高；上升；升起"
+    ],
+    "usphone": "[ˈʌplɪft]",
+    "ukphone": "[ˈʌplɪft]"
+  },
+  {
+    "name": "ubiquitous",
+    "trans": [
+      "adj. 普遍存在的；无所不在的"
+    ],
+    "usphone": "[juːˈbɪkwɪtəs]",
+    "ukphone": "[juːˈbɪkwɪtəs]"
+  },
+  {
+    "name": "understudy",
+    "trans": [
+      "n. 候补演员；替工",
+      "vt. 练习代演；当…的替手；实地演习",
+      "vi. 学当替工"
+    ],
+    "usphone": "[ˈʌndərstʌdi]",
+    "ukphone": "[ˈʌndəstʌdi]"
+  },
+  {
+    "name": "unsettle",
+    "trans": [
+      "vt. 使动摇；使不安定；使心神不宁",
+      "vi. 不安；动荡不定"
+    ],
+    "usphone": "[ʌnˈsetl]",
+    "ukphone": "[ʌnˈset(ə)l]"
+  },
+  {
+    "name": "usurp",
+    "trans": [
+      "vt. 篡夺；夺取；侵占",
+      "vi. 篡夺；篡权"
+    ],
+    "usphone": "[juːˈzɜːrp]",
+    "ukphone": "[juːˈzɜːp]"
+  },
+  {
+    "name": "uncharitable",
+    "trans": [
+      "adj. 严厉的；无情的；不宽恕的；无慈悲心的"
+    ],
+    "usphone": "[ʌnˈtʃærɪtəbl]",
+    "ukphone": "[ʌnˈtʃærɪtəb(ə)l]"
+  },
+  {
+    "name": "uncouth",
+    "trans": [
+      "adj. 笨拙的；粗野的；不舒适的；陌生的"
+    ],
+    "usphone": "[ʌnˈkuːθ]",
+    "ukphone": "[ʌnˈkuːθ]"
+  },
+  {
+    "name": "unravel",
+    "trans": [
+      "vt. 解开；阐明；解决；拆散",
+      "vi. 解决；散开"
+    ],
+    "usphone": "[ʌnˈrævl]",
+    "ukphone": "[ʌnˈræv(ə)l]"
+  },
+  {
+    "name": "underwrite",
+    "trans": [
+      "vt. 给...保险；承诺支付；签在...下",
+      "vi. 经营保险业"
+    ],
+    "usphone": "[ˌʌndərˈraɪt]",
+    "ukphone": "[ˌʌndəˈraɪt]"
+  },
+  {
+    "name": "unduly",
+    "trans": [
+      "adv. 过度地；不适当地；不正当地"
+    ],
+    "usphone": "[ˌʌnˈduːli]",
+    "ukphone": "[ˌʌnˈdjuːli]"
+  },
+  {
+    "name": "understate",
+    "trans": [
+      "vt. 少说，少报；保守地说；有意轻描淡写",
+      "vi. 保守地说；有意轻描淡写"
+    ],
+    "usphone": "[ˌʌndərˈsteɪt]",
+    "ukphone": "[ˌʌndəˈsteɪt]"
+  },
+  {
+    "name": "unscrew",
+    "trans": [
+      "vt. 旋开；旋松；从...旋出螺丝"
+    ],
+    "usphone": "[ˌʌnˈskruː]",
+    "ukphone": "[ˌʌnˈskruː]"
+  },
+  {
+    "name": "unnerve",
+    "trans": [
+      "vt. 使失去勇气；使身心交疲；使焦躁；使失常"
+    ],
+    "usphone": "[ˌʌnˈnɜːrv]",
+    "ukphone": "[ˌʌnˈnɜːv]"
+  },
+  {
+    "name": "undulate",
+    "trans": [
+      "adj. 波动的；起伏的；波浪形的",
+      "vt. 波动；使波动；使起伏；使成波浪形",
+      "vi. 起伏，波动；震动；呈波浪形"
+    ],
+    "usphone": "[ˈʌndʒəleɪt]",
+    "ukphone": "[ˈʌndjuleɪt]"
+  },
+  {
+    "name": "unrelenting",
+    "trans": [
+      "adj. 无情的；不屈不挠的；不松懈的"
+    ],
+    "usphone": "[ˌʌnrɪˈlentɪŋ]",
+    "ukphone": "[ˌʌnrɪˈlentɪŋ]"
+  },
+  {
+    "name": "unbecoming",
+    "trans": [
+      "adj. 不适当的，不相称的；不合身的，不得体的"
+    ],
+    "usphone": "[ˌʌnbɪˈkʌmɪŋ]",
+    "ukphone": "[ˌʌnbɪˈkʌmɪŋ]"
+  },
+  {
+    "name": "upfront",
+    "trans": [
+      "adj. 预付的；在前面的；正直的，坦率的",
+      "adv. 在前面；提前支付（工资）"
+    ],
+    "usphone": "[ˌʌpˈfrʌnt]",
+    "ukphone": "[ˌʌpˈfrʌnt]"
+  },
+  {
+    "name": "unwind",
+    "trans": [
+      "vt. 放松；解开；[计] 展开",
+      "vi. 放松；解开；松开"
+    ],
+    "usphone": "[ˌʌnˈwaɪnd]",
+    "ukphone": "[ˌʌnˈwaɪnd]"
+  },
+  {
+    "name": "upsurge",
+    "trans": [
+      "n. 高潮，高涨",
+      "vi. 涌起，高涨"
+    ],
+    "usphone": "[ˈʌpsɜːrdʒ]",
+    "ukphone": "[ˈʌpsɜːdʒ]"
+  },
+  {
+    "name": "undersell",
+    "trans": [
+      "vt. 抛售；以低于市价售出"
+    ],
+    "usphone": "[ˌʌndərˈsel]",
+    "ukphone": "[ˌʌndəˈsel]"
+  },
+  {
+    "name": "undercharge",
+    "trans": [
+      "n. 充电不足；低的索价；填不够量的火药",
+      "vt. 充电不足；索价低于常价；弹药装填不足"
+    ],
+    "usphone": "[ˌʌndərˈtʃɑːrdʒ]",
+    "ukphone": "[ˌʌndəˈtʃɑːdʒ]"
+  },
+  {
+    "name": "unfailing",
+    "trans": [
+      "adj. 经久不衰的；可靠的；无穷尽的"
+    ],
+    "usphone": "[ʌnˈfeɪlɪŋ]",
+    "ukphone": "[ʌnˈfeɪlɪŋ]"
+  },
+  {
+    "name": "unaccountable",
+    "trans": [
+      "adj. 无责任的；莫名其妙的；不可理解的"
+    ],
+    "usphone": "[ˌʌnəˈkaʊntəbl]",
+    "ukphone": "[ˌʌnəˈkaʊntəb(ə)l]"
+  },
+  {
+    "name": "unpalatable",
+    "trans": [
+      "adj. 味道差的，难吃的；讨人厌的，使人不快的"
+    ],
+    "usphone": "[ʌnˈpælətəbl]",
+    "ukphone": "[ʌnˈpælətəb(ə)l]"
+  },
+  {
+    "name": "unfathomable",
+    "trans": [
+      "adj. 深不可测的；无底的；莫测高深的"
+    ],
+    "usphone": "[ʌnˈfæðəməbl]",
+    "ukphone": "[ʌnˈfæðəməbl]"
+  },
+  {
+    "name": "unprincipled",
+    "trans": [
+      "adj. 无原则的；不道德的，不正直的；不合人道的"
+    ],
+    "usphone": "[ʌnˈprɪnsəpld]",
+    "ukphone": "[ʌnˈprɪnsəpld]"
+  },
+  {
+    "name": "undercut",
+    "trans": [
+      "n. 底切；牛腰部下侧嫩肉；砍口；切球",
+      "vt. 廉价出售；较便宜的工资工作；从下边削球",
+      "vi. 底切"
+    ],
+    "usphone": "[ˌʌndərˈkʌt]",
+    "ukphone": "[ˌʌndəˈkʌt]"
+  },
+  {
+    "name": "unwitting",
+    "trans": [
+      "adj. 不知情的；不知不觉的，无意的",
+      "v. 使精神错乱；使丧失智能（unwit的ing形式）"
+    ],
+    "usphone": "[ʌnˈwɪtɪŋ]",
+    "ukphone": "[ʌnˈwɪtɪŋ]"
+  },
+  {
+    "name": "ulcer",
+    "trans": [
+      "n. [病理] 溃疡；腐烂物；道德败坏"
+    ],
+    "usphone": "[ˈʌlsər]",
+    "ukphone": "[ˈʌlsə(r)]"
+  },
+  {
+    "name": "ultrasonic",
+    "trans": [
+      "n. 超声波",
+      "adj. [声] 超声的；超音速的"
+    ],
+    "usphone": "[ˌʌltrəˈsɑːnɪk]",
+    "ukphone": "[ˌʌltrəˈsɒnɪk]"
+  },
+  {
+    "name": "ultrasound",
+    "trans": [
+      "n. 超声；超音波"
+    ],
+    "usphone": "[ˈʌltrəsaʊnd]",
+    "ukphone": "[ˈʌltrəsaʊnd]"
+  },
+  {
+    "name": "unabashed",
+    "trans": [
+      "adj. 不害羞的；不畏惧的；厚脸皮的"
+    ],
+    "usphone": "[ˌʌnəˈbæʃt]",
+    "ukphone": "[ˌʌnəˈbæʃt]"
+  },
+  {
+    "name": "unabated",
+    "trans": [
+      "adj. 不减弱的，不衰退的"
+    ],
+    "usphone": "[ˌʌnəˈbeɪtɪd]",
+    "ukphone": "[ˌʌnəˈbeɪtɪd]"
+  },
+  {
+    "name": "unassuming",
+    "trans": [
+      "adj. 谦逊的；不装腔作势的；不出风头的"
+    ],
+    "usphone": "[ˌʌnəˈsuːmɪŋ]",
+    "ukphone": "[ˌʌnəˈsjuːmɪŋ]"
+  },
+  {
+    "name": "unawares",
+    "trans": [
+      "adv. 不知不觉地；出其不意地；不料"
+    ],
+    "usphone": "[ˌʌnəˈwerz]",
+    "ukphone": "[ˌʌnəˈweəz]"
+  },
+  {
+    "name": "uncanny",
+    "trans": [
+      "adj. 神秘的；离奇的；可怕的"
+    ],
+    "usphone": "[ʌnˈkæni]",
+    "ukphone": "[ʌnˈkæni]"
+  },
+  {
+    "name": "unceremonious",
+    "trans": [
+      "adj. 随便的，不拘礼节的；无礼貌的"
+    ],
+    "usphone": "[ˌʌnˌserəˈmoʊniəs]",
+    "ukphone": "[ˌʌnˌserəˈməʊniəs]"
+  },
+  {
+    "name": "underbrush",
+    "trans": [
+      "n. 林下灌木丛；矮树丛"
+    ],
+    "usphone": "[ˈʌndərbrʌʃ]",
+    "ukphone": "[ˈʌndəbrʌʃ]"
+  },
+  {
+    "name": "underdog",
+    "trans": [
+      "n. 比赛中不被看好者；失败者；受压迫者；斗败了的狗"
+    ],
+    "usphone": "[ˈʌndərdɔːɡ]",
+    "ukphone": "[ˈʌndədɒɡ]"
+  },
+  {
+    "name": "underdone",
+    "trans": [
+      "adj. 半生不熟的；未煮透的",
+      "v. 不尽全力做；使…不煮透（underdo的过去分词）"
+    ],
+    "usphone": "[ˌʌndərˈdʌn]",
+    "ukphone": "[ˌʌndəˈdʌn]"
+  },
+  {
+    "name": "undergrowth",
+    "trans": [
+      "n. 发育不全；生长在大树下的灌木；动物身上长在长毛下面的浓密绒毛"
+    ],
+    "usphone": "[ˈʌndərɡroʊθ]",
+    "ukphone": "[ˈʌndəɡrəʊθ]"
+  },
+  {
+    "name": "underhand",
+    "trans": [
+      "adj. （球赛时投球）下投的；阴险的",
+      "adv. 欺诈地；以下手投"
+    ],
+    "usphone": "[ˌʌndərˈhænd]",
+    "ukphone": "[ˌʌndəˈhænd]"
+  },
+  {
+    "name": "underling",
+    "trans": [
+      "n. 下属，部下；走卒"
+    ],
+    "usphone": "[ˈʌndərlɪŋ]",
+    "ukphone": "[ˈʌndəlɪŋ]"
+  },
+  {
+    "name": "unequivocal",
+    "trans": [
+      "adj. 明确的；不含糊的"
+    ],
+    "usphone": "[ˌʌnɪˈkwɪvəkl]",
+    "ukphone": "[ˌʌnɪˈkwɪvəkl]"
+  },
+  {
+    "name": "ungainly",
+    "trans": [
+      "adj. 笨拙的；不雅的",
+      "adv. 笨拙地；不雅地"
+    ],
+    "usphone": "[ʌnˈɡeɪnli]",
+    "ukphone": "[ʌnˈɡeɪnli]"
+  },
+  {
+    "name": "ungodly",
+    "trans": [
+      "adj. 邪恶的；不敬畏神的；荒唐的"
+    ],
+    "usphone": "[ʌnˈɡɑːdli]",
+    "ukphone": "[ʌnˈɡɒdli]"
+  },
+  {
+    "name": "ungracious",
+    "trans": [
+      "adj. 无礼貌的，没规矩的；没有教养的；讨厌的"
+    ],
+    "usphone": "[ʌnˈɡreɪʃəs]",
+    "ukphone": "[ʌnˈɡreɪʃəs]"
+  },
+  {
+    "name": "ungrateful",
+    "trans": [
+      "adj. 忘恩负义的；不领情的；讨厌的；徒劳的"
+    ],
+    "usphone": "[ʌnˈɡreɪtfl]",
+    "ukphone": "[ʌnˈɡreɪtf(ə)l]"
+  },
+  {
+    "name": "unicorn",
+    "trans": [
+      "n. 独角兽；麒麟"
+    ],
+    "usphone": "[ˈjuːnɪkɔːrn]",
+    "ukphone": "[ˈjuːnɪkɔːn]"
+  },
+  {
+    "name": "unintelligible",
+    "trans": [
+      "adj. 莫名其妙的；无法了解的"
+    ],
+    "usphone": "[ˌʌnɪnˈtelɪdʒəbl]",
+    "ukphone": "[ˌʌnɪnˈtelɪdʒəbl]"
+  },
+  {
+    "name": "uninviting",
+    "trans": [
+      "adj. 讨厌的，无吸引力的；无魅力的"
+    ],
+    "usphone": "[ˌʌnɪnˈvaɪtɪŋ]",
+    "ukphone": "[ˌʌnɪnˈvaɪtɪŋ]"
+  },
+  {
+    "name": "unison",
+    "trans": [
+      "n. 和谐；齐唱；同度；[声] 同音"
+    ],
+    "usphone": "[ˈjuːnɪsn]",
+    "ukphone": "[ˈjuːnɪsn]"
+  },
+  {
+    "name": "unkempt",
+    "trans": [
+      "adj. 蓬乱的，不整洁的；（言语等）粗野的"
+    ],
+    "usphone": "[ˌʌnˈkempt]",
+    "ukphone": "[ˌʌnˈkempt]"
+  },
+  {
+    "name": "unlisted",
+    "trans": [
+      "adj. 未上市的；未编入册的"
+    ],
+    "usphone": "[ˌʌnˈlɪstɪd]",
+    "ukphone": "[ˌʌnˈlɪstɪd]"
+  },
+  {
+    "name": "unpretentious",
+    "trans": [
+      "adj. 谦逊的；含蓄的；不炫耀的；不铺张的"
+    ],
+    "usphone": "[ˌʌnprɪˈtenʃəs]",
+    "ukphone": "[ˌʌnprɪˈtenʃəs]"
+  },
+  {
+    "name": "unremitting",
+    "trans": [
+      "adj. 不懈的；不间断的；坚忍的"
+    ],
+    "usphone": "[ˌʌnrɪˈmɪtɪŋ]",
+    "ukphone": "[ˌʌnrɪˈmɪtɪŋ]"
+  },
+  {
+    "name": "unruly",
+    "trans": [
+      "adj. 不守规矩的；任性的；难驾驭的"
+    ],
+    "usphone": "[ʌnˈruːli]",
+    "ukphone": "[ʌnˈruːli]"
+  },
+  {
+    "name": "unsightly",
+    "trans": [
+      "adj. 难看的；不雅观的"
+    ],
+    "usphone": "[ʌnˈsaɪtli]",
+    "ukphone": "[ʌnˈsaɪtli]"
+  },
+  {
+    "name": "unsuspecting",
+    "trans": [
+      "adj. 不怀疑的；未猜想到…的"
+    ],
+    "usphone": "[ˌʌnsəˈspektɪŋ]",
+    "ukphone": "[ˌʌnsəˈspektɪŋ]"
+  },
+  {
+    "name": "unswerving",
+    "trans": [
+      "adj. 坚定的；始终不渝的；不歪的"
+    ],
+    "usphone": "[ʌnˈswɜːrvɪŋ]",
+    "ukphone": "[ʌnˈswɜːvɪŋ]"
+  },
+  {
+    "name": "untenable",
+    "trans": [
+      "adj. （论据等）站不住脚的；不能维持的；不能租赁的；难以防守的"
+    ],
+    "usphone": "[ʌnˈtenəbl]",
+    "ukphone": "[ʌnˈtenəb(ə)l]"
+  },
+  {
+    "name": "untold",
+    "trans": [
+      "adj. 数不清的；未说过的；未透露的；无限的"
+    ],
+    "usphone": "[ˌʌnˈtoʊld]",
+    "ukphone": "[ˌʌnˈtəʊld]"
+  },
+  {
+    "name": "untouchable",
+    "trans": [
+      "adj. 达不到的；不可批评的；不可捉摸的"
+    ],
+    "usphone": "[ʌnˈtʌtʃəbl]",
+    "ukphone": "[ʌnˈtʌtʃəbl]"
+  },
+  {
+    "name": "untruth",
+    "trans": [
+      "n. 虚假，不真实；谎言"
+    ],
+    "usphone": "[ˌʌnˈtruːθ]",
+    "ukphone": "[ˌʌnˈtruːθ]"
+  },
+  {
+    "name": "unwieldy",
+    "trans": [
+      "adj. 笨拙的；笨重的；不灵便的；难处理的"
+    ],
+    "usphone": "[ʌnˈwiːldi]",
+    "ukphone": "[ʌnˈwiːldi]"
+  },
+  {
+    "name": "unworldly",
+    "trans": [
+      "adj. 非尘世的；精神上的，非物质的；天真的"
+    ],
+    "usphone": "[ʌnˈwɜːrldli]",
+    "ukphone": "[ʌnˈwɜːldli]"
+  },
+  {
+    "name": "upholster",
+    "trans": [
+      "vt. 装饰；用（挂毯、家具等）布置；为（沙发等）装上垫子"
+    ],
+    "usphone": "[ʌpˈhoʊlstər]",
+    "ukphone": "[ʌpˈhəʊlstə(r)]"
+  },
+  {
+    "name": "upstart",
+    "trans": [
+      "n. 暴发户；自命不凡的人；傲慢自负的人",
+      "adj. 暴富的；自命不凡的",
+      "vt. 使…突然跳起；使…崛起",
+      "vi. 突然跳起；崛起"
+    ],
+    "usphone": "[ˈʌpstɑːrt]",
+    "ukphone": "[ˈʌpstɑːt]"
+  },
+  {
+    "name": "upstream",
+    "trans": [
+      "n. 上游部门",
+      "adj. 向上游的；逆流而上的",
+      "adv. 逆流地；向上游"
+    ],
+    "usphone": "[ˌʌpˈstriːm]",
+    "ukphone": "[ˌʌpˈstriːm]"
+  },
+  {
+    "name": "usurer",
+    "trans": [
+      "n. 高利贷者；贷款人"
+    ],
+    "usphone": "[ˈjuːʒərər]",
+    "ukphone": "[ˈjuːʒərə(r)]"
+  },
+  {
+    "name": "Utopia",
+    "trans": [
+      "n. 乌托邦（理想中最美好的社会）；理想国"
+    ],
+    "usphone": "[juːˈtoʊpiə]",
+    "ukphone": "[juːˈtəʊpiə]"
+  },
+  {
+    "name": "untie",
+    "trans": [
+      "vt. 解开；解决；使自由",
+      "vi. 解开；松开"
+    ],
+    "usphone": "[ʌnˈtaɪ]",
+    "ukphone": "[ʌnˈtaɪ]"
+  },
+  {
+    "name": "unrequited",
+    "trans": [
+      "adj. 无回报的；无报酬的"
+    ],
+    "usphone": "[ˌʌnrɪˈkwaɪtɪd]",
+    "ukphone": "[ˌʌnrɪˈkwaɪtɪd]"
+  },
+  {
+    "name": "unalloyed",
+    "trans": [
+      "adj. 纯粹的；[材] 非合金的"
+    ],
+    "usphone": "[ˌʌnəˈlɔɪd]",
+    "ukphone": "[ˌʌnəˈlɔɪd]"
+  },
+  {
+    "name": "unbidden",
+    "trans": [
+      "adj. 未受邀请的；未受指使的；自愿的"
+    ],
+    "usphone": "[ʌnˈbɪdn]",
+    "ukphone": "[ʌnˈbɪdn]"
+  },
+  {
+    "name": "unattainable",
+    "trans": [
+      "adj. 做不到的；难到达的"
+    ],
+    "usphone": "[ˌʌnəˈteɪnəbl]",
+    "ukphone": "[ˌʌnəˈteɪnəbl]"
+  },
+  {
+    "name": "utopia",
+    "trans": [
+      "n. 乌托邦（理想中最美好的社会）；理想国"
+    ],
+    "usphone": "[juːˈtoʊpiə]",
+    "ukphone": "[juːˈtəʊpiə]"
+  },
+  {
+    "name": "up and down",
+    "trans": [
+      "na. 忽上忽下；各处；来来去去；升降浮沉"
+    ],
+    "usphone": "[ʌp ənd daʊn]",
+    "ukphone": "[ʌp ən daʊn]"
+  },
+  {
+    "name": "up to date",
+    "trans": [
+      "adj. 现代的；最新的；时髦的；新式的"
+    ],
+    "usphone": "[ˌʌp tə ˈdeɪt]",
+    "ukphone": "[ˌʌp tə ˈdeɪt]"
+  },
+  {
+    "name": "unalienable",
+    "trans": [
+      "adj. 不可剥夺的（等于inalienable）"
+    ],
+    "usphone": "[ʌnˈeɪliənəbl]",
+    "ukphone": "[ʌnˈeɪliənəbl]"
+  },
+  {
+    "name": "usurpation",
+    "trans": [
+      "n. 篡夺；夺取"
+    ],
+    "usphone": "[ˌjuːzɜːrˈpeɪʃn]",
+    "ukphone": "[ˌjuːzɜːˈpeɪʃn]"
+  },
+  {
+    "name": "unspeakable",
+    "trans": [
+      "adj. 无法形容的；不能以言语表达的；坏透了的"
+    ],
+    "usphone": "[ʌnˈspiːkəbl]",
+    "ukphone": "[ʌnˈspiːkəb(ə)l]"
+  },
+  {
+    "name": "unimaginative",
+    "trans": [
+      "adj. 缺乏想象力的；无趣的"
+    ],
+    "usphone": "[ˌʌnɪˈmædʒɪnətɪv]",
+    "ukphone": "[ˌʌnɪˈmædʒɪnətɪv]"
+  },
+  {
+    "name": "unwillingly",
+    "trans": [
+      "adv. 不情愿地；勉强地"
+    ],
+    "usphone": "[ʌnˈwɪlɪŋli]",
+    "ukphone": "[ʌnˈwɪlɪŋli]"
+  },
+  {
+    "name": "unforgettable",
+    "trans": [
+      "adj. 难忘的"
+    ],
+    "usphone": "[ˌʌnfərˈɡetəbl]",
+    "ukphone": "[ˌʌnfəˈɡetəb(ə)l]"
+  },
+  {
+    "name": "unclear",
+    "trans": [
+      "adj. 不清楚的；不易了解的"
+    ],
+    "usphone": "[ˌʌnˈklɪr]",
+    "ukphone": "[ˌʌnˈklɪə(r)]"
+  },
+  {
+    "name": "unacknowledged",
+    "trans": [
+      "adj. 不被承认的，未公开承认的；未答复的"
+    ],
+    "usphone": "[ˌʌnəkˈnɑːlɪdʒd]",
+    "ukphone": "[ˌʌnəkˈnɒlɪdʒd]"
+  },
+  {
+    "name": "unknowable",
+    "trans": [
+      "adj. 不可知的；不能知道的"
+    ],
+    "usphone": "[ʌnˈnoʊəbl]",
+    "ukphone": "[ʌnˈnəʊəbl]"
+  },
+  {
+    "name": "unsurprisingly",
+    "trans": [
+      "adv. 不出所料的；不出奇的；意料中的"
+    ],
+    "usphone": "[ˌʌnsərˈpraɪzɪŋli]",
+    "ukphone": "[ˌʌnsəˈpraɪzɪŋli]"
+  },
+  {
+    "name": "uplifting",
+    "trans": [
+      "adj. 令人振奋的；使人开心的"
+    ],
+    "usphone": "[ˌʌpˈlɪftɪŋ]",
+    "ukphone": "[ˌʌpˈlɪftɪŋ]"
+  },
+  {
+    "name": "unclean",
+    "trans": [
+      "adj. 不纯洁的；行为不检的"
+    ],
+    "usphone": "[ˌʌnˈkliːn]",
+    "ukphone": "[ˌʌnˈkliːn]"
+  },
+  {
+    "name": "upside",
+    "trans": [
+      "n. 优势，上面"
+    ],
+    "usphone": "[ˈʌpsaɪd]",
+    "ukphone": "[ˈʌpsaɪd]"
+  },
+  {
+    "name": "unusually",
+    "trans": [
+      "adv. 非常；异乎寻常地；显著地"
+    ],
+    "usphone": "[ʌnˈjuːʒuəliˌʌnˈjuːʒəli]",
+    "ukphone": "[ʌnˈjuːʒuəli; ʌnˈjuːʒəli]"
+  },
+  {
+    "name": "unionize",
+    "trans": [
+      "vt. 使……加入工会；使……成立工会",
+      "vi. 加入工会；成立工会"
+    ],
+    "usphone": "[ˈjuːniənaɪz]",
+    "ukphone": "[ˈjuːniənaɪz]"
+  },
+  {
+    "name": "unreadiness",
+    "trans": [
+      "n. 没预备，不敏捷"
+    ],
+    "usphone": "[ʌnˈredinəs]",
+    "ukphone": "[ʌnˈredinəs]"
+  },
+  {
+    "name": "unchangeable",
+    "trans": [
+      "adj. 不变的；不能改变的；安定的"
+    ],
+    "usphone": "[ʌnˈtʃeɪndʒəbl]",
+    "ukphone": "[ʌnˈtʃeɪndʒəbl]"
+  },
+  {
+    "name": "unreflecting",
+    "trans": [
+      "adj. 不反射的; 不反省的; 无思虑的; 浅薄的"
+    ],
+    "usphone": "[ˌʌnrɪˈflektɪŋ]",
+    "ukphone": "[ˌʌnrɪˈflektɪŋ]"
+  },
+  {
+    "name": "unable",
+    "trans": [
+      "adj. 不会的，不能的；[劳经] 无能力的；不能胜任的"
+    ],
+    "usphone": "[ʌnˈeɪbl]",
+    "ukphone": "[ʌnˈeɪb(ə)l]"
+  },
+  {
+    "name": "unfocused",
+    "trans": [
+      "adj. 不聚成焦点的"
+    ],
+    "usphone": "[ʌnˈfoʊkəst]",
+    "ukphone": "[ʌnˈfəʊkəst]"
+  },
+  {
+    "name": "understandably",
+    "trans": [
+      "adv. 可理解地"
+    ],
+    "usphone": "[ˌʌndərˈstændəbli]",
+    "ukphone": "[ˌʌndəˈstændəbli]"
+  },
+  {
+    "name": "unbearably",
+    "trans": [
+      "adv. 不堪忍受地；无法容忍地"
+    ],
+    "usphone": "[ʌnˈberəbli]",
+    "ukphone": "[ʌnˈbeərəbli]"
+  },
+  {
+    "name": "universality",
+    "trans": [
+      "n. 普遍性；广泛性；一般性；多方面性"
+    ],
+    "usphone": "[ˌjuːnɪvɜːrˈsæləti]",
+    "ukphone": "[ˌjuːnɪvɜːˈsæləti]"
+  },
+  {
+    "name": "understatement",
+    "trans": [
+      "n. 保守的陈述；不充分的陈述；有保留的陈述"
+    ],
+    "usphone": "[ˈʌndərsteɪtmənt]",
+    "ukphone": "[ˈʌndəsteɪtmənt]"
+  },
+  {
+    "name": "unchallenged",
+    "trans": [
+      "adj. 不成问题的；未引起争论的；[法] 不回避的"
+    ],
+    "usphone": "[ʌnˈtʃælɪndʒd]",
+    "ukphone": "[ʌnˈtʃælɪndʒd]"
+  },
+  {
+    "name": "unaffordable",
+    "trans": [
+      "adj. 买不起的"
+    ],
+    "usphone": "[ˌʌnəˈfɔːrdəbl]",
+    "ukphone": "[ˌʌnəˈfɔːdəbl]"
+  },
+  {
+    "name": "uninformed",
+    "trans": [
+      "adj. 无知的；未被通知的；未受教育的；不学无术的"
+    ],
+    "usphone": "[ˌʌnɪnˈfɔːrmd]",
+    "ukphone": "[ˌʌnɪnˈfɔːmd]"
+  },
+  {
+    "name": "universally",
+    "trans": [
+      "adv. 普遍地；人人；到处"
+    ],
+    "usphone": "[ˌjuːnɪˈvɜːrsəli]",
+    "ukphone": "[ˌjuːnɪˈvɜːsəli]"
+  },
+  {
+    "name": "unambiguous",
+    "trans": [
+      "adj. 不含糊的；清楚的；明白的"
+    ],
+    "usphone": "[ˌʌnæmˈbɪɡjuəs]",
+    "ukphone": "[ˌʌnæmˈbɪɡjuəs]"
+  },
+  {
+    "name": "undertreatment",
+    "trans": [
+      "n. 处理不足"
+    ],
+    "usphone": "[ˌʌndərˈtriːtmənt]",
+    "ukphone": "[ˌʌndəˈtriːtmənt]"
+  },
+  {
+    "name": "unacceptable",
+    "trans": [
+      "adj. 不能接受的；不受欢迎的"
+    ],
+    "usphone": "[ˌʌnəkˈseptəbl]",
+    "ukphone": "[ˌʌnəkˈseptəbl]"
+  },
+  {
+    "name": "unthinkable",
+    "trans": [
+      "adj. 不能想象的；过分的"
+    ],
+    "usphone": "[ʌnˈθɪŋkəbl]",
+    "ukphone": "[ʌnˈθɪŋkəbl]"
+  },
+  {
+    "name": "upwardly",
+    "trans": [
+      "adv. 向上地；在上面地"
+    ],
+    "usphone": "[ˈʌpwərdli]",
+    "ukphone": "[ˈʌpwədli]"
+  },
+  {
+    "name": "unused",
+    "trans": [
+      "adj. 不用的；从未用过的"
+    ],
+    "usphone": "[ˌʌnˈjuːzd; ʌnˈjuːst]",
+    "ukphone": "[ʌnˈjuːzd]"
+  },
+  {
+    "name": "undaunted",
+    "trans": [
+      "adj. 勇敢的，无畏的"
+    ],
+    "usphone": "[ˌʌnˈdɔːntɪd]",
+    "ukphone": "[ˌʌnˈdɔːntɪd]"
+  },
+  {
+    "name": "unicellular",
+    "trans": [
+      "adj. [细胞] 单细胞的"
+    ],
+    "usphone": "[ˌjuːnɪˈseljələr]",
+    "ukphone": "[ˌjuːnɪˈseljələ(r)]"
+  },
+  {
+    "name": "unbridled",
+    "trans": [
+      "adj. 放肆的；无拘束的；激烈的",
+      "v. 放纵（unbridle的过去分词形式）；卸下马辔头"
+    ],
+    "usphone": "[ʌnˈbraɪdld]",
+    "ukphone": "[ʌnˈbraɪdld]"
+  },
+  {
+    "name": "untainted",
+    "trans": [
+      "adj. 无污点的；未染污的"
+    ],
+    "usphone": "[ˌʌnˈteɪntɪd]",
+    "ukphone": "[ˌʌnˈteɪntɪd]"
+  },
+  {
+    "name": "underweight",
+    "trans": [
+      "n. 重量不足；不符合要求的重量",
+      "adj. 重量不足的"
+    ],
+    "usphone": "[ˌʌndərˈweɪt]",
+    "ukphone": "[ˌʌndəˈweɪt]"
+  },
+  {
+    "name": "upturn",
+    "trans": [
+      "n. 情况好转",
+      "vt. 使……转朝上；翻转",
+      "vi. 向上"
+    ],
+    "usphone": "[ˈʌptɜːrn]",
+    "ukphone": "[ˈʌptɜːn]"
+  },
+  {
+    "name": "unviable",
+    "trans": [
+      "adj. 不能独立生存的"
+    ],
+    "usphone": "[ˌʌnˈvaɪəbl]",
+    "ukphone": "[ˌʌnˈvaɪəbl]"
+  },
+  {
+    "name": "unwarranted",
+    "trans": [
+      "adj. 无根据的；无保证的"
+    ],
+    "usphone": "[ʌnˈwɔːrəntɪd]",
+    "ukphone": "[ʌnˈwɒrəntɪd]"
+  },
+  {
+    "name": "up to the minute",
+    "trans": [
+      "na. 最新的"
+    ],
+    "usphone": "[ˌʌp tə ðə ˈmɪnɪt]",
+    "ukphone": "[ˌʌp tə ðə ˈmɪnɪt]"
+  },
+  {
+    "name": "up against",
+    "trans": [
+      "na. 面临；遭遇(障碍等)"
+    ],
+    "usphone": "[ʌp əˈɡenst; ʌp əˈɡeɪnst]",
+    "ukphone": "[ʌp əˈɡenst]"
+  },
+  {
+    "name": "unfair",
+    "trans": [
+      "adj. 不公平的，不公正的"
+    ],
+    "usphone": "[ˌʌnˈfer]",
+    "ukphone": "[ˌʌnˈfeə(r)]"
+  },
+  {
+    "name": "unfit",
+    "trans": [
+      "adj. 不适宜的；不合格的；不健康的",
+      "vt. 使不合格；使不相宜；使不胜任"
+    ],
+    "usphone": "[ʌnˈfɪt]",
+    "ukphone": "[ʌnˈfɪt]"
+  },
+  {
+    "name": "unilateralism",
+    "trans": [
+      "n. 片面，单方；片面限制武器论；单方面裁军"
+    ],
+    "usphone": "[ˌjuːnɪˈlætrəlɪzəm]",
+    "ukphone": "[ˌjuːnɪˈlætrəlɪzəm]"
+  },
+  {
+    "name": "undigested",
+    "trans": [
+      "adj. 未经整理的；未出售的；未经消化的；未被市场吸收的"
+    ],
+    "usphone": "[ˌʌndəˈdʒestɪd]",
+    "ukphone": "[ˌʌndɪˈdʒestɪd]"
+  },
+  {
+    "name": "unearthed",
+    "trans": [
+      "v. 发掘；破获（unearth的过去分词）",
+      "adj. 采掘出的；未接地的"
+    ],
+    "usphone": "[ʌnˈɜːrθ]",
+    "ukphone": "[ʌn'əθid]"
+  },
+  {
+    "name": "unswervingly",
+    "trans": [
+      "adv. 坚定不移地"
+    ],
+    "usphone": "[,ʌn'swə:viŋli]",
+    "ukphone": "[,ʌn'swə:viŋli]"
+  },
+  {
+    "name": "unlimited",
+    "trans": [
+      "adj. 无限制的；无限量的；无条件的"
+    ],
+    "usphone": "[ʌnˈlɪmɪtɪd]",
+    "ukphone": "[ʌnˈlɪmɪtɪd]"
+  },
+  {
+    "name": "undercurrent",
+    "trans": [
+      "n. 暗流；潜流"
+    ],
+    "usphone": "[ˈʌndərkɜːrənt]",
+    "ukphone": "[ˈʌndəkʌrənt]"
+  },
+  {
+    "name": "uneven",
+    "trans": [
+      "adj. 不均匀的；不平坦的；[数] 奇数的"
+    ],
+    "usphone": "[ʌnˈiːvn]",
+    "ukphone": "[ʌnˈiːv(ə)n]"
+  },
+  {
+    "name": "uppermost",
+    "trans": [
+      "adj. 至上的；最高的；最主要的",
+      "adv. 最高地；最重要地；最突出地"
+    ],
+    "usphone": "[ˈʌpərmoʊst]",
+    "ukphone": "[ˈʌpəməʊst]"
+  },
+  {
+    "name": "unscathed",
+    "trans": [
+      "adj. 未受伤的"
+    ],
+    "usphone": "[ʌnˈskeɪðd]",
+    "ukphone": "[ʌnˈskeɪðd]"
+  },
+  {
+    "name": "uncensored",
+    "trans": [
+      "adj. 未经审查的；无保留的；无约束的"
+    ],
+    "usphone": "[ʌnˈsensərd]",
+    "ukphone": "[ʌnˈsensəd]"
+  },
+  {
+    "name": "ulcerate",
+    "trans": [
+      "vt. 使溃疡；使腐败",
+      "vi. 形成溃疡，溃烂"
+    ],
+    "usphone": "[ˈʌlsəreɪt]",
+    "ukphone": "[ˈʌlsəreɪt]"
+  },
+  {
+    "name": "ultimatum",
+    "trans": [
+      "n. 最后通牒；最后结论；基本原理"
+    ],
+    "usphone": "[ˌʌltɪˈmeɪtəm]",
+    "ukphone": "[ˌʌltɪˈmeɪtəm]"
+  },
+  {
+    "name": "ultrared",
+    "trans": [
+      "adj. 红外（线）的"
+    ],
+    "usphone": "[ˌʌltrəˈred]",
+    "ukphone": "[ˌʌltrəˈred]"
+  },
+  {
+    "name": "ultrastructure",
+    "trans": [
+      "n. [细胞] 超微结构；[细胞][组织] 亚显微结构"
+    ],
+    "usphone": "[ˈʌltrəˌstrʌktʃər]",
+    "ukphone": "[ˈʌltrəˌstrʌktʃə]"
+  },
+  {
+    "name": "umbilicus",
+    "trans": [
+      "n. 脐，种脐；中心"
+    ],
+    "usphone": "[ʌmˈbɪlɪkəsˌˌʌmbɪˈlaɪkəs]",
+    "ukphone": "[ʌmˈbɪlɪkəs; ˌʌmbɪˈlaɪkəs]"
+  },
+  {
+    "name": "unaided",
+    "trans": [
+      "adj. 未受协助的；无助的"
+    ],
+    "usphone": "[ʌnˈeɪdɪd]",
+    "ukphone": "[ʌnˈeɪdɪd]"
+  },
+  {
+    "name": "unimpeachable",
+    "trans": [
+      "adj. 无可指责的；无可怀疑的；无懈可击的；无过失的，无罪的"
+    ],
+    "usphone": "[ˌʌnɪmˈpiːtʃəbl]",
+    "ukphone": "[ˌʌnɪmˈpiːtʃəb(ə)l]"
+  },
+  {
+    "name": "unmitigated",
+    "trans": [
+      "adj. 全然的；严厉的；未缓和的"
+    ],
+    "usphone": "[ʌnˈmɪtɪɡeɪtɪd]",
+    "ukphone": "[ʌnˈmɪtɪɡeɪtɪd]"
+  },
+  {
+    "name": "unscrupulous",
+    "trans": [
+      "adj. 肆无忌惮的；寡廉鲜耻的；不讲道德的"
+    ],
+    "usphone": "[ʌnˈskruːpjələs]",
+    "ukphone": "[ʌnˈskruːpjələs]"
+  },
+  {
+    "name": "unselfish",
+    "trans": [
+      "adj. 无私的，慷慨的"
+    ],
+    "usphone": "[ʌnˈselfɪʃ]",
+    "ukphone": "[ʌnˈselfɪʃ]"
+  },
+  {
+    "name": "unsophisticated",
+    "trans": [
+      "adj. 纯洁的；不懂世故的；不精细的；天真无邪的；质朴无华的"
+    ],
+    "usphone": "[ˌʌnsəˈfɪstɪkeɪtɪd]",
+    "ukphone": "[ˌʌnsəˈfɪstɪkeɪtɪd]"
+  },
+  {
+    "name": "untamed",
+    "trans": [
+      "adj. 不能抑制的；难控驭的；未驯服的"
+    ],
+    "usphone": "[ˌʌnˈteɪmd]",
+    "ukphone": "[ˌʌnˈteɪmd]"
+  },
+  {
+    "name": "untapped",
+    "trans": [
+      "adj. 未开发的；未使用的；塞子未开的"
+    ],
+    "usphone": "[ˌʌnˈtæpt]",
+    "ukphone": "[ˌʌnˈtæpt]"
+  },
+  {
+    "name": "up-and-coming",
+    "trans": [
+      "adj. 积极进取的，很有前途的；日见重要的"
+    ],
+    "usphone": "[ˌʌp ən ˈkʌmɪŋ]",
+    "ukphone": "[ˌʌp ən ˈkʌmɪŋ]"
+  },
+  {
+    "name": "upland",
+    "trans": [
+      "n. 山地，高地",
+      "adj. 山地的，高地的"
+    ],
+    "usphone": "[ˈʌplənd]",
+    "ukphone": "[ˈʌplənd]"
+  },
+  {
+    "name": "urbane",
+    "trans": [
+      "adj. 彬彬有礼的，温文尔雅的；都市化的"
+    ],
+    "usphone": "[ɜːrˈbeɪn]",
+    "ukphone": "[ɜːˈbeɪn]"
+  },
+  {
+    "name": "urea",
+    "trans": [
+      "n. [肥料] 尿素"
+    ],
+    "usphone": "[jʊˈriːə]",
+    "ukphone": "[jʊˈriːə]"
+  },
+  {
+    "name": "uremia",
+    "trans": [
+      "n. 尿毒症"
+    ],
+    "usphone": "[juə'ri:miə]",
+    "ukphone": "[jʊəˈriːmɪə]"
+  },
+  {
+    "name": "ureter",
+    "trans": [
+      "n. 尿管；[解剖] 输尿管"
+    ],
+    "usphone": "[jʊˈritər]",
+    "ukphone": "[jʊˈriːtə; ˈjʊərɪtə]"
+  },
+  {
+    "name": "urethra",
+    "trans": [
+      "n. [解剖] 尿道"
+    ],
+    "usphone": "[jʊˈriːθrə]",
+    "ukphone": "[jʊˈriːθrə]"
+  },
+  {
+    "name": "urinary",
+    "trans": [
+      "adj. 尿的；泌尿的",
+      "n. 尿壶；小便池（等于urinal）"
+    ],
+    "usphone": "[ˈjʊrɪneri]",
+    "ukphone": "[ˈjʊərɪnəri]"
+  },
+  {
+    "name": "urology",
+    "trans": [
+      "n. 泌尿学"
+    ],
+    "usphone": "[jʊˈrɑːlədʒi]",
+    "ukphone": "[jʊəˈrɒlədʒi]"
+  },
+  {
+    "name": "urticaria",
+    "trans": [
+      "n. [皮肤] 荨麻疹；风团"
+    ],
+    "usphone": "[ˌɜːrtɪˈkeriə]",
+    "ukphone": "[ˌɜːtɪˈkeəriə]"
+  },
+  {
+    "name": "uterus",
+    "trans": [
+      "n. [解剖] 子宫"
+    ],
+    "usphone": "[ˈjuːtərəs]",
+    "ukphone": "[ˈjuːtərəs]"
+  },
+  {
+    "name": "Utopian",
+    "trans": [
+      "n. 空想家；乌托邦的居民",
+      "adj. 乌托邦的；空想的；理想化的"
+    ],
+    "usphone": "[juːˈtoʊpiən]",
+    "ukphone": "[juːˈtəʊpiən]"
+  },
+  {
+    "name": "uvula",
+    "trans": [
+      "n. [解剖] 悬雍垂；[解剖] 小舌"
+    ],
+    "usphone": "[ˈjuːvjələ]",
+    "ukphone": "[ˈjuːvjələ]"
+  },
+  {
+    "name": "underage",
+    "trans": [
+      "n. 缺乏",
+      "adj. 未成年的"
+    ],
+    "usphone": "[ˈʌndəreɪdʒ]",
+    "ukphone": "[ˈʌndəreɪdʒ]"
+  },
+  {
+    "name": "unidentified",
+    "trans": [
+      "adj. 未经确认的；未辨别出的，身份不明的"
+    ],
+    "usphone": "[ˌʌnaɪˈdentɪfaɪd]",
+    "ukphone": "[ˌʌnaɪˈdentɪfaɪd]"
+  },
+  {
+    "name": "uninteresting",
+    "trans": [
+      "adj. 无趣味的，乏味的；令人厌倦的"
+    ],
+    "usphone": "[ʌnˈɪntrəstɪŋ; ʌnˈɪntrestɪŋ]",
+    "ukphone": "[ʌnˈɪntrəstɪŋ]"
+  },
+  {
+    "name": "unmatched",
+    "trans": [
+      "adj. 无与伦比的；不相配的；无匹敌的"
+    ],
+    "usphone": "[ˌʌnˈmætʃt]",
+    "ukphone": "[ˌʌnˈmætʃt]"
+  },
+  {
+    "name": "unpaid",
+    "trans": [
+      "adj. 未付款的；[税收] 未缴纳的；无报酬的"
+    ],
+    "usphone": "[ˌʌnˈpeɪd]",
+    "ukphone": "[ˌʌnˈpeɪd]"
+  },
+  {
+    "name": "unrecognizable",
+    "trans": [
+      "adj. 未被承认的；无法认出的"
+    ],
+    "usphone": "[ˌʌnrekəɡˈnaɪzəbl]",
+    "ukphone": "[ˌʌnrekəɡˈnaɪzəbl; ˌʌnˈrekəɡnaɪzəbl]"
+  },
+  {
+    "name": "untidy",
+    "trans": [
+      "adj. 不整洁的，凌乱的；懒散的；不干净利落的，不简练的；不适宜的",
+      "v. 使不整洁；使杂乱无章"
+    ],
+    "usphone": "[ʌnˈtaɪdi]",
+    "ukphone": "[ʌnˈtaɪdi]"
+  },
+  {
+    "name": "unanimity",
+    "trans": [
+      "n. 同意，全体一致"
+    ],
+    "usphone": "[ˌjuːnəˈnɪməti]",
+    "ukphone": "[ˌjuːnəˈnɪməti]"
+  },
+  {
+    "name": "underway",
+    "trans": [
+      "n. [公路] 水底通道",
+      "adj. 进行中的；起步的；航行中的"
+    ],
+    "usphone": "[ˌʌndərˈweɪ]",
+    "ukphone": "[ˌʌndəˈweɪ]"
+  },
+  {
+    "name": "unexplained",
+    "trans": [
+      "adj. 未经解释的；未经说明的；不清楚的"
+    ],
+    "usphone": "[ˌʌnɪkˈspleɪnd]",
+    "ukphone": "[ˌʌnɪkˈspleɪnd]"
+  },
+  {
+    "name": "UFO",
+    "trans": [
+      "abbr. 不明飞行物（Unidentified Flying Object）"
+    ],
+    "usphone": "[ˌjuː ef ˈoʊˌˈjuːfoʊ]",
+    "ukphone": "[ˌjuː ef ˈəʊ; ˈjuːfəʊ]"
+  },
+  {
+    "name": "user-friendly",
+    "trans": [
+      "adj. 容易使用的"
+    ],
+    "usphone": "[ˌjuːzər ˈfrendli]",
+    "ukphone": "[ˌjuːzə ˈfrendli]"
+  },
+  {
+    "name": "unsure",
+    "trans": [
+      "adj. 不确定的；不肯定的；没有自信的"
+    ],
+    "usphone": "[ˌʌnˈʃʊr]",
+    "ukphone": "[ˌʌnˈʃʊə(r)]"
+  },
+  {
+    "name": "unimportant",
+    "trans": [
+      "adj. 不重要的；琐碎的"
+    ],
+    "usphone": "[ˌʌnɪmˈpɔːrtnt]",
+    "ukphone": "[ˌʌnɪmˈpɔːt(ə)nt]"
+  },
+  {
+    "name": "uninterested",
+    "trans": [
+      "adj. 不感兴趣的；无利害关系的"
+    ],
+    "usphone": "[ʌnˈɪntrəstɪd; ʌnˈɪntrestɪd]",
+    "ukphone": "[ʌnˈɪntrəstɪd]"
+  },
+  {
+    "name": "unkind",
+    "trans": [
+      "adj. 无情的；不仁慈的，不厚道的"
+    ],
+    "usphone": "[ˌʌnˈkaɪnd]",
+    "ukphone": "[ˌʌnˈkaɪnd]"
+  },
+  {
+    "name": "unknown",
+    "trans": [
+      "n. 未知数；未知的事物，默默无闻的人",
+      "adj. 未知的；陌生的，默默无闻的"
+    ],
+    "usphone": "[ˌʌnˈnoʊn]",
+    "ukphone": "[ˌʌnˈnəʊn]"
+  },
+  {
+    "name": "unlucky",
+    "trans": [
+      "adj. 不幸的；倒霉的；不吉利的"
+    ],
+    "usphone": "[ʌnˈlʌki]",
+    "ukphone": "[ʌnˈlʌki]"
+  },
+  {
+    "name": "unwell",
+    "trans": [
+      "adj. 不舒服的；生病的"
+    ],
+    "usphone": "[ʌnˈwel]",
+    "ukphone": "[ʌnˈwel]"
+  },
+  {
+    "name": "unskilled",
+    "trans": [
+      "adj. 不熟练的；拙劣的；无需技能的",
+      "v. 不熟练；无技能（unskill的过去式和过去分词形式）"
+    ],
+    "usphone": "[ˌʌnˈskɪld]",
+    "ukphone": "[ˌʌnˈskɪld]"
+  },
+  {
+    "name": "underpants",
+    "trans": [
+      "n. 内衣裤；衬裤"
+    ],
+    "usphone": "[ˈʌndərpænts]",
+    "ukphone": "[ˈʌndəpænts]"
+  },
+  {
+    "name": "undress",
+    "trans": [
+      "n. 便服；裸体",
+      "vt. 使脱衣服；使卸去装饰；暴露",
+      "vi. 脱衣服"
+    ],
+    "usphone": "[ʌnˈdres]",
+    "ukphone": "[ʌnˈdres]"
+  },
+  {
+    "name": "urgently",
+    "trans": [
+      "adv. 迫切地；紧急地；急切地"
+    ],
+    "usphone": "[ˈɜːrdʒəntli]",
+    "ukphone": "[ˈɜːdʒəntli]"
+  },
+  {
+    "name": "unreliable",
+    "trans": [
+      "adj. 不可靠的；靠不住的"
+    ],
+    "usphone": "[ˌʌnrɪˈlaɪəbl]",
+    "ukphone": "[ˌʌnrɪˈlaɪəb(ə)l]"
+  },
+  {
+    "name": "underprivileged",
+    "trans": [
+      "adj. 贫困的；被剥夺基本权力的；社会地位低下的"
+    ],
+    "usphone": "[ˌʌndərˈprɪvəlɪdʒd]",
+    "ukphone": "[ˌʌndəˈprɪvəlɪdʒd]"
+  },
+  {
+    "name": "unmask",
+    "trans": [
+      "vt. 撕下……的假面具；揭露",
+      "vi. 脱去假面具"
+    ],
+    "usphone": "[ˌʌnˈmæsk]",
+    "ukphone": "[ˌʌnˈmɑːsk]"
+  },
+  {
+    "name": "unfettered",
+    "trans": [
+      "adj. 无拘无束的；被除去脚镣的",
+      "v. 使自由（unfetter的过去分词）；解开脚链；释放"
+    ],
+    "usphone": "[ʌnˈfetərd]",
+    "ukphone": "[ʌnˈfetəd]"
+  },
+  {
+    "name": "up-front",
+    "trans": [
+      "adj. 预先的；坦率的"
+    ],
+    "usphone": "[ʌp frʌnt]",
+    "ukphone": "[ʌp frʌnt]"
+  },
+  {
+    "name": "uncertainly",
+    "trans": [
+      "adv. 不确定地；没把握地；犹豫地"
+    ],
+    "usphone": "[ʌnˈsɜːrtnli]",
+    "ukphone": "[ʌnˈsɜːtnli]"
+  },
+  {
+    "name": "undertaker",
+    "trans": [
+      "n. 承担者；承办人；殡仪业者"
+    ],
+    "usphone": "[ˈʌndərteɪkər]",
+    "ukphone": "[ˈʌndəteɪkə(r)]"
+  },
+  {
+    "name": "ultraclean",
+    "trans": [
+      "adj. [化学] 超净的"
+    ],
+    "usphone": "[,ʌltrə'kli:n]",
+    "ukphone": "[ˌʌltrəˈkliːn]"
+  },
+  {
+    "name": "unanswered",
+    "trans": [
+      "adj. 未答复的；无反应的"
+    ],
+    "usphone": "[ʌnˈænsərd]",
+    "ukphone": "[ʌnˈɑːnsəd]"
+  },
+  {
+    "name": "uncool",
+    "trans": [
+      "adj. 粗野的；没把握的；不冷静沉着的；土里土气的"
+    ],
+    "usphone": "[ˌʌnˈkuːl]",
+    "ukphone": "[ˌʌnˈkuːl]"
+  },
+  {
+    "name": "underrate",
+    "trans": [
+      "vt. 低估；看轻"
+    ],
+    "usphone": "[ˌʌndəˈreɪt]",
+    "ukphone": "[ˌʌndəˈreɪt]"
+  },
+  {
+    "name": "undervalue",
+    "trans": [
+      "vt. 低估...之价值；看轻"
+    ],
+    "usphone": "[ˌʌndərˈvæljuː]",
+    "ukphone": "[ˌʌndəˈvæljuː]"
+  },
+  {
+    "name": "unfairness",
+    "trans": [
+      "n. 不公平，不公正；不正当"
+    ],
+    "usphone": "[ˌʌnˈfernəs]",
+    "ukphone": "[ˌʌnˈfeənəs]"
+  },
+  {
+    "name": "unionism",
+    "trans": [
+      "n. 工会主义；联合主义；联邦主义"
+    ],
+    "usphone": "[ˈjuːniənɪzəm]",
+    "ukphone": "[ˈjuːniənɪzəm]"
+  },
+  {
+    "name": "unlearned",
+    "trans": [
+      "n. 没有文化的人们",
+      "adj. 无学问的，未受教育的；不熟练的；不学而知的",
+      "v. 忘掉已学到的知识（unlearn的过去分词）"
+    ],
+    "usphone": "[ʌnˈlɜːrnd]",
+    "ukphone": "[ʌnˈlɜːnd; -ˈlɜːnɪd]"
+  },
+  {
+    "name": "unmistakable",
+    "trans": [
+      "adj. 明显的；不会弄错的"
+    ],
+    "usphone": "[ˌʌnmɪˈsteɪkəbl]",
+    "ukphone": "[ˌʌnmɪˈsteɪkəbl]"
+  },
+  {
+    "name": "unnecessarily",
+    "trans": [
+      "adv. 不必要地；多余地"
+    ],
+    "usphone": "[ˌʌnˌnesəˈserəli]",
+    "ukphone": "[ʌnˈnesəsərəli]"
+  },
+  {
+    "name": "unpopular",
+    "trans": [
+      "adj. 不流行的，不受欢迎的"
+    ],
+    "usphone": "[ʌnˈpɑːpjələr]",
+    "ukphone": "[ʌnˈpɒpjələ(r)]"
+  },
+  {
+    "name": "unpredictability",
+    "trans": [
+      "n. 不可预测性，不可预知性；不可预见性"
+    ],
+    "usphone": "[ˌʌnprɪˌdɪktəˈbɪləti]",
+    "ukphone": "[ˌʌnprɪˌdɪktəˈbɪləti]"
+  },
+  {
+    "name": "unseat",
+    "trans": [
+      "vt. 罢免；剥夺…的席位；使失去资格；使从座位上（或马背上）摔下"
+    ],
+    "usphone": "[ˌʌnˈsiːt]",
+    "ukphone": "[ˌʌnˈsiːt]"
+  },
+  {
+    "name": "untested",
+    "trans": [
+      "adj. 未经检验的；[试验] 未试验的"
+    ],
+    "usphone": "[ˌʌnˈtestɪd]",
+    "ukphone": "[ˌʌnˈtestɪd]"
+  },
+  {
+    "name": "unworthy",
+    "trans": [
+      "adj. 不值得的；无价值的；不相称的"
+    ],
+    "usphone": "[ʌnˈwɜːrði]",
+    "ukphone": "[ʌnˈwɜːði]"
+  },
+  {
+    "name": "upscale",
+    "trans": [
+      "adj. 迎合高层次消费者的；质优价高的",
+      "vt. 升高一级"
+    ],
+    "usphone": "[ˌʌpˈskeɪl]",
+    "ukphone": "[ˌʌpˈskeɪl]"
+  },
+  {
+    "name": "unsmiling",
+    "trans": [
+      "adj. 严肃的；不笑的"
+    ],
+    "usphone": "[ˌʌnˈsmaɪlɪŋ]",
+    "ukphone": "[ˌʌnˈsmaɪlɪŋ]"
+  },
+  {
+    "name": "unhurt",
+    "trans": [
+      "adj. 没有受伤的"
+    ],
+    "usphone": "[ʌnˈhɜːrt]",
+    "ukphone": "[ʌnˈhɜːt]"
+  },
+  {
+    "name": "Utah",
+    "trans": [
+      "n. 美国犹他州"
+    ],
+    "usphone": "[ˈjuːˌtɑː]",
+    "ukphone": "[ˈjuːtɑː]"
+  },
+  {
+    "name": "unwise",
+    "trans": [
+      "adj. 不明智的；愚蠢的；轻率的"
+    ],
+    "usphone": "[ˌʌnˈwaɪz]",
+    "ukphone": "[ˌʌnˈwaɪz]"
+  },
+  {
+    "name": "underside",
+    "trans": [
+      "n. 下面；阴暗面"
+    ],
+    "usphone": "[ˈʌndərsaɪd]",
+    "ukphone": "[ˈʌndəsaɪd]"
+  },
+  {
+    "name": "unprofessional",
+    "trans": [
+      "adj. 非职业性的，非专业的；外行的"
+    ],
+    "usphone": "[ˌʌnprəˈfeʃənl]",
+    "ukphone": "[ˌʌnprəˈfeʃənl]"
+  },
+  {
+    "name": "uneducated",
+    "trans": [
+      "adj. 无知的；未受教育的",
+      "v. 未受教育（uneducate的过去分词）"
+    ],
+    "usphone": "[ʌnˈedʒukeɪtɪd]",
+    "ukphone": "[ʌnˈedʒukeɪtɪd]"
+  },
+  {
+    "name": "unofficial",
+    "trans": [
+      "adj. 非官方的；非正式的"
+    ],
+    "usphone": "[ˌʌnəˈfɪʃl]",
+    "ukphone": "[ˌʌnəˈfɪʃl]"
+  },
+  {
+    "name": "unsociable",
+    "trans": [
+      "adj. 不爱交际的；不与人亲近的；不和气的"
+    ],
+    "usphone": "[ʌnˈsoʊʃəbl]",
+    "ukphone": "[ʌnˈsəʊʃəbl]"
+  },
+  {
+    "name": "untimely",
+    "trans": [
+      "adj. 不合时宜的；过早的",
+      "adv. 不合时宜地；过早地"
+    ],
+    "usphone": "[ʌnˈtaɪmli]",
+    "ukphone": "[ʌnˈtaɪmli]"
+  },
+  {
+    "name": "undignify",
+    "trans": [
+      "vt. 使丧失尊严"
+    ],
+    "usphone": "[ʌn'dɪgnəfaɪ]",
+    "ukphone": "[,ʌn'dignifai]"
+  },
+  {
+    "name": "unequal",
+    "trans": [
+      "n. 不等同的事物",
+      "adj. 不平等的；不规则的；不胜任的"
+    ],
+    "usphone": "[ʌnˈiːkwəl]",
+    "ukphone": "[ʌnˈiːkwəl]"
+  },
+  {
+    "name": "utile",
+    "trans": [
+      "adj. 有用的，有助益的"
+    ],
+    "usphone": "['ju:tail]",
+    "ukphone": "[ˈjuːtaɪl]"
+  },
+  {
+    "name": "unconcern",
+    "trans": [
+      "n. 不关心；不感兴趣；冷淡"
+    ],
+    "usphone": "[ˌʌnkənˈsɜːrn]",
+    "ukphone": "[ˌʌnkənˈsɜːn]"
+  },
+  {
+    "name": "unfaithful",
+    "trans": [
+      "adj. 不忠实的；不诚实的；不准确的"
+    ],
+    "usphone": "[ʌnˈfeɪθfl]",
+    "ukphone": "[ʌnˈfeɪθfl]"
+  },
+  {
+    "name": "unlawful",
+    "trans": [
+      "adj. 非法的；私生的"
+    ],
+    "usphone": "[ʌnˈlɔːfl]",
+    "ukphone": "[ʌnˈlɔːfl]"
+  },
+  {
+    "name": "uncooperative",
+    "trans": [
+      "adj. 不合作的；不配合的"
+    ],
+    "usphone": "[ˌʌnkoʊˈɑːpərətɪv]",
+    "ukphone": "[ˌʌnkəʊˈɒpərətɪv]"
+  },
+  {
+    "name": "unreal",
+    "trans": [
+      "adj. 不真实的；假的；幻想的；虚构的"
+    ],
+    "usphone": "[ˌʌnˈriːəl]",
+    "ukphone": "[ˌʌnˈrɪəl]"
+  },
+  {
+    "name": "unisex",
+    "trans": [
+      "adj. 男女皆宜的"
+    ],
+    "usphone": "[ˈjuːnɪseks]",
+    "ukphone": "[ˈjuːnɪseks]"
+  },
+  {
+    "name": "unashamed",
+    "trans": [
+      "adj. 无耻的；恬不知耻的；问心无愧的"
+    ],
+    "usphone": "[ˌʌnəˈʃeɪmd]",
+    "ukphone": "[ˌʌnəˈʃeɪmd]"
+  },
+  {
+    "name": "untiring",
+    "trans": [
+      "adj. 不知疲倦的；不屈不挠的；坚持不懈的"
+    ],
+    "usphone": "[ʌnˈtaɪərɪŋ]",
+    "ukphone": "[ʌnˈtaɪərɪŋ]"
+  },
+  {
+    "name": "underpass",
+    "trans": [
+      "n. 地下通道；[交] 下穿交叉道"
+    ],
+    "usphone": "[ˈʌndərpæs]",
+    "ukphone": "[ˈʌndəpɑːs]"
+  },
+  {
+    "name": "uptown",
+    "trans": [
+      "n. 住宅区",
+      "adj. 住宅区的",
+      "adv. （美）在住宅区；（美）在城镇非商业区"
+    ],
+    "usphone": "[ˌʌpˈtaʊn]",
+    "ukphone": "[ˌʌpˈtaʊn]"
+  },
+  {
+    "name": "underclass",
+    "trans": [
+      "n. 下层阶级，下层社会；一、二年级学生"
+    ],
+    "usphone": "[ˈʌndərklæs]",
+    "ukphone": "[ˈʌndəklɑːs]"
+  },
+  {
+    "name": "unexploited",
+    "trans": [
+      "adj. 未开发的；未被利用的"
+    ],
+    "usphone": "[ˌʌnɪkˈsplɔɪtɪd]",
+    "ukphone": "[ˈʌnɪksˈplɔɪtɪd]"
+  },
+  {
+    "name": "unwanted",
+    "trans": [
+      "adj. 不需要的；有害的；讨厌的；空闲的"
+    ],
+    "usphone": "[ˌʌnˈwɑːntɪd]",
+    "ukphone": "[ˌʌnˈwɒntɪd]"
+  },
+  {
+    "name": "unloving",
+    "trans": [
+      "adj. 无爱心的"
+    ],
+    "usphone": "[ʌnˈlʌvɪŋ]",
+    "ukphone": "[ˌʌnˈlʌvɪŋ]"
+  },
+  {
+    "name": "unfamiliarity",
+    "trans": [
+      "n. 陌生"
+    ],
+    "usphone": "[ˌʌnfəˌmɪliˈærəti]",
+    "ukphone": "[ˌʌnfəˌmɪliˈærəti]"
+  },
+  {
+    "name": "uncombed",
+    "trans": [
+      "adj. 蓬乱的；未梳理过的"
+    ],
+    "usphone": "[ʌnˈkoʊmd]",
+    "ukphone": "[ʌnˈkəʊmd]"
+  },
+  {
+    "name": "unbroken",
+    "trans": [
+      "adj. 未破损的，完整的；继续的；未被阻断的"
+    ],
+    "usphone": "[ʌnˈbroʊkən]",
+    "ukphone": "[ʌnˈbrəʊkən]"
+  },
+  {
+    "name": "unclothed",
+    "trans": [
+      "vt. 剥光；脱去衣服；暴露"
+    ],
+    "usphone": "[ˌʌnˈkloʊðd]",
+    "ukphone": "[ˌʌnˈkləʊðd]"
+  },
+  {
+    "name": "undergarment",
+    "trans": [
+      "n. 内衣；衬衣"
+    ],
+    "usphone": "[ˈʌndərɡɑːrmənt]",
+    "ukphone": "[ˈʌndəɡɑːmənt]"
+  },
+  {
+    "name": "unwrap",
+    "trans": [
+      "vt. 打开"
+    ],
+    "usphone": "[ʌnˈræp]",
+    "ukphone": "[ʌnˈræp]"
+  },
+  {
+    "name": "unappreciated",
+    "trans": [
+      "adj. 未被欣赏的"
+    ],
+    "usphone": "[ˌʌnəˈpriːʃieɪtɪd]",
+    "ukphone": "[ˌʌnəˈpriːʃieɪtɪd]"
+  },
+  {
+    "name": "undeniable",
+    "trans": [
+      "adj. 不可否认的；公认优秀的；无可争辩的"
+    ],
+    "usphone": "[ˌʌndɪˈnaɪəbl]",
+    "ukphone": "[ˌʌndɪˈnaɪəbl]"
+  },
+  {
+    "name": "unsanitary",
+    "trans": [
+      "adj. 不卫生的；有碍健康的"
+    ],
+    "usphone": "[ʌnˈsænəteri]",
+    "ukphone": "[ʌnˈsænətri]"
+  },
+  {
+    "name": "undisciplined",
+    "trans": [
+      "adj. 无训练的；混乱无纪律的"
+    ],
+    "usphone": "[ˌʌnˈdɪsəplɪnd]",
+    "ukphone": "[ˌʌnˈdɪsəplɪnd]"
+  },
+  {
+    "name": "unjustifiable",
+    "trans": [
+      "adj. 不合道理的；不能分辩的；辩护不了的；不能认为是正当的"
+    ],
+    "usphone": "[ˌʌnˌdʒʌstɪˈfaɪəblˌˌʌnˈdʒʌstɪfaɪəbl]",
+    "ukphone": "[ˌʌnˌdʒʌstɪˈfaɪəb(ə)l]"
+  },
+  {
+    "name": "unshirkable",
+    "trans": [
+      "a. (工作、责任等)无法逃避的"
+    ],
+    "usphone": "[ʌn'ʃɝkəbəl]",
+    "ukphone": "[ʌn'ʃɜ:kəbl]"
+  },
+  {
+    "name": "unwed",
+    "trans": [
+      "adj. 未婚的；没有结婚的"
+    ],
+    "usphone": "[ˌʌnˈwed]",
+    "ukphone": "[ˌʌnˈwed]"
+  },
+  {
+    "name": "untangle",
+    "trans": [
+      "vt. 清理；整顿；解开…纠结"
+    ],
+    "usphone": "[ˌʌnˈtæŋɡl]",
+    "ukphone": "[ˌʌnˈtæŋɡl]"
+  },
+  {
+    "name": "upwelling",
+    "trans": [
+      "n. 上涌；[海洋] 上升流（指海水由较深层上升到较浅层的过程）",
+      "v. 上涌（upwell的ing形式）"
+    ],
+    "usphone": "[ʌpˈwelɪŋ]",
+    "ukphone": "[ʌpˈwelɪŋ]"
+  },
+  {
+    "name": "unchecked",
+    "trans": [
+      "adj. 未经核对的；未加抑制的"
+    ],
+    "usphone": "[ˌʌnˈtʃekt]",
+    "ukphone": "[ˌʌnˈtʃekt]"
+  },
+  {
+    "name": "unoriginal",
+    "trans": [
+      "adj. 非原先的，非独创的；模仿的"
+    ],
+    "usphone": "[ˌʌnəˈrɪdʒənəl]",
+    "ukphone": "[ˌʌnəˈrɪdʒɪnəl]"
+  },
+  {
+    "name": "unabridged",
+    "trans": [
+      "adj. 完整的；未经删节的；足本的"
+    ],
+    "usphone": "[ˌʌnəˈbrɪdʒd]",
+    "ukphone": "[ˌʌnəˈbrɪdʒd]"
+  },
+  {
+    "name": "unattached",
+    "trans": [
+      "adj. 独立的；未订婚的；未被查封的；未任命的"
+    ],
+    "usphone": "[ˌʌnəˈtætʃt]",
+    "ukphone": "[ˌʌnəˈtætʃt]"
+  },
+  {
+    "name": "unsolicited",
+    "trans": [
+      "adj. 未经请求的；主动提供的"
+    ],
+    "usphone": "[ˌʌnsəˈlɪsɪtɪd]",
+    "ukphone": "[ˌʌnsəˈlɪsɪtɪd]"
+  },
+  {
+    "name": "unhesitatingly",
+    "trans": [
+      "adv. 不踌躇地；迅速地"
+    ],
+    "usphone": "[ʌnˈhezɪteɪtɪŋli]",
+    "ukphone": "[ʌnˈhezɪteɪtɪŋli]"
+  },
+  {
+    "name": "uninhabitable",
+    "trans": [
+      "adj. 不适宜居住的"
+    ],
+    "usphone": "[ˌʌnɪnˈhæbɪtəbl]",
+    "ukphone": "[ˌʌnɪnˈhæbɪtəbl]"
+  },
+  {
+    "name": "unlivable",
+    "trans": [
+      "adj. 不适宜于居住的"
+    ],
+    "usphone": "[ʌnˈlɪvəbl]",
+    "ukphone": "[ʌnˈlɪvəb(ə)l]"
+  },
+  {
+    "name": "underfed",
+    "trans": [
+      "adj. 营养不良的；没吃饱的；未喂饱的",
+      "v. 不充分供料（underfeed的过去式和过去分词）"
+    ],
+    "usphone": "[ˌʌndərˈfed]",
+    "ukphone": "[ˌʌndəˈfed]"
+  },
+  {
+    "name": "unmoved",
+    "trans": [
+      "adj. 无动于衷的；不动摇的"
+    ],
+    "usphone": "[ˌʌnˈmuːvd]",
+    "ukphone": "[ˌʌnˈmuːvd]"
+  },
+  {
+    "name": "UK",
+    "trans": [
+      "n. 英国",
+      "abbr. 联合王国（United Kingdom）"
+    ],
+    "usphone": "[ˌjuː ˈkeɪ]",
+    "ukphone": "[ˌjuː ˈkeɪ]"
+  },
+  {
+    "name": "undersea",
+    "trans": [
+      "adj. 水下的；海面下的"
+    ],
+    "usphone": "[ˈʌndərsiː]",
+    "ukphone": "[ˈʌndəsiː]"
+  },
+  {
+    "name": "unfaithfulness",
+    "trans": [
+      "n. 不忠实；不信守婚誓"
+    ],
+    "usphone": "[ʌnˈfeɪθflnəs]",
+    "ukphone": "[ʌnˈfeɪθflnəs]"
+  },
+  {
+    "name": "undisclosed",
+    "trans": [
+      "adj. 未泄露的；身分不明的；保持秘密的"
+    ],
+    "usphone": "[ˌʌndɪsˈkloʊzd]",
+    "ukphone": "[ˌʌndɪsˈkləʊzd]"
+  },
+  {
+    "name": "uninsured",
+    "trans": [
+      "adj. 未保过险的"
+    ],
+    "usphone": "[ˌʌnɪnˈʃʊrd]",
+    "ukphone": "[ˌʌnɪnˈʃʊəd; ˌʌnɪnˈʃɔːd]"
+  },
+  {
+    "name": "underused",
+    "trans": [
+      "adj. 未充分利用的"
+    ],
+    "usphone": "[ˌʌndərˈjuːzd]",
+    "ukphone": "[ˌʌndəˈjuːzd]"
+  },
+  {
+    "name": "unmentioned",
+    "trans": [
+      "adj. 未提到的；未说起的"
+    ],
+    "usphone": "[ʌn'menʃənd]",
+    "ukphone": "[ʌnˈmenʃ(ə)nd]"
+  },
+  {
+    "name": "unequally",
+    "trans": [
+      "adv. 不相等地；不均匀地；不公平地"
+    ],
+    "usphone": "[ʌnˈiːkwəli]",
+    "ukphone": "[ʌnˈiːkwəli]"
+  },
+  {
+    "name": "undetermined",
+    "trans": [
+      "adj. 待定的；未确定的；缺乏决断力的；未解决的"
+    ],
+    "usphone": "[ˌʌndɪˈtɜːrmɪnd]",
+    "ukphone": "[ˌʌndɪˈtɜːmɪnd]"
+  },
+  {
+    "name": "unconventionality",
+    "trans": [
+      "n. 非常规；异常"
+    ],
+    "usphone": "[ˌʌnkənvenʃəˈnæləti]",
+    "ukphone": "[ˌʌnkənvenʃəˈnæləti]"
+  },
+  {
+    "name": "unrealistically",
+    "trans": [
+      "adv. 不切实际地；不现实地"
+    ],
+    "usphone": "[ˌʌnriːəˈlɪstɪkli]",
+    "ukphone": "[ˌʌnrɪəˈlɪstɪkli]"
+  },
+  {
+    "name": "undutiful",
+    "trans": [
+      "adj. 未尽职的，不顺从的，不孝的"
+    ],
+    "usphone": "[ʌnˈdjʊtɪfəl]",
+    "ukphone": "[ʌnˈdjuːtɪfʊl; -f(ə)l]"
+  },
+  {
+    "name": "unbutton",
+    "trans": [
+      "vt. 解开钮扣",
+      "vi. 解开钮扣；吐露"
+    ],
+    "usphone": "[ˌʌnˈbʌtn]",
+    "ukphone": "[ˌʌnˈbʌtn]"
+  },
+  {
+    "name": "unworkable",
+    "trans": [
+      "adj. 不能实行的；难运转的；不切实际的"
+    ],
+    "usphone": "[ʌnˈwɜːrkəbl]",
+    "ukphone": "[ʌnˈwɜːkəbl]"
+  },
+  {
+    "name": "undefined",
+    "trans": [
+      "adj. 不明确的；未下定义的"
+    ],
+    "usphone": "[ˌʌndɪˈfaɪnd]",
+    "ukphone": "[ˌʌndɪˈfaɪnd]"
+  },
+  {
+    "name": "underbid",
+    "trans": [
+      "n. 叫牌偏低；出价较低",
+      "vt. 出价低于…；出较低的价钱"
+    ],
+    "usphone": "[ˌʌndərˈbɪd]",
+    "ukphone": "[ˌʌndəˈbɪd]"
+  },
+  {
+    "name": "underemployed",
+    "trans": [
+      "n. 大材小用的人",
+      "adj. 未充分就业的；学非所用的；只有部分时间被雇用的"
+    ],
+    "usphone": "[ˌʌndərɪmˈplɔɪd]",
+    "ukphone": "[ˌʌndərɪmˈplɔɪd]"
+  },
+  {
+    "name": "underpaid",
+    "trans": [
+      "v. [会计] 未足额支付（underpay的过去分词）",
+      "adj. 所得报酬过低的"
+    ],
+    "usphone": "[ˌʌndərˈpeɪd]",
+    "ukphone": "[ˌʌndəˈpeɪd]"
+  },
+  {
+    "name": "underperform",
+    "trans": [
+      "vt. （股票等）运作差于（一般市场价格）",
+      "vi. 表现不佳；工作不如预期（或同行）"
+    ],
+    "usphone": "[ˌʌndərpərˈfɔːrm]",
+    "ukphone": "[ˌʌndəpəˈfɔːm]"
+  },
+  {
+    "name": "underuse",
+    "trans": [
+      "vt. 未充分利用；使用...不当"
+    ],
+    "usphone": "[ˌʌndərˈjuːs]",
+    "ukphone": "[ˌʌndəˈjuːs]"
+  },
+  {
+    "name": "underwriter",
+    "trans": [
+      "n. 保险公司；保险业者；承诺支付者；担保人"
+    ],
+    "usphone": "[ˈʌndəraɪtər]",
+    "ukphone": "[ˈʌndəraɪtə(r)]"
+  },
+  {
+    "name": "undifferentiated",
+    "trans": [
+      "adj. 无差别的；一致的"
+    ],
+    "usphone": "[ˌʌndɪfəˈrenʃieɪtɪd]",
+    "ukphone": "[ˌʌndɪfəˈrenʃieɪtɪd]"
+  },
+  {
+    "name": "univocal",
+    "trans": [
+      "adj. 意义明确的；单一意思的"
+    ],
+    "usphone": "[juːˈnɪvəkəl]",
+    "ukphone": "[ˌjuːnɪˈvəʊk(ə)l]"
+  },
+  {
+    "name": "unregulated",
+    "trans": [
+      "adj. 未经调节的；[仪] 未校准的"
+    ],
+    "usphone": "[ˌʌnˈreɡjuleɪtɪd]",
+    "ukphone": "[ˌʌnˈreɡjuleɪtɪd]"
+  },
+  {
+    "name": "unsecured",
+    "trans": [
+      "adj. 无担保的；未固定的"
+    ],
+    "usphone": "[ˌʌnsɪˈkjʊrd]",
+    "ukphone": "[ˌʌnsɪˈkjʊəd]"
+  },
+  {
+    "name": "upbeat",
+    "trans": [
+      "n. 兴旺；上升；弱拍",
+      "adj. 乐观的；上升的"
+    ],
+    "usphone": "[ˈʌpbiːt]",
+    "ukphone": "[ˈʌpbiːt]"
+  },
+  {
+    "name": "upholstery",
+    "trans": [
+      "n. 家具装饰用品业；垫衬物"
+    ],
+    "usphone": "[ʌpˈhoʊlstəri]",
+    "ukphone": "[ʌpˈhəʊlstəri]"
+  },
+  {
+    "name": "upmarket",
+    "trans": [
+      "n. 高档商品",
+      "adj. 质优价高的；高级的",
+      "adv. 在高档之列",
+      "vt. 使进入高消费者市场",
+      "vi. 进入高消费者市场"
+    ],
+    "usphone": "[ˌʌpˈmɑːrkɪt]",
+    "ukphone": "[ˌʌpˈmɑːkɪt]"
+  },
+  {
+    "name": "upshift",
+    "trans": [
+      "vi. （指给汽车）调高速挡，加速",
+      "vt. 提高，增加",
+      "n. （尤指驾驶汽车时的）挂高（速）挡，换高（速）挡，加速"
+    ],
+    "usphone": "[ˈʌpʃɪft]",
+    "ukphone": "[ˈʌpʃɪft]"
+  },
+  {
+    "name": "upshot",
+    "trans": [
+      "n. 结果，结局；要点"
+    ],
+    "usphone": "[ˈʌpʃɑːt]",
+    "ukphone": "[ˈʌpˌʃɒt]"
+  },
+  {
+    "name": "upswing",
+    "trans": [
+      "n. 上升；增加；向上摆动",
+      "vi. 提高；回升；向上摆动"
+    ],
+    "usphone": "[ˈʌpswɪŋ]",
+    "ukphone": "[ˈʌpswɪŋ]"
+  },
+  {
+    "name": "usury",
+    "trans": [
+      "n. 高利；高利贷；利益"
+    ],
+    "usphone": "[ˈjuːʒəri]",
+    "ukphone": "[ˈjuːʒəri]"
+  },
+  {
+    "name": "urination",
+    "trans": [
+      "n. 撒尿，排尿"
+    ],
+    "usphone": "[ˌjʊrɪˈneɪʃn]",
+    "ukphone": "[ˌjʊərɪˈneɪʃn]"
+  },
+  {
+    "name": "unlettered",
+    "trans": [
+      "adj. 未受教育的；文盲的；无字的；无学问的"
+    ],
+    "usphone": "[ˌʌnˈletərd]",
+    "ukphone": "[ˌʌnˈletəd]"
+  },
+  {
+    "name": "unwonted",
+    "trans": [
+      "adj. 不习惯的；不寻常的；少有的"
+    ],
+    "usphone": "[ʌnˈwoʊntɪd]",
+    "ukphone": "[ʌnˈwəʊntɪd]"
+  },
+  {
+    "name": "upbraid",
+    "trans": [
+      "vt. 责骂；训斥"
+    ],
+    "usphone": "[ʌpˈbreɪd]",
+    "ukphone": "[ʌpˈbreɪd]"
+  },
+  {
+    "name": "untoward",
+    "trans": [
+      "adj. 不幸的；麻烦的；倔强的；困难的"
+    ],
+    "usphone": "[ʌnˈtɔːrd]",
+    "ukphone": "[ˌʌntəˈwɔːd]"
+  },
+  {
+    "name": "undergird",
+    "trans": [
+      "vt. 加强；从底层加固"
+    ],
+    "usphone": "[ˌʌndərˈɡɜːrd]",
+    "ukphone": "[ˌʌndəˈɡɜːd]"
+  },
+  {
+    "name": "umbrage",
+    "trans": [
+      "n. 不快，生气；树荫；怀疑"
+    ],
+    "usphone": "[ˈʌmbrɪdʒ]",
+    "ukphone": "[ˈʌmbrɪdʒ]"
+  },
+  {
+    "name": "unassailable",
+    "trans": [
+      "adj. 不容置疑的；无懈可击的"
+    ],
+    "usphone": "[ˌʌnəˈseɪləbl]",
+    "ukphone": "[ˌʌnəˈseɪləbl]"
+  },
+  {
+    "name": "unexceptionable",
+    "trans": [
+      "adj. 无懈可击的；完美无缺的；极好的"
+    ],
+    "usphone": "[ˌʌnɪkˈsepʃənəbl]",
+    "ukphone": "[ˌʌnɪkˈsepʃənəb(ə)l]"
+  },
+  {
+    "name": "unflappable",
+    "trans": [
+      "adj. 镇定的，不慌张的"
+    ],
+    "usphone": "[ˌʌnˈflæpəb(ə)l]",
+    "ukphone": "[ˌʌnˈflæpəb(ə)l]"
+  },
+  {
+    "name": "unflagging",
+    "trans": [
+      "adj. 不屈不挠的；不松弛的，不松懈的"
+    ],
+    "usphone": "[ˌʌnˈflæɡɪŋ]",
+    "ukphone": "[ˌʌnˈflæɡɪŋ]"
+  },
+  {
+    "name": "unavailing",
+    "trans": [
+      "adj. 无效的；徒劳的；无益的；无用的"
+    ],
+    "usphone": "[ˌʌnəˈveɪlɪŋ]",
+    "ukphone": "[ˌʌnəˈveɪlɪŋ]"
+  },
+  {
+    "name": "unsung",
+    "trans": [
+      "adj. （歌）未唱的；未被诗歌赞颂的，埋没的"
+    ],
+    "usphone": "[ˌʌnˈsʌŋ]",
+    "ukphone": "[ˌʌnˈsʌŋ]"
+  },
+  {
+    "name": "unctuous",
+    "trans": [
+      "adj. 油质的；虚情假意的；油腔滑调的"
+    ],
+    "usphone": "[ˈʌŋktʃuəs]",
+    "ukphone": "[ˈʌŋktjuəs]"
+  },
+  {
+    "name": "unfreeze",
+    "trans": [
+      "vt. 解冻；解除对…的控制；融化"
+    ],
+    "usphone": "[ˌʌnˈfriːz]",
+    "ukphone": "[ˌʌnˈfriːz]"
+  },
+  {
+    "name": "unreachable",
+    "trans": [
+      "adj. 不能得到的；不能达到的"
+    ],
+    "usphone": "[ʌn'ri:tʃəbl]",
+    "ukphone": "[ʌnˈriːtʃəb(ə)l]"
+  },
+  {
+    "name": "undiscovered",
+    "trans": [
+      "adj. 未被发现的；未勘探的"
+    ],
+    "usphone": "[ˌʌndɪˈskʌvərd]",
+    "ukphone": "[ˌʌndɪˈskʌvəd]"
+  },
+  {
+    "name": "uninvited",
+    "trans": [
+      "adj. 未被邀请的；未经请求的"
+    ],
+    "usphone": "[ˌʌnɪnˈvaɪtɪd]",
+    "ukphone": "[ˌʌnɪnˈvaɪtɪd]"
+  },
+  {
+    "name": "unplanned",
+    "trans": [
+      "adj. 意外的；在计划外的；未经筹划的"
+    ],
+    "usphone": "[ˌʌnˈplænd]",
+    "ukphone": "[ˌʌnˈplænd]"
+  },
+  {
+    "name": "unintended",
+    "trans": [
+      "adj. 无意识的；非计划中的"
+    ],
+    "usphone": "[ˌʌnɪnˈtendɪd]",
+    "ukphone": "[ˌʌnɪnˈtendɪd]"
+  },
+  {
+    "name": "unspoken",
+    "trans": [
+      "adj. 无言的；未说出口的；不言而喻的"
+    ],
+    "usphone": "[ʌnˈspoʊkən]",
+    "ukphone": "[ʌnˈspəʊkən]"
+  },
+  {
+    "name": "unshakable",
+    "trans": [
+      "adj. 不可动摇的；坚定不移的"
+    ],
+    "usphone": "[ʌnˈʃeɪkəbl]",
+    "ukphone": "[ʌnˈʃeɪkəbl]"
+  },
+  {
+    "name": "unmarried",
+    "trans": [
+      "adj. [法] 未婚的；单身的；独身的",
+      "v. 离婚（unmarry的过去分词）"
+    ],
+    "usphone": "[ˌʌnˈmærid]",
+    "ukphone": "[ˌʌnˈmærid]"
+  },
+  {
+    "name": "upperclassman",
+    "trans": [
+      "n. 美国高年级学生"
+    ],
+    "usphone": "[ˌʌpərˈklæsmən]",
+    "ukphone": "[ˌʌpəˈklɑːsmən]"
+  },
+  {
+    "name": "undisputed",
+    "trans": [
+      "adj. 无可争辩的；无异议的；毫无疑问的"
+    ],
+    "usphone": "[ˌʌndɪˈspjuːtɪd]",
+    "ukphone": "[ˌʌndɪˈspjuːtɪd]"
+  },
+  {
+    "name": "unapologetically",
+    "trans": [
+      "不认错地",
+      "不道歉地"
+    ],
+    "usphone": "[ˌʌnəˌpɑːləˈdʒetɪkli]",
+    "ukphone": "[ˌʌnəˌpɒləˈdʒetɪkli]"
+  },
+  {
+    "name": "unimpeded",
+    "trans": [
+      "adj. 畅通无阻的；未受阻的"
+    ],
+    "usphone": "[ˌʌnɪmˈpiːdɪd]",
+    "ukphone": "[ˌʌnɪmˈpiːdɪd]"
+  },
+  {
+    "name": "unrivalled",
+    "trans": [
+      "adj. 无与伦比的；无敌的"
+    ],
+    "usphone": "[ʌnˈraɪvld]",
+    "ukphone": "[ʌnˈraɪvld]"
+  },
+  {
+    "name": "untrustworthy",
+    "trans": [
+      "adj. 靠不住的；不能信赖的"
+    ],
+    "usphone": "[ʌnˈtrʌstwɜːrði]",
+    "ukphone": "[ʌnˈtrʌstwɜːði]"
+  },
+  {
+    "name": "unquote",
+    "trans": [
+      "vt. （句、文等）结束（引文）",
+      "vi. （句、文等）结束（引文）"
+    ],
+    "usphone": "[ˌʌnˈkwoʊt]",
+    "ukphone": "[ˌʌnˈkwəʊt]"
+  },
+  {
+    "name": "unregistered",
+    "trans": [
+      "adj. [法] 未注册的；未登记的"
+    ],
+    "usphone": "[ˌʌnˈredʒɪstərd]",
+    "ukphone": "[ˌʌnˈredʒɪstəd]"
+  },
+  {
+    "name": "unemployment benefit",
+    "trans": [
+      "n. 失业补贴（或津贴）；失业救济金"
+    ],
+    "usphone": "[ˌʌnɪmˈplɔɪmənt benɪfɪt]",
+    "ukphone": "[ˌʌnɪmˈplɔɪmənt benɪfɪt]"
+  },
+  {
+    "name": "unhindered",
+    "trans": [
+      "adj. 不受妨碍的，不受阻碍的"
+    ],
+    "usphone": "[ʌnˈhɪndərd]",
+    "ukphone": "[ʌnˈhɪndəd]"
+  },
+  {
+    "name": "undone",
+    "trans": [
+      "v. 解开；消除（undo的过去分词）",
+      "adj. 破灭的；未完成的；解开的"
+    ],
+    "usphone": "[ʌnˈdʌn]",
+    "ukphone": "[ʌnˈdʌn]"
+  },
+  {
+    "name": "uncontaminated",
+    "trans": [
+      "adj. 未被污染的；未沾染的"
+    ],
+    "usphone": "[ˌʌnkənˈtæmɪneɪtɪd]",
+    "ukphone": "[ˌʌnkənˈtæmɪneɪtɪd]"
+  },
+  {
+    "name": "unevenly",
+    "trans": [
+      "adv. 不均衡地；不平坦地；不平行地"
+    ],
+    "usphone": "[ʌnˈiːvnli]",
+    "ukphone": "[ʌnˈiːvnli]"
+  },
+  {
+    "name": "underwhelming",
+    "trans": [
+      "adj. 未给人留下深刻印象的；未激起人们热情的",
+      "v. 未留下深刻印象；未激起人们热情（underwhelm的ing形式）"
+    ],
+    "usphone": "[ˌʌndərˈwelmɪŋ]",
+    "ukphone": "[ˌʌndəˈwelmɪŋ]"
+  },
+  {
+    "name": "unforced",
+    "trans": [
+      "adj. 自然的；不勉强的",
+      "v. 非被强迫（unforce的过去分词）"
+    ],
+    "usphone": "[ʌnˈfɔːrst]",
+    "ukphone": "[ʌnˈfɔːst]"
+  },
+  {
+    "name": "unionist",
+    "trans": [
+      "n. 工会会员；联合主义者"
+    ],
+    "usphone": "[ˈjuːniənɪst]",
+    "ukphone": "[ˈjuːniənɪst]"
+  },
+  {
+    "name": "unbeaten",
+    "trans": [
+      "adj. 未被击败的；未被践踏的；未搅打的"
+    ],
+    "usphone": "[ʌnˈbiːtn]",
+    "ukphone": "[ʌnˈbiːtn]"
+  },
+  {
+    "name": "uncontrolled",
+    "trans": [
+      "adj. 不受控制的"
+    ],
+    "usphone": "[ˌʌnkənˈtroʊld]",
+    "ukphone": "[ˌʌnkənˈtrəʊld]"
+  },
+  {
+    "name": "unprofitable",
+    "trans": [
+      "adj. 无益的，没有用的；没有利润的"
+    ],
+    "usphone": "[ʌnˈprɑːfɪtəbl]",
+    "ukphone": "[ʌnˈprɒfɪtəbl]"
+  },
+  {
+    "name": "untouched",
+    "trans": [
+      "adj. 未受影响的；未改变的；未触动过的；不受感动的"
+    ],
+    "usphone": "[ʌnˈtʌtʃt]",
+    "ukphone": "[ʌnˈtʌtʃt]"
+  },
+  {
+    "name": "unfasten",
+    "trans": [
+      "vt. 解开；放松",
+      "vi. 解开；放松"
+    ],
+    "usphone": "[ʌnˈfæsn]",
+    "ukphone": "[ʌnˈfɑːsn]"
+  },
+  {
+    "name": "underworld",
+    "trans": [
+      "n. 黑社会；地狱；下层社会；尘世"
+    ],
+    "usphone": "[ˈʌndərwɜːrld]",
+    "ukphone": "[ˈʌndəwɜːld]"
+  },
+  {
+    "name": "understaffed",
+    "trans": [
+      "adj. 人手不足的；人员不足的"
+    ],
+    "usphone": "[ˌʌndərˈstæft]",
+    "ukphone": "[ˌʌndəˈstɑːft]"
+  },
+  {
+    "name": "usefulness",
+    "trans": [
+      "n. 有用；有效性；有益"
+    ],
+    "usphone": "[ˈjuːsflnəs]",
+    "ukphone": "[ˈjuːsflnəs]"
+  },
+  {
+    "name": "unthinkingly",
+    "trans": [
+      "adv. 不假思索地；轻率地"
+    ],
+    "usphone": "[ʌnˈθɪŋkɪŋli]",
+    "ukphone": "[ʌnˈθɪŋkɪŋli]"
+  },
+  {
+    "name": "up front",
+    "trans": [
+      "na. 在前面；预先"
+    ],
+    "usphone": "[ʌp frʌnt]",
+    "ukphone": "[ʌp frʌnt]"
+  },
+  {
+    "name": "underemployment",
+    "trans": [
+      "n. 不充分就业"
+    ],
+    "usphone": "[ˈʌndərˌɪmˈplɔɪmənt]",
+    "ukphone": "[ˌʌndərɪmˈplɔɪmənt]"
+  },
+  {
+    "name": "unconvincing",
+    "trans": [
+      "adj. 不足以令人相信的（名词unconvincingness，副词unconvincingly）"
+    ],
+    "usphone": "[ˌʌnkənˈvɪnsɪŋ]",
+    "ukphone": "[ˌʌnkənˈvɪnsɪŋ]"
+  },
+  {
+    "name": "umpteenth",
+    "trans": [
+      "adj. 第无数次的"
+    ],
+    "usphone": "[ˌʌmpˈtiːnθ]",
+    "ukphone": "[ˌʌmpˈtiːnθ]"
+  },
+  {
+    "name": "unresisting",
+    "trans": [
+      "a. 不抵抗的, 不反抗的"
+    ],
+    "usphone": "[ʌn'rɪzɪstɪŋ]",
+    "ukphone": "[ʌnrɪˈzɪstɪŋ]"
+  },
+  {
+    "name": "upper-class",
+    "trans": [
+      "n. 上层社会",
+      "adj. 上流社会的；上层阶级的；中学三年级，四年级的"
+    ],
+    "usphone": "[ði ˌʌpər ˈklæs]",
+    "ukphone": "[ði ˌʌpə ˈklɑːs]"
+  },
+  {
+    "name": "uh",
+    "trans": [
+      "int. 嗯啊",
+      "abbr. 上半部分（upper half）"
+    ],
+    "usphone": "[ʌ; ɜː]",
+    "ukphone": "[ʌ; ɜː]"
+  },
+  {
+    "name": "unfairly",
+    "trans": [
+      "adv. 不公平地；不正当地"
+    ],
+    "usphone": "[ˌʌnˈferli]",
+    "ukphone": "[ˌʌnˈfeəli]"
+  },
+  {
+    "name": "unsteady",
+    "trans": [
+      "adj. 不稳定的；不规则的；摇摆的；无常的",
+      "vt. 使不稳定；动摇"
+    ],
+    "usphone": "[ʌnˈstedi]",
+    "ukphone": "[ʌnˈstedi]"
+  },
+  {
+    "name": "unsuccessful",
+    "trans": [
+      "adj. 不成功的；失败的"
+    ],
+    "usphone": "[ˌʌnsəkˈsesfl]",
+    "ukphone": "[ˌʌnsəkˈsesfl]"
+  },
+  {
+    "name": "unchanged",
+    "trans": [
+      "adj. 未改变的"
+    ],
+    "usphone": "[ʌnˈtʃeɪndʒd]",
+    "ukphone": "[ʌnˈtʃeɪndʒd]"
+  },
+  {
+    "name": "upholstered",
+    "trans": [
+      "adj. 装上软垫的；经过布置的"
+    ],
+    "usphone": "[ʌpˈhoʊlstərd]",
+    "ukphone": "[ʌpˈhəʊlstəd]"
+  },
+  {
+    "name": "unsuited",
+    "trans": [
+      "adj. 不适宜的；不合适的"
+    ],
+    "usphone": "[ʌnˈsuːtɪd]",
+    "ukphone": "[ʌnˈsuːtɪd; ʌnˈsjuːtɪd]"
+  },
+  {
+    "name": "unmistakably",
+    "trans": [
+      "adv. 明白地"
+    ],
+    "usphone": "[ˌʌnmɪˈsteɪkəbli]",
+    "ukphone": "[ˌʌnmɪˈsteɪkəbli]"
+  },
+  {
+    "name": "unbridgeable",
+    "trans": [
+      "adj. 不能架桥的；不能逾越的"
+    ],
+    "usphone": "[ʌnˈbrɪdʒəb(ə)l]",
+    "ukphone": "[ʌnˈbrɪdʒəb(ə)l]"
+  },
+  {
+    "name": "untreated",
+    "trans": [
+      "adj. 未经处理的；未经治疗的"
+    ],
+    "usphone": "[ˌʌnˈtriːtɪd]",
+    "ukphone": "[ˌʌnˈtriːtɪd]"
+  },
+  {
+    "name": "unimaginably",
+    "trans": [
+      "adv. 不能想像地；难以理解地"
+    ],
+    "usphone": "[ˌʌnɪˈmædʒɪnəbli]",
+    "ukphone": "[ˌʌnɪˈmædʒɪnəbli]"
+  },
+  {
+    "name": "undersized",
+    "trans": [
+      "adj. 较一般为小的"
+    ],
+    "usphone": "[ˌʌndərˈsaɪzd]",
+    "ukphone": "[ˌʌndəˈsaɪzd]"
+  },
+  {
+    "name": "unamiable",
+    "trans": [
+      "adj. 不和蔼的，不友好的"
+    ],
+    "usphone": "['ʌn'eimjəbl]",
+    "ukphone": "[ʌnˈeɪmɪəbəl]"
+  },
+  {
+    "name": "unsolved",
+    "trans": [
+      "adj. 未解决的；未解答的"
+    ],
+    "usphone": "[ˌʌnˈsɑːlvd]",
+    "ukphone": "[ˌʌnˈsɒlvd]"
+  },
+  {
+    "name": "unsettled",
+    "trans": [
+      "adj. 未决定的；怀疑的；未处理的；不整齐的"
+    ],
+    "usphone": "[ʌnˈsetld]",
+    "ukphone": "[ʌnˈsetld]"
+  },
+  {
+    "name": "unbrace",
+    "trans": [
+      "vt. 放松; 使衰弱; 解开…索带; 松驰"
+    ],
+    "usphone": "[ˌʌnˈbreɪs]",
+    "ukphone": "[ʌnˈbreɪs]"
+  },
+  {
+    "name": "unfixed",
+    "trans": [
+      "adj. 不固定的，未确定的；解脱的；放松了的"
+    ],
+    "usphone": "[ʌnˈfɪkst]",
+    "ukphone": "[ʌnˈfɪkst]"
+  },
+  {
+    "name": "upside-down",
+    "trans": [
+      "adj. 颠倒的；乱七八糟的"
+    ],
+    "usphone": "[ˌʌpsaɪd ˈdaʊn]",
+    "ukphone": "[ˌʌpsaɪd ˈdaʊn]"
+  },
+  {
+    "name": "unparallel",
+    "trans": [
+      "adj. 不平行的；无法匹敌的"
+    ],
+    "usphone": "[ʌnˈpærəlel]",
+    "ukphone": "[ʌnˈpærəˌlel]"
+  },
+  {
+    "name": "untalented",
+    "trans": [
+      "adj. 缺乏才能的，没有才干的；没有天赋的；不聪明的"
+    ],
+    "usphone": "[ʌnˈtæləntɪd]",
+    "ukphone": "[ʌnˈtæləntɪd]"
+  },
+  {
+    "name": "unsealed",
+    "trans": [
+      "adj. 未封口的；未证实的",
+      "v. 启封；解除约束（unseal的过去分词）"
+    ],
+    "usphone": "[,ʌn'si:ld]",
+    "ukphone": "[ʌnˈsiːld]"
+  },
+  {
+    "name": "unwillingness",
+    "trans": [
+      "n. 不愿意；不情愿"
+    ],
+    "usphone": "[ʌnˈwɪlɪŋnəs]",
+    "ukphone": "[ʌnˈwɪlɪŋnəs]"
+  },
+  {
+    "name": "unaccustomed",
+    "trans": [
+      "adj. 不习惯的；奇怪的"
+    ],
+    "usphone": "[ˌʌnəˈkʌstəmd]",
+    "ukphone": "[ˌʌnəˈkʌstəmd]"
+  },
+  {
+    "name": "upturned",
+    "trans": [
+      "adj. 朝上的；向上翘的；翻过来的"
+    ],
+    "usphone": "[ˌʌpˈtɜːrnd]",
+    "ukphone": "[ˌʌpˈtɜːnd]"
+  },
+  {
+    "name": "unreadable",
+    "trans": [
+      "adj. 不值一读的；难以辨认的；难以理解的"
+    ],
+    "usphone": "[ʌnˈriːdəbl]",
+    "ukphone": "[ʌnˈriːdəbl]"
+  },
+  {
+    "name": "urbanized",
+    "trans": [
+      "adj. 城市化的",
+      "v. 使城市化（urbanize的过去式）"
+    ],
+    "usphone": "[ˈɜːrbənaɪzd]",
+    "ukphone": "[ˈɜːbənaɪzd]"
+  },
+  {
+    "name": "unsatisfied",
+    "trans": [
+      "adj. 不满意的；未得到满足的"
+    ],
+    "usphone": "[ʌnˈsætɪsfaɪd]",
+    "ukphone": "[ʌnˈsætɪsfaɪd]"
+  },
+  {
+    "name": "Uranus",
+    "trans": [
+      "n. [天] 天王星"
+    ],
+    "usphone": "[ˈjʊrənəsˌjʊˈreɪnəs]",
+    "ukphone": "[ˈjʊərənəs; jʊˈreɪnəs]"
+  },
+  {
+    "name": "ultrasonics",
+    "trans": [
+      "n. 超音波学; 超声波( ultrasonic的名词复数 )"
+    ],
+    "usphone": "[ˌʌltrəˈsɑːnɪks]",
+    "ukphone": "[ʌltrəˈsɒnɪks]"
+  },
+  {
+    "name": "unanticipated",
+    "trans": [
+      "adj. 意料之外的；不曾预料到的；未预料到的"
+    ],
+    "usphone": "[ˌʌnænˈtɪsɪpeɪtɪd]",
+    "ukphone": "[ˌʌnænˈtɪsɪpeɪtɪd]"
+  },
+  {
+    "name": "unshaken",
+    "trans": [
+      "adj. 不动摇的；坚决的；泰然自若的"
+    ],
+    "usphone": "[ˌʌnˈʃeɪkən]",
+    "ukphone": "[ˌʌnˈʃeɪkən]"
+  },
+  {
+    "name": "unquenchable",
+    "trans": [
+      "adj. 止不住的；不能遏制的；不能熄灭的"
+    ],
+    "usphone": "[ʌnˈkwentʃəbl]",
+    "ukphone": "[ʌnˈkwentʃəbl]"
+  },
+  {
+    "name": "unionization",
+    "trans": [
+      "n. 工会化；联合；结合"
+    ],
+    "usphone": "[ˌjuːniənəˈzeɪʃn]",
+    "ukphone": "[ˌjuːniənaɪˈzeɪʃn]"
+  },
+  {
+    "name": "unseemly",
+    "trans": [
+      "adj. 不适宜的；不得体的",
+      "adv. 不得体地；不适宜地"
+    ],
+    "usphone": "[ʌnˈsiːmli]",
+    "ukphone": "[ʌnˈsiːmli]"
+  },
+  {
+    "name": "unaccompanied",
+    "trans": [
+      "adj. 无伴奏的；无伴侣的；无伴随的"
+    ],
+    "usphone": "[ˌʌnəˈkʌmpənid]",
+    "ukphone": "[ˌʌnəˈkʌmpənid]"
+  },
+  {
+    "name": "unavailable",
+    "trans": [
+      "adj. 难以获得的；不能利用的；不近便的"
+    ],
+    "usphone": "[ˌʌnəˈveɪləbl]",
+    "ukphone": "[ˌʌnəˈveɪləb(ə)l]"
+  },
+  {
+    "name": "unconfined",
+    "trans": [
+      "adj. 自由的；松散的；无拘束的"
+    ],
+    "usphone": "[ˌʌnkənˈfaɪnd]",
+    "ukphone": "[ˌʌnkənˈfaɪnd]"
+  },
+  {
+    "name": "underbelly",
+    "trans": [
+      "n. 下腹部；薄弱部分；易受攻击的部位、区域等"
+    ],
+    "usphone": "[ˈʌndərbeli]",
+    "ukphone": "[ˈʌndəbeli]"
+  },
+  {
+    "name": "undeterred",
+    "trans": [
+      "adj. 未受阻的；未被吓住的"
+    ],
+    "usphone": "[ˌʌndɪˈtɜːrd]",
+    "ukphone": "[ˌʌndɪˈtɜːd]"
+  },
+  {
+    "name": "unequalled",
+    "trans": [
+      "adj. 无与伦比的；不等同的，不能比拟的"
+    ],
+    "usphone": "[ʌnˈiːkwəld]",
+    "ukphone": "[ʌnˈiːkwəld]"
+  },
+  {
+    "name": "unequivocally",
+    "trans": [
+      "明确地"
+    ],
+    "usphone": "[ˌʌnɪˈkwɪvəkəli]",
+    "ukphone": "[ˌʌnɪˈkwɪvəkəli]"
+  },
+  {
+    "name": "uninitiated",
+    "trans": [
+      "adj. 不知情的；缺少经验的"
+    ],
+    "usphone": "[ˌʌnɪˈnɪʃieɪtɪd]",
+    "ukphone": "[ˌʌnɪˈnɪʃieɪtɪd]"
+  },
+  {
+    "name": "unleavened",
+    "trans": [
+      "adj. 未发酵的；未受激发的"
+    ],
+    "usphone": "[ˌʌnˈlevnd]",
+    "ukphone": "[ˌʌnˈlev(ə)nd]"
+  },
+  {
+    "name": "unprocessed",
+    "trans": [
+      "adj. 未被加工的"
+    ],
+    "usphone": "[ənˈprɑːsest]",
+    "ukphone": "[ʌnˈprəʊsest]"
+  },
+  {
+    "name": "unrefined",
+    "trans": [
+      "adj. 未提炼的"
+    ],
+    "usphone": "[ˌʌnrɪˈfaɪnd]",
+    "ukphone": "[ˌʌnrɪˈfaɪnd]"
+  },
+  {
+    "name": "updraft",
+    "trans": [
+      "n. 上升气流；[建] 向上之排气",
+      "adj. [建] 向上通风的"
+    ],
+    "usphone": "[ˈʌpdræft]",
+    "ukphone": "[ˈʌpdrɑːft]"
+  },
+  {
+    "name": "upstate",
+    "trans": [
+      "n. 州的北部",
+      "adj. 北部的；偏僻的",
+      "adv. 在州的北部；在州内远离大城市地区"
+    ],
+    "usphone": "[ˌʌpˈsteɪt]",
+    "ukphone": "[ˈʌpsteɪt]"
+  },
+  {
+    "name": "unpatriotic",
+    "trans": [
+      "adj. 不爱国的；无爱国心的"
+    ],
+    "usphone": "[ˌʌnˌpeɪtriˈɑːtɪk]",
+    "ukphone": "[ˌʌnˌpætriˈɒtɪk; ˌʌnˌpeɪtriˈɒtɪk]"
+  },
+  {
+    "name": "unsympathetic",
+    "trans": [
+      "adj. 不表同情的；不同情的"
+    ],
+    "usphone": "[ˌʌnˌsɪmpəˈθetɪk]",
+    "ukphone": "[ˌʌnˌsɪmpəˈθetɪk]"
+  },
+  {
+    "name": "ungulate",
+    "trans": [
+      "n. 有蹄类动物",
+      "adj. 有蹄的；像蹄子的"
+    ],
+    "usphone": "[ˈʌŋɡjələtˌˈʌŋɡjuleɪt]",
+    "ukphone": "[ˈʌŋɡjələt; ˈʌŋɡjuleɪt]"
+  },
+  {
+    "name": "units",
+    "trans": [
+      "n. [计量] 单位"
+    ],
+    "usphone": "['juːnɪts]",
+    "ukphone": "[ˈjuːnɪts]"
+  },
+  {
+    "name": "unarmed",
+    "trans": [
+      "adj. 没有武装的；无武器的",
+      "v. 缴械；解除…的武装（unarm的过去分词）"
+    ],
+    "usphone": "[ˌʌnˈɑːrmd]",
+    "ukphone": "[ˌʌnˈɑːmd]"
+  },
+  {
+    "name": "unexplored",
+    "trans": [
+      "adj. [地质] 未勘查过的"
+    ],
+    "usphone": "[ˌʌnɪkˈsplɔːrd]",
+    "ukphone": "[ˌʌnɪkˈsplɔːd]"
+  },
+  {
+    "name": "unsinkable",
+    "trans": [
+      "adj. 不会下沉的，不会沉底的"
+    ],
+    "usphone": "[ʌnˈsɪŋkəbl]",
+    "ukphone": "[ʌnˈsɪŋkəb(ə)l]"
+  },
+  {
+    "name": "uni",
+    "trans": [
+      "abbr. 印度联合新闻社（United News of India）"
+    ],
+    "usphone": "[ˈjuːni]",
+    "ukphone": "[ˈjuːni]"
+  },
+  {
+    "name": "underclothes",
+    "trans": [
+      "n. 内衣，贴身衣物",
+      "v. 给…穿内衣；为…提供内衣（underclothe的第三人称单数）"
+    ],
+    "usphone": "[ˈʌndərkloʊðz]",
+    "ukphone": "[ˈʌndəkləʊðz]"
+  },
+  {
+    "name": "unripe",
+    "trans": [
+      "adj. 生的；未成熟的；未熟的；未准备好的"
+    ],
+    "usphone": "[ˌʌnˈraɪp]",
+    "ukphone": "[ˌʌnˈraɪp]"
+  },
+  {
+    "name": "unforeseeable",
+    "trans": [
+      "adj. 不可预见的；无法预料的"
+    ],
+    "usphone": "[ˌʌnfɔːrˈsiːəbl]",
+    "ukphone": "[ˌʌnfɔːˈsiːəbl]"
+  },
+  {
+    "name": "UNESCO",
+    "trans": [
+      "abbr. 联合国教科文组织（United Nations Educational，Scientific，and Cultural Organization）"
+    ],
+    "usphone": "[juːˈneskoʊ]",
+    "ukphone": "[juːˈneskəʊ]"
+  },
+  {
+    "name": "UNICEF",
+    "trans": [
+      "abbr. 联合国儿童基金会（等于United Nations International Children'sEmergency Fund）"
+    ],
+    "usphone": "[ˈjuːnɪsef]",
+    "ukphone": "[ˈjuːnɪsef]"
+  },
+  {
+    "name": "unicycle",
+    "trans": [
+      "n. 单轮车；独轮脚踏车"
+    ],
+    "usphone": "[ˈjuːnɪsaɪkl]",
+    "ukphone": "[ˈjuːnɪsaɪkl]"
+  },
+  {
+    "name": "unknowingly",
+    "trans": [
+      "adv. 不知不觉地"
+    ],
+    "usphone": "[ʌnˈnoʊɪŋli]",
+    "ukphone": "[ʌnˈnəʊɪŋli]"
+  },
+  {
+    "name": "unheard-of",
+    "trans": [
+      "adj. 空前的；前所未闻的"
+    ],
+    "usphone": "[ʌnˈhɜːrd əv]",
+    "ukphone": "[ʌnˈhɜːd əv]"
+  },
+  {
+    "name": "unremarkable",
+    "trans": [
+      "adj. 平凡的；不显著的；不值得注意的"
+    ],
+    "usphone": "[ˌʌnrɪˈmɑːrkəbl]",
+    "ukphone": "[ˌʌnrɪˈmɑːkəbl]"
+  },
+  {
+    "name": "unlearn",
+    "trans": [
+      "vt. 忘却；抛掉以前的想法；去掉…的弊习"
+    ],
+    "usphone": "[ˌʌnˈlɜːrn]",
+    "ukphone": "[ˌʌnˈlɜːn]"
+  },
+  {
+    "name": "unearned",
+    "trans": [
+      "adj. 不劳而获的；非劳动所得的；不相称的"
+    ],
+    "usphone": "[ˌʌnˈɜːrnd]",
+    "ukphone": "[ˌʌnˈɜːnd]"
+  },
+  {
+    "name": "underinsured",
+    "trans": [
+      "adj. 保险（额）不足的"
+    ],
+    "usphone": "[ˌʌndərɪnˈʃʊrd]",
+    "ukphone": "[ˌʌndərɪnˈʃʊəd; ˌʌndərɪnˈʃɔːd]"
+  },
+  {
+    "name": "uneconomical",
+    "trans": [
+      "adj. 不经济的；浪费的；不节俭的"
+    ],
+    "usphone": "[ˌʌnˌiːkəˈnɑːmɪklˌˌʌnˌekəˈnɑːmɪkl]",
+    "ukphone": "[ˌʌnˌiːkəˈnɒmɪkl; ˌʌnˌekəˈnɒmɪkl]"
+  },
+  {
+    "name": "uncivil",
+    "trans": [
+      "adj. 不文明的；粗野的；失礼的"
+    ],
+    "usphone": "[ˌʌnˈsɪvl]",
+    "ukphone": "[ˌʌnˈsɪvl]"
+  },
+  {
+    "name": "unfetter",
+    "trans": [
+      "vt. 释放；使自由；除去…脚镣"
+    ],
+    "usphone": "[ʌnˈfetər]",
+    "ukphone": "[ʌnˈfetə(r)]"
+  },
+  {
+    "name": "untrammeled",
+    "trans": [
+      "adj. 自由自在的；无阻碍的（等于untrammelled）"
+    ],
+    "usphone": "[ʌnˈtræmld]",
+    "ukphone": "[ʌnˈtræmld]"
+  },
+  {
+    "name": "ursine",
+    "trans": [
+      "adj. [脊椎] 熊的；似熊的"
+    ],
+    "usphone": "[ˈɜːrsaɪn]",
+    "ukphone": "[ˈɜːsaɪn]"
+  },
+  {
+    "name": "unguent",
+    "trans": [
+      "n. 药膏，软膏"
+    ],
+    "usphone": "[ˈʌŋɡwənt]",
+    "ukphone": "[ˈʌŋɡwənt]"
+  },
+  {
+    "name": "unction",
+    "trans": [
+      "n. 涂油；涂油礼；津津有味；虚情假意"
+    ],
+    "usphone": "[ˈʌŋkʃn]",
+    "ukphone": "[ˈʌŋkʃn]"
+  },
+  {
+    "name": "unthreatening",
+    "trans": [
+      "没有威胁的"
+    ],
+    "usphone": "[ˌʌnˈθret(ə)nɪŋ]",
+    "ukphone": "[ʌnˈθret(ə)nɪŋ]"
+  },
+  {
+    "name": "unspotted",
+    "trans": [
+      "adj. 清白的；无瑕疵的；无污点的"
+    ],
+    "usphone": "[ˌʌnˈspɑːtɪd]",
+    "ukphone": "[ʌnˈspɒtɪd]"
+  },
+  {
+    "name": "unconscionable",
+    "trans": [
+      "adj. 不合理的；昧着良心的；肆无忌惮的；过度的"
+    ],
+    "usphone": "[ʌnˈkɑːnʃənəbl]",
+    "ukphone": "[ʌnˈkɒnʃənəb(ə)l]"
+  },
+  {
+    "name": "unreserved",
+    "trans": [
+      "adj. 不隐瞒的；坦白的；无限制的；未被预订的"
+    ],
+    "usphone": "[ˌʌnrɪˈzɜːrvd]",
+    "ukphone": "[ˌʌnrɪˈzɜːvd]"
+  },
+  {
+    "name": "untempered",
+    "trans": [
+      "adj. 未经锻炼的；未调和好的；无节制的"
+    ],
+    "usphone": "[ʌnˈtempərd]",
+    "ukphone": "[ʌnˈtempəd]"
+  },
+  {
+    "name": "unidimensional",
+    "trans": [
+      "adj. 一维的；线性的"
+    ],
+    "usphone": "[ˌjʊnɪdɪˈmenʃənəl; ˌjʊnɪdaɪˈmenʃənəl]",
+    "ukphone": "[ˌjuːnɪdaɪˈmenʃənəl]"
+  },
+  {
+    "name": "undemanding",
+    "trans": [
+      "adj. 要求不高的；容易的；不严格的"
+    ],
+    "usphone": "[ˌʌndɪˈmændɪŋ]",
+    "ukphone": "[ˌʌndɪˈmɑːndɪŋ]"
+  },
+  {
+    "name": "unscented",
+    "trans": [
+      "adj. 无香味的；无气味的"
+    ],
+    "usphone": "[ʌnˈsentɪd]",
+    "ukphone": "[ʌnˈsentɪd]"
+  },
+  {
+    "name": "unsound",
+    "trans": [
+      "adj. 不健全的；不健康的；谬误的；腐烂的；不牢靠的"
+    ],
+    "usphone": "[ˌʌnˈsaʊnd]",
+    "ukphone": "[ˌʌnˈsaʊnd]"
+  },
+  {
+    "name": "unfaltering",
+    "trans": [
+      "adj. 坚定的；稳步的，稳定的；专心的"
+    ],
+    "usphone": "[ʌnˈfɔːltərɪŋ]",
+    "ukphone": "[ʌnˈfɔːltərɪŋ]"
+  },
+  {
+    "name": "unnoticed",
+    "trans": [
+      "adj. 被忽视的；不引人注意的；未被注意的"
+    ],
+    "usphone": "[ˌʌnˈnoʊtɪst]",
+    "ukphone": "[ˌʌnˈnəʊtɪst]"
+  },
+  {
+    "name": "unimpassioned",
+    "trans": [
+      "adj. 没有激情的；不动感情的；不感情用事的"
+    ],
+    "usphone": "[ˌʌnɪmˈpæʃ(ə)nd]",
+    "ukphone": "[ˌʌnɪmˈpæʃ(ə)nd]"
+  },
+  {
+    "name": "ungrudging",
+    "trans": [
+      "adj. 情愿的；慷慨的"
+    ],
+    "usphone": "[ʌnˈɡrʌdʒɪŋ]",
+    "ukphone": "[ʌnˈɡrʌdʒɪŋ]"
+  },
+  {
+    "name": "unstinting",
+    "trans": [
+      "adj. 慷慨的；大方的；无限制的"
+    ],
+    "usphone": "[ʌnˈstɪntɪŋ]",
+    "ukphone": "[ʌnˈstɪntɪŋ]"
+  },
+  {
+    "name": "unfeigned",
+    "trans": [
+      "adj. 真实的，不虚伪的"
+    ],
+    "usphone": "[ʌnˈfeɪnd]",
+    "ukphone": "[ʌnˈfeɪnd]"
+  },
+  {
+    "name": "unscrupulousness",
+    "trans": [
+      "n. 狂妄；不择手段"
+    ],
+    "usphone": "[ʌnˈskruːpjələsnəs]",
+    "ukphone": "[ʌnˈskruːpjələsnəs]"
+  },
+  {
+    "name": "upstage",
+    "trans": [
+      "n. 舞台后部",
+      "adj. 自负的；在舞台后部的",
+      "vt. 抢…镜头；使相形见绌",
+      "adv. 在舞台后方"
+    ],
+    "usphone": "[ˌʌpˈsteɪdʒ]",
+    "ukphone": "[ˌʌpˈsteɪdʒ]"
+  },
+  {
+    "name": "underhanded",
+    "trans": [
+      "adj. 卑劣的；秘密的；人手不足的"
+    ],
+    "usphone": "[ˌʌndərˈhændɪd]",
+    "ukphone": "[ˌʌndəˈhændɪd]"
+  },
+  {
+    "name": "ultramundane",
+    "trans": [
+      "adj. 超俗的；世界之外的；太阳系之外的"
+    ],
+    "usphone": "[ˌʌltrəˈmʌnden]",
+    "ukphone": "[ˌʌltrəˈmʌndeɪn]"
+  },
+  {
+    "name": "unjustly",
+    "trans": [
+      "adv. 不义地；不法地"
+    ],
+    "usphone": "[ˌʌnˈdʒʌstli]",
+    "ukphone": "[ˌʌnˈdʒʌstli]"
+  },
+  {
+    "name": "unregenerate",
+    "trans": [
+      "adj. 不悔改的；灵魂未得再生的；顽固不化的"
+    ],
+    "usphone": "[ˌʌnrɪˈdʒenərət]",
+    "ukphone": "[ˌʌnrɪˈdʒenərət]"
+  },
+  {
+    "name": "unrepentant",
+    "trans": [
+      "adj. 顽固不化的；不后悔的"
+    ],
+    "usphone": "[ˌʌnrɪˈpentənt]",
+    "ukphone": "[ˌʌnrɪˈpentənt]"
+  },
+  {
+    "name": "uptight",
+    "trans": [
+      "adj. 紧张的；拮据的；心情焦躁的；易怒的"
+    ],
+    "usphone": "[ˌʌpˈtaɪt]",
+    "ukphone": "[ˌʌpˈtaɪt]"
+  },
+  {
+    "name": "unprovoked",
+    "trans": [
+      "adj. 无缘无故的；未受挑衅的"
+    ],
+    "usphone": "[ˌʌnprəˈvoʊkt]",
+    "ukphone": "[ˌʌnprəˈvəʊkt]"
+  },
+  {
+    "name": "understated",
+    "trans": [
+      "adj. 低调的；朴素的；轻描淡写的；不夸张的"
+    ],
+    "usphone": "[ˌʌndərˈsteɪtɪd]",
+    "ukphone": "[ˌʌndəˈsteɪtɪd]"
+  },
+  {
+    "name": "undeserved",
+    "trans": [
+      "adj. 不应得的，不该受的；冤枉的"
+    ],
+    "usphone": "[ˌʌndɪˈzɜːrvd]",
+    "ukphone": "[ˌʌndɪˈzɜːvd]"
+  },
+  {
+    "name": "undirected",
+    "trans": [
+      "adj. 未受指导的；无收件人姓名的"
+    ],
+    "usphone": "[ˌʌndəˈrektɪd]",
+    "ukphone": "[ˌʌndɪˈrektɪd]"
+  },
+  {
+    "name": "untutored",
+    "trans": [
+      "adj. 未受教育的；粗野的；天真的"
+    ],
+    "usphone": "[ˌʌnˈtuːtərd]",
+    "ukphone": "[ˌʌnˈtjuːtəd]"
+  },
+  {
+    "name": "uncommitted",
+    "trans": [
+      "adj. 不受约束的；（犯罪）未遂的；未被监禁的；自由的；不负义务的"
+    ],
+    "usphone": "[ˌʌnkəˈmɪtɪd]",
+    "ukphone": "[ˌʌnkəˈmɪtɪd]"
+  },
+  {
+    "name": "unbuttoned",
+    "trans": [
+      "adj. 钮扣解开的；无拘束的；放松的"
+    ],
+    "usphone": "[ˌʌnˈbʌtnd]",
+    "ukphone": "[ˌʌnˈbʌtnd]"
+  },
+  {
+    "name": "unguarded",
+    "trans": [
+      "adj. 大意的；不小心的；无防备的",
+      "v. 使无防备（unguard的过去分词）"
+    ],
+    "usphone": "[ʌnˈɡɑːrdɪd]",
+    "ukphone": "[ʌnˈɡɑːdɪd]"
+  },
+  {
+    "name": "underutilized",
+    "trans": [
+      "vt. 未充分使用（underutilize过去式）"
+    ],
+    "usphone": "[ˌʌndərˈjuːtəlaɪzd]",
+    "ukphone": "[ˌʌndəˈjuːtəlaɪzd]"
+  },
+  {
+    "name": "unfathomed",
+    "trans": [
+      "adj. 未解决的；未被了解的；难理解的"
+    ],
+    "usphone": "[ʌnˈfæðəmd]",
+    "ukphone": "[ʌnˈfæðəmd]"
+  },
+  {
+    "name": "unpremeditated",
+    "trans": [
+      "adj. 无预谋的；偶然的"
+    ],
+    "usphone": "[ˌʌnpriːˈmedɪteɪtɪd]",
+    "ukphone": "[ˌʌnpriːˈmedɪteɪtɪd]"
+  },
+  {
+    "name": "unprepossessing",
+    "trans": [
+      "adj. 不吸引人的；不讨人喜欢的"
+    ],
+    "usphone": "[ˌʌnˌpriːpəˈzesɪŋ]",
+    "ukphone": "[ˌʌnˌpriːpəˈzesɪŋ]"
+  },
+  {
+    "name": "unsavory",
+    "trans": [
+      "adj. 难吃的；没有香味的；令人讨厌的"
+    ],
+    "usphone": "[ʌnˈseɪvəri]",
+    "ukphone": "[ʌnˈseɪvəri]"
+  },
+  {
+    "name": "utopian",
+    "trans": [
+      "n. 空想家；乌托邦的居民",
+      "adj. 乌托邦的；空想的；理想化的"
+    ],
+    "usphone": "[juːˈtoʊpiən]",
+    "ukphone": "[juːˈtəʊpiən]"
+  },
+  {
+    "name": "uproarious",
+    "trans": [
+      "adj. 骚动的；喧嚣的"
+    ],
+    "usphone": "[ʌpˈrɔːriəs]",
+    "ukphone": "[ʌpˈrɔːriəs]"
+  },
+  {
+    "name": "unbend",
+    "trans": [
+      "vt. 弄直；使松弛；卸下",
+      "vi. 变直；松弛，变融洽"
+    ],
+    "usphone": "[ˌʌnˈbend]",
+    "ukphone": "[ˌʌnˈbend]"
+  },
+  {
+    "name": "unfounded",
+    "trans": [
+      "adj. 未建立的；没有理由的；没有事实根据的"
+    ],
+    "usphone": "[ʌnˈfaʊndɪd]",
+    "ukphone": "[ʌnˈfaʊndɪd]"
+  },
+  {
+    "name": "unearthly",
+    "trans": [
+      "adj. 神秘的；怪异的；可怕的；非尘世的"
+    ],
+    "usphone": "[ʌnˈɜːrθli]",
+    "ukphone": "[ʌnˈɜːθli]"
+  },
+  {
+    "name": "undisputable",
+    "trans": [
+      "adj. 无疑问的；无可置否的"
+    ],
+    "usphone": "[ˌʌndɪˈspjʊtəbl]",
+    "ukphone": "['ʌndis'pju:təbl]"
+  },
+  {
+    "name": "unexceptional",
+    "trans": [
+      "adj. 非例外的；普通的"
+    ],
+    "usphone": "[ˌʌnɪkˈsepʃənl]",
+    "ukphone": "[ˌʌnɪkˈsepʃən(ə)l]"
+  },
+  {
+    "name": "underplay",
+    "trans": [
+      "n. 不充分的表演；秘密行动",
+      "vt. 表演不充分；对...轻描淡写；扣着大牌不出而出小牌",
+      "vi. 表演角色不充分"
+    ],
+    "usphone": "[ˌʌndərˈpleɪ]",
+    "ukphone": "[ˌʌndəˈpleɪ]"
+  },
+  {
+    "name": "unfrock",
+    "trans": [
+      "vt. 剥去法衣；解除僧职"
+    ],
+    "usphone": "[ʌnˈfrɑːk]",
+    "ukphone": "[ʌnˈfrɒk]"
+  },
+  {
+    "name": "unspoiled",
+    "trans": [
+      "adj. 未损坏的；未宠坏的"
+    ],
+    "usphone": "[ˌʌnˈspɔɪld]",
+    "ukphone": "[ˌʌnˈspɔɪld]"
+  },
+  {
+    "name": "uxorious",
+    "trans": [
+      "adj. 怕老婆的；溺爱妻子的"
+    ],
+    "usphone": "[ʌkˈsorɪəs]",
+    "ukphone": "[ʌkˈsɔːrɪəs]"
+  },
+  {
+    "name": "unplumbed",
+    "trans": [
+      "adj. 未用铅锤测过深度的，无管道设备的"
+    ],
+    "usphone": "[ʌnˈplʌmd]",
+    "ukphone": "[ʌnˈplʌmd]"
+  },
+  {
+    "name": "unnaturally",
+    "trans": [
+      "adv. 故意地；违反习俗地；不合乎自然规律地"
+    ],
+    "usphone": "[ʌnˈnætʃrəli]",
+    "ukphone": "[ʌnˈnætʃrəli]"
+  },
+  {
+    "name": "uncivilized",
+    "trans": [
+      "adj. 未开化的，不文明的"
+    ],
+    "usphone": "[ʌnˈsɪvəlaɪzd]",
+    "ukphone": "[ʌnˈsɪvəlaɪzd]"
+  },
+  {
+    "name": "un-American",
+    "trans": [
+      "adj. 反美的；非美国式的"
+    ],
+    "usphone": "[ˌʌn əˈmerɪkən]",
+    "ukphone": "[ˌʌn əˈmerɪkən]"
+  },
+  {
+    "name": "unsurmountable",
+    "trans": [
+      "a. 不能克服的, 不能超越的"
+    ],
+    "usphone": "[,ʌnsə:'mauntəbl]",
+    "ukphone": "[ʌnsəˈmaʊntəb(ə)l]"
+  },
+  {
+    "name": "unprepared",
+    "trans": [
+      "adj. 无准备的；即席的；尚未准备好的"
+    ],
+    "usphone": "[ˌʌnprɪˈperd]",
+    "ukphone": "[ˌʌnprɪˈpeəd]"
+  },
+  {
+    "name": "underachieve",
+    "trans": [
+      "vi. 未能充分发挥学习潜力；学习成绩不良"
+    ],
+    "usphone": "[ˌʌndərəˈtʃiːv]",
+    "ukphone": "[ˌʌndərəˈtʃiːv]"
+  },
+  {
+    "name": "undreamed-of",
+    "trans": [
+      "梦想不到的"
+    ],
+    "usphone": "[ʌnˈdriːmd ʌv]",
+    "ukphone": "[ʌnˈdriːmd ɒv]"
+  },
+  {
+    "name": "uneatable",
+    "trans": [
+      "adj. 不能吃的，难吃的"
+    ],
+    "usphone": "[ʌnˈiːtəbl]",
+    "ukphone": "[ʌnˈiːtəbl]"
+  },
+  {
+    "name": "unquestioning",
+    "trans": [
+      "adj. 不提出疑问的；不犹豫的；盲目的；无异议的；无条件的"
+    ],
+    "usphone": "[ʌnˈkwestʃənɪŋ]",
+    "ukphone": "[ʌnˈkwestʃənɪŋ]"
+  },
+  {
+    "name": "unwelcome",
+    "trans": [
+      "n. 冷淡",
+      "adj. 不受欢迎的；讨厌的；不被接受的",
+      "vt. 冷淡地对待"
+    ],
+    "usphone": "[ʌnˈwelkəm]",
+    "ukphone": "[ʌnˈwelkəm]"
+  },
+  {
+    "name": "unattended",
+    "trans": [
+      "adj. 无侍从的；没人照顾的，未被注意的；（会议等）无人出席的；（疾病）未治疗的；无伴的"
+    ],
+    "usphone": "[ˌʌnəˈtendɪd]",
+    "ukphone": "[ˌʌnəˈtendɪd]"
+  },
+  {
+    "name": "unbound",
+    "trans": [
+      "adj. 未装订的；已自由的，解脱束缚的",
+      "v. 解开；释放（unbind的过去分词形式）"
+    ],
+    "usphone": "[ʌnˈbaʊnd]",
+    "ukphone": "[ˌʌnˈbaʊnd]"
+  },
+  {
+    "name": "unconsciousness",
+    "trans": [
+      "n. 无意识；意识不清；[医] 人事不省"
+    ],
+    "usphone": "[ʌnˈkɑːnʃəsnəs]",
+    "ukphone": "[ʌnˈkɒnʃəsnəs]"
+  },
+  {
+    "name": "untrue",
+    "trans": [
+      "adj. 不真实的；不合标准的；不忠实的；不正当的"
+    ],
+    "usphone": "[ʌnˈtruː]",
+    "ukphone": "[ʌnˈtruː]"
+  },
+  {
+    "name": "unalterable",
+    "trans": [
+      "adj. 不能改变的；坚定不移的"
+    ],
+    "usphone": "[ʌnˈɔːltərəbl]",
+    "ukphone": "[ʌnˈɔːltərəb(ə)l]"
+  },
+  {
+    "name": "unformed",
+    "trans": [
+      "adj. 未成形的；未充分发展的"
+    ],
+    "usphone": "[ˌʌnˈfɔːrmd]",
+    "ukphone": "[ˌʌnˈfɔːmd]"
+  },
+  {
+    "name": "unwisely",
+    "trans": [
+      "adv. 不明智地；愚笨地"
+    ],
+    "usphone": "[ˌʌnˈwaɪzli]",
+    "ukphone": "[ˌʌnˈwaɪzli]"
+  },
+  {
+    "name": "unpredictably",
+    "trans": [
+      "adv. 无法预言地）；不可预见地（不能预料地"
+    ],
+    "usphone": "[ˌʌnprɪˈdɪktəbli]",
+    "ukphone": "[ˌʌnprɪˈdɪktəbli]"
+  },
+  {
+    "name": "unmerciful",
+    "trans": [
+      "adj. 无情的；不仁慈的；残酷的"
+    ],
+    "usphone": "[,ʌn'mə:siful]",
+    "ukphone": "[ʌnˈmɜːsɪfʊl; -f(ə)l]"
+  },
+  {
+    "name": "undocumented",
+    "trans": [
+      "adj. 无事实证明的；无正式文件的"
+    ],
+    "usphone": "[ˌʌnˈdɑːkjumentɪd]",
+    "ukphone": "[ˌʌnˈdɒkjumentɪd]"
+  },
+  {
+    "name": "unfolding",
+    "trans": [
+      "n. 演变；[生化] 伸展；[生物物理] 解折叠",
+      "v. 展开（unfold的ing形式）"
+    ],
+    "usphone": "[ʌn'foldɪŋ]",
+    "ukphone": "[ʌn'fəʊldɪŋ]"
+  },
+  {
+    "name": "US",
+    "trans": [
+      "pron. 我们"
+    ],
+    "usphone": "[ˌjuː ˈes]",
+    "ukphone": "[ˌjuː ˈes]"
+  },
+  {
+    "name": "unannounced",
+    "trans": [
+      "adj. 突然的；未经宣布的；未通知的"
+    ],
+    "usphone": "[ˌʌnəˈnaʊnst]",
+    "ukphone": "[ˌʌnəˈnaʊnst]"
+  },
+  {
+    "name": "unconditionally",
+    "trans": [
+      "adv. 无条件地"
+    ],
+    "usphone": "[ˌʌnkənˈdɪʃənəli]",
+    "ukphone": "[ˌʌnkənˈdɪʃənəli]"
+  },
+  {
+    "name": "unzip",
+    "trans": [
+      "vt. 拉开",
+      "vi. 拉开拉链；释放"
+    ],
+    "usphone": "[ˌʌnˈzɪp]",
+    "ukphone": "[ˌʌnˈzɪp]"
+  },
+  {
+    "name": "undistinguished",
+    "trans": [
+      "adj. 平凡的；混杂的；听不清的；看不清的"
+    ],
+    "usphone": "[ˌʌndɪˈstɪŋɡwɪʃt]",
+    "ukphone": "[ˌʌndɪˈstɪŋɡwɪʃt]"
+  },
+  {
+    "name": "unspectacular",
+    "trans": [
+      "adj. 不引人注意的；普通的"
+    ],
+    "usphone": "[ˌʌnspekˈtækjələr]",
+    "ukphone": "[ˌʌnspekˈtækjələ(r)]"
+  },
+  {
+    "name": "undetectable",
+    "trans": [
+      "adj. 发现不了的；无法觉察的"
+    ],
+    "usphone": "[ˌʌndɪˈtektəbl]",
+    "ukphone": "[ˌʌndɪˈtektəbl]"
+  },
+  {
+    "name": "upwell",
+    "trans": [
+      "vi. （水等）上涌"
+    ],
+    "usphone": "[ʌpˈwel]",
+    "ukphone": "[ʌpˈwel]"
+  },
+  {
+    "name": "undisturbed",
+    "trans": [
+      "adj. 安静的；镇定的；未被扰乱的；泰然自若的"
+    ],
+    "usphone": "[ˌʌndɪˈstɜːrbd]",
+    "ukphone": "[ˌʌndɪˈstɜːbd]"
+  },
+  {
+    "name": "unhygienic",
+    "trans": [
+      "adj. 不卫生的；不健康的"
+    ],
+    "usphone": "[ˌʌnhaɪˈdʒenɪkˌˌʌnhaɪˈdʒiːnɪk]",
+    "ukphone": "[ˌʌnhaɪˈdʒiːnɪk]"
+  },
+  {
+    "name": "uncontested",
+    "trans": [
+      "adj. 无竞争的；无异议的；无争议的"
+    ],
+    "usphone": "[ˌʌnkənˈtestɪd]",
+    "ukphone": "[ˌʌnkənˈtestɪd]"
+  },
+  {
+    "name": "unending",
+    "trans": [
+      "adj. 不断的，无止境的；经常被重复的"
+    ],
+    "usphone": "[ʌnˈendɪŋ]",
+    "ukphone": "[ʌnˈendɪŋ]"
+  },
+  {
+    "name": "unsupervised",
+    "trans": [
+      "adj. 无人监督的；无人管理的"
+    ],
+    "usphone": "[,ʌn'sju:pəvaizd]",
+    "ukphone": "[ˌʌnˈsuːpəvaɪzd]"
+  },
+  {
+    "name": "uncomprehending",
+    "trans": [
+      "adj. 不了解的"
+    ],
+    "usphone": "[ʌnˌkɑːmprɪˈhendɪŋ]",
+    "ukphone": "[ʌnˌkɒmprɪˈhendɪŋ]"
+  },
+  {
+    "name": "uncrowded",
+    "trans": [
+      "adj. 宽敞的；不拥挤的"
+    ],
+    "usphone": "[ʌnˈkraʊdɪd]",
+    "ukphone": "[ʌnˈkraʊdɪd]"
+  },
+  {
+    "name": "unreported",
+    "trans": [
+      "adj. 未经报道的；未报告的"
+    ],
+    "usphone": "[ˌʌnrɪˈpɔːrtɪd]",
+    "ukphone": "[ˌʌnrɪˈpɔːtɪd]"
+  },
+  {
+    "name": "unheeded",
+    "trans": [
+      "adj. 被忽视的；未被注意的"
+    ],
+    "usphone": "[ʌnˈhiːdɪd]",
+    "ukphone": "[ʌnˈhiːdɪd]"
+  },
+  {
+    "name": "unblinking",
+    "trans": [
+      "adj. 不眨眼的；坚定的，不动摇的"
+    ],
+    "usphone": "[ʌnˈblɪŋkɪŋ]",
+    "ukphone": "[ʌnˈblɪŋkɪŋ]"
+  },
+  {
+    "name": "uninhibited",
+    "trans": [
+      "adj. 无拘束的；不受禁止的"
+    ],
+    "usphone": "[ˌʌnɪnˈhɪbɪtɪd]",
+    "ukphone": "[ˌʌnɪnˈhɪbɪtɪd]"
+  },
+  {
+    "name": "unpropitious",
+    "trans": [
+      "adj. 不吉利的，恶运的"
+    ],
+    "usphone": "[ˌʌnprəˈpɪʃəs]",
+    "ukphone": "[ˌʌnprəˈpɪʃəs]"
+  },
+  {
+    "name": "unappealing",
+    "trans": [
+      "adj. 不能打动人的；无吸引力的"
+    ],
+    "usphone": "[ˌʌnəˈpiːlɪŋ]",
+    "ukphone": "[ˌʌnəˈpiːlɪŋ]"
+  },
+  {
+    "name": "underestimation",
+    "trans": [
+      "n. 低估；过低之估价"
+    ],
+    "usphone": "[ˈʌndərestɪˈmeʃən]",
+    "ukphone": "[ˈʌndərˌestɪˈmeɪʃən]"
+  },
+  {
+    "name": "unfunded",
+    "trans": [
+      "adj. 未备基金的"
+    ],
+    "usphone": "[ʌnˈfʌndɪd]",
+    "ukphone": "[ˌʌnˈfʌndɪd]"
+  },
+  {
+    "name": "unhelpful",
+    "trans": [
+      "adj. 无益的；不予帮助的"
+    ],
+    "usphone": "[ʌnˈhelpfl]",
+    "ukphone": "[ʌnˈhelpfl]"
+  },
+  {
+    "name": "underrated",
+    "trans": [
+      "adj. 低估"
+    ],
+    "usphone": "[ˌʌndəˈreɪtɪd]",
+    "ukphone": "[ˌʌndəˈreɪtɪd]"
+  },
+  {
+    "name": "unhinge",
+    "trans": [
+      "vt. 使分开；取下…的铰链；使发狂或错乱"
+    ],
+    "usphone": "[ʌnˈhɪndʒ]",
+    "ukphone": "[ʌnˈhɪndʒ]"
+  },
+  {
+    "name": "unionized",
+    "trans": [
+      "adj. 组织成工会的； 未电离的",
+      "v. 使…成立联盟；使…加入工会（unionize的过去分词）"
+    ],
+    "usphone": "[ˈjuːniənaɪzd]",
+    "ukphone": "[ˈjuːnɪənaɪzd]"
+  },
+  {
+    "name": "unpicked",
+    "trans": [
+      "adj. 拆开针脚的，拆缝的",
+      "v. 拆开，拆散( unpick的过去式和过去分词 )"
+    ],
+    "usphone": "[ˌʌnˈpɪkt]",
+    "ukphone": "[ˌʌnˈpɪkt]"
+  },
+  {
+    "name": "unvoiced",
+    "trans": [
+      "adj. 清音的；未说出的；未出声的",
+      "v. 使变成无声；使清音化（unvoice的过去分词）"
+    ],
+    "usphone": "[ˌʌnˈvɔɪst]",
+    "ukphone": "[ˌʌnˈvɔɪst]"
+  },
+  {
+    "name": "unwholesome",
+    "trans": [
+      "adj. 不健康的；有害身体的；腐败的"
+    ],
+    "usphone": "[ˌʌnˈhoʊlsəm]",
+    "ukphone": "[ˌʌnˈhəʊlsəm]"
+  },
+  {
+    "name": "undeniably",
+    "trans": [
+      "adv. 不可否认地；确凿无疑地"
+    ],
+    "usphone": "[ˌʌndɪˈnaɪəbli]",
+    "ukphone": "[ˌʌndɪˈnaɪəbli]"
+  },
+  {
+    "name": "unhealthily",
+    "trans": [
+      "adv. 有病地"
+    ],
+    "usphone": "[ʌnˈhelθɪli]",
+    "ukphone": "[ʌnˈhelθɪli]"
+  },
+  {
+    "name": "unobserved",
+    "trans": [
+      "adj. 未被遵守的；未被注意的"
+    ],
+    "usphone": "[ˌʌnəbˈzɜːrvd]",
+    "ukphone": "[ˌʌnəbˈzɜːvd]"
+  },
+  {
+    "name": "ulceration",
+    "trans": [
+      "n. 溃疡；[病理] 溃疡形成"
+    ],
+    "usphone": "[ˌʌlsəˈreɪʃn]",
+    "ukphone": "[ˌʌlsəˈreɪʃn]"
+  },
+  {
+    "name": "unarm",
+    "trans": [
+      "v. 缴械，放下武器"
+    ],
+    "usphone": "[ʌnˈɑrm]",
+    "ukphone": "[ʌnˈɑːm]"
+  },
+  {
+    "name": "unclutter",
+    "trans": [
+      "vt. 使整洁，整理"
+    ],
+    "usphone": "[ʌnˈklʌtər]",
+    "ukphone": "[ʌnˈklʌtə(r)]"
+  },
+  {
+    "name": "uncomplicated",
+    "trans": [
+      "adj. 简单的；不复杂的"
+    ],
+    "usphone": "[ʌnˈkɑːmplɪkeɪtɪd]",
+    "ukphone": "[ʌnˈkɒmplɪkeɪtɪd]"
+  },
+  {
+    "name": "underprivilege",
+    "trans": [
+      "n. 相对贫困, 生活水平低下"
+    ],
+    "usphone": "['ʌndə,privilidʒ]",
+    "ukphone": "['ʌndə,privilidʒ]"
+  },
+  {
+    "name": "underrepresented",
+    "trans": [
+      "adj. 代表名额不足的；未被充分代表的"
+    ],
+    "usphone": "[ˌʌndərˌreprɪˈzentɪd]",
+    "ukphone": "[ˌʌndə ˌreprɪˈzentɪd]"
+  },
+  {
+    "name": "underserved",
+    "trans": [
+      "adj. 服务不周到的；服务水平低下的"
+    ],
+    "usphone": "[ˌʌndərˈsɜːrvd]",
+    "ukphone": "[ˌʌndəˈsɜːvd]"
+  },
+  {
+    "name": "underutilize",
+    "trans": [
+      "vt. 未充分使用"
+    ],
+    "usphone": "[,ʌndə'ju:tilaiz]",
+    "ukphone": "[ˌʌndəˈjuːtɪˌlaɪz]"
+  },
+  {
+    "name": "unfeeling",
+    "trans": [
+      "adj. 无情的，冷酷的；无感觉的"
+    ],
+    "usphone": "[ʌnˈfiːlɪŋ]",
+    "ukphone": "[ʌnˈfiːlɪŋ]"
+  },
+  {
+    "name": "unhappiness",
+    "trans": [
+      "n. 苦恼；忧愁"
+    ],
+    "usphone": "[ʌnˈhæpinəs]",
+    "ukphone": "[ʌnˈhæpinəs]"
+  },
+  {
+    "name": "unhealthful",
+    "trans": [
+      "adj. 对身体有害的；不卫生的；影响健康的"
+    ],
+    "usphone": "[ʌnˈhelθfəl]",
+    "ukphone": "[ʌnˈhelθfʊl]"
+  },
+  {
+    "name": "unidentifiable",
+    "trans": [
+      "adj. 无法辨认的；无法鉴定的"
+    ],
+    "usphone": "[ˌʌnaɪˈdentɪfaɪəbl]",
+    "ukphone": "[ˌʌnaɪˈdentɪfaɪəbl]"
+  },
+  {
+    "name": "unimpressed",
+    "trans": [
+      "adj. 无印记的（没有印象的）；未受感动的"
+    ],
+    "usphone": "[ˌʌnɪmˈprest]",
+    "ukphone": "[ˌʌnɪmˈprest]"
+  },
+  {
+    "name": "unquiet",
+    "trans": [
+      "adj. 不平静的；不安宁的；焦急的"
+    ],
+    "usphone": "[ˌʌnˈkwaɪət]",
+    "ukphone": "[ˌʌnˈkwaɪət]"
+  },
+  {
+    "name": "unreasonably",
+    "trans": [
+      "adv. 不合理地"
+    ],
+    "usphone": "[ʌnˈriːznəbli]",
+    "ukphone": "[ʌnˈriːznəbli]"
+  },
+  {
+    "name": "unrestricted",
+    "trans": [
+      "adj. 自由的；无限制的；不受束缚的"
+    ],
+    "usphone": "[ˌʌnrɪˈstrɪktɪd]",
+    "ukphone": "[ˌʌnrɪˈstrɪktɪd]"
+  },
+  {
+    "name": "unscientific",
+    "trans": [
+      "adj. 不科学的，不符合科学原理的；非学术的；无科学知识的"
+    ],
+    "usphone": "[ˌʌnˌsaɪənˈtɪfɪk]",
+    "ukphone": "[ˌʌnˌsaɪənˈtɪfɪk]"
+  },
+  {
+    "name": "unserviceable",
+    "trans": [
+      "adj. 无用的，不能胜任的，无益的; 使不得"
+    ],
+    "usphone": "[ʌnˈsɜːrvɪsəbl]",
+    "ukphone": "[ʌnˈsɜːvɪsəbl]"
+  },
+  {
+    "name": "unsuccessfully",
+    "trans": [
+      "adv. 失败地；无用"
+    ],
+    "usphone": "[ˌʌnsəkˈsesfəli]",
+    "ukphone": "[ˌʌnsəkˈsesfəli]"
+  },
+  {
+    "name": "unsupported",
+    "trans": [
+      "adj. 无支持的，无赞助的；未经证实的；没有支撑的"
+    ],
+    "usphone": "[ˌʌnsəˈpɔːrtɪd]",
+    "ukphone": "[ˌʌnsəˈpɔːtɪd]"
+  },
+  {
+    "name": "unafraid",
+    "trans": [
+      "adj. 不怕的；无畏的"
+    ],
+    "usphone": "[ˌʌnəˈfreɪd]",
+    "ukphone": "[ˌʌnəˈfreɪd]"
+  },
+  {
+    "name": "unbelieving",
+    "trans": [
+      "adj. 不相信的；多疑的"
+    ],
+    "usphone": "[ˌʌnbɪˈliːvɪŋ]",
+    "ukphone": "[ˌʌnbɪˈliːvɪŋ]"
+  },
+  {
+    "name": "underachievement",
+    "trans": [
+      "n. 低成就；学习成绩不良"
+    ],
+    "usphone": "[ˌʌndərəˈtʃiːvmənt]",
+    "ukphone": "[ˌʌndərəˈtʃiːvmənt]"
+  },
+  {
+    "name": "underemphasize",
+    "trans": [
+      "v. 对…强调不够，对…重视不够"
+    ],
+    "usphone": "[ˌʌndərˈemfəˌsaɪz]",
+    "ukphone": "[ʌndərˈemfəsaɪz]"
+  },
+  {
+    "name": "unfailingly",
+    "trans": [
+      "adv. 可靠地；无穷尽地；不倦地"
+    ],
+    "usphone": "[ʌnˈfeɪlɪŋli]",
+    "ukphone": "[ʌnˈfeɪlɪŋli]"
+  },
+  {
+    "name": "unforgivable",
+    "trans": [
+      "adj. 不可原谅的"
+    ],
+    "usphone": "[ˌʌnfərˈɡɪvəbl]",
+    "ukphone": "[ˌʌnfəˈɡɪvəbl]"
+  },
+  {
+    "name": "unmet",
+    "trans": [
+      "adj. 未满足的；未应付的；未相遇的"
+    ],
+    "usphone": "[ˌʌnˈmet]",
+    "ukphone": "[ˌʌnˈmet]"
+  },
+  {
+    "name": "unsteadily",
+    "trans": [
+      "vt. 使不稳定",
+      "adv. 不稳定地；摇摆地（unsteady的副词）"
+    ],
+    "usphone": "[ʌnˈstedəli]",
+    "ukphone": "[ʌnˈstedəli]"
+  },
+  {
+    "name": "unsuitability",
+    "trans": [
+      "n. 不相称；不适合；不适当"
+    ],
+    "usphone": "[ˌʌnˌsuːtəˈbɪləti]",
+    "ukphone": "[ˌʌnˌsuːtəˈbɪləti; ˌʌnˌsjuːtəˈbɪləti]"
+  },
+  {
+    "name": "unto",
+    "trans": [
+      "prep. 到，直到；向（等于to）"
+    ],
+    "usphone": "[ˈʌntəˌˈʌntu]",
+    "ukphone": "[ˈʌntə; ˈʌntu]"
+  },
+  {
+    "name": "unequaled",
+    "trans": [
+      "adj. 无与伦比的；无敌的"
+    ],
+    "usphone": "[ʌnˈiːkwəld]",
+    "ukphone": "[ˌʌnˈiːkwəld]"
+  },
+  {
+    "name": "uncharacteristic",
+    "trans": [
+      "adj. 无典型特征的；不典型的"
+    ],
+    "usphone": "[ˌʌnˌkærəktəˈrɪstɪk]",
+    "ukphone": "[ˌʌnˌkærəktəˈrɪstɪk]"
+  },
+  {
+    "name": "unsay",
+    "trans": [
+      "vt. 撤回，收回；取消"
+    ],
+    "usphone": "[ʌnˈseɪ]",
+    "ukphone": "[ʌnˈseɪ]"
+  },
+  {
+    "name": "unincorporated",
+    "trans": [
+      "adj. 未组成社团的"
+    ],
+    "usphone": "[ˌʌnɪnˈkɔːrpəˌreɪtɪd]",
+    "ukphone": "[ˌʌnɪnˈkɔːpəreɪtɪd]"
+  },
+  {
+    "name": "unusable",
+    "trans": [
+      "adj. 不能用的；与众不同的"
+    ],
+    "usphone": "[ˌʌnˈjuːzəbl]",
+    "ukphone": "[ˌʌnˈjuːzəbl]"
+  },
+  {
+    "name": "uniquely",
+    "trans": [
+      "adv. 独特地；珍奇地"
+    ],
+    "usphone": "[juˈniːkli]",
+    "ukphone": "[juˈniːkli]"
+  },
+  {
+    "name": "urbanism",
+    "trans": [
+      "n. 都市生活；都市集中"
+    ],
+    "usphone": "[ˈɜːrbənˌɪzəm]",
+    "ukphone": "[ˈɜːbənɪzəm]"
+  },
+  {
+    "name": "unbind",
+    "trans": [
+      "vt. 解开；解放"
+    ],
+    "usphone": "[ʌnˈbaɪnd]",
+    "ukphone": "[ʌnˈbaɪnd]"
+  },
+  {
+    "name": "uncritical",
+    "trans": [
+      "adj. 无批判力的；不加批判的；不严厉的"
+    ],
+    "usphone": "[ˌʌnˈkrɪtɪkl]",
+    "ukphone": "[ˌʌnˈkrɪtɪkl]"
+  },
+  {
+    "name": "uneaten",
+    "trans": [
+      "adj. 未吃的；剩下的"
+    ],
+    "usphone": "[ʌnˈiːtn]",
+    "ukphone": "[ʌnˈiːtn]"
+  },
+  {
+    "name": "uneventful",
+    "trans": [
+      "adj. 平凡的；平静无事的"
+    ],
+    "usphone": "[ˌʌnɪˈventfl]",
+    "ukphone": "[ˌʌnɪˈventf(ə)l]"
+  },
+  {
+    "name": "unschooled",
+    "trans": [
+      "n. 文盲",
+      "adj. 天生的；未受学校教育的"
+    ],
+    "usphone": "[ʌnˈskuːld]",
+    "ukphone": "[ʌnˈskuːld]"
+  },
+  {
+    "name": "unimproved",
+    "trans": [
+      "adj. 未加改善的；未耕种的；未被利用的"
+    ],
+    "usphone": "[ˌʌnɪmˈpruːvd]",
+    "ukphone": "[ˌʌnɪmˈpruːvd]"
+  },
+  {
+    "name": "unresolved",
+    "trans": [
+      "adj. 未解决的；无决断力的；不果断的"
+    ],
+    "usphone": "[ˌʌnrɪˈzɑːlvd]",
+    "ukphone": "[ˌʌnrɪˈzɒlvd]"
+  },
+  {
+    "name": "unobtainable",
+    "trans": [
+      "adj. 难获得的；不能得到的"
+    ],
+    "usphone": "[ˌʌnəbˈteɪnəbl]",
+    "ukphone": "[ˌʌnəbˈteɪnəbl]"
+  },
+  {
+    "name": "underfoot",
+    "trans": [
+      "adv. 在脚下；践踏地；在脚下面"
+    ],
+    "usphone": "[ˌʌndərˈfʊt]",
+    "ukphone": "[ˌʌndəˈfʊt]"
+  },
+  {
+    "name": "underwing",
+    "trans": [
+      "n. 后翅；后翅色彩瑰丽的蛾"
+    ],
+    "usphone": "['ʌndəwiŋ]",
+    "ukphone": "[ˈʌndəˌwɪŋ]"
+  },
+  {
+    "name": "uniformitarianism",
+    "trans": [
+      "n. 均变论"
+    ],
+    "usphone": "[ˌjʊnəˌfɔrməˈterɪənˌɪzm]",
+    "ukphone": "[ˌjuːnɪfɔːmɪˈteərɪənɪʒ(ə)m]"
+  },
+  {
+    "name": "unbalance",
+    "trans": [
+      "n. [力] 失衡；精神错乱",
+      "vt. 使失去平衡；使精神紊乱"
+    ],
+    "usphone": "[ˌʌnˈbæləns]",
+    "ukphone": "[ˌʌnˈbæləns]"
+  },
+  {
+    "name": "uncorrupt",
+    "trans": [
+      "adj. 未堕落的; 不腐败的; （文本等）无讹误的; 纯正的"
+    ],
+    "usphone": "['ʌnkə'rʌpt]",
+    "ukphone": "[ˌʌnkəˈrʌpt]"
+  },
+  {
+    "name": "unexcited",
+    "trans": [
+      "adj. 不激动的; 不兴奋的; 镇静的; 镇定的"
+    ],
+    "usphone": "[ˌʌnɪkˈsaɪtɪd]",
+    "ukphone": "[ˌʌnɪkˈsaɪtɪd]"
+  },
+  {
+    "name": "unseeded",
+    "trans": [
+      "adj. 不结果实的；未播种的；非种子的"
+    ],
+    "usphone": "[ʌnˈsiːdɪd]",
+    "ukphone": "[ʌnˈsiːdɪd]"
+  },
+  {
+    "name": "unobservable",
+    "trans": [
+      "adj. 难以察觉的；注意不到的；不可见的"
+    ],
+    "usphone": "['ʌnəb'zə:vəbl]",
+    "ukphone": "[ʌnəbˈzɜːvəb(ə)l]"
+  },
+  {
+    "name": "uninterrupted",
+    "trans": [
+      "adj. 不间断的；连续的"
+    ],
+    "usphone": "[ˌʌnˌɪntəˈrʌptɪd]",
+    "ukphone": "[ˌʌnˌɪntəˈrʌptɪd]"
+  },
+  {
+    "name": "unbreakable",
+    "trans": [
+      "adj. 牢不可破的；不易破损的"
+    ],
+    "usphone": "[ʌnˈbreɪkəbl]",
+    "ukphone": "[ʌnˈbreɪkəbl]"
+  },
+  {
+    "name": "unnoticeable",
+    "trans": [
+      "adj. 不显明的"
+    ],
+    "usphone": "['ʌn'nəutisəbl]",
+    "ukphone": "[ʌnˈnəʊtɪsəb(ə)l]"
+  },
+  {
+    "name": "undergrown",
+    "trans": [
+      "adj. 发育不全的"
+    ],
+    "usphone": "[ˈʌndərˈɡroʊn]",
+    "ukphone": "[ˌʌndəˈɡrəʊn]"
+  },
+  {
+    "name": "unexplainable",
+    "trans": [
+      "adj. 费解的；无法说明的"
+    ],
+    "usphone": "['ʌniks'pleinəbl]",
+    "ukphone": "[ʌnɪkˈspleɪnəb(ə)l; ʌnek-]"
+  },
+  {
+    "name": "useable",
+    "trans": [
+      "adj. 可用的；便于使用的（等于usable）"
+    ],
+    "usphone": "['ju:zəbl]",
+    "ukphone": "[ˈjuːzəbl]"
+  },
+  {
+    "name": "unknowing",
+    "trans": [
+      "adj. 不知道的；没有察觉的"
+    ],
+    "usphone": "[ʌnˈnoʊɪŋ]",
+    "ukphone": "[ʌnˈnəʊɪŋ]"
+  },
+  {
+    "name": "unread",
+    "trans": [
+      "adj. 未经阅读的；无学问的，读书不多的"
+    ],
+    "usphone": "[ˌʌnˈred]",
+    "ukphone": "[ˌʌnˈred]"
+  },
+  {
+    "name": "unsegregated",
+    "trans": [
+      "adj. 没有种族隔离的，打成一片的"
+    ],
+    "usphone": "[ʌnˈseɡrɪˌɡeɪtɪd]",
+    "ukphone": "[ʌnˈseɡrɪˌɡeɪtɪd]"
+  },
+  {
+    "name": "upriver",
+    "trans": [
+      "n. 上游区域",
+      "adj. 上游的；向水源的",
+      "adv. 在上游；从上游；向上游"
+    ],
+    "usphone": "[ˌʌpˈrɪvər]",
+    "ukphone": "[ˌʌpˈrɪvə(r)]"
+  },
+  {
+    "name": "unpublished",
+    "trans": [
+      "adj. 未公开出版的；未发表过的"
+    ],
+    "usphone": "[ʌnˈpʌblɪʃt]",
+    "ukphone": "[ʌnˈpʌblɪʃt]"
+  },
+  {
+    "name": "undecided",
+    "trans": [
+      "adj. 未定的；未决定的；不稳定的"
+    ],
+    "usphone": "[ˌʌndɪˈsaɪdɪd]",
+    "ukphone": "[ˌʌndɪˈsaɪdɪd]"
+  },
+  {
+    "name": "unproven",
+    "trans": [
+      "adj. 未经检验的；未经证明的"
+    ],
+    "usphone": "[ˌʌnˈpruːvn]",
+    "ukphone": "[ˌʌnˈpruːv(ə)n]"
+  },
+  {
+    "name": "unverified",
+    "trans": [
+      "adj. 未经核对的，未经证实的"
+    ],
+    "usphone": "[ʌnˈverɪˌfaɪd]",
+    "ukphone": "[ʌnˈverɪfaɪd]"
+  },
+  {
+    "name": "unfertilized",
+    "trans": [
+      "adj. 未施肥的；土地不肥沃的；未受精的"
+    ],
+    "usphone": "[ˌʌnˈfɜːrtəlaɪzd]",
+    "ukphone": "[ʌnˈfɜːtɪlaɪzd]"
+  },
+  {
+    "name": "undamaged",
+    "trans": [
+      "adj. 未毁坏的，未损坏的"
+    ],
+    "usphone": "[ʌnˈdæmɪdʒd]",
+    "ukphone": "[ʌnˈdæmɪdʒd]"
+  },
+  {
+    "name": "unsold",
+    "trans": [
+      "adj. [贸易] 未售出的，卖剩的"
+    ],
+    "usphone": "[ˌʌnˈsoʊld]",
+    "ukphone": "[ˌʌnˈsəʊld]"
+  },
+  {
+    "name": "unspecified",
+    "trans": [
+      "adj. 未指明的；未详细说明的"
+    ],
+    "usphone": "[ʌnˈspesɪfaɪd]",
+    "ukphone": "[ʌnˈspesɪfaɪd]"
+  },
+  {
+    "name": "uncooked",
+    "trans": [
+      "adj. 未煮过的"
+    ],
+    "usphone": "[ˌʌnˈkʊkt]",
+    "ukphone": "[ˌʌnˈkʊkt]"
+  },
+  {
+    "name": "unembellished",
+    "trans": [
+      "adj. 未装饰的；未修饰的"
+    ],
+    "usphone": "[ˌʌnɪmˈbelɪʃt]",
+    "ukphone": "[ʌnɪmˈbelɪʃt; -em-]"
+  },
+  {
+    "name": "uncounted",
+    "trans": [
+      "adj. 无数的；没有数过的"
+    ],
+    "usphone": "[ʌnˈkaʊntɪd]",
+    "ukphone": "[ʌnˈkaʊntɪd]"
+  },
+  {
+    "name": "unobstructed",
+    "trans": [
+      "adj. 没有障碍的；畅通无阻的"
+    ],
+    "usphone": "[ˌʌnəbˈstrʌktɪd]",
+    "ukphone": "[ˌʌnəbˈstrʌktɪd]"
+  },
+  {
+    "name": "untwist",
+    "trans": [
+      "v. 拆开（搓合的绳，线等），解开"
+    ],
+    "usphone": "[ʌnˈtwɪst]",
+    "ukphone": "[ʌnˈtwɪst]"
+  },
+  {
+    "name": "unfinished",
+    "trans": [
+      "adj. 未完成的"
+    ],
+    "usphone": "[ʌnˈfɪnɪʃt]",
+    "ukphone": "[ʌnˈfɪnɪʃt]"
+  },
+  {
+    "name": "unreceptive",
+    "trans": [
+      "adj. 不会接受的；反应不快的；接受能力不强的"
+    ],
+    "usphone": "[ˌʌnpərˈseptɪv]",
+    "ukphone": "[ʌnrɪˈseptɪv]"
+  },
+  {
+    "name": "uncaring",
+    "trans": [
+      "adj. 心不在焉的，不注意的"
+    ],
+    "usphone": "[ʌnˈkerɪŋ]",
+    "ukphone": "[ʌnˈkeərɪŋ]"
+  },
+  {
+    "name": "unpleasing",
+    "trans": [
+      "adj. 不愉快的，讨厌的"
+    ],
+    "usphone": "[ʌnˈplizɪŋ]",
+    "ukphone": "[ʌnˈpliːzɪŋ]"
+  },
+  {
+    "name": "unbolt",
+    "trans": [
+      "vt. 拔去门闩；打开；拧松",
+      "vi. 打开；拧松"
+    ],
+    "usphone": "[ʌnˈboʊlt]",
+    "ukphone": "[ʌnˈbəʊlt]"
+  },
+  {
+    "name": "undiluted",
+    "trans": [
+      "adj. 未稀释的，未冲淡的；未搀水的"
+    ],
+    "usphone": "[ˌʌndaɪˈluːtɪd]",
+    "ukphone": "[ˌʌndaɪˈluːtɪd; ˌʌndaɪˈljuːtɪd]"
+  },
+  {
+    "name": "unmerited",
+    "trans": [
+      "adj. 无功受禄的；不当的；不应受的"
+    ],
+    "usphone": "[ʌnˈmerɪtɪd]",
+    "ukphone": "[ʌnˈmerɪtɪd]"
+  },
+  {
+    "name": "unmeasured",
+    "trans": [
+      "adj. 不可测量的；无限的；无边无际的；无节制的"
+    ],
+    "usphone": "[ʌnˈmeʒərd]",
+    "ukphone": "[ʌnˈmeʒəd]"
+  },
+  {
+    "name": "uptake",
+    "trans": [
+      "n. 摄取；领会；举起"
+    ],
+    "usphone": "[ˈʌpteɪk]",
+    "ukphone": "[ˈʌpteɪk]"
+  },
+  {
+    "name": "unheralded",
+    "trans": [
+      "adj. 未事先宣布的；没料到的；未被承认的"
+    ],
+    "usphone": "[ʌnˈherəldɪd]",
+    "ukphone": "[ʌnˈherəldɪd]"
+  },
+  {
+    "name": "unencumbered",
+    "trans": [
+      "adj. 没有阻碍的；没有负担的；不受妨碍的"
+    ],
+    "usphone": "[ˌʌnɪnˈkʌmbərd]",
+    "ukphone": "[ˌʌnɪnˈkʌmbəd]"
+  },
+  {
+    "name": "unlicensed",
+    "trans": [
+      "adj. 没有执照的；未经当局许可的；无节制的"
+    ],
+    "usphone": "[ʌnˈlaɪsnst]",
+    "ukphone": "[ʌnˈlaɪsnst]"
+  },
+  {
+    "name": "underwent",
+    "trans": [
+      "v. 经验；遭遇（undergo的过去式）"
+    ],
+    "usphone": "[ˌʌndərˈwent]",
+    "ukphone": "[ˌʌndəˈwent]"
+  },
+  {
+    "name": "ultramodern",
+    "trans": [
+      "adj. 超现代的，最新的"
+    ],
+    "usphone": "[ˌʌltrəˈmɑːdərn]",
+    "ukphone": "[ˌʌltrəˈmɒdən]"
+  },
+  {
+    "name": "unidirectional",
+    "trans": [
+      "adj. 单向的；单向性的"
+    ],
+    "usphone": "[ˌjunədəˈrekʃənəl]",
+    "ukphone": "[ˌjuːnɪdɪˈrekʃənəl; ˌjuːnɪdaɪˈrekʃənəl]"
+  },
+  {
+    "name": "unfrequented",
+    "trans": [
+      "adj. 人迹罕到的; 冷; 冷落"
+    ],
+    "usphone": "[ˌʌnfrɪˈkwentɪd]",
+    "ukphone": "[ˌʌnfrɪˈkwentɪd]"
+  },
+  {
+    "name": "ulcerative",
+    "trans": [
+      "adj. 溃疡性的；引起溃疡的"
+    ],
+    "usphone": "[ˈʌlsərətɪv]",
+    "ukphone": "[ˈʌlsərətɪv]"
+  },
+  {
+    "name": "ulna",
+    "trans": [
+      "n. 尺骨"
+    ],
+    "usphone": "[ˈʌlnə]",
+    "ukphone": "[ˈʌlnə]"
+  },
+  {
+    "name": "ultrafast",
+    "trans": [
+      "adj. 超速的，超快的"
+    ],
+    "usphone": "[ˌʌltrəˈfæst]",
+    "ukphone": "[ˌʌltrəˈfɑːst]"
+  },
+  {
+    "name": "ultrafiltration",
+    "trans": [
+      "n. 超滤（作用）; 超过滤"
+    ],
+    "usphone": "[ˌʌltrəfɪlˈtreɪʃən]",
+    "ukphone": "[ˌʌltrəfɪlˈtreɪʃ(ə)n]"
+  },
+  {
+    "name": "ultramicroscope",
+    "trans": [
+      "n. 超显微镜，超倍显微镜; 缝隙式超显微镜"
+    ],
+    "usphone": "[ˌʌltrəˈmaɪkrəˌskoʊp]",
+    "ukphone": "[ˌʌltrəˈmaɪkrəˌskəʊp]"
+  },
+  {
+    "name": "ultrasonography",
+    "trans": [
+      "n. 超声波检查法；超声波扫描术"
+    ],
+    "usphone": "[ˌʌltrəsəˈnɑɡrəfi]",
+    "ukphone": "[ˌʌltrəsəˈnɒɡrəfi]"
+  },
+  {
+    "name": "ultrathin",
+    "trans": [
+      "adj. 超薄的，极细的"
+    ],
+    "usphone": "[ˌʌltrəˈθɪn]",
+    "ukphone": "[ˌʌltrəˈθɪn]"
+  },
+  {
+    "name": "umbilical",
+    "trans": [
+      "adj. 脐带的；母系的；中央的"
+    ],
+    "usphone": "[ʌmˈbɪlɪkl]",
+    "ukphone": "[ʌmˈbɪlɪk(ə)l]"
+  },
+  {
+    "name": "umbilication",
+    "trans": [
+      "n. 脐状"
+    ],
+    "usphone": "[ʌm,bili'keiʃən]",
+    "ukphone": "[ʌmˌbɪlɪˈkeɪʃən]"
+  },
+  {
+    "name": "umbra",
+    "trans": [
+      "n. [天] 本影，[天] 暗影；蚀时的地球"
+    ],
+    "usphone": "[ˈʌmbrə]",
+    "ukphone": "[ˈʌmbrə]"
+  },
+  {
+    "name": "unavoidably",
+    "trans": [
+      "adv. 不可避免地；不得已地"
+    ],
+    "usphone": "[ˌʌnəˈvɔɪdəbli]",
+    "ukphone": "[ˌʌnəˈvɔɪdəbli]"
+  },
+  {
+    "name": "uncinate",
+    "trans": [
+      "adj. 钩状的"
+    ],
+    "usphone": "[ˈʌnsənɪt]",
+    "ukphone": "[ˈʌnsɪnɪt]"
+  },
+  {
+    "name": "uncorrected",
+    "trans": [
+      "v. 使（真航向）转换为磁航向（uncorrect的过去式和过去分词）",
+      "adj. 未修正的；未加管教的；未调整的"
+    ],
+    "usphone": "[ˌʌnkəˈrektɪd]",
+    "ukphone": "[ˌʌnkəˈrektɪd]"
+  },
+  {
+    "name": "underproduction",
+    "trans": [
+      "n. 生产不足，供不应求"
+    ],
+    "usphone": "[ˌʌndərprəˈdʌkʃn]",
+    "ukphone": "[ˌʌndəprəˈdʌkʃən]"
+  },
+  {
+    "name": "undulant",
+    "trans": [
+      "adj. 波状的；起伏的，波浪形的"
+    ],
+    "usphone": "[ˈʌndjələnt]",
+    "ukphone": "[ˈʌndjʊl(ə)nt]"
+  },
+  {
+    "name": "unipolar",
+    "trans": [
+      "adj. 单极的；单尾的（神经细胞等）"
+    ],
+    "usphone": "[ˌjʊnɪˈpolər]",
+    "ukphone": "[juːnɪˈpəʊlə]"
+  },
+  {
+    "name": "univalent",
+    "trans": [
+      "adj. 一价的; 单价的; 单价染色体的"
+    ],
+    "usphone": "[jʊˈnɪvələnt]",
+    "ukphone": "[ˌjuːnɪˈveɪl(ə)nt]"
+  },
+  {
+    "name": "univariate",
+    "trans": [
+      "adj. [数] 单变量的"
+    ],
+    "usphone": "[junɪ'vɛrɪet]",
+    "ukphone": "[ˌjuːnɪˈveərɪɪt]"
+  },
+  {
+    "name": "unsuspected",
+    "trans": [
+      "adj. 不受怀疑的；未知的"
+    ],
+    "usphone": "[ˌʌnsəˈspektɪd]",
+    "ukphone": "[ˌʌnsəˈspektɪd]"
+  },
+  {
+    "name": "urethral",
+    "trans": [
+      "adj. [解剖] 尿道的"
+    ],
+    "usphone": "[jʊˈriːθrəl]",
+    "ukphone": "[jʊˈriːθrəl]"
+  },
+  {
+    "name": "urethritis",
+    "trans": [
+      "n. [泌尿] 尿道炎"
+    ],
+    "usphone": "[ˌjʊrəˈθraɪtɪs]",
+    "ukphone": "[ˌjʊərəˈθraɪtɪs]"
+  },
+  {
+    "name": "uric",
+    "trans": [
+      "adj. 尿的；取自尿中的"
+    ],
+    "usphone": "[ˈjʊrɪk]",
+    "ukphone": "[ˈjʊərɪk]"
+  },
+  {
+    "name": "uricosuric",
+    "trans": [
+      "adj. 促尿酸尿的"
+    ],
+    "usphone": "[ˌjʊrɪkəˈsʊrɪk]",
+    "ukphone": "[,juərikəu'sjuərik]"
+  },
+  {
+    "name": "urinalysis",
+    "trans": [
+      "n. 验尿；尿分析"
+    ],
+    "usphone": "[ˌjʊrəˈnæləsɪs]",
+    "ukphone": "[ˌjʊərɪˈnælɪsɪs]"
+  },
+  {
+    "name": "urogenital",
+    "trans": [
+      "adj. [解剖] 泌尿生殖器的"
+    ],
+    "usphone": "[ˌjʊroˈdʒenətl]",
+    "ukphone": "[ˌjʊərə(ʊ)ˈdʒenɪt(ə)l]"
+  },
+  {
+    "name": "urokinase",
+    "trans": [
+      "n. 尿激酶"
+    ],
+    "usphone": "[ˌjʊroʊˈkaɪˌneɪs]",
+    "ukphone": "[ˌjʊərəʊˈkaɪneɪz]"
+  },
+  {
+    "name": "urolith",
+    "trans": [
+      "n. 尿（结）石"
+    ],
+    "usphone": "[ˈjʊrəlɪθ]",
+    "ukphone": "[ˈjʊərəlɪθ]"
+  },
+  {
+    "name": "urolithiasis",
+    "trans": [
+      "n. 尿石病，尿石形成; 石淋"
+    ],
+    "usphone": "[ˌjʊrəlɪˈθaɪəsɪs; ˌjʊroʊlɪˈθaɪəsɪs]",
+    "ukphone": "[ˌjʊərəʊlɪˈθaɪəsɪs]"
+  },
+  {
+    "name": "urologic",
+    "trans": [
+      "adj. 泌尿科学的；泌尿道的"
+    ],
+    "usphone": "[ˌjʊrəˈlɑːdʒɪk]",
+    "ukphone": "[ˌjʊərəˈlɒdʒɪk]"
+  },
+  {
+    "name": "urologist",
+    "trans": [
+      "n. [泌尿] 泌尿科医师"
+    ],
+    "usphone": "[jʊˈrɑːlədʒɪst]",
+    "ukphone": "[jʊəˈrɒlədʒɪst]"
+  },
+  {
+    "name": "uterine",
+    "trans": [
+      "adj. [解剖] 子宫的；同母异父的"
+    ],
+    "usphone": "[ˈjuːtəraɪn]",
+    "ukphone": "[ˈjuːtəraɪn]"
+  },
+  {
+    "name": "uveitis",
+    "trans": [
+      "n. 眼色素层炎，葡萄膜炎"
+    ],
+    "usphone": "[ˌjʊvɪˈaɪtɪs]",
+    "ukphone": "[ˌjuːvɪˈaɪtɪs]"
+  },
+  {
+    "name": "uh-huh",
+    "trans": [
+      "int. 嗯，哼；啊哈"
+    ],
+    "usphone": "[ˈʌ hʌ]",
+    "ukphone": "[ˈʌ hʌ]"
+  },
+  {
+    "name": "um",
+    "trans": [
+      "int. 嗯（表示迟疑）"
+    ],
+    "usphone": "[ʌm; əm]",
+    "ukphone": "[ʌm; əm]"
+  },
+  {
+    "name": "uniformed",
+    "trans": [
+      "adj. 穿着制服的",
+      "v. 使穿制服（或军服）；使成一样（uniform的过去式）"
+    ],
+    "usphone": "[ˈjuːnɪfɔːrmd]",
+    "ukphone": "[ˈjuːnɪfɔːmd]"
+  },
+  {
+    "name": "unbounded",
+    "trans": [
+      "adj. 无限的；不受控制的"
+    ],
+    "usphone": "[ʌnˈbaʊndɪd]",
+    "ukphone": "[ʌnˈbaʊndɪd]"
+  },
+  {
+    "name": "unobtrusively",
+    "trans": [
+      "adv. 不显眼地；不容易看到地；客气地"
+    ],
+    "usphone": "[ˌʌnəbˈtruːsɪvli]",
+    "ukphone": "[ˌʌnəbˈtruːsɪvli]"
+  },
+  {
+    "name": "unimagined",
+    "trans": [
+      "a. 没有想到过的, 从未设想过的, 无法想象的"
+    ],
+    "usphone": "[ˌʌnɪˈmædʒɪnd]",
+    "ukphone": "[ˌʌnɪˈmædʒɪnd]"
+  },
+  {
+    "name": "unspoilt",
+    "trans": [
+      " 未受破坏的"
+    ],
+    "usphone": "[ˌʌnˈspɔɪlt]",
+    "ukphone": "[ˌʌnˈspɔɪlt]"
+  },
+  {
+    "name": "unpersuasive",
+    "trans": [
+      "adj. 无说服力的"
+    ],
+    "usphone": "['ʌnpə'sweisiv]",
+    "ukphone": "[ʌnpəˈsweɪsɪv]"
+  },
+  {
+    "name": "unheard",
+    "trans": [
+      "adj. 听不到的；未被倾听的；不予理睬的"
+    ],
+    "usphone": "[ʌnˈhɜːrd]",
+    "ukphone": "[ʌnˈhɜːd]"
+  },
+  {
+    "name": "underlayer",
+    "trans": [
+      "n. 下层；底层；衬层"
+    ],
+    "usphone": "[ˈʌndərˌleɪər]",
+    "ukphone": "[ˈʌndəˌleɪə(r)]"
+  },
+  {
+    "name": "unflinching",
+    "trans": [
+      "adj. 不畏缩的；不退缩的"
+    ],
+    "usphone": "[ʌnˈflɪntʃɪŋ]",
+    "ukphone": "[ʌnˈflɪntʃɪŋ]"
+  },
+  {
+    "name": "ultrapure",
+    "trans": [
+      "adj. 超纯的"
+    ],
+    "usphone": "[,ʌltrə'pjuə]",
+    "ukphone": "[ˌʌltrəˈpjʊə]"
+  },
+  {
+    "name": "ultracritical",
+    "trans": [
+      "adj. 过于批评的，吹毛求疵的"
+    ],
+    "usphone": "[,ʌltrə'kritikəl]",
+    "ukphone": "[ˌʌltrəˈkrɪtɪkəl]"
+  },
+  {
+    "name": "uglify",
+    "trans": [
+      "vt. 弄成难看，丑化"
+    ],
+    "usphone": "[ˈʌɡlɪˌfaɪ]",
+    "ukphone": "[ˈʌɡlɪˌfaɪ]"
+  },
+  {
+    "name": "umpteen",
+    "trans": [
+      "adj. 无数的；很多的"
+    ],
+    "usphone": "[ˌʌmpˈtiːn]",
+    "ukphone": "[ˌʌmpˈtiːn]"
+  },
+  {
+    "name": "unmoral",
+    "trans": [
+      "adj. 不道德的；无道德观念的"
+    ],
+    "usphone": "[ʌnˈmɔːrəl]",
+    "ukphone": "[ʌnˈmɒr(ə)l]"
+  },
+  {
+    "name": "unorganized",
+    "trans": [
+      "adj. 无组织的，无条理的；未加入工会的"
+    ],
+    "usphone": "[ʌnˈɔːrɡənaɪzd]",
+    "ukphone": "[ʌnˈɔːɡənaɪzd]"
+  },
+  {
+    "name": "unwavering",
+    "trans": [
+      "adj. 坚定的；不动摇的"
+    ],
+    "usphone": "[ʌnˈweɪvərɪŋ]",
+    "ukphone": "[ʌnˈweɪvərɪŋ]"
+  },
+  {
+    "name": "undiscussed",
+    "trans": [
+      "a. 未讨论过的, 未辩论过的"
+    ],
+    "usphone": "['ʌndis'kʌst]",
+    "ukphone": "[ʌndɪˈskʌst]"
+  },
+  {
+    "name": "Ulyanovsk",
+    "trans": [
+      "乌里扬诺夫斯克[苏联伏尔加河中游城市](旧称辛比尔斯克)"
+    ],
+    "usphone": "[u:l'jɑ:nɔfsk]",
+    "ukphone": "[u:l'jɑ:nɔfsk]"
+  },
+  {
+    "name": "undeclared",
+    "trans": [
+      "adj. 未申报的；未经宣布的"
+    ],
+    "usphone": "[ˌʌndɪˈklerd]",
+    "ukphone": "[ˌʌndɪˈkleəd]"
+  },
+  {
+    "name": "unutterable",
+    "trans": [
+      "adj. 十足的；说不出口的；无法用言语表达的"
+    ],
+    "usphone": "[ʌnˈʌtərəbl]",
+    "ukphone": "[ʌnˈʌtərəbl]"
+  },
+  {
+    "name": "unreasoning",
+    "trans": [
+      "adj. 未加思量的；不合理的；无理性的；不讲理的"
+    ],
+    "usphone": "[ʌnˈriːzənɪŋ]",
+    "ukphone": "[ʌnˈriːzənɪŋ]"
+  },
+  {
+    "name": "undismayed",
+    "trans": [
+      "不泄气的"
+    ],
+    "usphone": "[ˌʌndɪsˈmeɪd]",
+    "ukphone": "[ˌʌndɪsˈmeɪd]"
+  },
+  {
+    "name": "uncluttered",
+    "trans": [
+      "adj. 整洁的；整齐的",
+      "v. 使整洁（unclutter的过去式和过去分词）"
+    ],
+    "usphone": "[ˌʌnˈklʌtərd]",
+    "ukphone": "[ˌʌnˈklʌtəd]"
+  },
+  {
+    "name": "U.K.",
+    "trans": [
+      "英国, 联合王国",
+      "[经] 英国"
+    ],
+    "usphone": "[ˌjuː ˈkeɪ]",
+    "ukphone": "[ˌjuː ˈkeɪ]"
+  },
+  {
+    "name": "unambitious",
+    "trans": [
+      "adj. 无野心的；无名利心的；谦虚的"
+    ],
+    "usphone": "[ˌʌnæmˈbɪʃəs]",
+    "ukphone": "[ˌʌnæmˈbɪʃəs]"
+  },
+  {
+    "name": "unbosom",
+    "trans": [
+      "vt. 吐露；透露",
+      "vi. 剖明心迹；吐露心事"
+    ],
+    "usphone": "[ʌnˈbʊzəm]",
+    "ukphone": "[ʌnˈbʊzəm]"
+  },
+  {
+    "name": "underdevelop",
+    "trans": [
+      "v. （使）发展不完全，（使）显影不足"
+    ],
+    "usphone": "[ˌʌndərdɪˈveləp]",
+    "ukphone": "[ˌʌndədɪˈveləp]"
+  },
+  {
+    "name": "underpopulated",
+    "trans": [
+      "adj. 人口稀少的"
+    ],
+    "usphone": "[ˌʌndərˈpɑpjəˌletɪd]",
+    "ukphone": "[ʌndəˈpɒpjʊleɪtɪd]"
+  },
+  {
+    "name": "umber",
+    "trans": [
+      "n. 棕土；焦茶色",
+      "adj. 棕土的；棕色的",
+      "vt. 涂以红褐色"
+    ],
+    "usphone": "[ˈʌmbər]",
+    "ukphone": "[ˈʌmbə(r)]"
+  },
+  {
+    "name": "unfulfilling",
+    "trans": [
+      " 不能使人感到满足的；不令人称心的"
+    ],
+    "usphone": "[ˌʌnfʊlˈfɪlɪŋ]",
+    "ukphone": "[ˌʌnfʊlˈfɪlɪŋ]"
+  },
+  {
+    "name": "unfavorably",
+    "trans": [
+      "adv. 不利地；不适宜地"
+    ],
+    "usphone": "[ʌnˈfeɪvərəbli]",
+    "ukphone": "[ʌnˈfeɪvərəbli]"
+  },
+  {
+    "name": "unrestrained",
+    "trans": [
+      "adj. 自然的；无限制的；放纵的"
+    ],
+    "usphone": "[ˌʌnrɪˈstreɪnd]",
+    "ukphone": "[ˌʌnrɪˈstreɪnd]"
+  },
+  {
+    "name": "uncharged",
+    "trans": [
+      "adj. 未装弹药的；[物] 无电荷的；没有被指控的",
+      "v. 卸货（uncharge的过去式与过去分词）"
+    ],
+    "usphone": "[ʌnˈtʃɑrdʒd]",
+    "ukphone": "[ʌnˈtʃɑːdʒd]"
+  },
+  {
+    "name": "unprecedentedly",
+    "trans": [
+      "adv. 空前地"
+    ],
+    "usphone": "[ʌnˈpresɪdentɪdli]",
+    "ukphone": "[ʌnˈpresɪdentɪdli]"
+  },
+  {
+    "name": "unleaded",
+    "trans": [
+      "adj. 无铅的；不包铅的；不插铅条的"
+    ],
+    "usphone": "[ˌʌnˈledɪd]",
+    "ukphone": "[ˌʌnˈledɪd]"
+  },
+  {
+    "name": "unthinking",
+    "trans": [
+      "adj. 无思考能力的；不留心的；欠考虑的"
+    ],
+    "usphone": "[ʌnˈθɪŋkɪŋ]",
+    "ukphone": "[ʌnˈθɪŋkɪŋ]"
+  },
+  {
+    "name": "undistorted",
+    "trans": [
+      "adj. 未失真的；不偏激的；无畸变的"
+    ],
+    "usphone": "[ˌʌndɪsˈtɔrtɪd]",
+    "ukphone": "[ˌʌndɪˈstɔːtɪd]"
+  },
+  {
+    "name": "unmodified",
+    "trans": [
+      "adj. 未更改的，未变的"
+    ],
+    "usphone": "[ˌʌnˈmɑːdɪfaɪd]",
+    "ukphone": "[ˌʌnˈmɒdɪfaɪd]"
+  },
+  {
+    "name": "unhuman",
+    "trans": [
+      "adj. 非人类的，无人类属性的"
+    ],
+    "usphone": "[ʌnˈhjʊmən]",
+    "ukphone": "[ʌnˈhjuːmən]"
+  },
+  {
+    "name": "undistinguishable",
+    "trans": [
+      "adj. 难辨别的，难区分的"
+    ],
+    "usphone": "[ˌʌndɪˈstɪŋɡwɪʃəbl]",
+    "ukphone": "[ˌʌndɪˈstɪŋɡwɪʃəbl]"
+  },
+  {
+    "name": "uplifted",
+    "trans": [
+      "v. 提高；抬起（uplift的过去分词形式）",
+      "adj. 上升的；举起的"
+    ],
+    "usphone": "[ˌʌpˈlɪftɪd]",
+    "ukphone": "[ˌʌpˈlɪftɪd]"
+  },
+  {
+    "name": "understood",
+    "trans": [
+      "v. 明白；懂得（understand的过去分词）；熟悉",
+      "adj. 被充分理解的；心照不宣的"
+    ],
+    "usphone": "[ˌʌndərˈstʊd]",
+    "ukphone": "[ˌʌndəˈstʊd]"
+  },
+  {
+    "name": "ufo",
+    "trans": [
+      "abbr. 不明飞行物（Unidentified Flying Object）"
+    ],
+    "usphone": "[ˌjuː ef ˈoʊˌˈjuːfoʊ]",
+    "ukphone": "[ˌjuː ef ˈəʊ; ˈjuːfəʊ]"
+  },
+  {
+    "name": "unblock",
+    "trans": [
+      "vt. 除去…的障碍；开启；接通"
+    ],
+    "usphone": "[ˌʌnˈblɑːk]",
+    "ukphone": "[ˌʌnˈblɒk]"
+  },
+  {
+    "name": "uh huh",
+    "trans": [
+      "int. 〔读时带重鼻音〕嗯；啊",
+      "v. 〔美俚〕求爱；〈美俚〉求爱"
+    ],
+    "usphone": "[ʌ ˈhʌ]",
+    "ukphone": "[ʌ ˈhʌ]"
+  },
+  {
+    "name": "uninjured",
+    "trans": [
+      "adj. 未受伤害的；未蒙损失的"
+    ],
+    "usphone": "[ʌnˈɪndʒərd]",
+    "ukphone": "[ʌnˈɪndʒəd]"
+  },
+  {
+    "name": "URL",
+    "trans": [
+      "abbr. 全球资源定位器（Uniform Resource Locator）"
+    ],
+    "usphone": "[ˌjuː ɑːr ˈel]",
+    "ukphone": "[ˌjuː ɑːr ˈel]"
+  },
+  {
+    "name": "unacquainted",
+    "trans": [
+      "adj. 不认识的；不熟悉的；不知道的"
+    ],
+    "usphone": "[ˌʌnəˈkweɪntɪd]",
+    "ukphone": "[ˌʌnəˈkweɪntɪd]"
+  },
+  {
+    "name": "uracil",
+    "trans": [
+      "n. 尿嘧啶; 二氧嘧啶"
+    ],
+    "usphone": "[ˈjʊrəsəl]",
+    "ukphone": "[ˈjʊərəsɪl]"
+  },
+  {
+    "name": "Ukrainian",
+    "trans": [
+      "n. 乌克兰人；乌克兰语",
+      "adj. 乌克兰的；乌克兰人的"
+    ],
+    "usphone": "[jʊˈkraɪnɪən]",
+    "ukphone": "[juːˈkreɪniən]"
+  },
+  {
+    "name": "unborn",
+    "trans": [
+      "adj. 未来的；未诞生的"
+    ],
+    "usphone": "[ˌʌnˈbɔːrn]",
+    "ukphone": "[ˌʌnˈbɔːn]"
+  },
+  {
+    "name": "unmarked",
+    "trans": [
+      "adj. 无记号的；未被注意的"
+    ],
+    "usphone": "[ˌʌnˈmɑːrkt]",
+    "ukphone": "[ˌʌnˈmɑːkt]"
+  },
+  {
+    "name": "unsalted",
+    "trans": [
+      "adj. 新鲜的；未腌渍过的；未加盐的"
+    ],
+    "usphone": "[ʌnˈsɔːltɪd]",
+    "ukphone": "[ʌnˈsɔːltɪd; ʌnˈsɒltɪd]"
+  },
+  {
+    "name": "unilaterally",
+    "trans": [
+      "adv. 单方面地"
+    ],
+    "usphone": "[ˌjuːnɪˈlætrəli]",
+    "ukphone": "[ˌjuːnɪˈlætrəli]"
+  },
+  {
+    "name": "uncomfortably",
+    "trans": [
+      "adv. 不舒适地；不自在地；令人不快地"
+    ],
+    "usphone": "[ʌnˈkʌmftəbliˌʌnˈkʌmfərtəbli]",
+    "ukphone": "[ʌnˈkʌmftəbli; ʌnˈkʌmfətəbli]"
+  },
+  {
+    "name": "unbelievably",
+    "trans": [
+      "adv. 难以置信地；不可信地"
+    ],
+    "usphone": "[ˌʌnbɪˈliːvəbli]",
+    "ukphone": "[ˌʌnbɪˈliːvəbli]"
+  },
+  {
+    "name": "unifying",
+    "trans": [
+      "使统一；（unify的ing形式）使成一体"
+    ],
+    "usphone": "[ˈjuːnɪfaɪɪŋ]",
+    "ukphone": "[ˈjuːnɪfaɪɪŋ]"
+  },
+  {
+    "name": "underpinning",
+    "trans": [
+      "n. 基础，基础材料；[矿业] 支柱，支承结构；支撑"
+    ],
+    "usphone": "[ˌʌndərˈpɪnɪŋ]",
+    "ukphone": "[ˌʌndəˈpɪnɪŋ]"
+  },
+  {
+    "name": "uneasily",
+    "trans": [
+      "adv. 不自在地；不稳定地；心神不安地"
+    ],
+    "usphone": "[ʌnˈiːzɪli]",
+    "ukphone": "[ʌnˈiːzɪli]"
+  },
+  {
+    "name": "undercooked",
+    "trans": [
+      "adj. 煎（或烤、炸） 得火候不足的；煮得欠熟的"
+    ],
+    "usphone": "[ˌʌndərˈkʊkt]",
+    "ukphone": "[ˌʌndəˈkʊkt]"
+  },
+  {
+    "name": "undertook",
+    "trans": [
+      "v. 承担（undertake的过去式）；着手做"
+    ],
+    "usphone": "[ˌʌndərˈtʊk]",
+    "ukphone": "[ˌʌndəˈtʊk]"
+  },
+  {
+    "name": "unapproachable",
+    "trans": [
+      "adj. 无与伦比的；不可亲的；（地方）不能接近的"
+    ],
+    "usphone": "[ˌʌnəˈproʊtʃəbl]",
+    "ukphone": "[ˌʌnəˈprəʊtʃəbl]"
+  },
+  {
+    "name": "uncommunicative",
+    "trans": [
+      "adj. 沉默寡言的，拘礼的"
+    ],
+    "usphone": "[ˌʌnkəˈmjuːnɪkətɪv]",
+    "ukphone": "[ˌʌnkəˈmjuːnɪkətɪv]"
+  },
+  {
+    "name": "underachiever",
+    "trans": [
+      "n. 后进生；学校学习成绩低于智商的学生"
+    ],
+    "usphone": "[ˌʌndərəˈtʃiːvər]",
+    "ukphone": "[ˌʌndərəˈtʃiːvə(r)]"
+  },
+  {
+    "name": "underprepared",
+    "trans": [
+      "adj. 准备不足的，准备不充分的"
+    ],
+    "usphone": "[ˌʌndərprɪˈperd]",
+    "ukphone": "[ˌʌndəprɪˈpeəd]"
+  },
+  {
+    "name": "unruffled",
+    "trans": [
+      "v. 使平整；变得平静（unruffle的过去分词）",
+      "adj. 平静的；不骚动的；镇定的"
+    ],
+    "usphone": "[ʌnˈrʌfld]",
+    "ukphone": "[ʌnˈrʌfld]"
+  },
+  {
+    "name": "unscramble",
+    "trans": [
+      "vt. 整理；使恢复原状；译出密码"
+    ],
+    "usphone": "[ˌʌnˈskræmbl]",
+    "ukphone": "[ˌʌnˈskræmbl]"
+  },
+  {
+    "name": "unfurnished",
+    "trans": [
+      "adj. 无装备的；[建] 无家具设备的；无供给的",
+      "vt. 拆除家具（unfurnish的过去式）；搬走家具"
+    ],
+    "usphone": "[ʌnˈfɜːrnɪʃt]",
+    "ukphone": "[ʌnˈfɜːnɪʃt]"
+  },
+  {
+    "name": "unmade",
+    "trans": [
+      "adj. 尚未做好的",
+      "v. 恢复原状，撤回（unmake的过去分词）"
+    ],
+    "usphone": "[ˌʌnˈmeɪd]",
+    "ukphone": "[ˌʌnˈmeɪd]"
+  },
+  {
+    "name": "uncrumpled",
+    "trans": [
+      "adj. 衣冠整洁的"
+    ],
+    "usphone": "[ʌn'krʌmpld]",
+    "ukphone": "[ʌnˈkrʌmpəld]"
+  },
+  {
+    "name": "undoing",
+    "trans": [
+      "n. 毁灭；取消；毁灭的原因",
+      "vt. 解开；取消（undo的ing形式）"
+    ],
+    "usphone": "[ʌnˈduːɪŋ]",
+    "ukphone": "[ʌnˈduːɪŋ]"
+  },
+  {
+    "name": "uploading",
+    "trans": [
+      "v. 上传；上载（upload的ing形式）"
+    ],
+    "usphone": "['ʌp'ləudiŋ]",
+    "ukphone": "[ˈʌpˈləʊdɪŋ]"
+  },
+  {
+    "name": "usherette",
+    "trans": [
+      "n. 女服务员，女引座员"
+    ],
+    "usphone": "[ˌʌʃəˈret]",
+    "ukphone": "[ˌʌʃəˈret]"
+  },
+  {
+    "name": "urbanite",
+    "trans": [
+      "n. 都市人"
+    ],
+    "usphone": "[ˈɜːrbənaɪt]",
+    "ukphone": "[ˈɜːbənaɪt]"
+  },
+  {
+    "name": "untried",
+    "trans": [
+      "adj. 未经实验的；未经审讯的；未经检查的"
+    ],
+    "usphone": "[ˌʌnˈtraɪd]",
+    "ukphone": "[ˌʌnˈtraɪd]"
+  },
+  {
+    "name": "uttermost",
+    "trans": [
+      "n. 最大限度；极端",
+      "adj. 极度的；极端的；最远的；最高的"
+    ],
+    "usphone": "[ˈʌtərmoʊst]",
+    "ukphone": "[ˈʌtəməʊst]"
+  },
+  {
+    "name": "unitive",
+    "trans": [
+      "adj. 统一的；团结的；联合的"
+    ],
+    "usphone": "[ˈjʊnətɪv]",
+    "ukphone": "[ˈjuːnɪtɪv]"
+  },
+  {
+    "name": "uncultured",
+    "trans": [
+      "adj. [农] 未耕作的；未受教育的；无教养的"
+    ],
+    "usphone": "[ˌʌnˈkʌltʃərd]",
+    "ukphone": "[ˌʌnˈkʌltʃəd]"
+  },
+  {
+    "name": "unaesthetic",
+    "trans": [
+      "adj. 无美感的，缺乏美感的"
+    ],
+    "usphone": "[,ʌni:s'θetik]",
+    "ukphone": "[ʌniːsˈθetɪk; ʌnes-]"
+  },
+  {
+    "name": "unconfirmed",
+    "trans": [
+      "adj. 未证实的；未最后认可的；未受坚信礼的"
+    ],
+    "usphone": "[ˌʌnkənˈfɜːrmd]",
+    "ukphone": "[ˌʌnkənˈfɜːmd]"
+  },
+  {
+    "name": "uncontroversial",
+    "trans": [
+      "adj. 非争论性的；不会引起争论的"
+    ],
+    "usphone": "[ˌʌnkɑːntrəˈvɜːrʃl]",
+    "ukphone": "[ˌʌnˌkɒntrəˈvɜːʃ(ə)l]"
+  },
+  {
+    "name": "unconvinced",
+    "trans": [
+      "adj. 不信服的；怀疑的"
+    ],
+    "usphone": "[ˌʌnkənˈvɪnst]",
+    "ukphone": "[ˌʌnkənˈvɪnst]"
+  },
+  {
+    "name": "undecipherable",
+    "trans": [
+      "adj. 难辨认的；破译不出的"
+    ],
+    "usphone": "[ˌʌndɪˈsaɪfərəb(ə)l]",
+    "ukphone": "[ˌʌndɪˈsaɪfərəb(ə)l]"
+  },
+  {
+    "name": "undemonstrable",
+    "trans": [
+      "adj. 无法证明的，难以证明的"
+    ],
+    "usphone": "[ˌʌndɪˈmɑːnstrəb(ə)l]",
+    "ukphone": "[ʌnˈdemənstrəb(ə)l]"
+  },
+  {
+    "name": "undeserving",
+    "trans": [
+      "adj. 不值得…的；不配受到的"
+    ],
+    "usphone": "[ˌʌndɪˈzɜːrvɪŋ]",
+    "ukphone": "[ˌʌndɪˈzɜːvɪŋ]"
+  },
+  {
+    "name": "unedited",
+    "trans": [
+      "adj. 未刊行的；未编辑的；未经审查的"
+    ],
+    "usphone": "[ʌnˈedɪtɪd]",
+    "ukphone": "[ʌnˈedɪtɪd]"
+  },
+  {
+    "name": "unerringly",
+    "trans": [
+      "adv. 无过失地；正确地"
+    ],
+    "usphone": "[ʌnˈɜːrɪŋli]",
+    "ukphone": "[ʌnˈɜːrɪŋli]"
+  },
+  {
+    "name": "uninspired",
+    "trans": [
+      "adj. 无灵感的；缺乏创见的；平凡的"
+    ],
+    "usphone": "[ˌʌnɪnˈspaɪərd]",
+    "ukphone": "[ˌʌnɪnˈspaɪəd]"
+  },
+  {
+    "name": "unliterary",
+    "trans": [
+      " 非文学性的"
+    ],
+    "usphone": "[ʌnˈlɪtərəri]",
+    "ukphone": "[ʌnˈlɪtərəri]"
+  },
+  {
+    "name": "untarnished",
+    "trans": [
+      "adj. 未失去光泽的"
+    ],
+    "usphone": "[ʌnˈtɑːrnɪʃt]",
+    "ukphone": "[ʌnˈtɑːnɪʃt]"
+  },
+  {
+    "name": "untasted",
+    "trans": [
+      "a. 未被尝过的,未经辨味的,未体验过的"
+    ],
+    "usphone": "[ʌnˈteɪstəd]",
+    "ukphone": "[ʌnˈteɪstɪd]"
+  },
+  {
+    "name": "unsocial",
+    "trans": [
+      "adj. 非社会的；不合群的；孤僻的；不善交际的"
+    ],
+    "usphone": "[ˌʌnˈsoʊʃl]",
+    "ukphone": "[ˌʌnˈsəʊʃl]"
+  },
+  {
+    "name": "uprightness",
+    "trans": [
+      "n. 正直，诚实；垂直"
+    ],
+    "usphone": "[ˈʌpraɪtnəs]",
+    "ukphone": "[ˈʌpraɪtnəs]"
+  },
+  {
+    "name": "unverifiable",
+    "trans": [
+      "adj. 无法核实的；无法检验的；不能证实的"
+    ],
+    "usphone": "[ʌnˈverɪfaɪəbl]",
+    "ukphone": "[ʌnˈverɪfaɪəb(ə)l]"
+  },
+  {
+    "name": "unmanageable",
+    "trans": [
+      "adj. 难处理的，处理不了的；难管理的；难操纵的"
+    ],
+    "usphone": "[ʌnˈmænɪdʒəbl]",
+    "ukphone": "[ʌnˈmænɪdʒəbl]"
+  },
+  {
+    "name": "unostentatious",
+    "trans": [
+      "adj. 不夸耀的; 不傲慢的; 不虚饰的; 朴素的"
+    ],
+    "usphone": "[ʌnˌɑːstenˈteɪʃəs]",
+    "ukphone": "[ˌʌnɒstənˈteɪʃəs]"
+  },
+  {
+    "name": "unconstrained",
+    "trans": [
+      "adj. 不勉强的；非强迫的；不受约束的"
+    ],
+    "usphone": "[ˌʌnkənˈstreɪnd]",
+    "ukphone": "[ˌʌnkənˈstreɪnd]"
+  },
+  {
+    "name": "uncommonly",
+    "trans": [
+      "adv. 罕见地；很；极其"
+    ],
+    "usphone": "[ʌnˈkɑːmənli]",
+    "ukphone": "[ʌnˈkɒmənli]"
+  },
+  {
+    "name": "unquestioningly",
+    "trans": [
+      "adv. 无条件地, 不犹豫地, 绝对地"
+    ],
+    "usphone": "[ʌnˈkwestʃənɪŋli]",
+    "ukphone": "[ʌnˈkwestʃənɪŋli]"
+  },
+  {
+    "name": "ubiquity",
+    "trans": [
+      "n. 普遍存在；到处存在"
+    ],
+    "usphone": "[juːˈbɪkwəti]",
+    "ukphone": "[juːˈbɪkwəti]"
+  },
+  {
+    "name": "undiscriminating",
+    "trans": [
+      "adj. 无鉴别力的；不加区别的"
+    ],
+    "usphone": "[ˌʌndɪˈskrɪməˌnetɪŋ]",
+    "ukphone": "[ʌndɪˈskrɪmɪneɪtɪŋ]"
+  },
+  {
+    "name": "unabashedly",
+    "trans": [
+      "adv. 不害臊地；不怕羞地"
+    ],
+    "usphone": "[ˌʌnəˈbæʃɪdli]",
+    "ukphone": "[ˌʌnəˈbæʃɪdli]"
+  },
+  {
+    "name": "unmotivated",
+    "trans": [
+      "adj. 动机不明的"
+    ],
+    "usphone": "[ˌʌnˈmoʊtɪveɪtɪd]",
+    "ukphone": "[ˌʌnˈməʊtɪveɪtɪd]"
+  },
+  {
+    "name": "under-achieving",
+    "trans": [
+      "(under-achieve 的现在分词) vi. 未能充分发挥学习潜力；学习成绩不良"
+    ],
+    "usphone": "[ˌʌndərəˈtʃiːvɪŋ]",
+    "ukphone": "[,ʌndərə'tʃi:viŋ]"
+  },
+  {
+    "name": "unsaid",
+    "trans": [
+      "adj. 未说出口的；未用语言表达出来的",
+      "v. 取消；撤回；收回（unsay的过去分词形式）"
+    ],
+    "usphone": "[ʌnˈsed]",
+    "ukphone": "[ʌnˈsed]"
+  },
+  {
+    "name": "unwritten",
+    "trans": [
+      "adj. 不成文的；口头的；没有记录的"
+    ],
+    "usphone": "[ˌʌnˈrɪtn]",
+    "ukphone": "[ˌʌnˈrɪtn]"
+  },
+  {
+    "name": "UV",
+    "trans": [
+      "abbr. 紫外的（ultraviolet）"
+    ],
+    "usphone": "[ˌjuː ˈviː]",
+    "ukphone": "[ˌjuː ˈviː]"
+  },
+  {
+    "name": "undeceive",
+    "trans": [
+      "vt. 使某人不再抱幻想或不再受骗，使（某人）醒悟"
+    ],
+    "usphone": "[ˌʌndɪˈsiv]",
+    "ukphone": "[ʌndɪˈsiːv]"
+  },
+  {
+    "name": "unshackle",
+    "trans": [
+      "v. 释放"
+    ],
+    "usphone": "[ʌnˈʃækəl]",
+    "ukphone": "[ʌnˈʃækəl]"
+  },
+  {
+    "name": "underpayment",
+    "trans": [
+      "n. 缴付不足；不足工资"
+    ],
+    "usphone": "[ˌʌndərˈpeɪmənt]",
+    "ukphone": "[ˌʌndəˈpeɪmənt]"
+  },
+  {
+    "name": "undersigned",
+    "trans": [
+      "adj. 下面签名的；签过字的",
+      "v. 在…的下面签名（undersign的过去式和过去分词）"
+    ],
+    "usphone": "[ˈʌndərˌsaɪnd]",
+    "ukphone": "[ˈʌndəsaɪnd]"
+  },
+  {
+    "name": "untaught",
+    "trans": [
+      "adj. 没有受教育的，没有学问的",
+      "v. 使忘却，证明…的虚伪( unteach的过去式和过去分词 )"
+    ],
+    "usphone": "[ʌnˈtɔːt]",
+    "ukphone": "[ʌnˈtɔːt]"
+  },
+  {
+    "name": "Ukraine",
+    "trans": [
+      "n. 乌克兰（原苏联一加盟共和国，现已独立）"
+    ],
+    "usphone": "[jʊˈkraɪn]",
+    "ukphone": "[juːˈkreɪn]"
+  },
+  {
+    "name": "undertow",
+    "trans": [
+      "n. 退波；（海面下的）下层逆流"
+    ],
+    "usphone": "[ˈʌndərtoʊ]",
+    "ukphone": "[ˈʌndətəʊ]"
+  },
+  {
+    "name": "underwriting",
+    "trans": [
+      "n. 保险业；[金融] 证券包销",
+      "v. 认购（underwrite的ing形式）；写在…下面；经营保险业"
+    ],
+    "usphone": "[ˌʌndərˈraɪtɪŋ]",
+    "ukphone": "[ˌʌndəˈraɪtɪŋ]"
+  },
+  {
+    "name": "untether",
+    "trans": [
+      "vt. 解下拴牛马的绳、链"
+    ],
+    "usphone": "[ʌnˈteðər]",
+    "ukphone": "[ʌnˈteðər]"
+  },
+  {
+    "name": "unexampled",
+    "trans": [
+      "adj. 无可比拟的；无前例的"
+    ],
+    "usphone": "[,ʌniɡ'zɑ:mpld]",
+    "ukphone": "[ʌnɪgˈzɑːmp(ə)ld; ʌneg-]"
+  },
+  {
+    "name": "unsparing",
+    "trans": [
+      "adj. 严厉的；不吝惜的；不宽恕的"
+    ],
+    "usphone": "[ʌnˈsperɪŋ]",
+    "ukphone": "[ʌnˈspeərɪŋ]"
+  },
+  {
+    "name": "unrivaled",
+    "trans": [
+      "adj. 无敌的；至高无上的；无比的"
+    ],
+    "usphone": "[ʌnˈraɪvld]",
+    "ukphone": "[ʌnˈraɪvəld]"
+  },
+  {
+    "name": "unerring",
+    "trans": [
+      "adj. 无过失的；不犯错误的；没有打歪的"
+    ],
+    "usphone": "[ʌnˈɜːrɪŋ]",
+    "ukphone": "[ʌnˈɜːrɪŋ]"
+  },
+  {
+    "name": "utilitarianism",
+    "trans": [
+      "n. 功利主义；实用主义"
+    ],
+    "usphone": "[ˌjuːtɪlɪˈteriənɪzəm]",
+    "ukphone": "[ˌjuːtɪlɪˈteəriənɪzəm]"
+  },
+  {
+    "name": "unburden",
+    "trans": [
+      "vt. 吐露；卸去...的负担"
+    ],
+    "usphone": "[ˌʌnˈbɜːrdn]",
+    "ukphone": "[ˌʌnˈbɜːdn]"
+  },
+  {
+    "name": "unceasing",
+    "trans": [
+      "adj. 不断的；不停的"
+    ],
+    "usphone": "[ʌnˈsiːsɪŋ]",
+    "ukphone": "[ʌnˈsiːsɪŋ]"
+  },
+  {
+    "name": "unlocked",
+    "trans": [
+      "adj. 没有锁的",
+      "v. 开锁；泄露；释放（unlock的过去式）"
+    ],
+    "usphone": "[ˌʌnˈlɑːkt]",
+    "ukphone": "[ˌʌnˈlɒkt]"
+  },
+  {
+    "name": "unshaven",
+    "trans": [
+      "adj. 未修面的；不剃须的"
+    ],
+    "usphone": "[ˌʌnˈʃeɪvn]",
+    "ukphone": "[ˌʌnˈʃeɪvn]"
+  },
+  {
+    "name": "unendurable",
+    "trans": [
+      "adj. 无法忍受的；不能持久的"
+    ],
+    "usphone": "[ˌʌnɪnˈdʊrəbl]",
+    "ukphone": "[ˌʌnɪnˈdjʊərəbl]"
+  },
+  {
+    "name": "unlinked",
+    "trans": [
+      "v. 解开…的环节( unlink的过去式和过去分词 )"
+    ],
+    "usphone": "[ʌnˈlɪŋkt]",
+    "ukphone": "[ˌʌnˈlɪŋkt]"
+  },
+  {
+    "name": "unvaried",
+    "trans": [
+      "adj. 未改变的，没有变化的"
+    ],
+    "usphone": "[ʌnˈverid; ʌnˈværid]",
+    "ukphone": "[ʌnˈveərɪd]"
+  },
+  {
+    "name": "unperturbed",
+    "trans": [
+      "adj. 镇定的；平静的；未受到扰乱的"
+    ],
+    "usphone": "[ˌʌnpərˈtɜːrbd]",
+    "ukphone": "[ˌʌnpəˈtɜːbd]"
+  },
+  {
+    "name": "usability",
+    "trans": [
+      "n. 合用，可用；可用性"
+    ],
+    "usphone": "[ˌjuːzəˈbɪləti]",
+    "ukphone": "[ˌjuːzəˈbɪləti]"
+  },
+  {
+    "name": "unilingual",
+    "trans": [
+      "adj. 统一使用一种语言的"
+    ],
+    "usphone": "[ˌjʊnɪˈlɪŋɡwəl]",
+    "ukphone": "[juːnɪˈlɪŋgw(ə)l]"
+  },
+  {
+    "name": "unconverted",
+    "trans": [
+      "adj. 不改变的；不改宗的"
+    ],
+    "usphone": "[ˌʌnkənˈvɜːrtɪd]",
+    "ukphone": "[ʌnkənˈvɜːtɪd]"
+  },
+  {
+    "name": "undernourished",
+    "trans": [
+      "adj. 营养不良的，营养不足的",
+      "v. 供以不足的营养（undernourish的过去分词形式）"
+    ],
+    "usphone": "[ˌʌndərˈnɜːrɪʃt]",
+    "ukphone": "[ˌʌndəˈnʌrɪʃt]"
+  },
+  {
+    "name": "unbridle",
+    "trans": [
+      "vt. 卸下马的辔头；放纵"
+    ],
+    "usphone": "[,ʌn'braidl]",
+    "ukphone": "[ˌʌnˈbraɪdl]"
+  },
+  {
+    "name": "undulation",
+    "trans": [
+      "n. 波动；起伏"
+    ],
+    "usphone": "[ˌʌndʒəˈleɪʃn]",
+    "ukphone": "[ˌʌndjuˈleɪʃn]"
+  },
+  {
+    "name": "unbundle",
+    "trans": [
+      "v. 对（不同产品、劳务）作分类交易，（将一揽子交易中各部分）分类定价"
+    ],
+    "usphone": "[,ʌn'bʌndl]",
+    "ukphone": "[ʌnˈbʌnd(ə)l]"
+  },
+  {
+    "name": "unsullied",
+    "trans": [
+      "adj. 清白的；无污点的"
+    ],
+    "usphone": "[ˌʌnˈsʌlid]",
+    "ukphone": "[ˌʌnˈsʌlid]"
+  },
+  {
+    "name": "ultraconservative",
+    "trans": [
+      "n. 极端保守主义者",
+      "adj. 极端保守主义的"
+    ],
+    "usphone": "[,ʌltrəkən'sə:vətiv]",
+    "ukphone": "[ˌəltrəkənˈsərvətɪv]"
+  },
+  {
+    "name": "unloved",
+    "trans": [
+      "adj. 不为人所爱的"
+    ],
+    "usphone": "[ˌʌnˈlʌvd]",
+    "ukphone": "[ˌʌnˈlʌvd]"
+  },
+  {
+    "name": "unman",
+    "trans": [
+      "vt. 使失去男子气质; 阉割; 使怯懦; 使气馁"
+    ],
+    "usphone": "[ʌnˈmæn]",
+    "ukphone": "[ʌnˈmæn]"
+  },
+  {
+    "name": "uncovered",
+    "trans": [
+      "v. 揭露（uncover的过去分词）；脱帽致敬；移去覆盖物",
+      "adj. 无覆盖物的；[保险] 未保险的；无盖的"
+    ],
+    "usphone": "[ʌnˈkʌvərd]",
+    "ukphone": "[ʌnˈkʌvəd]"
+  },
+  {
+    "name": "underdevelopment",
+    "trans": [
+      "n. 不发达；[摄] 显影不足"
+    ],
+    "usphone": "[ˌʌndərdɪˈveləpmənt]",
+    "ukphone": "[ˌʌndədɪˈveləpmənt]"
+  },
+  {
+    "name": "Unionism",
+    "trans": [
+      "n. 工会主义；联合主义；联邦主义"
+    ],
+    "usphone": "[ˈjuːniənɪzəm]",
+    "ukphone": "[ˈjuːniənɪzəm]"
+  },
+  {
+    "name": "Unionist",
+    "trans": [
+      "n. 工会会员；联合主义者"
+    ],
+    "usphone": "[ˈjuːniənɪst]",
+    "ukphone": "[ˈjuːniənɪst]"
+  },
+  {
+    "name": "ultramontane",
+    "trans": [
+      "n. 教皇绝对权力主义者，山外之人",
+      "adj. 山那边的"
+    ],
+    "usphone": "[ˌʌltrəˈmɑːnteɪn]",
+    "ukphone": "[ˌʌltrəmɒnˈteɪn]"
+  },
+  {
+    "name": "unisonous",
+    "trans": [
+      "a. 和谐的,协调的,[音]同度的"
+    ],
+    "usphone": "[jʊˈnɪsənəs]",
+    "ukphone": "[jʊˈnɪs(ə)nəs]"
+  },
+  {
+    "name": "usurious",
+    "trans": [
+      "adj. 高利贷的"
+    ],
+    "usphone": "[juːˈʒʊriəs]",
+    "ukphone": "[juːˈʒʊəriəs]"
+  },
+  {
+    "name": "unsavoury",
+    "trans": [
+      "adj. 难吃的；令人讨厌的"
+    ],
+    "usphone": "[ʌnˈseɪvəri]",
+    "ukphone": "[ʌnˈseɪvəri]"
+  },
+  {
+    "name": "upheave",
+    "trans": [
+      "v. 举起，推上去使上升，隆起"
+    ],
+    "usphone": "[ʌpˈhiːv]",
+    "ukphone": "[ʌpˈhiːv]"
+  },
+  {
+    "name": "undersize",
+    "trans": [
+      "n. 尺寸不足",
+      "adj. 不够大的；小于一般尺寸的"
+    ],
+    "usphone": "[ˈʌndərˌsaɪz]",
+    "ukphone": "[ˌʌndəˈsaɪz]"
+  },
+  {
+    "name": "udder",
+    "trans": [
+      "n. （牛、羊等的）乳房"
+    ],
+    "usphone": "[ˈʌdər]",
+    "ukphone": "[ˈʌdə(r)]"
+  },
+  {
+    "name": "Uranium",
+    "trans": [
+      "n. [化学] 铀"
+    ],
+    "usphone": "[juˈreɪniəm]",
+    "ukphone": "[juˈreɪniəm]"
+  },
+  {
+    "name": "U",
+    "trans": [
+      "n. 英语字母中的第二十一个字母；铀（化学元素）"
+    ],
+    "usphone": "[juː]",
+    "ukphone": "[juː]"
+  },
+  {
+    "name": "underexposure",
+    "trans": [
+      "n. 曝光不足"
+    ],
+    "usphone": "[ˌʌndərɪkˈspoʊʒər]",
+    "ukphone": "[ˌʌndərɪkˈspəʊʒə]"
+  },
+  {
+    "name": "undulating",
+    "trans": [
+      "adj. 波状的；波浪起伏的",
+      "v. 使波动（undulate的ing形式）；使成波浪形"
+    ],
+    "usphone": "[ˈʌndʒəleɪtɪŋ]",
+    "ukphone": "[ˈʌndjuleɪtɪŋ]"
+  },
+  {
+    "name": "untouchability",
+    "trans": [
+      "n. 不能触摸；远不可及；（印）贱民身份"
+    ],
+    "usphone": "[ˌʌntʌtʃəˈbɪləti]",
+    "ukphone": "[ˌʌntʌtʃəˈbɪləti]"
+  },
+  {
+    "name": "unharmed",
+    "trans": [
+      "adj. 无恙的；没有受伤的"
+    ],
+    "usphone": "[ʌnˈhɑːrmd]",
+    "ukphone": "[ʌnˈhɑːmd]"
+  },
+  {
+    "name": "unarguable",
+    "trans": [
+      "adj. [法] 无可争辩的；不可论证的"
+    ],
+    "usphone": "[ʌnˈɑːrɡjuəbl]",
+    "ukphone": "[ʌnˈɑːɡjuəbl]"
+  },
+  {
+    "name": "unroll",
+    "trans": [
+      "vt. 展开，铺开；显示",
+      "vi. 显露；展现"
+    ],
+    "usphone": "[ʌnˈroʊl]",
+    "ukphone": "[ʌnˈrəʊl]"
+  },
+  {
+    "name": "upbound",
+    "trans": [
+      "adj. 上水的"
+    ],
+    "usphone": "[ʌˈbaʊnd]",
+    "ukphone": "[ʌpˈbaʊnd]"
+  },
+  {
+    "name": "unintelligent",
+    "trans": [
+      "adj. 无知的；缺乏才智的"
+    ],
+    "usphone": "[ˌʌnɪnˈtelɪdʒənt]",
+    "ukphone": "[ˌʌnɪnˈtelɪdʒənt]"
+  },
+  {
+    "name": "unharmful",
+    "trans": [
+      "adj. 无害的，不致伤的"
+    ],
+    "usphone": "[ʌn'ha:mfəl]",
+    "ukphone": "[ʌnˈhɑːmfʊl; -f(ə)l]"
+  },
+  {
+    "name": "underfunding",
+    "trans": [
+      "vt. 对…提供的资金不足"
+    ],
+    "usphone": "[ˌʌndərˈfʌnd]",
+    "ukphone": "[ˌʌndəˈfʌnd]"
+  },
+  {
+    "name": "unbeknownst",
+    "trans": [
+      "adj. 不知的",
+      "adv. 不知地"
+    ],
+    "usphone": "[ˌʌnbɪˈnoʊnst]",
+    "ukphone": "[ˌʌnbɪˈnəʊnst]"
+  },
+  {
+    "name": "unhinged",
+    "trans": [
+      "adj. 精神错乱的"
+    ],
+    "usphone": "[ʌnˈhɪndʒd]",
+    "ukphone": "[ʌnˈhɪndʒd]"
+  },
+  {
+    "name": "unimpaired",
+    "trans": [
+      "adj. 未受损伤的；没有削弱的，未减少的"
+    ],
+    "usphone": "[ˌʌnɪmˈperd]",
+    "ukphone": "[ˌʌnɪmˈpeəd]"
+  },
+  {
+    "name": "unmentionable",
+    "trans": [
+      "adj. 不宜说出口的",
+      "n. 内衣；说不出口的事"
+    ],
+    "usphone": "[ʌnˈmenʃənəbl]",
+    "ukphone": "[ʌnˈmenʃənəbl]"
+  },
+  {
+    "name": "underfunded",
+    "trans": [
+      "adj. 资金不足的",
+      "v. 对…提供的资金不足（underfund的过去分词）"
+    ],
+    "usphone": "[ˌʌndərˈfʌndɪd]",
+    "ukphone": "[ˌʌndəˈfʌndɪd]"
+  },
+  {
+    "name": "unhook",
+    "trans": [
+      "vt. 解开；从钩上取下",
+      "vi. 把钩松开"
+    ],
+    "usphone": "[ʌnˈhʊk]",
+    "ukphone": "[ʌnˈhʊk]"
+  },
+  {
+    "name": "understandingly",
+    "trans": [
+      "adv. 领悟地；宽容地"
+    ],
+    "usphone": "[ˌʌndərˈstændɪŋli]",
+    "ukphone": "[ˌʌndəˈstændɪŋli]"
+  },
+  {
+    "name": "unchristian",
+    "trans": [
+      "adj. 不信奉基督教的；粗野的"
+    ],
+    "usphone": "[ˌʌnˈkrɪstʃən]",
+    "ukphone": "[ˌʌnˈkrɪstʃən]"
+  },
+  {
+    "name": "uh-uh",
+    "trans": [
+      "int. 哼"
+    ],
+    "usphone": "[ʌ ʌ]",
+    "ukphone": "[ˈʌ ʌ]"
+  },
+  {
+    "name": "uncomplaining",
+    "trans": [
+      "adj. 没有怨言的；忍受痛苦的；顺从的"
+    ],
+    "usphone": "[ˌʌnkəmˈpleɪnɪŋ]",
+    "ukphone": "[ˌʌnkəmˈpleɪnɪŋ]"
+  },
+  {
+    "name": "unmindful",
+    "trans": [
+      "adj. 漫不经心的；不留心的"
+    ],
+    "usphone": "[ʌnˈmaɪndfl]",
+    "ukphone": "[ʌnˈmaɪndfl]"
+  },
+  {
+    "name": "unseasonable",
+    "trans": [
+      "adj. 不合时宜的；不合季节的"
+    ],
+    "usphone": "[ʌnˈsiːznəbl]",
+    "ukphone": "[ʌnˈsiːznəbl]"
+  },
+  {
+    "name": "unshakeable",
+    "trans": [
+      "adj. 不可动摇的；坚定不移的"
+    ],
+    "usphone": "[ʌnˈʃeɪkəbl]",
+    "ukphone": "[ʌnˈʃeɪkəbəl]"
+  },
+  {
+    "name": "unstressed",
+    "trans": [
+      "adj. 无应力的；不强调的；不重读的"
+    ],
+    "usphone": "[ˌʌnˈstrest]",
+    "ukphone": "[ˌʌnˈstrest]"
+  },
+  {
+    "name": "upcountry",
+    "trans": [
+      "n. 内地",
+      "adj. 内地的",
+      "adv. 向内地"
+    ],
+    "usphone": "[ˌʌpˈkʌntri]",
+    "ukphone": "[ʌpˈkʌntri]"
+  },
+  {
+    "name": "upholder",
+    "trans": [
+      "n. 支撑物；支持者"
+    ],
+    "usphone": "[ʌpˈhoʊldər]",
+    "ukphone": "[ʌpˈhəʊldə(r)]"
+  },
+  {
+    "name": "unburdened",
+    "trans": [
+      "v. 卸去负荷( unburden的过去式和过去分词 ); 吐露心事，消除（思想、心灵上的）负担"
+    ],
+    "usphone": "['ʌn'bə:dnd]",
+    "ukphone": "[ʌnˈbɜːd(ə)nd]"
+  },
+  {
+    "name": "undernutrition",
+    "trans": [
+      "n. 营养不良"
+    ],
+    "usphone": "[ˌʌndənʊˈtrɪʃən; ˌʌndənjʊˈtrɪʃən]",
+    "ukphone": "[ˌʌndənjuːˈtrɪʃən]"
+  },
+  {
+    "name": "unemotional",
+    "trans": [
+      "adj. 不易动感情的；非感情的；无动于衷的"
+    ],
+    "usphone": "[ˌʌnɪˈmoʊʃənl]",
+    "ukphone": "[ˌʌnɪˈməʊʃənl]"
+  },
+  {
+    "name": "unmanly",
+    "trans": [
+      "adj. 怯懦的；无男子气概的；女子气的；娇气的"
+    ],
+    "usphone": "[ʌnˈmænli]",
+    "ukphone": "[ʌnˈmænli]"
+  },
+  {
+    "name": "uppity",
+    "trans": [
+      "adj. 傲慢的；自负的；不易控制的"
+    ],
+    "usphone": "[ˈʌpəti]",
+    "ukphone": "[ˈʌpəti]"
+  },
+  {
+    "name": "unitary",
+    "trans": [
+      "adj. 单一的；统一的；单位的"
+    ],
+    "usphone": "[ˈjuːnəteri]",
+    "ukphone": "[ˈjuːnətri]"
+  },
+  {
+    "name": "ululate",
+    "trans": [
+      "vi. 啼；悲泣；嚎叫"
+    ],
+    "usphone": "[ˈʌljuleɪtˌˈjuːljuleɪt]",
+    "ukphone": "[ˈʌljuleɪt; ˈjuːljuleɪt]"
+  },
+  {
+    "name": "underdress",
+    "trans": [
+      "vi. 穿得太单薄，穿着过分朴素的衣服",
+      "n. 内衣，裙子，内裙"
+    ],
+    "usphone": "[ˈʌndərˈdres]",
+    "ukphone": "[ˌʌndəˈdres]"
+  },
+  {
+    "name": "underpay",
+    "trans": [
+      "vt. 少付…工资；付给…不足额的工资"
+    ],
+    "usphone": "[ˌʌndərˈpeɪ]",
+    "ukphone": "[ˌʌndəˈpeɪ]"
+  },
+  {
+    "name": "undersecretary",
+    "trans": [
+      "n. 副部长；次长"
+    ],
+    "usphone": "[ˈʌndərsekrəteri]",
+    "ukphone": "[ˌʌndəˈsekrətri]"
+  },
+  {
+    "name": "underwork",
+    "trans": [
+      "n. 次要工作，秘密工作，下层结构; 根基",
+      "vt. 没充分发挥…的作用; 没充分发挥…的作用; 对…草率从事",
+      "vi. 少做工作"
+    ],
+    "usphone": "[ˌʌndəˈwɜːrk]",
+    "ukphone": "[ˈʌndəwɜːk]"
+  },
+  {
+    "name": "undefeated",
+    "trans": [
+      "adj. 未被击败的"
+    ],
+    "usphone": "[ˌʌndɪˈfiːtɪd]",
+    "ukphone": "[ˌʌndɪˈfiːtɪd]"
+  },
+  {
+    "name": "uh-oh",
+    "trans": [
+      "int. 噢喔（表示遇到难题或关注）"
+    ],
+    "usphone": "[ˈʌ oʊ]",
+    "ukphone": "[ˈʌ əʊ]"
+  },
+  {
+    "name": "unforgiving",
+    "trans": [
+      "adj. 不原谅人的；不宽恕人的"
+    ],
+    "usphone": "[ˌʌnfərˈɡɪvɪŋ]",
+    "ukphone": "[ˌʌnfəˈɡɪvɪŋ]"
+  },
+  {
+    "name": "uprooted",
+    "trans": [
+      "vt. 根除，连根拔起；迫使某人离开出生地或定居处",
+      "vi. 迁离；改变生活方式"
+    ],
+    "usphone": "[ˌʌpˈruːt]",
+    "ukphone": "[ˌʌpˈruːt]"
+  },
+  {
+    "name": "untrained",
+    "trans": [
+      "adj. 未经训练的"
+    ],
+    "usphone": "[ˌʌnˈtreɪnd]",
+    "ukphone": "[ˌʌnˈtreɪnd]"
+  },
+  {
+    "name": "uncontrollably",
+    "trans": [
+      "adv. 控制不住地"
+    ],
+    "usphone": "[ˌʌnkənˈtroʊləbli]",
+    "ukphone": "[ˌʌnkənˈtrəʊləbli]"
+  },
+  {
+    "name": "untitled",
+    "trans": [
+      "adj. 无称号的；无标题的；无权利的"
+    ],
+    "usphone": "[ʌnˈtaɪtld]",
+    "ukphone": "[ʌnˈtaɪtld]"
+  },
+  {
+    "name": "uncharacteristically",
+    "trans": [
+      "adv. 不典型地；非同寻常地"
+    ],
+    "usphone": "[ˌʌnˌkærəktəˈrɪstɪkli]",
+    "ukphone": "[ˌʌnˌkærəktəˈrɪstɪkli]"
+  },
+  {
+    "name": "urging",
+    "trans": [
+      "v. 说服，催促；激励，驱策；清除（urge的ing形式）"
+    ],
+    "usphone": "[ɜːrdʒɪŋ]",
+    "ukphone": "[ɜːdʒɪŋ]"
+  },
+  {
+    "name": "unraveled",
+    "trans": [
+      "vt. 解开；阐明；解决；拆散",
+      "vi. 解决；散开"
+    ],
+    "usphone": "[ʌnˈrævl]",
+    "ukphone": "[ʌnˈræv(ə)l]"
+  },
+  {
+    "name": "unopened",
+    "trans": [
+      "adj. 没有开的；未开放的；未启封的"
+    ],
+    "usphone": "[ʌnˈoʊpənd]",
+    "ukphone": "[ʌnˈəʊpənd]"
+  },
+  {
+    "name": "unwrapped",
+    "trans": [
+      "adj. 解缠的",
+      "v. 打开（unwrap的过去分词）"
+    ],
+    "usphone": "[ʌnˈræpt]",
+    "ukphone": "[ʌnˈræpt]"
+  },
+  {
+    "name": "un-american",
+    "trans": [
+      "反美的"
+    ],
+    "usphone": "[ˌʌn əˈmerɪkən]",
+    "ukphone": "[ˌʌn əˈmerɪkən]"
+  },
+  {
+    "name": "undertone",
+    "trans": [
+      "n. 低音；浅色；小声；潜在的含意"
+    ],
+    "usphone": "[ˈʌndərtoʊn]",
+    "ukphone": "[ˈʌndətəʊn]"
+  },
+  {
+    "name": "unholy",
+    "trans": [
+      "adj. 不神圣的；罪恶的；不适宜的"
+    ],
+    "usphone": "[ʌnˈhoʊli]",
+    "ukphone": "[ʌnˈhəʊli]"
+  },
+  {
+    "name": "U-turn",
+    "trans": [
+      "n. U形转弯；掉头；大转变",
+      "vi. 作U形转弯"
+    ],
+    "usphone": "[ˈjuː tɜːrn]",
+    "ukphone": "[ˈjuː tɜːn]"
+  },
+  {
+    "name": "unplugged",
+    "trans": [
+      "adj. 未使用电子扩音装置之乐器的；未堵塞的",
+      "v. 拨去…的塞子（unplug的过去式）；除去…的障碍物"
+    ],
+    "usphone": "[ˌʌnˈplʌɡd]",
+    "ukphone": "[ʌnˈplʌɡd]"
+  },
+  {
+    "name": "undemocratic",
+    "trans": [
+      "adj. 不民主的，非民主的"
+    ],
+    "usphone": "[ˌʌndeməˈkrætɪk]",
+    "ukphone": "[ˌʌndeməˈkrætɪk]"
+  },
+  {
+    "name": "unsweetened",
+    "trans": [
+      "adj. 未加糖的；不甜的"
+    ],
+    "usphone": "[ˌʌnˈswiːtnd]",
+    "ukphone": "[ˌʌnˈswiːtnd]"
+  },
+  {
+    "name": "unhappily",
+    "trans": [
+      "adv. 不幸地；遗憾地"
+    ],
+    "usphone": "[ʌnˈhæpɪli]",
+    "ukphone": "[ʌnˈhæpɪli]"
+  },
+  {
+    "name": "unrewarded",
+    "trans": [
+      "adj. 未获得报偿的；未获报答的"
+    ],
+    "usphone": "[ˌʌnrɪˈwɔːrdɪd]",
+    "ukphone": "[ˌʌnrɪˈwɔːdɪd]"
+  },
+  {
+    "name": "unrecorded",
+    "trans": [
+      "adj. 未记录下来的；未登记的"
+    ],
+    "usphone": "[ˌʌnrɪˈkɔːrdɪd]",
+    "ukphone": "[ˌʌnrɪˈkɔːdɪd]"
+  },
+  {
+    "name": "under-achievement",
+    "trans": [
+      " 低成就"
+    ],
+    "usphone": "[ˌʌndərəˈtʃiːvmənt]",
+    "ukphone": "[ˌʌndərəˈtʃiːvmənt]"
+  },
+  {
+    "name": "uncannily",
+    "trans": [
+      "adv. 惊异地；神秘地；不寻常地；危险地"
+    ],
+    "usphone": "[ʌnˈkænɪli]",
+    "ukphone": "[ʌnˈkænɪli]"
+  },
+  {
+    "name": "underlining",
+    "trans": [
+      "v. 在…下划线"
+    ],
+    "usphone": "[ˌʌndərˈlaɪnɪŋ]",
+    "ukphone": "[ˌʌndəˈlaɪnɪŋ]"
+  },
+  {
+    "name": "unhampered",
+    "trans": [
+      "adj. 无妨碍的，无阻碍的"
+    ],
+    "usphone": "[ənˈhampərd]",
+    "ukphone": "[ʌnˈhæmpəd]"
+  },
+  {
+    "name": "unmannerly",
+    "trans": [
+      "adj. 无礼貌的，撒野的，粗鲁的",
+      "adv. 没礼貌地，粗野地"
+    ],
+    "usphone": "[ʌnˈmænərli]",
+    "ukphone": "[ʌnˈmænəli]"
+  },
+  {
+    "name": "unsurpassable",
+    "trans": [
+      "adj. 无法超越的"
+    ],
+    "usphone": "[ˌʌnsərˈpæsəbl]",
+    "ukphone": "[ʌnsəˈpɑːsəb(ə)l]"
+  },
+  {
+    "name": "unflinchingly",
+    "trans": [
+      "adv. 不妥协地；不畏缩地"
+    ],
+    "usphone": "[ʌnˈflɪntʃɪŋli]",
+    "ukphone": "[ʌnˈflɪntʃɪŋli]"
+  },
+  {
+    "name": "ultralight",
+    "trans": [
+      "n. 超轻型飞机",
+      "adj. 超轻型的"
+    ],
+    "usphone": "[ˈʌltrəlaɪt]",
+    "ukphone": "[ˈʌltrəlaɪt]"
+  },
+  {
+    "name": "unlighted",
+    "trans": [
+      "adj. 未被点燃的；未被照亮的"
+    ],
+    "usphone": "[ʌnˈlaɪtɪd]",
+    "ukphone": "[ʌnˈlaɪtɪd]"
+  },
+  {
+    "name": "unconnected",
+    "trans": [
+      "adj. 不连接的；无关联的"
+    ],
+    "usphone": "[ˌʌnkəˈnektɪd]",
+    "ukphone": "[ˌʌnkəˈnektɪd]"
+  },
+  {
+    "name": "unfilled",
+    "trans": [
+      "adj. 空的；没有填充的"
+    ],
+    "usphone": "[ʌnˈfɪld]",
+    "ukphone": "[ʌnˈfɪld]"
+  },
+  {
+    "name": "unapt",
+    "trans": [
+      "adj. 不合适的"
+    ],
+    "usphone": "[ʌnˈæpt]",
+    "ukphone": "[ʌnˈæpt]"
+  },
+  {
+    "name": "unconcernedly",
+    "trans": [
+      "adv. 漠不关心地，无忧无虑地，不感兴趣地"
+    ],
+    "usphone": "[ˌʌnkənˈsɜːrnɪdli]",
+    "ukphone": "[ˌʌnkənˈsɜːnɪdli]"
+  },
+  {
+    "name": "ultranationalism",
+    "trans": [
+      "n. 极端民族主义，狭隘民族主义"
+    ],
+    "usphone": "[ˌʌltrəˈnæʃənəlˌɪzəm]",
+    "ukphone": "[ˌʌltrəˈnæʃnəˌlɪzəm]"
+  },
+  {
+    "name": "urbanologist",
+    "trans": [
+      "n. 都市问题专家，都市学家"
+    ],
+    "usphone": "[ɜːrbənˈɑlədʒɪst]",
+    "ukphone": "[ˌɜːbəˈnɒlədʒɪst]"
+  },
+  {
+    "name": "unfledged",
+    "trans": [
+      "adj. 羽毛未丰的；未充分发达的；未成熟的"
+    ],
+    "usphone": "[ʌnˈfledʒd]",
+    "ukphone": "[ʌnˈfledʒd]"
+  },
+  {
+    "name": "unmediated",
+    "trans": [
+      "adj. 无中介的；未经调停的"
+    ],
+    "usphone": "[ˌʌnˈmiːdieɪtɪd]",
+    "ukphone": "[ʌnˈmiːdɪeɪtɪd]"
+  },
+  {
+    "name": "undiminished",
+    "trans": [
+      "adj. 未衰减的；未缩减的；没削弱的；没有降低的"
+    ],
+    "usphone": "[ˌʌndɪˈmɪnɪʃt]",
+    "ukphone": "[ˌʌndɪˈmɪnɪʃt]"
+  },
+  {
+    "name": "unobservant",
+    "trans": [
+      "adj. 不注意的；不遵守的"
+    ],
+    "usphone": "['ʌnəb'zə:vənt]",
+    "ukphone": "[ʌnəbˈzɜːv(ə)nt]"
+  },
+  {
+    "name": "umami",
+    "trans": [
+      "n. 鲜味；甘味"
+    ],
+    "usphone": "[uːˈmɑːmi]",
+    "ukphone": "[uːˈmɑːmi]"
+  }
+]

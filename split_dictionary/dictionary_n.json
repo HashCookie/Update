@@ -1,0 +1,6918 @@
+[
+  {
+    "name": "nonhuman",
+    "trans": [
+      "adj. 非人类的"
+    ],
+    "usphone": "[ˌnɑːnˈhjuːmən]",
+    "ukphone": "[ˌnɒnˈhjuːmən]"
+  },
+  {
+    "name": "national",
+    "trans": [
+      "adj. 国家的；国民的；民族的；国立的",
+      "n. 国民"
+    ],
+    "usphone": "[ˈnæʃnəl]",
+    "ukphone": "[ˈnæʃ(ə)nəl]"
+  },
+  {
+    "name": "nationally",
+    "trans": [
+      "adv. 全国性地；以国民立场地；举国一致地"
+    ],
+    "usphone": "[ˈnæʃnəli]",
+    "ukphone": "[ˈnæʃnəli]"
+  },
+  {
+    "name": "nation",
+    "trans": [
+      "n. 国家；民族；国民"
+    ],
+    "usphone": "[ˈneɪʃn]",
+    "ukphone": "[ˈneɪʃ(ə)n]"
+  },
+  {
+    "name": "native",
+    "trans": [
+      "adj. 本国的；土著的；天然的；与生俱来的；天赋的",
+      "n. 本地人；土产；当地居民"
+    ],
+    "usphone": "[ˈneɪtɪv]",
+    "ukphone": "[ˈneɪtɪv]"
+  },
+  {
+    "name": "naive",
+    "trans": [
+      "adj. 天真的,幼稚的"
+    ],
+    "usphone": "[naɪˈiːv]",
+    "ukphone": "[naɪˈiːv]"
+  },
+  {
+    "name": "nature",
+    "trans": [
+      "n. 自然；性质；本性；种类"
+    ],
+    "usphone": "[ˈneɪtʃər]",
+    "ukphone": "[ˈneɪtʃə(r)]"
+  },
+  {
+    "name": "natural",
+    "trans": [
+      "adj. 自然的；物质的；天生的；不做作的",
+      "n. 自然的事情；白痴；本位音"
+    ],
+    "usphone": "[ˈnætʃrəl]",
+    "ukphone": "[ˈnætʃrəl]"
+  },
+  {
+    "name": "naturally",
+    "trans": [
+      "adv. 自然地",
+      "自然而然地",
+      "轻而易举",
+      "天生地",
+      "大方地"
+    ],
+    "usphone": "[ˈnætʃrəli]",
+    "ukphone": "[ˈnætʃ(ə)rəli]"
+  },
+  {
+    "name": "naturalization",
+    "trans": [
+      "n. 归化，移入；移植"
+    ],
+    "usphone": "[ˌnætʃrələˈzeɪʃn]",
+    "ukphone": "[ˌnætʃrəlaɪˈzeɪʃn]"
+  },
+  {
+    "name": "naturalist",
+    "trans": [
+      "n. 自然主义者；博物学者；（英）动物标本剥制者；买卖玩赏动物的商人",
+      "adj. 自然的（等于naturalistic）；自然主义的；博物学的"
+    ],
+    "usphone": "[ˈnætʃrəlɪst]",
+    "ukphone": "[ˈnætʃ(ə)rəlɪst]"
+  },
+  {
+    "name": "naturalistic",
+    "trans": [
+      "adj. 自然的；自然主义的；博物学的"
+    ],
+    "usphone": "[ˌnætʃrəˈlɪstɪk]",
+    "ukphone": "[ˌnætʃ(ə)rəˈlɪstɪk]"
+  },
+  {
+    "name": "network",
+    "trans": [
+      "n. 网络；广播网；网状物"
+    ],
+    "usphone": "[ˈnetwɜːrk]",
+    "ukphone": "[ˈnetwɜːk]"
+  },
+  {
+    "name": "net",
+    "trans": [
+      "n. 网；网络；净利；实价",
+      "vi. 编网",
+      "vt. 得到；净赚；用网捕",
+      "adj. 纯粹的；净余的"
+    ],
+    "usphone": "[net]",
+    "ukphone": "[net]"
+  },
+  {
+    "name": "note",
+    "trans": [
+      "n. 笔记；音符；票据；注解；纸币；便笺；照会；调子",
+      "vt. 注意；记录；注解"
+    ],
+    "usphone": "[noʊt]",
+    "ukphone": "[nəʊt]"
+  },
+  {
+    "name": "notice",
+    "trans": [
+      "n. 通知，布告；注意；公告",
+      "vt. 通知；注意到；留心",
+      "vi. 引起注意"
+    ],
+    "usphone": "[ˈnoʊtɪs]",
+    "ukphone": "[ˈnəʊtɪs]"
+  },
+  {
+    "name": "notion",
+    "trans": [
+      "n. 概念；见解；打算"
+    ],
+    "usphone": "[ˈnoʊʃn]",
+    "ukphone": "[ˈnəʊʃn]"
+  },
+  {
+    "name": "notably",
+    "trans": [
+      "adv. 显著地；尤其"
+    ],
+    "usphone": "[ˈnoʊtəbli]",
+    "ukphone": "[ˈnəʊtəbli]"
+  },
+  {
+    "name": "notorious",
+    "trans": [
+      "adj. 声名狼藉的，臭名昭著的"
+    ],
+    "usphone": "[noʊˈtɔːriəs]",
+    "ukphone": "[nəʊˈtɔːriəs]"
+  },
+  {
+    "name": "nonsense",
+    "trans": [
+      "n. 胡说；废话",
+      "adj. 荒谬的",
+      "int. 胡说！"
+    ],
+    "usphone": "[ˈnɑːnsens; ˈnɑːnsns]",
+    "ukphone": "[ˈnɒns(ə)ns]"
+  },
+  {
+    "name": "necessary",
+    "trans": [
+      "adj. 必要的；必需的；必然的",
+      "n. 必需品"
+    ],
+    "usphone": "[ˈnesəseri]",
+    "ukphone": "[ˈnesəsəri]"
+  },
+  {
+    "name": "necessarily",
+    "trans": [
+      "adv. 必要地；必定地，必然地"
+    ],
+    "usphone": "[ˌnesəˈserəli]",
+    "ukphone": "[ˌnesəˈserəli; ˈnesəsərəli]"
+  },
+  {
+    "name": "necessity",
+    "trans": [
+      "n. 需要；必然性；必需品"
+    ],
+    "usphone": "[nəˈsesəti]",
+    "ukphone": "[nəˈsesəti]"
+  },
+  {
+    "name": "necessitate",
+    "trans": [
+      "vt. 使成为必需，需要；迫使"
+    ],
+    "usphone": "[nəˈsesɪteɪt]",
+    "ukphone": "[nəˈsesɪteɪt]"
+  },
+  {
+    "name": "nearly",
+    "trans": [
+      "adv. 差不多，几乎；密切地"
+    ],
+    "usphone": "[ˈnɪrli]",
+    "ukphone": "[ˈnɪəli]"
+  },
+  {
+    "name": "near",
+    "trans": [
+      "adj. 近的；亲近的；近似的",
+      "adv. 近；接近",
+      "prep. 靠近；近似于"
+    ],
+    "usphone": "[nɪr]",
+    "ukphone": "[nɪə(r)]"
+  },
+  {
+    "name": "nearby",
+    "trans": [
+      "adj. 附近的，邻近的",
+      "adv. 在附近",
+      "prep. 在…附近"
+    ],
+    "usphone": "[ˌnɪrˈbaɪ]",
+    "ukphone": "[ˌnɪəˈbaɪ]"
+  },
+  {
+    "name": "neighborhood",
+    "trans": [
+      "n. 附近；街坊；接近；街区"
+    ],
+    "usphone": "[ˈneɪbərhʊd]",
+    "ukphone": "[ˈneɪbəhʊd]"
+  },
+  {
+    "name": "neighbourhood",
+    "trans": [
+      "n. 邻近；周围；邻居关系；附近一带"
+    ],
+    "usphone": "[ˈneɪbərhʊd]",
+    "ukphone": "[ˈneɪbəhʊd]"
+  },
+  {
+    "name": "negative",
+    "trans": [
+      "adj. [数] 负的；消极的；否定的；阴性的",
+      "n. 否定；负数；[摄] 底片",
+      "vt. 否定；拒绝"
+    ],
+    "usphone": "[ˈneɡətɪv]",
+    "ukphone": "[ˈneɡətɪv]"
+  },
+  {
+    "name": "neglect",
+    "trans": [
+      "vt. 疏忽，忽视；忽略",
+      "n. 疏忽，忽视；怠慢"
+    ],
+    "usphone": "[nɪˈɡlekt]",
+    "ukphone": "[nɪˈɡlekt]"
+  },
+  {
+    "name": "negotiate",
+    "trans": [
+      "vt. 谈判，商议；转让；越过",
+      "vi. 谈判，交涉"
+    ],
+    "usphone": "[nɪˈɡoʊʃieɪt]",
+    "ukphone": "[nɪˈɡəʊʃieɪt]"
+  },
+  {
+    "name": "negotiation",
+    "trans": [
+      "n. 谈判；转让；顺利的通过"
+    ],
+    "usphone": "[nɪˌɡoʊʃiˈeɪʃn]",
+    "ukphone": "[nɪˌɡəʊʃiˈeɪʃn]"
+  },
+  {
+    "name": "narrative",
+    "trans": [
+      "n. 叙述；故事；讲述",
+      "adj. 叙事的，叙述的；叙事体的"
+    ],
+    "usphone": "[ˈnærətɪv]",
+    "ukphone": "[ˈnærətɪv]"
+  },
+  {
+    "name": "nevertheless",
+    "trans": [
+      "adv. 然而，不过；虽然如此",
+      "conj. 然而，不过"
+    ],
+    "usphone": "[ˌnevərðəˈles]",
+    "ukphone": "[ˌnevəðəˈles]"
+  },
+  {
+    "name": "nonetheless",
+    "trans": [
+      "adv. 尽管如此，但是"
+    ],
+    "usphone": "[ˌnʌnðəˈles]",
+    "ukphone": "[ˌnʌnðəˈles]"
+  },
+  {
+    "name": "novel",
+    "trans": [
+      "adj. 新奇的；异常的",
+      "n. 小说"
+    ],
+    "usphone": "[ˈnɑːvl]",
+    "ukphone": "[ˈnɒv(ə)l]"
+  },
+  {
+    "name": "novelist",
+    "trans": [
+      "n. 小说家"
+    ],
+    "usphone": "[ˈnɑːvəlɪst]",
+    "ukphone": "[ˈnɒvəlɪst]"
+  },
+  {
+    "name": "novelty",
+    "trans": [
+      "n. 新奇；新奇的事物；新颖小巧而廉价的物品"
+    ],
+    "usphone": "[ˈnɑːvlti]",
+    "ukphone": "[ˈnɒv(ə)lti]"
+  },
+  {
+    "name": "nasty",
+    "trans": [
+      "adj. 下流的；肮脏的；脾气不好的；险恶的",
+      "n. 令人不快的事物",
+      "性的吸引力"
+    ],
+    "usphone": "[ˈnæsti]",
+    "ukphone": "[ˈnɑːsti]"
+  },
+  {
+    "name": "normal",
+    "trans": [
+      "adj. 正常的；正规的，标准的",
+      "n. 正常；标准；常态"
+    ],
+    "usphone": "[ˈnɔːrml]",
+    "ukphone": "[ˈnɔːm(ə)l]"
+  },
+  {
+    "name": "norm",
+    "trans": [
+      "n. 标准，规范"
+    ],
+    "usphone": "[nɔːrm]",
+    "ukphone": "[nɔːm]"
+  },
+  {
+    "name": "nuclear",
+    "trans": [
+      "adj. 原子能的；[细胞] 细胞核的；中心的；原子核的"
+    ],
+    "usphone": "[ˈnuːkliər]",
+    "ukphone": "[ˈnjuːkliə(r)]"
+  },
+  {
+    "name": "nudge",
+    "trans": [
+      "n. 推动；用肘轻推；没完没了抱怨的人",
+      "vt. 推进；用肘轻推；向…不停地唠叨",
+      "vi. 轻推；推进；唠叨"
+    ],
+    "usphone": "[nʌdʒ]",
+    "ukphone": "[nʌdʒ]"
+  },
+  {
+    "name": "nuisance",
+    "trans": [
+      "n. 讨厌的人；损害；麻烦事；讨厌的东西"
+    ],
+    "usphone": "[ˈnuːsns]",
+    "ukphone": "[ˈnjuːsns]"
+  },
+  {
+    "name": "navy",
+    "trans": [
+      "n. 海军",
+      "深蓝色的"
+    ],
+    "usphone": "[ˈneɪvi]",
+    "ukphone": "[ˈneɪvi]"
+  },
+  {
+    "name": "naval",
+    "trans": [
+      "adj. 海军的；军舰的"
+    ],
+    "usphone": "[ˈneɪvl]",
+    "ukphone": "[ˈneɪv(ə)l]"
+  },
+  {
+    "name": "nonverbal",
+    "trans": [
+      "adj. 不用语言的；不用动词的"
+    ],
+    "usphone": "[ˌnɑːnˈvɜːrbl]",
+    "ukphone": "[nɒnˈvɜːbəl]"
+  },
+  {
+    "name": "navigate",
+    "trans": [
+      "vt. 驾驶，操纵；使通过；航行于",
+      "vi. 航行，航空"
+    ],
+    "usphone": "[ˈnævɪɡeɪt]",
+    "ukphone": "[ˈnævɪɡeɪt]"
+  },
+  {
+    "name": "navigation",
+    "trans": [
+      "n. 航行；航海"
+    ],
+    "usphone": "[ˌnævɪˈɡeɪʃn]",
+    "ukphone": "[ˌnævɪˈɡeɪʃn]"
+  },
+  {
+    "name": "nutrition",
+    "trans": [
+      "n. 营养，营养学；营养品"
+    ],
+    "usphone": "[nuˈtrɪʃn]",
+    "ukphone": "[njuˈtrɪʃ(ə)n]"
+  },
+  {
+    "name": "nurture",
+    "trans": [
+      "vt. 养育；鼓励；培植",
+      "n. 养育；教养；营养物"
+    ],
+    "usphone": "[ˈnɜːrtʃər]",
+    "ukphone": "[ˈnɜːtʃə(r)]"
+  },
+  {
+    "name": "nursery",
+    "trans": [
+      "n. 苗圃；托儿所；温床"
+    ],
+    "usphone": "[ˈnɜːrsəri]",
+    "ukphone": "[ˈnɜːsəri]"
+  },
+  {
+    "name": "numerical",
+    "trans": [
+      "adj. 数值的；数字的；用数字表示的（等于numeric）"
+    ],
+    "usphone": "[nuːˈmerɪkl]",
+    "ukphone": "[njuːˈmerɪk(ə)l]"
+  },
+  {
+    "name": "numerous",
+    "trans": [
+      "adj. 许多的，很多的"
+    ],
+    "usphone": "[ˈnuːmərəs]",
+    "ukphone": "[ˈnjuːmərəs]"
+  },
+  {
+    "name": "new",
+    "trans": [
+      "adj. 新的，新鲜的；更新的；初见的",
+      "adv. 新近"
+    ],
+    "usphone": "[nuː]",
+    "ukphone": "[njuː]"
+  },
+  {
+    "name": "neutral",
+    "trans": [
+      "adj. 中立的，中性的；中立国的；非彩色的",
+      "n. 中立国；中立者；非彩色；齿轮的空档"
+    ],
+    "usphone": "[ˈnuːtrəl]",
+    "ukphone": "[ˈnjuːtrəl]"
+  },
+  {
+    "name": "nerve",
+    "trans": [
+      "n. 神经；勇气；[植] 叶脉",
+      "vt. 鼓起勇气"
+    ],
+    "usphone": "[nɜːrv]",
+    "ukphone": "[nɜːv]"
+  },
+  {
+    "name": "nervous",
+    "trans": [
+      "adj. 神经的；紧张不安的；强健有力的"
+    ],
+    "usphone": "[ˈnɜːrvəs]",
+    "ukphone": "[ˈnɜːvəs]"
+  },
+  {
+    "name": "nightmare",
+    "trans": [
+      "n. 恶梦；梦魇般的经历",
+      "adj. 可怕的；噩梦似的"
+    ],
+    "usphone": "[ˈnaɪtmer]",
+    "ukphone": "[ˈnaɪtmeə(r)]"
+  },
+  {
+    "name": "napkin",
+    "trans": [
+      "n. 餐巾；餐巾纸；尿布"
+    ],
+    "usphone": "[ˈnæpkɪn]",
+    "ukphone": "[ˈnæpkɪn]"
+  },
+  {
+    "name": "nationality",
+    "trans": [
+      "n. 国籍，国家；民族；部落"
+    ],
+    "usphone": "[ˌnæʃəˈnæləti]",
+    "ukphone": "[ˌnæʃəˈnæləti]"
+  },
+  {
+    "name": "naughty",
+    "trans": [
+      "adj. 顽皮的，淘气的；不听话的；没规矩的；不适当的；下流的"
+    ],
+    "usphone": "[ˈnɔːti]",
+    "ukphone": "[ˈnɔːti]"
+  },
+  {
+    "name": "negligible",
+    "trans": [
+      "adj. 微不足道的，可以忽略的"
+    ],
+    "usphone": "[ˈneɡlɪdʒəbl]",
+    "ukphone": "[ˈneɡlɪdʒəb(ə)l]"
+  },
+  {
+    "name": "nickel",
+    "trans": [
+      "n. 镍；镍币；五分镍币",
+      "vt. 镀镍于"
+    ],
+    "usphone": "[ˈnɪk(ə)l]",
+    "ukphone": "[ˈnɪk(ə)l]"
+  },
+  {
+    "name": "nitrogen",
+    "trans": [
+      "n. [化学] 氮"
+    ],
+    "usphone": "[ˈnaɪtrədʒən]",
+    "ukphone": "[ˈnaɪtrədʒən]"
+  },
+  {
+    "name": "noisy",
+    "trans": [
+      "adj. .嘈杂的；喧闹的；聒噪的"
+    ],
+    "usphone": "[ˈnɔɪzi]",
+    "ukphone": "[ˈnɔɪzi]"
+  },
+  {
+    "name": "nominal",
+    "trans": [
+      "adj. 名义上的；有名无实的；[会计] 票面上的",
+      "n. [语] 名词性词"
+    ],
+    "usphone": "[ˈnɑːmɪnl]",
+    "ukphone": "[ˈnɒmɪn(ə)l]"
+  },
+  {
+    "name": "nominate",
+    "trans": [
+      "vt. 推荐；提名；任命；指定"
+    ],
+    "usphone": "[ˈnɑːmɪneɪt]",
+    "ukphone": "[ˈnɒmɪneɪt]"
+  },
+  {
+    "name": "normalization",
+    "trans": [
+      "n. 正常化；标准化；正规化；常态化"
+    ],
+    "usphone": "[ˌnɔːrmələˈzeɪʃn]",
+    "ukphone": "[ˌnɔːməlaɪˈzeɪʃn]"
+  },
+  {
+    "name": "notable",
+    "trans": [
+      "adj. 值得注意的，显著的；著名的",
+      "n. 名人，显要人物"
+    ],
+    "usphone": "[ˈnoʊtəbl]",
+    "ukphone": "[ˈnəʊtəbl]"
+  },
+  {
+    "name": "notebook",
+    "trans": [
+      "n. 笔记本，笔记簿；手册"
+    ],
+    "usphone": "[ˈnoʊtbʊk]",
+    "ukphone": "[ˈnəʊtbʊk]"
+  },
+  {
+    "name": "noticeable",
+    "trans": [
+      "adj. 显而易见的，显著的；值得注意的"
+    ],
+    "usphone": "[ˈnoʊtɪsəbl]",
+    "ukphone": "[ˈnəʊtɪsəbl]"
+  },
+  {
+    "name": "notify",
+    "trans": [
+      "vt. 通告，通知；公布"
+    ],
+    "usphone": "[ˈnoʊtɪfaɪ]",
+    "ukphone": "[ˈnəʊtɪfaɪ]"
+  },
+  {
+    "name": "notwithstanding",
+    "trans": [
+      "adv. 尽管，仍然",
+      "prep. 尽管，虽然",
+      "conj. 虽然"
+    ],
+    "usphone": "[ˌnɑːtwɪθˈstændɪŋˌˌnɑːtwɪðˈstændɪŋ]",
+    "ukphone": "[ˌnɒtwɪθˈstændɪŋ; ˌnɒtwɪðˈstændɪŋ]"
+  },
+  {
+    "name": "nourish",
+    "trans": [
+      "vt. 滋养；怀有；使健壮"
+    ],
+    "usphone": "[ˈnɜːrɪʃ]",
+    "ukphone": "[ˈnʌrɪʃ]"
+  },
+  {
+    "name": "nucleus",
+    "trans": [
+      "n. 核，核心；原子核"
+    ],
+    "usphone": "[ˈnuːkliəs]",
+    "ukphone": "[ˈnjuːkliəs]"
+  },
+  {
+    "name": "numb",
+    "trans": [
+      "vt. 使麻木；使发愣；使失去感觉",
+      "adj. 麻木的；发愣的"
+    ],
+    "usphone": "[nʌm]",
+    "ukphone": "[nʌm]"
+  },
+  {
+    "name": "nurse",
+    "trans": [
+      "vt. 看护，护理；照顾；培养；给…喂奶",
+      "vi. 照料，护理；喂奶；当保姆",
+      "n. 护士；奶妈，保姆"
+    ],
+    "usphone": "[nɜːrs]",
+    "ukphone": "[nɜːs]"
+  },
+  {
+    "name": "nylon",
+    "trans": [
+      "n. 尼龙，[纺] 聚酰胺纤维；尼龙袜"
+    ],
+    "usphone": "[ˈnaɪlɑːn]",
+    "ukphone": "[ˈnaɪlɒn]"
+  },
+  {
+    "name": "nail",
+    "trans": [
+      "vt. 钉；使固定；揭露",
+      "n. [解剖] 指甲；钉子"
+    ],
+    "usphone": "[neɪl]",
+    "ukphone": "[neɪl]"
+  },
+  {
+    "name": "naked",
+    "trans": [
+      "adj. 裸体的；无装饰的；无证据的；直率的"
+    ],
+    "usphone": "[ˈneɪkɪd]",
+    "ukphone": "[ˈneɪkɪd]"
+  },
+  {
+    "name": "name",
+    "trans": [
+      "n. 名称，名字；姓名；名誉",
+      "vt. 命名，任命；指定；称呼；提名；叫出",
+      "adj. 姓名的；据以取名的"
+    ],
+    "usphone": "[neɪm]",
+    "ukphone": "[neɪm]"
+  },
+  {
+    "name": "namely",
+    "trans": [
+      "adv. 也就是；即是；换句话说"
+    ],
+    "usphone": "[ˈneɪmli]",
+    "ukphone": "[ˈneɪmli]"
+  },
+  {
+    "name": "nap",
+    "trans": [
+      "n. 小睡，打盹儿；细毛；孤注一掷",
+      "vt. 使拉毛",
+      "vi. 小睡；疏忽"
+    ],
+    "usphone": "[næp]",
+    "ukphone": "[næp]"
+  },
+  {
+    "name": "narrow",
+    "trans": [
+      "adj. 狭窄的，有限的；勉强的；精密的；度量小的",
+      "n. 海峡；狭窄部分，隘路",
+      "vt. 使变狭窄",
+      "vi. 变窄"
+    ],
+    "usphone": "[ˈnæroʊ]",
+    "ukphone": "[ˈnærəʊ]"
+  },
+  {
+    "name": "neat",
+    "trans": [
+      "adj. 灵巧的；整洁的；优雅的；齐整的；未搀水的；平滑的"
+    ],
+    "usphone": "[niːt]",
+    "ukphone": "[niːt]"
+  },
+  {
+    "name": "neck",
+    "trans": [
+      "n. 脖子；衣领；海峡",
+      "vi. 搂著脖子亲吻；变狭窄",
+      "vt. 使变细；与…搂著脖子亲吻"
+    ],
+    "usphone": "[nek]",
+    "ukphone": "[nek]"
+  },
+  {
+    "name": "necklace",
+    "trans": [
+      "n. 项链"
+    ],
+    "usphone": "[ˈnekləs]",
+    "ukphone": "[ˈnekləs]"
+  },
+  {
+    "name": "need",
+    "trans": [
+      "n. 需要，要求；缺乏；必要之物",
+      "vt. 需要",
+      "vi. 需要"
+    ],
+    "usphone": "[niːd]",
+    "ukphone": "[niːd]"
+  },
+  {
+    "name": "needle",
+    "trans": [
+      "n. 针；指针；刺激；针状物",
+      "vi. 缝纫；做针线",
+      "vt. 刺激；用针缝"
+    ],
+    "usphone": "[ˈniːdl]",
+    "ukphone": "[ˈniːdl]"
+  },
+  {
+    "name": "neighbor",
+    "trans": [
+      "n. 邻居",
+      "adj. 邻近的",
+      "vi. 友好；毗邻而居",
+      "vt. 邻接"
+    ],
+    "usphone": "[ˈneɪbər]",
+    "ukphone": "['neɪbə]"
+  },
+  {
+    "name": "neighbour",
+    "trans": [
+      "n. n. 邻居;同胞；仁慈的人",
+      "vt. 邻接",
+      "vi. 住在邻近；毗邻；友善，和睦",
+      "adj. 邻居的；邻近的"
+    ],
+    "usphone": "[ˈneɪbər]",
+    "ukphone": "[ˈneɪbə(r)]"
+  },
+  {
+    "name": "neither",
+    "trans": [
+      "conj. 也不；既不",
+      "adv. 两个都不；既不……也不",
+      "adj. 两者都不的",
+      "pron. 两者都不"
+    ],
+    "usphone": "[ˈniːðər; ˈnaɪðər]",
+    "ukphone": "[ˈnaɪðə(r)]"
+  },
+  {
+    "name": "nephew",
+    "trans": [
+      "n. 侄子；外甥"
+    ],
+    "usphone": "[ˈnefjuː; ˈnevjuː]",
+    "ukphone": "[ˈnefjuː]"
+  },
+  {
+    "name": "nest",
+    "trans": [
+      "n. 巢，窝；安乐窝；温床",
+      "vt. 筑巢；嵌套",
+      "vi. 筑巢；找鸟巢"
+    ],
+    "usphone": "[nest]",
+    "ukphone": "[nest]"
+  },
+  {
+    "name": "never",
+    "trans": [
+      "adv. 从未；决不"
+    ],
+    "usphone": "[ˈnevər]",
+    "ukphone": "[ˈnevə(r)]"
+  },
+  {
+    "name": "news",
+    "trans": [
+      "n. 新闻，消息；新闻报导"
+    ],
+    "usphone": "[nuːz]",
+    "ukphone": "[njuːz]"
+  },
+  {
+    "name": "newspaper",
+    "trans": [
+      "n. 报纸",
+      "报社",
+      "旧报纸"
+    ],
+    "usphone": "[ˈnuːzpeɪpər]",
+    "ukphone": "[ˈnjuːzpeɪpə(r)]"
+  },
+  {
+    "name": "next",
+    "trans": [
+      "adv. 然后；下次；其次",
+      "adj. 下一个的；其次的；贴近的",
+      "n. 下一个",
+      "prep. 靠近；居于…之后"
+    ],
+    "usphone": "[nekst]",
+    "ukphone": "[nekst]"
+  },
+  {
+    "name": "nice",
+    "trans": [
+      "adj. 精密的；美好的；细微的；和蔼的"
+    ],
+    "usphone": "[naɪs]",
+    "ukphone": "[naɪs]"
+  },
+  {
+    "name": "nickname",
+    "trans": [
+      "n. 绰号；昵称",
+      "vt. 给……取绰号；叫错名字"
+    ],
+    "usphone": "[ˈnɪkneɪm]",
+    "ukphone": "[ˈnɪkneɪm]"
+  },
+  {
+    "name": "niece",
+    "trans": [
+      "n. 外甥女，侄女"
+    ],
+    "usphone": "[niːs]",
+    "ukphone": "[niːs]"
+  },
+  {
+    "name": "night",
+    "trans": [
+      "n. 夜晚，晚上；黑暗，黑夜",
+      "adj. 夜晚的，夜间的"
+    ],
+    "usphone": "[naɪt]",
+    "ukphone": "[naɪt]"
+  },
+  {
+    "name": "nine",
+    "trans": [
+      "n. 九，九个",
+      "num. 九；九个",
+      "adj. 九的，九个的"
+    ],
+    "usphone": "[naɪn]",
+    "ukphone": "[naɪn]"
+  },
+  {
+    "name": "nineteen",
+    "trans": [
+      "num. 十九"
+    ],
+    "usphone": "[ˌnaɪnˈtiːn]",
+    "ukphone": "[ˌnaɪnˈtiːn]"
+  },
+  {
+    "name": "ninety",
+    "trans": [
+      "n. 九十",
+      "adj. 九十的；九十岁的",
+      "num. 九十"
+    ],
+    "usphone": "[ˈnaɪnti]",
+    "ukphone": "[ˈnaɪnti]"
+  },
+  {
+    "name": "no",
+    "trans": [
+      "adv. 不",
+      "adj. 没有；不是",
+      "n. 不；否决票",
+      "abbr. 数字（number）；元素锘（nobelium）的符号"
+    ],
+    "usphone": "[noʊ]",
+    "ukphone": "[nəʊ]"
+  },
+  {
+    "name": "noble",
+    "trans": [
+      "adj. 高尚的；贵族的；惰性的；宏伟的",
+      "n. 贵族",
+      "vt. 抓住；逮捕"
+    ],
+    "usphone": "[ˈnoʊbl]",
+    "ukphone": "[ˈnəʊbl]"
+  },
+  {
+    "name": "nobody",
+    "trans": [
+      "pron. 无人，没有人；没有任何人",
+      "n. 无名小卒；小人物"
+    ],
+    "usphone": "[ˈnoʊbədi]",
+    "ukphone": "[ˈnəʊbədi]"
+  },
+  {
+    "name": "nod",
+    "trans": [
+      "n. 点头；打盹；摆动",
+      "vt. 点头；点头表示",
+      "vi. 点头；打盹；摆动"
+    ],
+    "usphone": "[nɑːd]",
+    "ukphone": "[nɒd]"
+  },
+  {
+    "name": "noise",
+    "trans": [
+      "n. [环境] 噪音；响声；杂音",
+      "vt. 谣传",
+      "vi. 发出声音；大声议论"
+    ],
+    "usphone": "[nɔɪz]",
+    "ukphone": "[nɔɪz]"
+  },
+  {
+    "name": "none",
+    "trans": [
+      "pron. 没有人；一个也没有；没有任何东西",
+      "adj. 没有的，一点没有的",
+      "adv. 决不，一点也不"
+    ],
+    "usphone": "[nʌn]",
+    "ukphone": "[nʌn]"
+  },
+  {
+    "name": "noodle",
+    "trans": [
+      "n. 面条；笨蛋"
+    ],
+    "usphone": "[ˈnuːd(ə)l]",
+    "ukphone": "[ˈnuːd(ə)l]"
+  },
+  {
+    "name": "noon",
+    "trans": [
+      "n. 中午；正午；全盛期"
+    ],
+    "usphone": "[nuːn]",
+    "ukphone": "[nuːn]"
+  },
+  {
+    "name": "nor",
+    "trans": [
+      "conj. 也不；也不是",
+      "adv. 也不；也没有"
+    ],
+    "usphone": "[nɔːr]",
+    "ukphone": "[nɔː(r)]"
+  },
+  {
+    "name": "north",
+    "trans": [
+      "n. 北，北方",
+      "adj. 北方的；朝北的",
+      "adv. 在北方，向北方"
+    ],
+    "usphone": "[nɔːrθ]",
+    "ukphone": "[nɔːθ]"
+  },
+  {
+    "name": "northeast",
+    "trans": [
+      "adj. 东北的；向东北的；来自东北的",
+      "n. 东北",
+      "adv. 向东北；来自东北"
+    ],
+    "usphone": "[ˌnɔːrθˈiːst]",
+    "ukphone": "[ˌnɔːθˈiːst]"
+  },
+  {
+    "name": "northern",
+    "trans": [
+      "adj. 北部的；北方的",
+      "n. 北部方言"
+    ],
+    "usphone": "[ˈnɔːrðərn]",
+    "ukphone": "[ˈnɔːðən]"
+  },
+  {
+    "name": "northwest",
+    "trans": [
+      "adj. 西北的；向西北的；来自西北的",
+      "n. 西北",
+      "adv. 在西北；向西北；来自西北"
+    ],
+    "usphone": "[ˌnɔːrθˈwest]",
+    "ukphone": "[,nɔ:θ'west]"
+  },
+  {
+    "name": "nose",
+    "trans": [
+      "n. 鼻子；嗅觉；突出的部分；探问",
+      "vt. 嗅；用鼻子触",
+      "vi. 小心探索着前进；探问"
+    ],
+    "usphone": "[noʊz]",
+    "ukphone": "[nəʊz]"
+  },
+  {
+    "name": "not",
+    "trans": [
+      "adv. 表示否定，不",
+      "n. “非”（计算机中逻辑运算的一种）"
+    ],
+    "usphone": "[nɑːt]",
+    "ukphone": "[nɒt]"
+  },
+  {
+    "name": "nothing",
+    "trans": [
+      "neg. 没什么；毫不",
+      "n. 无；零；不关紧要之事",
+      "adv. 毫不；决不",
+      "pron. 无事；无物",
+      "int. 什么也没有"
+    ],
+    "usphone": "[ˈnʌθɪŋ]",
+    "ukphone": "[ˈnʌθɪŋ]"
+  },
+  {
+    "name": "noun",
+    "trans": [
+      "n. 名词"
+    ],
+    "usphone": "[naʊn]",
+    "ukphone": "[naʊn]"
+  },
+  {
+    "name": "November",
+    "trans": [
+      "n. 十一月"
+    ],
+    "usphone": "[noʊˈvembər]",
+    "ukphone": "[nəʊˈvembə(r)]"
+  },
+  {
+    "name": "now",
+    "trans": [
+      "adv. 现在；如今；立刻",
+      "adj. 现在的",
+      "n. 现在；目前",
+      "conj. 由于；既然"
+    ],
+    "usphone": "[naʊ]",
+    "ukphone": "[naʊ]"
+  },
+  {
+    "name": "nowadays",
+    "trans": [
+      "adv. 现今；时下",
+      "n. 当今"
+    ],
+    "usphone": "[ˈnaʊədeɪz]",
+    "ukphone": "[ˈnaʊədeɪz]"
+  },
+  {
+    "name": "number",
+    "trans": [
+      "n. 数；（杂志等的）期；号码；数字；算术",
+      "vi. 计入；总数达到",
+      "vt. 编号；计入；数…的数目；使为数有限"
+    ],
+    "usphone": "[ˈnʌmbər]",
+    "ukphone": "[ˈnʌmbə(r)]"
+  },
+  {
+    "name": "nut",
+    "trans": [
+      "n. 螺母，螺帽；坚果；难对付的人，难解的问题",
+      "vi. 采坚果"
+    ],
+    "usphone": "[nʌt]",
+    "ukphone": "[nʌt]"
+  },
+  {
+    "name": "Nepal",
+    "trans": [
+      "n. 尼泊尔（亚洲国家）"
+    ],
+    "usphone": "[nəˈpɔːl]",
+    "ukphone": "[nəˈpɔːl]"
+  },
+  {
+    "name": "nasal",
+    "trans": [
+      "adj. 鼻的；鼻音的",
+      "n. 鼻骨；鼻音；鼻音字"
+    ],
+    "usphone": "[ˈneɪzl]",
+    "ukphone": "[ˈneɪzl]"
+  },
+  {
+    "name": "nautical",
+    "trans": [
+      "adj. 航海的，海上的；船员的"
+    ],
+    "usphone": "[ˈnɔːtɪkl]",
+    "ukphone": "[ˈnɔːtɪk(ə)l]"
+  },
+  {
+    "name": "newsroom",
+    "trans": [
+      "n. 新闻编辑部；报刊阅览室"
+    ],
+    "usphone": "[ˈnuːzruːmˌˈnuːzrʊm]",
+    "ukphone": "[ˈnjuːzruːm; ˈnjuːzrʊm]"
+  },
+  {
+    "name": "newcomer",
+    "trans": [
+      "n. [劳经] 新来者；新到的移民"
+    ],
+    "usphone": "[ˈnuːkʌmər]",
+    "ukphone": "[ˈnjuːkʌmə(r)]"
+  },
+  {
+    "name": "neuroticism",
+    "trans": [
+      "n. 神经质，[心理] 神经过敏症"
+    ],
+    "usphone": "[njuə'rɔtisizəm]",
+    "ukphone": "[njʊəˈrɒtɪsɪzəm]"
+  },
+  {
+    "name": "newsworthy",
+    "trans": [
+      "adj. 有报导价值的"
+    ],
+    "usphone": "[ˈnuːzwɜːrði]",
+    "ukphone": "[ˈnjuːzwɜːði]"
+  },
+  {
+    "name": "neatly",
+    "trans": [
+      "adv. 整洁地；熟练地；灵巧地"
+    ],
+    "usphone": "[ˈniːtli]",
+    "ukphone": "[ˈniːtli]"
+  },
+  {
+    "name": "new-found",
+    "trans": [
+      "adj. 新找到的"
+    ],
+    "usphone": "[ˌnuː ˈfaʊnd]",
+    "ukphone": "[ˌnjuː ˈfaʊnd]"
+  },
+  {
+    "name": "non-profit",
+    "trans": [
+      "adj. 非营利的"
+    ],
+    "usphone": "[ˌnɑːn ˈprɑːfɪt]",
+    "ukphone": "[ˌnɒn ˈprɒfɪt]"
+  },
+  {
+    "name": "nursing",
+    "trans": [
+      "n. 护理；看护；养育",
+      "v. 看护；养育（nurse的ing形式）"
+    ],
+    "usphone": "[ˈnɜːrsɪŋ]",
+    "ukphone": "[ˈnɜːsɪŋ]"
+  },
+  {
+    "name": "netball",
+    "trans": [
+      "n. 类似篮球的球赛"
+    ],
+    "usphone": "[ˈnetbɔːl]",
+    "ukphone": "[ˈnetbɔːl]"
+  },
+  {
+    "name": "nationwide",
+    "trans": [
+      "adj. 全国范围的；全国性的",
+      "adv. 在全国"
+    ],
+    "usphone": "[ˌneɪʃnˈwaɪd]",
+    "ukphone": "[ˌneɪʃnˈwaɪd]"
+  },
+  {
+    "name": "nuts",
+    "trans": [
+      "adj. 发狂的；热衷的；狂热的",
+      "int. 胡说；呸",
+      "n. 坚果；螺母（nut的复数）；核心",
+      "v. 采坚果；用头撞（nut的三单形式）"
+    ],
+    "usphone": "[nʌts]",
+    "ukphone": "[nʌts]"
+  },
+  {
+    "name": "nostalgia",
+    "trans": [
+      "n. 乡愁；怀旧之情；怀乡病"
+    ],
+    "usphone": "[nəˈstældʒəˌnɑːˈstældʒə]",
+    "ukphone": "[nɒˈstældʒə]"
+  },
+  {
+    "name": "needy",
+    "trans": [
+      "adj. 贫困的；贫穷的；生活艰苦的"
+    ],
+    "usphone": "[ˈniːdi]",
+    "ukphone": "[ˈniːdi]"
+  },
+  {
+    "name": "nowhere",
+    "trans": [
+      "adv. 无处；任何地方都不；毫无结果",
+      "n. 无处；任何地方；无名之地",
+      "adj. 不存在的；毫无结果的；不知名的"
+    ],
+    "usphone": "[ˈnoʊwer]",
+    "ukphone": "[ˈnəʊweə(r)]"
+  },
+  {
+    "name": "Negro",
+    "trans": [
+      "n. 黑人",
+      "adj. 黑人的"
+    ],
+    "usphone": "[ˈniːɡroʊ]",
+    "ukphone": "[ˈniːɡrəʊ]"
+  },
+  {
+    "name": "neutron",
+    "trans": [
+      "n. [核] 中子"
+    ],
+    "usphone": "[ˈnuːtrɑːn]",
+    "ukphone": "[ˈnjuːtrɒn]"
+  },
+  {
+    "name": "nostalgic",
+    "trans": [
+      "adj. 怀旧的；乡愁的"
+    ],
+    "usphone": "[nəˈstældʒɪkˌnɑːˈstældʒɪk]",
+    "ukphone": "[nɒˈstældʒɪk]"
+  },
+  {
+    "name": "non-fiction",
+    "trans": [
+      "n. 非小说；非小说类文学作品；纪实小说"
+    ],
+    "usphone": "[ˌnɑːn ˈfɪkʃn]",
+    "ukphone": "[ˌnɒn ˈfɪkʃn]"
+  },
+  {
+    "name": "noodles",
+    "trans": [
+      "n. 面条，挂面（noodle的复数形式)"
+    ],
+    "usphone": "[ˈnuːd(ə)lz]",
+    "ukphone": "[ˈnuːd(ə)lz]"
+  },
+  {
+    "name": "narrate",
+    "trans": [
+      "vt. 叙述；给…作旁白",
+      "vi. 叙述；讲述"
+    ],
+    "usphone": "[ˈnæreɪt]",
+    "ukphone": "[nəˈreɪt]"
+  },
+  {
+    "name": "narrowly",
+    "trans": [
+      "adv. 仔细地；勉强地；狭窄地；严密地"
+    ],
+    "usphone": "[ˈnæroʊli]",
+    "ukphone": "[ˈnærəʊli]"
+  },
+  {
+    "name": "nausea",
+    "trans": [
+      "n. 恶心，晕船；极端的憎恶"
+    ],
+    "usphone": "[ˈnɔːziə]",
+    "ukphone": "[ˈnɔːziə]"
+  },
+  {
+    "name": "nobility",
+    "trans": [
+      "n. 贵族；高贵；高尚"
+    ],
+    "usphone": "[noʊˈbɪləti]",
+    "ukphone": "[nəʊˈbɪləti]"
+  },
+  {
+    "name": "nicotine",
+    "trans": [
+      "n. [有化] 尼古丁；[有化] 烟碱"
+    ],
+    "usphone": "[ˈnɪkətiːn]",
+    "ukphone": "[ˈnɪkətiːn]"
+  },
+  {
+    "name": "normally",
+    "trans": [
+      "adv. 正常地；通常地，一般地"
+    ],
+    "usphone": "[ˈnɔːrməli]",
+    "ukphone": "[ˈnɔːməli]"
+  },
+  {
+    "name": "nutrient",
+    "trans": [
+      "n. 营养物；滋养物",
+      "adj. 营养的；滋养的"
+    ],
+    "usphone": "[ˈnuːtriənt]",
+    "ukphone": "[ˈnjuːtriənt]"
+  },
+  {
+    "name": "Napier",
+    "trans": [
+      "纳皮尔[新西兰北岛东岸港市] , grass [植]紫狼尾草,象草"
+    ],
+    "usphone": "[nəˈpɪr]",
+    "ukphone": "[ˈneɪpɪə(r)]"
+  },
+  {
+    "name": "narrator",
+    "trans": [
+      "n. 叙述者；解说员"
+    ],
+    "usphone": "[ˈnæreɪtər]",
+    "ukphone": "[nəˈreɪtə(r)]"
+  },
+  {
+    "name": "noticeboard",
+    "trans": [
+      "n. 布告栏；警告牌"
+    ],
+    "usphone": "[ˈnoʊtɪsbɔːrd]",
+    "ukphone": "[ˈnəʊtɪsbɔːd]"
+  },
+  {
+    "name": "neighbouring",
+    "trans": [
+      "adj. 邻近的；附近的；接壤的"
+    ],
+    "usphone": "[ˈneɪbərɪŋ]",
+    "ukphone": "[ˈneɪbərɪŋ]"
+  },
+  {
+    "name": "naught",
+    "trans": [
+      "n. [数] 零；无价值",
+      "adj. 无价值的；无用的"
+    ],
+    "usphone": "[nɔːt]",
+    "ukphone": "[nɔːt]"
+  },
+  {
+    "name": "naivety",
+    "trans": [
+      "n. 无邪的行为；天真烂漫（等于naivete）"
+    ],
+    "usphone": "[naɪˈiːvəti]",
+    "ukphone": "[naɪˈiːvəti]"
+  },
+  {
+    "name": "narration",
+    "trans": [
+      "n. 叙述，讲述；故事"
+    ],
+    "usphone": "[nəˈreɪʃnˌnæˈreɪʃn]",
+    "ukphone": "[nəˈreɪʃn; næˈreɪʃn]"
+  },
+  {
+    "name": "nationalist",
+    "trans": [
+      "n. 民族主义者；国家主义者；民族独立主义者",
+      "adj. 民族主义的（等于nationalistic）；国家主义的；民族独立主义的"
+    ],
+    "usphone": "[ˈnæʃnəlɪst]",
+    "ukphone": "[ˈnæʃnəlɪst]"
+  },
+  {
+    "name": "nationalism",
+    "trans": [
+      "n. 民族主义；国家主义；民族特性"
+    ],
+    "usphone": "[ˈnæʃnəlɪzəm]",
+    "ukphone": "[ˈnæʃ(ə)nəlɪzəm]"
+  },
+  {
+    "name": "negate",
+    "trans": [
+      "vt. 否定；取消；使无效",
+      "vi. 否定；否认；无效",
+      "n. 对立面；反面"
+    ],
+    "usphone": "[nɪˈɡeɪt]",
+    "ukphone": "[nɪˈɡeɪt]"
+  },
+  {
+    "name": "negation",
+    "trans": [
+      "n. 否定，否认；拒绝"
+    ],
+    "usphone": "[nɪˈɡeɪʃn]",
+    "ukphone": "[nɪˈɡeɪʃn]"
+  },
+  {
+    "name": "neglectful",
+    "trans": [
+      "adj. 疏忽的；忽略的；不小心的"
+    ],
+    "usphone": "[nɪˈɡlektfl]",
+    "ukphone": "[nɪˈɡlektfl]"
+  },
+  {
+    "name": "negligent",
+    "trans": [
+      "adj. 疏忽的；粗心大意的"
+    ],
+    "usphone": "[ˈneɡlɪdʒənt]",
+    "ukphone": "[ˈneɡlɪdʒənt]"
+  },
+  {
+    "name": "negligence",
+    "trans": [
+      "n. 疏忽；忽视；粗心大意"
+    ],
+    "usphone": "[ˈneɡlɪdʒəns]",
+    "ukphone": "[ˈneɡlɪdʒəns]"
+  },
+  {
+    "name": "negotiable",
+    "trans": [
+      "adj. 可通过谈判解决的；可协商的"
+    ],
+    "usphone": "[nɪˈɡoʊʃiəbl]",
+    "ukphone": "[nɪˈɡəʊʃiəb(ə)l]"
+  },
+  {
+    "name": "networking",
+    "trans": [
+      "n. 计算机网络的设计；一种互助性的网络体系",
+      "v. 交流（network的ing形式）；联络"
+    ],
+    "usphone": "[ˈnetwɜːrkɪŋ]",
+    "ukphone": "[ˈnetwɜːkɪŋ]"
+  },
+  {
+    "name": "neutrality",
+    "trans": [
+      "n. 中立；中性；中立立场"
+    ],
+    "usphone": "[nuːˈtræləti]",
+    "ukphone": "[njuːˈtræləti]"
+  },
+  {
+    "name": "neutralize",
+    "trans": [
+      "vt. 抵销；使…中和；使…无效；使…中立",
+      "vi. 中和；中立化；变无效"
+    ],
+    "usphone": "[ˈnuːtrəlaɪz]",
+    "ukphone": "[ˈnjuːtrəlaɪz]"
+  },
+  {
+    "name": "neutralise",
+    "trans": [
+      "vt. 中和；使中立；使无效",
+      "vi. 中和"
+    ],
+    "usphone": "['nju:trəlaiz]",
+    "ukphone": "[ˈnjuːtrəlaɪz]"
+  },
+  {
+    "name": "nicety",
+    "trans": [
+      "n. 精密；美好；细节；拘泥细节"
+    ],
+    "usphone": "[ˈnaɪsəti]",
+    "ukphone": "[ˈnaɪsəti]"
+  },
+  {
+    "name": "nightly",
+    "trans": [
+      "adj. 夜间的；每夜的",
+      "adv. 每夜"
+    ],
+    "usphone": "[ˈnaɪtli]",
+    "ukphone": "[ˈnaɪtli]"
+  },
+  {
+    "name": "nil",
+    "trans": [
+      "n. 无，零"
+    ],
+    "usphone": "[nɪl]",
+    "ukphone": "[nɪl]"
+  },
+  {
+    "name": "ninth",
+    "trans": [
+      "num. 第九",
+      "adj. 第九的；九分之一的",
+      "n. 九分之一"
+    ],
+    "usphone": "[naɪnθ]",
+    "ukphone": "[naɪnθ]"
+  },
+  {
+    "name": "nomination",
+    "trans": [
+      "n. 任命，提名；提名权"
+    ],
+    "usphone": "[ˌnɑːmɪˈneɪʃn]",
+    "ukphone": "[ˌnɒmɪˈneɪʃn]"
+  },
+  {
+    "name": "nominee",
+    "trans": [
+      "n. 被任命者；被提名的人；代名人"
+    ],
+    "usphone": "[ˌnɑːmɪˈniː]",
+    "ukphone": "[ˌnɒmɪˈniː]"
+  },
+  {
+    "name": "normalize",
+    "trans": [
+      "vt. 使正常化；使规格化，使标准化"
+    ],
+    "usphone": "[ˈnɔːrməlaɪz]",
+    "ukphone": "[ˈnɔːməlaɪz]"
+  },
+  {
+    "name": "normalise",
+    "trans": [
+      "vt. （使）正常化; （使）恢复友好状态"
+    ],
+    "usphone": "['nɔ:məlaiz]",
+    "ukphone": "[ˈnɔːməlaɪz]"
+  },
+  {
+    "name": "northeastern",
+    "trans": [
+      "adj. 在东北的；东北方的；来自东北的"
+    ],
+    "usphone": "[ˌnɔːrθˈiːstərn]",
+    "ukphone": "[ˌnɔːθˈiːstən]"
+  },
+  {
+    "name": "northwestern",
+    "trans": [
+      "adj. 来自西北的；西北方的；在西北部的"
+    ],
+    "usphone": "[ˌnɔːrθˈwestərn]",
+    "ukphone": "['nɔ:θ'westən]"
+  },
+  {
+    "name": "nosy",
+    "trans": [
+      "adj. 好管闲事的；爱追问的；大鼻子的"
+    ],
+    "usphone": "[ˈnoʊzi]",
+    "ukphone": "[ˈnəʊzi]"
+  },
+  {
+    "name": "notation",
+    "trans": [
+      "n. 符号；乐谱；注释；记号法"
+    ],
+    "usphone": "[noʊˈteɪʃn]",
+    "ukphone": "[nəʊˈteɪʃn]"
+  },
+  {
+    "name": "noteworthy",
+    "trans": [
+      "adj. 值得注意的；显著的"
+    ],
+    "usphone": "[ˈnoʊtwɜːrði]",
+    "ukphone": "[ˈnəʊtwɜːði]"
+  },
+  {
+    "name": "notification",
+    "trans": [
+      "n. 通知；通告；[法] 告示"
+    ],
+    "usphone": "[ˌnoʊtɪfɪˈkeɪʃn]",
+    "ukphone": "[ˌnəʊtɪfɪˈkeɪʃn]"
+  },
+  {
+    "name": "notional",
+    "trans": [
+      "adj. 概念性的；想像的；抽象的；不切实际的"
+    ],
+    "usphone": "[ˈnoʊʃənl]",
+    "ukphone": "[ˈnəʊʃənl]"
+  },
+  {
+    "name": "notoriety",
+    "trans": [
+      "n. 恶名；声名狼藉；丑名"
+    ],
+    "usphone": "[ˌnoʊtəˈraɪəti]",
+    "ukphone": "[ˌnəʊtəˈraɪəti]"
+  },
+  {
+    "name": "nourishment",
+    "trans": [
+      "n. 食物；营养品；滋养品"
+    ],
+    "usphone": "[ˈnɜːrɪʃmənt]",
+    "ukphone": "[ˈnʌrɪʃmənt]"
+  },
+  {
+    "name": "nude",
+    "trans": [
+      "adj. 裸的，裸体的；无装饰的；与生俱有的",
+      "n. 裸体；裸体画"
+    ],
+    "usphone": "[nuːd]",
+    "ukphone": "[njuːd]"
+  },
+  {
+    "name": "nudity",
+    "trans": [
+      "n. 裸露；裸体像"
+    ],
+    "usphone": "[ˈnuːdəti]",
+    "ukphone": "[ˈnjuːdəti]"
+  },
+  {
+    "name": "nectar",
+    "trans": [
+      "n. [植] 花蜜；甘露；神酒；任何美味的饮料"
+    ],
+    "usphone": "[ˈnektər]",
+    "ukphone": "[ˈnektə(r)]"
+  },
+  {
+    "name": "nestle",
+    "trans": [
+      "vi. 舒适地坐定；偎依；半隐半现地处于",
+      "vt. 抱；安置"
+    ],
+    "usphone": "[ˈnesl]",
+    "ukphone": "[ˈnesl]"
+  },
+  {
+    "name": "niche",
+    "trans": [
+      "n. 壁龛；合适的职业；[亦称作 niche market]【商业】有利可图的市场(或形势等)",
+      "vt. 放入壁龛"
+    ],
+    "usphone": "[niːʃˌnɪtʃ]",
+    "ukphone": "[niːʃ; nɪtʃ]"
+  },
+  {
+    "name": "neolithic",
+    "trans": [
+      "adj. [古] 新石器时代的；早先的"
+    ],
+    "usphone": "[ˌniːəˈlɪθɪk]",
+    "ukphone": "[ˌniːəˈlɪθɪk]"
+  },
+  {
+    "name": "neighboring",
+    "trans": [
+      "adj. 邻近的；附近的（等于neighbouring）",
+      "v. 与…为邻；位于附近（neighbor的ing形式）"
+    ],
+    "usphone": "[ˈneɪbərɪŋ]",
+    "ukphone": "[ˈneɪbərɪŋ]"
+  },
+  {
+    "name": "nutritious",
+    "trans": [
+      "adj. 有营养的，滋养的"
+    ],
+    "usphone": "[nuˈtrɪʃəs]",
+    "ukphone": "[njuˈtrɪʃəs]"
+  },
+  {
+    "name": "nomadic",
+    "trans": [
+      "adj. 游牧的；流浪的；游动的"
+    ],
+    "usphone": "[noʊˈmædɪk]",
+    "ukphone": "[nəʊˈmædɪk]"
+  },
+  {
+    "name": "nomadism",
+    "trans": [
+      "n. 游牧；流浪"
+    ],
+    "usphone": "[ˈnoʊmæˌdɪzəm]",
+    "ukphone": "[ˈnəʊmædɪzəm]"
+  },
+  {
+    "name": "nutritional",
+    "trans": [
+      "adj. 营养的；滋养的"
+    ],
+    "usphone": "[nuˈtrɪʃənl]",
+    "ukphone": "[njuˈtrɪʃən(ə)l]"
+  },
+  {
+    "name": "navigable",
+    "trans": [
+      "adj. 可航行的；可驾驶的；适于航行的"
+    ],
+    "usphone": "[ˈnævɪɡəbl]",
+    "ukphone": "[ˈnævɪɡəb(ə)l]"
+  },
+  {
+    "name": "neonate",
+    "trans": [
+      "n. 婴儿"
+    ],
+    "usphone": "[ˈniːoʊneɪt]",
+    "ukphone": "[ˈniːəʊneɪt]"
+  },
+  {
+    "name": "nouveau",
+    "trans": [
+      "adj. 新近产生的，新近到达的"
+    ],
+    "usphone": "[nuːˈvoʊ]",
+    "ukphone": "[nuːˈvəʊ]"
+  },
+  {
+    "name": "navigational",
+    "trans": [
+      "adj. 航行的，航运的"
+    ],
+    "usphone": "[ˌnævɪˈɡeɪʃənl]",
+    "ukphone": "[ˌnævɪˈɡeɪʃənl]"
+  },
+  {
+    "name": "nomad",
+    "trans": [
+      "n. 游牧民；流浪者",
+      "adj. 游牧的；流浪的"
+    ],
+    "usphone": "[ˈnoʊmæd]",
+    "ukphone": "[ˈnəʊmæd]"
+  },
+  {
+    "name": "navigator",
+    "trans": [
+      "n. 航海家；领航员；驾驶员"
+    ],
+    "usphone": "[ˈnævɪɡeɪtər]",
+    "ukphone": "[ˈnævɪɡeɪtə(r)]"
+  },
+  {
+    "name": "Neptune",
+    "trans": [
+      "n. [天] 海王星；海神"
+    ],
+    "usphone": "[ˈneptjuːnˌˈneptuːn]",
+    "ukphone": "[ˈneptjuːn]"
+  },
+  {
+    "name": "naturalism",
+    "trans": [
+      "n. 自然主义；本能行动；自然论"
+    ],
+    "usphone": "[ˈnætʃrəlɪzəm]",
+    "ukphone": "[ˈnætʃrəlɪzəm]"
+  },
+  {
+    "name": "narcissism",
+    "trans": [
+      "n. [心理] 自恋，自我陶醉"
+    ],
+    "usphone": "[ˈnɑːrsɪsɪzəm]",
+    "ukphone": "[ˈnɑːsɪsɪzəm]"
+  },
+  {
+    "name": "nonprofit",
+    "trans": [
+      "adj. 非盈利的；不以盈利为目的的"
+    ],
+    "usphone": "[ˌnɑːnˈprɑːfɪt]",
+    "ukphone": "[ˌnɒnˈprɒfɪt]"
+  },
+  {
+    "name": "nocturnal",
+    "trans": [
+      "adj. 夜的；夜曲的；夜间发生的"
+    ],
+    "usphone": "[nɑːkˈtɜːrnl]",
+    "ukphone": "[nɒkˈtɜːn(ə)l]"
+  },
+  {
+    "name": "nepenthes",
+    "trans": [
+      "n. 猪笼草，忘忧草"
+    ],
+    "usphone": "[nɪˈpenθiz]",
+    "ukphone": "[nɪˈpenθiːz]"
+  },
+  {
+    "name": "neural",
+    "trans": [
+      "adj. 神经的；神经系统的；背的；神经中枢的"
+    ],
+    "usphone": "[ˈnʊrəl]",
+    "ukphone": "[ˈnjʊərəl]"
+  },
+  {
+    "name": "neuron",
+    "trans": [
+      "n. [解剖] 神经元，神经单位"
+    ],
+    "usphone": "[ˈnʊrɑːn]",
+    "ukphone": "[ˈnjʊərɒn]"
+  },
+  {
+    "name": "none the less",
+    "trans": [
+      "na. 依然；仍然"
+    ],
+    "usphone": "[nʌn ðə les]",
+    "ukphone": "[nʌn ðə les]"
+  },
+  {
+    "name": "neonatal",
+    "trans": [
+      "adj. 新生的；初生的"
+    ],
+    "usphone": "[ˌniːoʊˈneɪtl]",
+    "ukphone": "[ˌniːəʊˈneɪtl]"
+  },
+  {
+    "name": "nothingness",
+    "trans": [
+      "n. 虚无，不存在；空白；不存在的状态"
+    ],
+    "usphone": "[ˈnʌθɪŋnəs]",
+    "ukphone": "[ˈnʌθɪŋnəs]"
+  },
+  {
+    "name": "newsletter",
+    "trans": [
+      "n. 时事通讯"
+    ],
+    "usphone": "[ˈnuːzletər]",
+    "ukphone": "[ˈnjuːzletə(r)]"
+  },
+  {
+    "name": "novice",
+    "trans": [
+      "n. 初学者，新手"
+    ],
+    "usphone": "[ˈnɑːvɪs]",
+    "ukphone": "[ˈnɒvɪs]"
+  },
+  {
+    "name": "neoclassical",
+    "trans": [
+      "adj. 新古典主义的"
+    ],
+    "usphone": "[ˌniːoʊˈklæsɪkl]",
+    "ukphone": "[ˌniːəʊˈklæsɪk(ə)l]"
+  },
+  {
+    "name": "niggle",
+    "trans": [
+      "vi. 拘泥小节；为琐事费时；挑剔",
+      "vt. 小气地给…；玩忽"
+    ],
+    "usphone": "[ˈnɪɡl]",
+    "ukphone": "[ˈnɪɡl]"
+  },
+  {
+    "name": "nope",
+    "trans": [
+      "adv. 不是，没有；不"
+    ],
+    "usphone": "[noʊp]",
+    "ukphone": "[nəʊp]"
+  },
+  {
+    "name": "negro",
+    "trans": [
+      "n. 黑人",
+      "adj. 黑人的"
+    ],
+    "usphone": "[ˈniːɡroʊ]",
+    "ukphone": "[ˈniːɡrəʊ]"
+  },
+  {
+    "name": "neurosis",
+    "trans": [
+      "n. [心理] 神经症；神经衰弱症"
+    ],
+    "usphone": "[nʊˈroʊsɪs]",
+    "ukphone": "[njʊəˈrəʊsɪs]"
+  },
+  {
+    "name": "neurological",
+    "trans": [
+      "adj. 神经病学的，神经学上的"
+    ],
+    "usphone": "[ˌnʊrəˈlɑːdʒɪkl]",
+    "ukphone": "[ˌnjʊərəˈlɒdʒɪkl]"
+  },
+  {
+    "name": "naturalize",
+    "trans": [
+      "vt. 移植；使入国籍；采纳",
+      "vi. 归化；加入国籍"
+    ],
+    "usphone": "[ˈnætʃrəlaɪz]",
+    "ukphone": "[ˈnætʃrəlaɪz]"
+  },
+  {
+    "name": "nonchalant",
+    "trans": [
+      "adj. 冷淡的，漠不关心的"
+    ],
+    "usphone": "[ˌnɑːnʃəˈlɑːnt]",
+    "ukphone": "[ˈnɒnʃələnt]"
+  },
+  {
+    "name": "nab",
+    "trans": [
+      "vt. 捉住，逮捕；抢夺"
+    ],
+    "usphone": "[næb]",
+    "ukphone": "[næb]"
+  },
+  {
+    "name": "nuance",
+    "trans": [
+      "n. 细微差别"
+    ],
+    "usphone": "[ˈnuːɑːns]",
+    "ukphone": "[ˈnjuːɑːns]"
+  },
+  {
+    "name": "nag",
+    "trans": [
+      "n. 唠叨；老马；竞赛马",
+      "vt. 使烦恼；不断地唠叨",
+      "vi. 不断地唠叨"
+    ],
+    "usphone": "[næɡ]",
+    "ukphone": "[næɡ]"
+  },
+  {
+    "name": "neurotic",
+    "trans": [
+      "adj. 神经过敏的；神经病的",
+      "n. 神经病患者；神经过敏者"
+    ],
+    "usphone": "[nʊˈrɑːtɪk]",
+    "ukphone": "[njʊəˈrɒtɪk]"
+  },
+  {
+    "name": "nebulous",
+    "trans": [
+      "adj. 朦胧的；星云的，星云状的"
+    ],
+    "usphone": "[ˈnebjələs]",
+    "ukphone": "[ˈnebjələs]"
+  },
+  {
+    "name": "nimble",
+    "trans": [
+      "adj. 敏捷的；聪明的；敏感的"
+    ],
+    "usphone": "[ˈnɪmbl]",
+    "ukphone": "[ˈnɪmb(ə)l]"
+  },
+  {
+    "name": "nip",
+    "trans": [
+      "vt. 夹；捏；剪断；冻伤；阻止",
+      "vi. 夹；捏；刺骨；小饮",
+      "n. 夹；捏；刺骨；小饮"
+    ],
+    "usphone": "[nɪp]",
+    "ukphone": "[nɪp]"
+  },
+  {
+    "name": "nibble",
+    "trans": [
+      "vi. 细咬；一点一点地咬；吹毛求疵",
+      "vt. 细咬；一点一点地咬；吹毛求疵",
+      "n. 轻咬；啃；细咬"
+    ],
+    "usphone": "[ˈnɪbl]",
+    "ukphone": "[ˈnɪbl]"
+  },
+  {
+    "name": "namesake",
+    "trans": [
+      "n. 名义；同名物；同名的人"
+    ],
+    "usphone": "[ˈneɪmseɪk]",
+    "ukphone": "[ˈneɪmseɪk]"
+  },
+  {
+    "name": "nape",
+    "trans": [
+      "n. 颈背；项"
+    ],
+    "usphone": "[neɪp]",
+    "ukphone": "[neɪp]"
+  },
+  {
+    "name": "narcissus",
+    "trans": [
+      "n. 水仙"
+    ],
+    "usphone": "[nɑːrˈsɪsəs]",
+    "ukphone": "[nɑːˈsɪsəs]"
+  },
+  {
+    "name": "navel",
+    "trans": [
+      "n. [解剖] 肚脐；中央；中心点"
+    ],
+    "usphone": "[ˈneɪvl]",
+    "ukphone": "[ˈneɪvl]"
+  },
+  {
+    "name": "neon",
+    "trans": [
+      "n. 霓虹灯；氖（10号元素，符号Ne）"
+    ],
+    "usphone": "[ˈniːɑːn]",
+    "ukphone": "[ˈniːɒn]"
+  },
+  {
+    "name": "newsreel",
+    "trans": [
+      "n. 新闻影片"
+    ],
+    "usphone": "[ˈnuːzriːl]",
+    "ukphone": "[ˈnjuːzriːl]"
+  },
+  {
+    "name": "nib",
+    "trans": [
+      "n. 钢笔尖；嘴；鹅管笔的尖端",
+      "vt. 装尖头；削尖；插入"
+    ],
+    "usphone": "[nɪb]",
+    "ukphone": "[nɪb]"
+  },
+  {
+    "name": "nicely",
+    "trans": [
+      "adv. 漂亮地；恰好地；精细地"
+    ],
+    "usphone": "[ˈnaɪsli]",
+    "ukphone": "[ˈnaɪsli]"
+  },
+  {
+    "name": "nigger",
+    "trans": [
+      "n. 黑鬼（蔑称）；社会地位低下的人"
+    ],
+    "usphone": "[ˈnɪɡər]",
+    "ukphone": "[ˈnɪɡə(r)]"
+  },
+  {
+    "name": "nipple",
+    "trans": [
+      "n. 乳头，奶头；奶嘴"
+    ],
+    "usphone": "[ˈnɪpl]",
+    "ukphone": "[ˈnɪpl]"
+  },
+  {
+    "name": "nirvana",
+    "trans": [
+      "n. 涅槃；天堂"
+    ],
+    "usphone": "[nɪrˈvɑːnə]",
+    "ukphone": "[nɪəˈvɑːnə]"
+  },
+  {
+    "name": "nitrate",
+    "trans": [
+      "n. 硝酸盐",
+      "vt. 用硝酸处理"
+    ],
+    "usphone": "[ˈnaɪtreɪt]",
+    "ukphone": "[ˈnaɪtreɪt]"
+  },
+  {
+    "name": "node",
+    "trans": [
+      "n. 节点；瘤；[数] 叉点"
+    ],
+    "usphone": "[noʊd]",
+    "ukphone": "[nəʊd]"
+  },
+  {
+    "name": "nomenclature",
+    "trans": [
+      "n. 命名法；术语"
+    ],
+    "usphone": "[nəˈmenklətʃərˌˈnoʊmənkleɪtʃər]",
+    "ukphone": "[nəˈmeŋklətʃə(r)]"
+  },
+  {
+    "name": "nonstop",
+    "trans": [
+      "adj. 直达的；不休息的；不着陆的",
+      "n. 直达车",
+      "adv. 不休息地"
+    ],
+    "usphone": "[ˌnɑːnˈstɑːp]",
+    "ukphone": "[ˌnɒnˈstɒp]"
+  },
+  {
+    "name": "Nordic",
+    "trans": [
+      "adj. 北欧人的；斯堪的纳维亚的；日耳曼民族的",
+      "n. 北欧人；日耳曼民族；斯堪的纳维亚人；具有北欧日尔曼民族外貌特征的人"
+    ],
+    "usphone": "[ˈnɔːrdɪk]",
+    "ukphone": "[ˈnɔːdɪk]"
+  },
+  {
+    "name": "notary",
+    "trans": [
+      "n. [法] 公证人"
+    ],
+    "usphone": "[ˈnoʊtəri]",
+    "ukphone": "[ˈnəʊtəri]"
+  },
+  {
+    "name": "nought",
+    "trans": [
+      "n. [数] 零；没有"
+    ],
+    "usphone": "[nɔːt]",
+    "ukphone": "[nɔːt]"
+  },
+  {
+    "name": "nuzzle",
+    "trans": [
+      "vt. 用鼻紧挨，用鼻爱抚；紧贴某人",
+      "vi. 用鼻擦；舒服地躺著"
+    ],
+    "usphone": "[ˈnʌzl]",
+    "ukphone": "[ˈnʌzl]"
+  },
+  {
+    "name": "nymph",
+    "trans": [
+      "n. 女神；居于山林水泽的仙女；美丽的少女；蛹"
+    ],
+    "usphone": "[nɪmf]",
+    "ukphone": "[nɪmf]"
+  },
+  {
+    "name": "nerd",
+    "trans": [
+      "n. 呆子；书呆子；讨厌的人"
+    ],
+    "usphone": "[nɜːrd]",
+    "ukphone": "[nɜːd]"
+  },
+  {
+    "name": "nay",
+    "trans": [
+      "adv. 不；甚至；不仅如此",
+      "n. 拒绝；反对；投反对票的人"
+    ],
+    "usphone": "[neɪ]",
+    "ukphone": "[neɪ]"
+  },
+  {
+    "name": "narcissistic",
+    "trans": [
+      "adj. 自恋的；自我陶醉的"
+    ],
+    "usphone": "[ˌnɑːrsɪˈsɪstɪk]",
+    "ukphone": "[ˌnɑːsɪˈsɪstɪk]"
+  },
+  {
+    "name": "noncommercial",
+    "trans": [
+      "adj. 非经营的"
+    ],
+    "usphone": "[ˌnɑnkəˈmɜːrʃəl]",
+    "ukphone": "[ˌnɒnkəˈmɜːʃəl]"
+  },
+  {
+    "name": "noneconomic",
+    "trans": [
+      "adj. 非经济的，无实用价值的"
+    ],
+    "usphone": "[ˈnɒnˌiːkəˈnɒmɪk]",
+    "ukphone": "[ˌnɒniːkəˈnɒmɪk]"
+  },
+  {
+    "name": "newsprint",
+    "trans": [
+      "n. 新闻用纸（等于newspaper）"
+    ],
+    "usphone": "[ˈnuːzprɪnt]",
+    "ukphone": "[ˈnjuːzprɪnt]"
+  },
+  {
+    "name": "newly",
+    "trans": [
+      "adv. 最近；重新；以新的方式"
+    ],
+    "usphone": "[ˈnuːli]",
+    "ukphone": "[ˈnjuːli]"
+  },
+  {
+    "name": "non-human",
+    "trans": [
+      "adj. 非人类的；非人工的"
+    ],
+    "usphone": "[ˌnɑːn ˈhjuːmən]",
+    "ukphone": "[ˌnɒn ˈhjuːmən]"
+  },
+  {
+    "name": "negatively",
+    "trans": [
+      "adv. 消极地；否定地"
+    ],
+    "usphone": "[ˈneɡətɪvli]",
+    "ukphone": "[ˈneɡətɪvli]"
+  },
+  {
+    "name": "neurology",
+    "trans": [
+      "n. 神经病学；神经学"
+    ],
+    "usphone": "[nʊˈrɑːlədʒi]",
+    "ukphone": "[njʊəˈrɒlədʒi]"
+  },
+  {
+    "name": "newsstand",
+    "trans": [
+      "n. 报摊；杂志摊"
+    ],
+    "usphone": "[ˈnjʊzˌstænd]",
+    "ukphone": "[ˈnjuːzstænd]"
+  },
+  {
+    "name": "nonconformist",
+    "trans": [
+      "n. 不顺从一般公认信念习惯的人；不属于圣公会的英国基督教徒",
+      "adj. 不墨守成规的；不顺从一般公认信念习惯的；不信奉国教的"
+    ],
+    "usphone": "[ˌnɑːnkənˈfɔːrmɪst]",
+    "ukphone": "[ˌnɒnkənˈfɔːmɪst]"
+  },
+  {
+    "name": "non-native",
+    "trans": [
+      "adj. 非本地；非原生",
+      "n. 外乡人"
+    ],
+    "usphone": "[ˌnɑːn ˈneɪtɪv]",
+    "ukphone": "[ˌnɒn ˈneɪtɪv]"
+  },
+  {
+    "name": "numerator",
+    "trans": [
+      "n. 分子；计算者；计算器"
+    ],
+    "usphone": "[ˈnuːməreɪtər]",
+    "ukphone": "[ˈnjuːməreɪtə(r)]"
+  },
+  {
+    "name": "narcotic",
+    "trans": [
+      "adj. 麻醉的；有麻醉作用的；催眠的",
+      "n. [药] 麻醉药；镇静剂；起麻醉作用的事物"
+    ],
+    "usphone": "[nɑːrˈkɑːtɪk]",
+    "ukphone": "[nɑːˈkɒtɪk]"
+  },
+  {
+    "name": "nucleotide",
+    "trans": [
+      "n. 核苷；核甘酸"
+    ],
+    "usphone": "[ˈnuːkliətaɪd]",
+    "ukphone": "[ˈnjuːklɪətaɪd]"
+  },
+  {
+    "name": "non-verbal",
+    "trans": [
+      "adj. 非语言的；非用言语的"
+    ],
+    "usphone": "[ˌnɑːn ˈvɜːrbl]",
+    "ukphone": "[ˌnɒn ˈvɜːb(ə)l]"
+  },
+  {
+    "name": "NATO",
+    "trans": [
+      "abbr. 北大西洋公约组织（North Atlantic Treaty Organization）"
+    ],
+    "usphone": "[ˈneɪtoʊ]",
+    "ukphone": "[ˈneɪtəʊ]"
+  },
+  {
+    "name": "non-partisan",
+    "trans": [
+      "adj. 无党派的；超党的"
+    ],
+    "usphone": "[ˌnɑːn ˈpɑːrtəzn]",
+    "ukphone": "[ˌnɒn ˈpɑːtɪzæn; ˌnɒn pɑːtɪˈzæn]"
+  },
+  {
+    "name": "nontarget",
+    "trans": [
+      "n. 不属预定目标的"
+    ],
+    "usphone": "['nɔn'tɑ:ɡit]",
+    "ukphone": "[ˌnɒnˈtɑːɡɪt]"
+  },
+  {
+    "name": "nexus",
+    "trans": [
+      "n. 关系；连结，连系"
+    ],
+    "usphone": "[ˈneksəs]",
+    "ukphone": "[ˈneksəs]"
+  },
+  {
+    "name": "noxious",
+    "trans": [
+      "adj. 有害的；有毒的；败坏道德的；讨厌的"
+    ],
+    "usphone": "[ˈnɑːkʃəs]",
+    "ukphone": "[ˈnɒkʃəs]"
+  },
+  {
+    "name": "notch",
+    "trans": [
+      "n. 刻痕，凹口；等级；峡谷",
+      "vt. 赢得；用刻痕计算；在…上刻凹痕"
+    ],
+    "usphone": "[nɑːtʃ]",
+    "ukphone": "[nɒtʃ]"
+  },
+  {
+    "name": "nutritionist",
+    "trans": [
+      "n. 营养工作者"
+    ],
+    "usphone": "[nuˈtrɪʃənɪst]",
+    "ukphone": "[njuˈtrɪʃənɪst]"
+  },
+  {
+    "name": "naissance",
+    "trans": [
+      "n. 诞生，产生"
+    ],
+    "usphone": "[ˈneɪsəns]",
+    "ukphone": "[ˈneɪsəns]"
+  },
+  {
+    "name": "naprapathy",
+    "trans": [
+      "n. 推拿疗法，按摩疗法"
+    ],
+    "usphone": "[nəˈpræpəθi]",
+    "ukphone": "[nəˈpræpəθi]"
+  },
+  {
+    "name": "narwhal",
+    "trans": [
+      "n. 独角鲸（等于narwal）；[脊椎] 一角鲸（一种齿鲸，雄性有一长牙）"
+    ],
+    "usphone": "[ˈnɑːrwɑːl]",
+    "ukphone": "[ˈnɑːwəl]"
+  },
+  {
+    "name": "naysayer",
+    "trans": [
+      "摇头族（指那些说某事成不了、经常否定、拒绝或者反对一些事情的人）"
+    ],
+    "usphone": "[ˈneɪˌseɪər]",
+    "ukphone": "[ˈneɪseɪə(r)]"
+  },
+  {
+    "name": "necropsy",
+    "trans": [
+      "n. 验尸；尸体剖检"
+    ],
+    "usphone": "[ˈnekrɑːpsi]",
+    "ukphone": "[ˈnekrɒpsi]"
+  },
+  {
+    "name": "necrosis",
+    "trans": [
+      "n. 坏死；坏疽；骨疽"
+    ],
+    "usphone": "[neˈkroʊsɪs]",
+    "ukphone": "[neˈkrəʊsɪs]"
+  },
+  {
+    "name": "neoplastic",
+    "trans": [
+      "adj. [肿瘤] 瘤的；新造型主义的"
+    ],
+    "usphone": "[ˌniːoʊˈplæstɪk]",
+    "ukphone": "[ˌniːəʊˈplæstɪk]"
+  },
+  {
+    "name": "nephritis",
+    "trans": [
+      "n. [泌尿] 肾炎"
+    ],
+    "usphone": "[neˈfraɪtɪs]",
+    "ukphone": "[nɪˈfraɪtɪs]"
+  },
+  {
+    "name": "neuralgia",
+    "trans": [
+      "n. [内科] 神经痛"
+    ],
+    "usphone": "[nʊˈrældʒə]",
+    "ukphone": "[njʊəˈrældʒə]"
+  },
+  {
+    "name": "nickle",
+    "trans": [
+      "n. 镍（等于nickel）；五分镍币（美国和加拿大使用的）"
+    ],
+    "usphone": "[ˈnɪkl]",
+    "ukphone": "[ˈnɪkl]"
+  },
+  {
+    "name": "niggardly",
+    "trans": [
+      "adj. 小气的；很少量的",
+      "adv. 小气地；很少量地"
+    ],
+    "usphone": "[ˈnɪɡərdli]",
+    "ukphone": "[ˈnɪɡədli]"
+  },
+  {
+    "name": "nightwalker",
+    "trans": [
+      "n. 夜间为非作歹者; 夜间上街找客的妓女; 梦游者; 夜行症患者"
+    ],
+    "usphone": "[ˈnaɪtˌwɔkər]",
+    "ukphone": "[ˈnaɪtˌwɔːkə]"
+  },
+  {
+    "name": "nipper",
+    "trans": [
+      "n. 镊子；夹取的人；少年"
+    ],
+    "usphone": "[ˈnɪpər]",
+    "ukphone": "[ˈnɪpə(r)]"
+  },
+  {
+    "name": "nodule",
+    "trans": [
+      "n. 小结；小瘤；节结"
+    ],
+    "usphone": "[ˈnɑːdʒuːl]",
+    "ukphone": "[ˈnɒdjuːl]"
+  },
+  {
+    "name": "noncommittal",
+    "trans": [
+      "adj. 态度不明朗的；不承担义务的；无明确意义的"
+    ],
+    "usphone": "[ˌnɑːnkəˈmɪtl]",
+    "ukphone": "[ˌnɒnkəˈmɪtəl]"
+  },
+  {
+    "name": "nonconformity",
+    "trans": [
+      "n. 不一致；不信奉国教；不墨守成规"
+    ],
+    "usphone": "[ˌnɑːnkənˈfɔːrməti]",
+    "ukphone": "[ˌnɒnkənˈfɔːməti]"
+  },
+  {
+    "name": "nonfiction",
+    "trans": [
+      "n. 非小说的散文文学"
+    ],
+    "usphone": "[ˌnɑːnˈfɪkʃ(ə)n]",
+    "ukphone": "[nɒn'fɪkʃən]"
+  },
+  {
+    "name": "nonprofessional",
+    "trans": [
+      "adj. 无职业的，无专长的; 外行"
+    ],
+    "usphone": "[nɑːnprəˈfeʃənl]",
+    "ukphone": "[ˌnɒnprəˈfeʃən(ə)l]"
+  },
+  {
+    "name": "nonsignificant",
+    "trans": [
+      "adj. 无意义的；无足轻重的；不重要的"
+    ],
+    "usphone": "[ˌnɑnsɪɡˈnɪfɪkənt]",
+    "ukphone": "[ˌnɒnsɪɡˈnɪfɪkənt]"
+  },
+  {
+    "name": "nonspecific",
+    "trans": [
+      "adj. 非特定的，非特殊的"
+    ],
+    "usphone": "[ˌnɑːnspəˈsɪfɪk]",
+    "ukphone": "[ˌnɒnspɪˈsɪfɪk]"
+  },
+  {
+    "name": "nontraditional",
+    "trans": [
+      "adj. 不符合传统的，非传统的"
+    ],
+    "usphone": "[nɑːntrəˈdɪʃənəl]",
+    "ukphone": "[ˌnɒntrəˈdɪʃənəl]"
+  },
+  {
+    "name": "nostril",
+    "trans": [
+      "n. 鼻孔"
+    ],
+    "usphone": "[ˈnɑːstrəl]",
+    "ukphone": "[ˈnɒstrəl]"
+  },
+  {
+    "name": "notate",
+    "trans": [
+      "vt. 以符号表示"
+    ],
+    "usphone": "[ˈnoʊteɪt]",
+    "ukphone": "[nəʊˈteɪt]"
+  },
+  {
+    "name": "nuclei",
+    "trans": [
+      "n. 核心，核子；原子核（nucleus的复数形式）"
+    ],
+    "usphone": "[ˈnjʊklɪˌai]",
+    "ukphone": "[ˈnjuːklɪaɪ]"
+  },
+  {
+    "name": "nun",
+    "trans": [
+      "n. 修女，尼姑"
+    ],
+    "usphone": "[nʌn]",
+    "ukphone": "[nʌn]"
+  },
+  {
+    "name": "nutriology",
+    "trans": [
+      "n. 营养学",
+      "[医] 营养学"
+    ],
+    "usphone": "[njutrɪˈɒlədʒi]",
+    "ukphone": "[njuːtrɪˈɒlədʒi]"
+  },
+  {
+    "name": "nyctalopia",
+    "trans": [
+      "n. 夜盲症; 雀盲眼"
+    ],
+    "usphone": "[ˌnɪktəˈlopɪə]",
+    "ukphone": "[ˌnɪktəˈləʊpɪə]"
+  },
+  {
+    "name": "northward",
+    "trans": [
+      "n. 北方",
+      "adj. 向北的",
+      "adv. 向北"
+    ],
+    "usphone": "[ˈnɔːrθwərd]",
+    "ukphone": "[ˈnɔːθwəd]"
+  },
+  {
+    "name": "noted",
+    "trans": [
+      "adj. 著名的；显著的；附有乐谱的",
+      "v. 注意；记下（note的过去式和过去分词）"
+    ],
+    "usphone": "[ˈnoʊtɪd]",
+    "ukphone": "[ˈnəʊtɪd]"
+  },
+  {
+    "name": "nadir",
+    "trans": [
+      "n. 最低点，最底点；[天] 天底"
+    ],
+    "usphone": "[ˈneɪdɪr]",
+    "ukphone": "[ˈneɪdɪə(r)]"
+  },
+  {
+    "name": "naivete",
+    "trans": [
+      "n. 天真；质朴；纯真无邪；天真烂漫"
+    ],
+    "usphone": "[na:'i:vtei]",
+    "ukphone": "[na:'i:vtei]"
+  },
+  {
+    "name": "narcissist",
+    "trans": [
+      "n. 自我陶醉者"
+    ],
+    "usphone": "[ˈnɑːrsɪsɪst]",
+    "ukphone": "[ˈnɑːsɪsɪst]"
+  },
+  {
+    "name": "nascent",
+    "trans": [
+      "adj. 初期的；开始存在的，发生中的"
+    ],
+    "usphone": "[ˈneɪs(ə)nt]",
+    "ukphone": "[ˈneɪs(ə)nt]"
+  },
+  {
+    "name": "natty",
+    "trans": [
+      "adj. 整洁的；敏捷的；考虑周到的；清楚的"
+    ],
+    "usphone": "[ˈnæti]",
+    "ukphone": "[ˈnæti]"
+  },
+  {
+    "name": "nefarious",
+    "trans": [
+      "adj. 邪恶的；穷凶极恶的；不法的"
+    ],
+    "usphone": "[nɪˈferiəs]",
+    "ukphone": "[nɪˈfeəriəs]"
+  },
+  {
+    "name": "nihilist",
+    "trans": [
+      "n. 虚无主义者"
+    ],
+    "usphone": "[ˈnaɪɪlɪst]",
+    "ukphone": "[ˈnaɪɪlɪst]"
+  },
+  {
+    "name": "noisome",
+    "trans": [
+      "adj. 恶臭的；有害的"
+    ],
+    "usphone": "[ˈnɔɪsəm]",
+    "ukphone": "[ˈnɔɪsəm]"
+  },
+  {
+    "name": "nonchalance",
+    "trans": [
+      "n. 冷淡；漠不关心；冷静"
+    ],
+    "usphone": "[ˌnɑːnʃəˈlɑːns]",
+    "ukphone": "[ˈnɒnʃələns]"
+  },
+  {
+    "name": "nondescript",
+    "trans": [
+      "adj. 平凡的，没有特色的；难以区别的；莫可名状的",
+      "n. 不属任何类型的人；难以形容的人或物"
+    ],
+    "usphone": "[ˈnɑːndɪskrɪpt]",
+    "ukphone": "[ˈnɒndɪskrɪpt]"
+  },
+  {
+    "name": "nonentity",
+    "trans": [
+      "n. 不存在；虚无；无足轻重的人"
+    ],
+    "usphone": "[nɑːnˈentəti]",
+    "ukphone": "[nɒnˈentəti]"
+  },
+  {
+    "name": "nonplus",
+    "trans": [
+      "n. 迷惑；困惑",
+      "vt. 使困惑"
+    ],
+    "usphone": "[,nɔn'plʌs, 'nɔnplʌs]",
+    "ukphone": "[nɒnˈplʌs]"
+  },
+  {
+    "name": "nullify",
+    "trans": [
+      "vt. 使无效，作废；取消"
+    ],
+    "usphone": "[ˈnʌlɪfaɪ]",
+    "ukphone": "[ˈnʌlɪfaɪ]"
+  },
+  {
+    "name": "numismatist",
+    "trans": [
+      "n. 钱币奖章收藏家"
+    ],
+    "usphone": "[nuːˈmɪzmətɪst]",
+    "ukphone": "[njuːˈmɪzmətɪst]"
+  },
+  {
+    "name": "nuptial",
+    "trans": [
+      "adj. 婚礼的；结婚的；婚姻的",
+      "n. 婚礼"
+    ],
+    "usphone": "[ˈnʌpʃl]",
+    "ukphone": "[ˈnʌpʃl]"
+  },
+  {
+    "name": "north-west",
+    "trans": [
+      "n. 西北"
+    ],
+    "usphone": "[ˌnɔːrθ ˈwest]",
+    "ukphone": "[ˌnɔːθ ˈwest]"
+  },
+  {
+    "name": "north-east",
+    "trans": [
+      "n. 东北方"
+    ],
+    "usphone": "[ˌnɔːrθ ˈiːst]",
+    "ukphone": "[ˌnɔːθ ˈiːst]"
+  },
+  {
+    "name": "Norman",
+    "trans": [
+      "adj. 诺曼第语的；诺曼第人的",
+      "n. 法国诺曼第人"
+    ],
+    "usphone": "[ˈnɔːrmən]",
+    "ukphone": "[ˈnɔːmən]"
+  },
+  {
+    "name": "Netherlands",
+    "trans": [
+      "n. 荷兰（形容词Netherlandish）；地区名"
+    ],
+    "usphone": "[ˈneðərləndz]",
+    "ukphone": "[ˈneðələndz]"
+  },
+  {
+    "name": "Nunavut",
+    "trans": [
+      "n. 努勒维特（位于加拿大）"
+    ],
+    "usphone": "[ˈnʊnəvʊt]",
+    "ukphone": "[ˈnʊnəvʊt]"
+  },
+  {
+    "name": "newsflash",
+    "trans": [
+      "n. 简明新闻"
+    ],
+    "usphone": "[ˈnuːzflæʃ]",
+    "ukphone": "[ˈnjuːzflæʃ]"
+  },
+  {
+    "name": "Nigeria",
+    "trans": [
+      "n. 尼日利亚（位于非洲）"
+    ],
+    "usphone": "[naɪˈdʒɪriə]",
+    "ukphone": "[naɪˈdʒɪəriə]"
+  },
+  {
+    "name": "Norway",
+    "trans": [
+      "n. 挪威（北欧国家名）"
+    ],
+    "usphone": "[ˈnɔːrweɪ]",
+    "ukphone": "[ˈnɔːweɪ]"
+  },
+  {
+    "name": "Nazi",
+    "trans": [
+      "n. 纳粹党人；纳粹主义信徒",
+      "adj. 纳粹党的；纳粹主义的"
+    ],
+    "usphone": "[ˈnɑːtsi]",
+    "ukphone": "[ˈnɑːtsi]"
+  },
+  {
+    "name": "needly",
+    "trans": [
+      "adj. 如针的，充满针的"
+    ],
+    "usphone": "[ˈnidli]",
+    "ukphone": "[ˈniːdlɪ]"
+  },
+  {
+    "name": "nightclub",
+    "trans": [
+      "n. 夜总会",
+      "vi. 去夜总会"
+    ],
+    "usphone": "[ˈnaɪtklʌb]",
+    "ukphone": "[ˈnaɪtklʌb]"
+  },
+  {
+    "name": "nightlife",
+    "trans": [
+      "n. 夜生活"
+    ],
+    "usphone": "[ˈnaɪtlaɪf]",
+    "ukphone": "[ˈnaɪtlaɪf]"
+  },
+  {
+    "name": "notepaper",
+    "trans": [
+      "n. 信纸；便条纸；笔记用纸"
+    ],
+    "usphone": "[ˈnoʊtpeɪpər]",
+    "ukphone": "[ˈnəʊtpeɪpə(r)]"
+  },
+  {
+    "name": "newsagent",
+    "trans": [
+      "n. 报刊经销商"
+    ],
+    "usphone": "[ˈnuːzeɪdʒənt]",
+    "ukphone": "[ˈnjuːzeɪdʒənt]"
+  },
+  {
+    "name": "navy blue",
+    "trans": [
+      "adj. 海军蓝的；深蓝的"
+    ],
+    "usphone": "[ˌneɪvi ˈbluː]",
+    "ukphone": "[ˌneɪvi ˈbluː]"
+  },
+  {
+    "name": "no-holds-barred",
+    "trans": [
+      "adj. 无拘无束；没有任何限制的"
+    ],
+    "usphone": "['nəu'həuldz'bɑ:d]",
+    "ukphone": "[ˌnəʊˌhəʊldzˈbɑːd]"
+  },
+  {
+    "name": "neuroscientist",
+    "trans": [
+      "n. 神经系统科学家"
+    ],
+    "usphone": "[ˈnʊroʊsaɪəntɪst]",
+    "ukphone": "[ˈnjʊərəʊsaɪəntɪst]"
+  },
+  {
+    "name": "nourishing",
+    "trans": [
+      "adj. 有营养的；滋养多的",
+      "v. 滋养；养育（nourish的ing形式）"
+    ],
+    "usphone": "[ˈnɜːrɪʃɪŋ]",
+    "ukphone": "[ˈnʌrɪʃɪŋ]"
+  },
+  {
+    "name": "notoriously",
+    "trans": [
+      "adv. 众所周知地；声名狼藉地；恶名昭彰地"
+    ],
+    "usphone": "[noʊˈtɔːriəsli]",
+    "ukphone": "[nəʊˈtɔːriəsli]"
+  },
+  {
+    "name": "neatness",
+    "trans": [
+      "n. 干净，整洁"
+    ],
+    "usphone": "[ˈniːtnəs]",
+    "ukphone": "[ˈniːtnəs]"
+  },
+  {
+    "name": "nonpolitical",
+    "trans": [
+      "adj. 非政治性的"
+    ],
+    "usphone": "[nɑːnpəˈlɪtɪkl]",
+    "ukphone": "[ˌnɒnpəˈlɪtɪkəl]"
+  },
+  {
+    "name": "nonrefundable",
+    "trans": [
+      "adj. 不可归还的"
+    ],
+    "usphone": "[ˌnɑːnrɪˈfʌndəbl]",
+    "ukphone": "[ˌnɒnrɪˈfʌndəbl]"
+  },
+  {
+    "name": "noticeably",
+    "trans": [
+      "adv. 显著地，明显地；引人注目地"
+    ],
+    "usphone": "[ˈnoʊtɪsəbli]",
+    "ukphone": "[ˈnəʊtɪsəbli]"
+  },
+  {
+    "name": "numerate",
+    "trans": [
+      "vt. 数，列举；读（数）",
+      "adj. 识数的，会计算的"
+    ],
+    "usphone": "[ˈnuːmərət]",
+    "ukphone": "[ˈnjuːmərət]"
+  },
+  {
+    "name": "No.",
+    "trans": [
+      "adv. 没有；无；并不；禁止",
+      "int. 没有；不是；不要；（用于否定的回答或陈述）不",
+      "adj. 禁止；(一个也)没有；一点儿也没有；什么也[谁也]没有",
+      "n. 否定的回答；作否定回答的人；（统称）投反对票者",
+      "abbr. 【化】同“nobelium”(=number)"
+    ],
+    "usphone": "[ˈnʌmbər]",
+    "ukphone": "[ˈnʌmbə(r)]"
+  },
+  {
+    "name": "native-born",
+    "trans": [
+      "adj. 土生土长的；土著的"
+    ],
+    "usphone": "['neitiv'bɔ:n]",
+    "ukphone": "['neitiv'bɔ:n]"
+  },
+  {
+    "name": "needlessly",
+    "trans": [
+      "adv. 不必要地；无用地"
+    ],
+    "usphone": "[ˈniːdləsli]",
+    "ukphone": "[ˈniːdləsli]"
+  },
+  {
+    "name": "neurologist",
+    "trans": [
+      "神经学家；神经科专门医师"
+    ],
+    "usphone": "[nʊˈrɑːlədʒɪst]",
+    "ukphone": "[njʊəˈrɒlədʒɪst]"
+  },
+  {
+    "name": "nightfall",
+    "trans": [
+      "n. 黄昏；傍晚；日暮"
+    ],
+    "usphone": "[ˈnaɪtfɔːl]",
+    "ukphone": "[ˈnaɪtfɔːl]"
+  },
+  {
+    "name": "noisily",
+    "trans": [
+      "adv. 吵闹地，喧闹地"
+    ],
+    "usphone": "[ˈnɔɪzɪli]",
+    "ukphone": "[ˈnɔɪzɪli]"
+  },
+  {
+    "name": "noisiness",
+    "trans": [
+      "n. 吵闹; 噪度"
+    ],
+    "usphone": "[ˈnɔɪzɪnɪs]",
+    "ukphone": "[ˈnɔɪzinɪs]"
+  },
+  {
+    "name": "non-standard",
+    "trans": [
+      "adj. 不标准的，不规范的（词、发音）"
+    ],
+    "usphone": "[ˌnɑːn ˈstændərd]",
+    "ukphone": "[ˌnɒn ˈstændəd]"
+  },
+  {
+    "name": "NASA",
+    "trans": [
+      "abbr. 美国国家航空和宇宙航行局（National Aeronautics and Space Administration）"
+    ],
+    "usphone": "[ˈnæsə]",
+    "ukphone": "[ˈnæsə]"
+  },
+  {
+    "name": "numbers",
+    "trans": [
+      "n. [数] 数字（number的复数）；算术"
+    ],
+    "usphone": "[ˈnʌmbərz]",
+    "ukphone": "[ˈnʌmbəz]"
+  },
+  {
+    "name": "numeral",
+    "trans": [
+      "n. 数字",
+      "adj. 数字的；表示数字的"
+    ],
+    "usphone": "[ˈnuːmərəl]",
+    "ukphone": "[ˈnjuːmərəl]"
+  },
+  {
+    "name": "newborn",
+    "trans": [
+      "adj. 新生的；再生的",
+      "n. 婴儿"
+    ],
+    "usphone": "[ˈnuːbɔːrn]",
+    "ukphone": "[ˈnjuːbɔːn]"
+  },
+  {
+    "name": "nightingale",
+    "trans": [
+      "n. 夜莺"
+    ],
+    "usphone": "[ˈnaɪtɪŋɡeɪl]",
+    "ukphone": "[ˈnaɪtɪŋɡeɪl]"
+  },
+  {
+    "name": "newscast",
+    "trans": [
+      "n. 新闻广播"
+    ],
+    "usphone": "[ˈnuːzkæst]",
+    "ukphone": "[ˈnjuːzkɑːst]"
+  },
+  {
+    "name": "nightgown",
+    "trans": [
+      "n. 睡衣（等于dressing gown或nightdress）"
+    ],
+    "usphone": "[ˈnaɪtɡaʊn]",
+    "ukphone": "[ˈnaɪtɡaʊn]"
+  },
+  {
+    "name": "neath",
+    "trans": [
+      "prep. 在…之下"
+    ],
+    "usphone": "[niːθ]",
+    "ukphone": "[niːθ]"
+  },
+  {
+    "name": "natural selection",
+    "trans": [
+      "n. 自然选择；物竞天择"
+    ],
+    "usphone": "[ˌnætʃrəl sɪˈlekʃn]",
+    "ukphone": "[ˌnætʃrəl sɪˈlekʃən]"
+  },
+  {
+    "name": "nauseating",
+    "trans": [
+      "adj. 令人恶心的；厌恶的",
+      "v. 使恶心（nauseate的ing形式）"
+    ],
+    "usphone": "[ˈnɔːzieɪtɪŋˌˈnɔːsieɪtɪŋ]",
+    "ukphone": "[ˈnɔːzieɪtɪŋ; ˈnɔːsieɪtɪŋ]"
+  },
+  {
+    "name": "neurotransmitter",
+    "trans": [
+      "n. [生理] 神经递质；[生理] 神经传递素"
+    ],
+    "usphone": "[ˈnʊroʊtrænzmɪtər]",
+    "ukphone": "[ˈnjʊərəʊtrænzmɪtə(r)]"
+  },
+  {
+    "name": "newlywed",
+    "trans": [
+      "adj. 新婚的",
+      "n. 新婚夫妇"
+    ],
+    "usphone": "[ˈnuːliˌwed]",
+    "ukphone": "[ˈnjuːliwed]"
+  },
+  {
+    "name": "nonrenewable",
+    "trans": [
+      "adj. 不可再生的；不可更新的"
+    ],
+    "usphone": "[ˌnɑːnrɪˈnuːəbl]",
+    "ukphone": "[nɔnri'nju:əbl]"
+  },
+  {
+    "name": "notum",
+    "trans": [
+      "n. 背板（昆虫的背片）"
+    ],
+    "usphone": "[ˈnoʊtəm]",
+    "ukphone": "[ˈnəʊtəm]"
+  },
+  {
+    "name": "neuromuscular",
+    "trans": [
+      "adj. [解剖] 神经肌肉的"
+    ],
+    "usphone": "[ˌnʊroʊˈmʌskjələr]",
+    "ukphone": "[ˌnjʊərəʊˈmʌskjʊlə(r)]"
+  },
+  {
+    "name": "neurotoxic",
+    "trans": [
+      "adj. 毒害神经的"
+    ],
+    "usphone": "[ˌnjʊroʊˈtɑːksɪk]",
+    "ukphone": "[ˌnjʊərəʊˈtɒksɪk]"
+  },
+  {
+    "name": "nutcracker",
+    "trans": [
+      "n. 胡桃钳；星鸦；瘪嘴"
+    ],
+    "usphone": "[ˈnʌtkrækər]",
+    "ukphone": "[ˈnʌtkrækə(r)]"
+  },
+  {
+    "name": "nonpolluting",
+    "trans": [
+      "adj. 不会引起污染的"
+    ],
+    "usphone": "[ˈnɑːnpəˈlutɪŋ]",
+    "ukphone": "[ˌnɒnpəˈluːtɪŋ]"
+  },
+  {
+    "name": "naturopathy",
+    "trans": [
+      "n. 物理疗法"
+    ],
+    "usphone": "[ˌneɪtʃəˈrɑːpəθi]",
+    "ukphone": "[ˌneɪtʃəˈrɒpəθi]"
+  },
+  {
+    "name": "naevus",
+    "trans": [
+      "n. 痣"
+    ],
+    "usphone": "[ˈnɪvəs]",
+    "ukphone": "[ˈniːvəs]"
+  },
+  {
+    "name": "nugget",
+    "trans": [
+      "n. 天然金块，矿块；珍闻，珍品"
+    ],
+    "usphone": "[ˈnʌɡɪt]",
+    "ukphone": "[ˈnʌɡɪt]"
+  },
+  {
+    "name": "name-calling",
+    "trans": [
+      "n. 骂人，中伤"
+    ],
+    "usphone": "[ˈneɪm kɔːlɪŋ]",
+    "ukphone": "[ˈneɪm kɔːlɪŋ]"
+  },
+  {
+    "name": "Neogene",
+    "trans": [
+      "n. & adj.[地]晚第三纪(的),上第三系(的)"
+    ],
+    "usphone": "[ˈniːəˌdʒiːn]",
+    "ukphone": "['ni(:)əudʒi:n]"
+  },
+  {
+    "name": "nutritionally",
+    "trans": [
+      "adv. 滋养地"
+    ],
+    "usphone": "[nuˈtrɪʃənəli]",
+    "ukphone": "[njuˈtrɪʃənəli]"
+  },
+  {
+    "name": "normality",
+    "trans": [
+      "n. 常态；[化学] 当量浓度；[化学] 规定浓度"
+    ],
+    "usphone": "[nɔːrˈmæləti]",
+    "ukphone": "[nɔːˈmæləti]"
+  },
+  {
+    "name": "nonsensical",
+    "trans": [
+      "adj. 无意义的；荒谬的"
+    ],
+    "usphone": "[ˌnɑːnˈsensɪkl]",
+    "ukphone": "[ˌnɒnˈsensɪk(ə)l]"
+  },
+  {
+    "name": "non-stop",
+    "trans": [
+      "adj. 直达的；中途不停的",
+      "adv. 不停地"
+    ],
+    "usphone": "[ˌnɑːn ˈstɑːp]",
+    "ukphone": "[ˌnɒn ˈstɒp]"
+  },
+  {
+    "name": "nest egg",
+    "trans": [
+      "n. 备用的钱；储备金"
+    ],
+    "usphone": "[ˈnest eɡ]",
+    "ukphone": "[ˈnest eɡ]"
+  },
+  {
+    "name": "nonstandard",
+    "trans": [
+      "adj. 不标准的"
+    ],
+    "usphone": "[ˌnɑːnˈstændərd]",
+    "ukphone": "[nɒnˈstændəd]"
+  },
+  {
+    "name": "net friend",
+    "trans": [
+      " 网友；网友交流；网络朋友"
+    ],
+    "usphone": "[net frend]",
+    "ukphone": "[net frend]"
+  },
+  {
+    "name": "Neet",
+    "trans": [
+      "n. 啃老族（=Not in Education, Employment or Training）"
+    ],
+    "usphone": "[niːt]",
+    "ukphone": "[niːt]"
+  },
+  {
+    "name": "nonscheduled",
+    "trans": [
+      "adj. 不定期的"
+    ],
+    "usphone": "[nɑːnˈskedʒuːld]",
+    "ukphone": "[ˌnɒnˈʃedjuːld]"
+  },
+  {
+    "name": "Nile",
+    "trans": [
+      "n. 尼罗河（位于非洲）"
+    ],
+    "usphone": "[naɪl]",
+    "ukphone": "[naɪl]"
+  },
+  {
+    "name": "natural wastage",
+    "trans": [
+      "n. 自然减员"
+    ],
+    "usphone": "[ˌnætʃrəl ˈweɪstɪdʒ]",
+    "ukphone": "[ˌnætʃrəl ˈweɪstɪdʒ]"
+  },
+  {
+    "name": "news-agent",
+    "trans": [
+      "n. 报刊经销商"
+    ],
+    "usphone": "[ˈnuːzeɪdʒənt]",
+    "ukphone": "[ˈnjuːzeɪdʒənt]"
+  },
+  {
+    "name": "nosedive",
+    "trans": [
+      "vi. 俯冲；暴跌；突然变坏",
+      "n. （价格等的）急降，暴跌；（飞机的）俯冲；（名声）低落；（情况）突然变坏"
+    ],
+    "usphone": "[ˈnoʊzdaɪv]",
+    "ukphone": "[ˈnəʊzdaɪv]"
+  },
+  {
+    "name": "numismatic",
+    "trans": [
+      "adj. 钱币的；钱币学的；奖章的"
+    ],
+    "usphone": "[ˌnuːmɪzˈmætɪk]",
+    "ukphone": "[ˌnjuːmɪzˈmætɪk]"
+  },
+  {
+    "name": "nationalistic",
+    "trans": [
+      "adj. 民族主义的；国家的"
+    ],
+    "usphone": "[ˌnæʃnəˈlɪstɪk]",
+    "ukphone": "[ˌnæʃnəˈlɪstɪk]"
+  },
+  {
+    "name": "noradrenaline",
+    "trans": [
+      "n. 去甲肾上腺素；降肾上腺素（等于noradrenalin）"
+    ],
+    "usphone": "[ˌnɔːrəˈdrenəlɪn]",
+    "ukphone": "[ˌnɔːrəˈdren(ə)lɪn]"
+  },
+  {
+    "name": "nettle",
+    "trans": [
+      "vt. 刺激；惹恼；用荨麻刺",
+      "n. 荨麻",
+      "adj. 荨麻科的"
+    ],
+    "usphone": "[ˈnetl]",
+    "ukphone": "[ˈnetl]"
+  },
+  {
+    "name": "nauseate",
+    "trans": [
+      "vi. 作呕；厌恶；产生恶感",
+      "vt. 使厌恶；使恶心；使作呕"
+    ],
+    "usphone": "[ˈnɔːzieɪtˌˈnɔːsieɪt]",
+    "ukphone": "[ˈnɔːzieɪt]"
+  },
+  {
+    "name": "neophyte",
+    "trans": [
+      "n. 新信徒；新入教者；初学者"
+    ],
+    "usphone": "[ˈniːəfaɪt]",
+    "ukphone": "[ˈniːəfaɪt]"
+  },
+  {
+    "name": "nitpick",
+    "trans": [
+      "vi. 挑剔；吹毛求疵",
+      "vt. 对…吹毛求疵"
+    ],
+    "usphone": "[ˈnɪtˌpɪk]",
+    "ukphone": "[ˈnɪtpɪk]"
+  },
+  {
+    "name": "nullification",
+    "trans": [
+      "n. 无效；废弃；取消；（美）州对联邦法令的拒绝执行或承认"
+    ],
+    "usphone": "[ˌnʌləfəˈkeɪʃən]",
+    "ukphone": "[ˌnʌlɪfɪˈkeɪʃən]"
+  },
+  {
+    "name": "numinous",
+    "trans": [
+      "adj. 精神上的；超自然的；神圣的；庄严的"
+    ],
+    "usphone": "[ˈnuːmɪnəs]",
+    "ukphone": "[ˈnjuːmɪnəs]"
+  },
+  {
+    "name": "naysay",
+    "trans": [
+      "vt. 拒绝；否认",
+      "n. 拒绝；否认"
+    ],
+    "usphone": "[ˈneɪseɪ]",
+    "ukphone": "[ˈneɪseɪ]"
+  },
+  {
+    "name": "nugatory",
+    "trans": [
+      "adj. 无价值的；琐碎的；无效的；无法律效力的"
+    ],
+    "usphone": "[ˈnuːɡətɔːri]",
+    "ukphone": "[ˈnjuːɡətəri]"
+  },
+  {
+    "name": "negativity",
+    "trans": [
+      "n. 否定性；消极性"
+    ],
+    "usphone": "[ˌneɡəˈtɪvəti]",
+    "ukphone": "[ˌneɡəˈtɪvəti]"
+  },
+  {
+    "name": "noonday",
+    "trans": [
+      "n. 中午",
+      "adj. 正午的（等于midday）"
+    ],
+    "usphone": "[ˈnuːndeɪ]",
+    "ukphone": "[ˈnuːndeɪ]"
+  },
+  {
+    "name": "Noah",
+    "trans": [
+      "n. 诺亚（圣经人物）"
+    ],
+    "usphone": "[ˈnoʊə]",
+    "ukphone": "[ˈnəʊə]"
+  },
+  {
+    "name": "nutty",
+    "trans": [
+      "adj. 多坚果的；产坚果的；古怪的"
+    ],
+    "usphone": "[ˈnʌti]",
+    "ukphone": "[ˈnʌti]"
+  },
+  {
+    "name": "nave",
+    "trans": [
+      "n. （教堂的）中殿；（铁路车站等建筑的）中央广场；车轮的中心部"
+    ],
+    "usphone": "[neɪv]",
+    "ukphone": "[neɪv]"
+  },
+  {
+    "name": "nook",
+    "trans": [
+      "n. 角落；隐匿处；核武器；凹处"
+    ],
+    "usphone": "[nʊk]",
+    "ukphone": "[nʊk]"
+  },
+  {
+    "name": "non-smoker",
+    "trans": [
+      "n. 不吸烟的人"
+    ],
+    "usphone": "[ˌnɑːn ˈsmoʊkər]",
+    "ukphone": "[ˌnɒn ˈsməʊkə(r)]"
+  },
+  {
+    "name": "nonviolence",
+    "trans": [
+      "n. 非暴力；非暴力事件"
+    ],
+    "usphone": "[ˌnɑːnˈvaɪələns]",
+    "ukphone": "[ˌnɒnˈvaɪələns]"
+  },
+  {
+    "name": "Nobel",
+    "trans": [
+      "n. 诺贝尔（瑞典化学家及发明家，发明炸药，创设诺贝奖）；诺贝尔（姓氏）"
+    ],
+    "usphone": "[noʊˈbel]",
+    "ukphone": "[nəʊˈbel]"
+  },
+  {
+    "name": "nagging",
+    "trans": [
+      "adj. 唠叨的；挑剔的；使人不得安宁的",
+      "n. 唠叨；挑剔",
+      "v. 唠叨（nag的ing形式）"
+    ],
+    "usphone": "[ˈnæɡɪŋ]",
+    "ukphone": "[ˈnæɡɪŋ]"
+  },
+  {
+    "name": "noose",
+    "trans": [
+      "n. 套索；束缚；绞刑",
+      "vt. 用套索捉；使落入圈套"
+    ],
+    "usphone": "[nuːs]",
+    "ukphone": "[nuːs]"
+  },
+  {
+    "name": "nursemaid",
+    "trans": [
+      "n. 育婴女佣"
+    ],
+    "usphone": "[ˈnɜːrsmeɪd]",
+    "ukphone": "[ˈnɜːsmeɪd]"
+  },
+  {
+    "name": "nachos",
+    "trans": [
+      "n. （墨西哥人食用的）烤干酪辣味玉米片（nacho的复数）"
+    ],
+    "usphone": "[ˈnætʃoʊz]",
+    "ukphone": "[ˈnætʃəʊz]"
+  },
+  {
+    "name": "nervously",
+    "trans": [
+      "adv. 神经质地；焦急地；提心吊胆地"
+    ],
+    "usphone": "[ˈnɜːrvəsli]",
+    "ukphone": "[ˈnɜːvəsli]"
+  },
+  {
+    "name": "nineteenth",
+    "trans": [
+      "num. 第十九；十九分之一"
+    ],
+    "usphone": "[ˌnaɪnˈtiːnθ]",
+    "ukphone": "[ˌnaɪnˈtiːnθ]"
+  },
+  {
+    "name": "ninetieth",
+    "trans": [
+      "num. 第九十；九十分之一",
+      "adj. 第九十的；九十分之一的"
+    ],
+    "usphone": "[ˈnaɪntiəθ]",
+    "ukphone": "[ˈnaɪntiəθ]"
+  },
+  {
+    "name": "non-",
+    "trans": [
+      "pref. 非；不；无"
+    ],
+    "usphone": "[nɑːn]",
+    "ukphone": "[nɒn]"
+  },
+  {
+    "name": "Neolithic",
+    "trans": [
+      "adj. [古] 新石器时代的；早先的"
+    ],
+    "usphone": "[ˌniːəˈlɪθɪk]",
+    "ukphone": "[ˌniːəˈlɪθɪk]"
+  },
+  {
+    "name": "numeric",
+    "trans": [
+      "n. 数；数字",
+      "adj. 数值的（等于numerical）；数字的"
+    ],
+    "usphone": "[nuːˈmerɪk]",
+    "ukphone": "[njuːˈmerɪk]"
+  },
+  {
+    "name": "nauseous",
+    "trans": [
+      "adj. 令人作呕的；厌恶的"
+    ],
+    "usphone": "[ˈnɔːʃəs]",
+    "ukphone": "[ˈnɔːziəs]"
+  },
+  {
+    "name": "Norwegian",
+    "trans": [
+      "adj. 挪威的；挪威语的；挪威人的",
+      "n. 挪威语；挪威人"
+    ],
+    "usphone": "[nɔːrˈwiːdʒən]",
+    "ukphone": "[nɔːˈwiːdʒən]"
+  },
+  {
+    "name": "Nigerian",
+    "trans": [
+      "n. 尼日利亚人",
+      "adj. 尼日利亚的；尼日利亚人的"
+    ],
+    "usphone": "[naɪˈdʒɪriən]",
+    "ukphone": "[naɪˈdʒɪəriən]"
+  },
+  {
+    "name": "negotiator",
+    "trans": [
+      "n. 谈判者；磋商者；交涉者"
+    ],
+    "usphone": "[nɪˈɡoʊʃieɪtər]",
+    "ukphone": "[nɪˈɡəʊʃieɪtə(r)]"
+  },
+  {
+    "name": "noctilucent",
+    "trans": [
+      "adj. 夜光的；生物发光的；夜间可见的"
+    ],
+    "usphone": "[ˌnɑːktəˈluːsənt]",
+    "ukphone": "[ˌnɒktɪˈluːsənt]"
+  },
+  {
+    "name": "noninterference",
+    "trans": [
+      "n. 不干扰; 不干涉"
+    ],
+    "usphone": "[ˈnɒnɪntəˈfɪərəns]",
+    "ukphone": "[ˌnɒnɪntəˈfɪərəns]"
+  },
+  {
+    "name": "needless",
+    "trans": [
+      "adj. 不必要的，不需要的；多余的，无用的"
+    ],
+    "usphone": "[ˈniːdləs]",
+    "ukphone": "[ˈniːdləs]"
+  },
+  {
+    "name": "neuroscience",
+    "trans": [
+      "n. 神经系统科学（指神经病学、 神经化学等）"
+    ],
+    "usphone": "[ˈnʊroʊsaɪəns]",
+    "ukphone": "[ˈnjʊərəʊsaɪəns]"
+  },
+  {
+    "name": "netizen",
+    "trans": [
+      "n. 泛指一般的网民"
+    ],
+    "usphone": "[ˈnetɪzn]",
+    "ukphone": "[ˈnetɪzn]"
+  },
+  {
+    "name": "nuclear power",
+    "trans": [
+      "na. 核大国"
+    ],
+    "usphone": "[ˌnuːkliər ˈpaʊər]",
+    "ukphone": "[ˌnjuːkliə ˈpaʊə(r)]"
+  },
+  {
+    "name": "nervousness",
+    "trans": [
+      "n. 神经质；[心理] 神经过敏；紧张不安"
+    ],
+    "usphone": "[ˈnɜːrvəsnəs]",
+    "ukphone": "[ˈnɜːvəsnəs]"
+  },
+  {
+    "name": "nebula",
+    "trans": [
+      "n. 星云；角膜云翳"
+    ],
+    "usphone": "[ˈnebjələ]",
+    "ukphone": "[ˈnebjələ]"
+  },
+  {
+    "name": "nanometer",
+    "trans": [
+      "n. [计量] 纳米（即十亿分之一米）"
+    ],
+    "usphone": "[ˈnænoʊmiːtər]",
+    "ukphone": "[ˈnænəʊmiːtə(r)]"
+  },
+  {
+    "name": "nutriment",
+    "trans": [
+      "n. 营养物；促进生长的东西"
+    ],
+    "usphone": "[ˈnuːtrəmənt]",
+    "ukphone": "[ˈnjuːtrɪmənt]"
+  },
+  {
+    "name": "nematode",
+    "trans": [
+      "adj. 线虫类的",
+      "n. 线虫，线虫类"
+    ],
+    "usphone": "[ˈnemətoʊd]",
+    "ukphone": "[ˈnemətəʊd]"
+  },
+  {
+    "name": "nihilism",
+    "trans": [
+      "n. 虚无主义；无政府主义；恐怖行为"
+    ],
+    "usphone": "[ˈnaɪɪlɪzəm]",
+    "ukphone": "[ˈnaɪɪlɪzəm]"
+  },
+  {
+    "name": "nonbiodegradable",
+    "trans": [
+      "adj. 不能生物降解的"
+    ],
+    "usphone": "[ˌnɑːnˌbaɪoʊdɪˈɡreɪdəbl]",
+    "ukphone": "[ˈnɒnbaɪəʊdɪˈɡreɪdəbl]"
+  },
+  {
+    "name": "nonessential",
+    "trans": [
+      "adj. 非本质的",
+      "n. 不重要的人"
+    ],
+    "usphone": "[ˌnɑːnɪˈsenʃl]",
+    "ukphone": "[ˌnɒnɪˈsenʃəl]"
+  },
+  {
+    "name": "nonstarter",
+    "trans": [
+      "n. 弃权出赛的马，早就无成功希望的人"
+    ],
+    "usphone": "[nɑːnˈstɑːrtər]",
+    "ukphone": "[ˌnɒnˈstɑːtə(r)]"
+  },
+  {
+    "name": "nucleon",
+    "trans": [
+      "n. [高能] 核子"
+    ],
+    "usphone": "[ˈnʊklɪɑn]",
+    "ukphone": "[ˈnjuːklɪɒn]"
+  },
+  {
+    "name": "neutrino",
+    "trans": [
+      "【核物理学】中微子"
+    ],
+    "usphone": "[nuːˈtriːnoʊ]",
+    "ukphone": "[njuːˈtriːnəʊ]"
+  },
+  {
+    "name": "nucleons",
+    "trans": [
+      "n. [高能] 核子"
+    ],
+    "usphone": "[ˈnʊklɪɑn]",
+    "ukphone": "[ˈnjuːklɪɒn]"
+  },
+  {
+    "name": "novocaine",
+    "trans": [
+      "n. 奴佛卡因（一种麻醉药）"
+    ],
+    "usphone": "[ˈnoʊvəkeɪn]",
+    "ukphone": "[ˈnəʊvəkeɪn]"
+  },
+  {
+    "name": "nonnegative",
+    "trans": [
+      "adj. 正的，非负的"
+    ],
+    "usphone": "[nɑːnˈneɡətɪv]",
+    "ukphone": "[ˈnɒnˈneɡətɪv]"
+  },
+  {
+    "name": "nonzero",
+    "trans": [
+      "n. 非零"
+    ],
+    "usphone": "[nɑːnˈzɪroʊ]",
+    "ukphone": "[ˌnɒnˈzɪərəʊ]"
+  },
+  {
+    "name": "nonagon",
+    "trans": [
+      "n. 九边形"
+    ],
+    "usphone": "[ˈnɑːnəɡɑːn]",
+    "ukphone": "[ˈnɒnəɡən]"
+  },
+  {
+    "name": "nanotechnology",
+    "trans": [
+      "n. 纳米技术"
+    ],
+    "usphone": "[ˌnænoʊtekˈnɑːlədʒi]",
+    "ukphone": "[ˌnænəʊtekˈnɒlədʒi]"
+  },
+  {
+    "name": "nosebleed",
+    "trans": [
+      "n. 鼻出血；衄血"
+    ],
+    "usphone": "[ˈnoʊzbliːd]",
+    "ukphone": "[ˈnəʊzbliːd]"
+  },
+  {
+    "name": "Nashville",
+    "trans": [
+      "n. 那什维尔（美国田纳西州首府）"
+    ],
+    "usphone": "[ˈnæʃvɪl]",
+    "ukphone": "[ˈnæʃvɪl]"
+  },
+  {
+    "name": "naturalise",
+    "trans": [
+      "vt. 使入国籍；使归化",
+      "vi. 加入国籍；归化（等于naturalize）"
+    ],
+    "usphone": "[ˈnætʃərəlˌaɪz]",
+    "ukphone": "[ˈnætʃ(ə)rəlaɪz]"
+  },
+  {
+    "name": "nigh",
+    "trans": [
+      "prep. 近于",
+      "adj. 在附近的；直接的",
+      "adv. 几乎；在附近地"
+    ],
+    "usphone": "[naɪ]",
+    "ukphone": "[naɪ]"
+  },
+  {
+    "name": "never-ending",
+    "trans": [
+      "adj. 不停的；无限的"
+    ],
+    "usphone": "[ˌnevər ˈendɪŋ]",
+    "ukphone": "[ˌnevər ˈendɪŋ]"
+  },
+  {
+    "name": "national anthem",
+    "trans": [
+      "n. 国歌"
+    ],
+    "usphone": "[ˌnæʃnəl ˈænθəm]",
+    "ukphone": "[ˌnæʃ(ə)nəl ˈænθəm]"
+  },
+  {
+    "name": "nationalization",
+    "trans": [
+      "n. 国有化；同化，归化"
+    ],
+    "usphone": "[ˌnæʃnələˈzeɪʃn]",
+    "ukphone": "[ˌnæʃnəlaɪˈzeɪʃn]"
+  },
+  {
+    "name": "neckline",
+    "trans": [
+      "n. 领口，领圈"
+    ],
+    "usphone": "[ˈneklaɪn]",
+    "ukphone": "[ˈneklaɪn]"
+  },
+  {
+    "name": "nailbrush",
+    "trans": [
+      "n. 指甲刷"
+    ],
+    "usphone": "[ˈneɪlˌbrʌʃ]",
+    "ukphone": "[ˈneɪlbrʌʃ]"
+  },
+  {
+    "name": "Natural Law",
+    "trans": [
+      "n. 自然法（人类行为所基于的道德原则）"
+    ],
+    "usphone": "[ˌnætʃrəl ˈlɔː]",
+    "ukphone": "[ˈnætʃrəl ˈlɔː]"
+  },
+  {
+    "name": "newspaperman",
+    "trans": [
+      "n. 新闻记者；新闻工作者"
+    ],
+    "usphone": "[ˈnuːzpeɪpərmæn]",
+    "ukphone": "[ˈnjuːzpeɪpəmæn]"
+  },
+  {
+    "name": "night school",
+    "trans": [
+      "n. （成人）夜校"
+    ],
+    "usphone": "[ˈnaɪt skuːl]",
+    "ukphone": "[ˈnaɪt skuːl]"
+  },
+  {
+    "name": "newscaster",
+    "trans": [
+      "n. 新闻广播员；新闻评论广播员"
+    ],
+    "usphone": "[ˈnuːzkæstər]",
+    "ukphone": "[ˈnjuːzkɑːstə(r)]"
+  },
+  {
+    "name": "nut shell",
+    "trans": [
+      " 坚果壳；山核桃壳；水果皮帽"
+    ],
+    "usphone": "[nʌt ʃel]",
+    "ukphone": "[nʌt ʃel]"
+  },
+  {
+    "name": "ninepins",
+    "trans": [
+      "n. 九柱戏；九柱戏中的木柱（ninepin的复数）"
+    ],
+    "usphone": "[ˈnaɪnpɪnz]",
+    "ukphone": "[ˈnaɪnpɪnz]"
+  },
+  {
+    "name": "Nevada",
+    "trans": [
+      "n. 内华达（美国州名）"
+    ],
+    "usphone": "[nəˈvædə; nəˈvɑːdə]",
+    "ukphone": "[nəˈvɑːdə]"
+  },
+  {
+    "name": "nominalize",
+    "trans": [
+      "vt. 使名词化"
+    ],
+    "usphone": "[ˈnɑːmɪnəlaɪz]",
+    "ukphone": "[ˈnɒmɪnəlaɪz]"
+  },
+  {
+    "name": "nonsexist",
+    "trans": [
+      "adj. 非性歧视的"
+    ],
+    "usphone": "[,nɔn'seksist]",
+    "ukphone": "[ˌnɒnˈseksɪst]"
+  },
+  {
+    "name": "notepad",
+    "trans": [
+      "n. 笔记本；记事手册"
+    ],
+    "usphone": "[ˈnoʊtpæd]",
+    "ukphone": "[ˈnəʊtpæd]"
+  },
+  {
+    "name": "non-negotiable",
+    "trans": [
+      "n. [金融] 不可转让，不能抵押；无商量余地的；不可谈判的"
+    ],
+    "usphone": "[ˌnɑːn nɪˈɡoʊʃiəbl]",
+    "ukphone": "[ˌnɒn nɪˈɡəʊʃiəbl]"
+  },
+  {
+    "name": "NE",
+    "trans": [
+      "adj. 旧姓的；原名的；Niger，尼日尔",
+      "abbr. 不超过…（的）（not exceeding）"
+    ],
+    "usphone": "[en iː]",
+    "ukphone": "[en ˈiː]"
+  },
+  {
+    "name": "natal",
+    "trans": [
+      "adj. 出生的；诞生的；分娩的；出生地的"
+    ],
+    "usphone": "[ˈneɪtl]",
+    "ukphone": "[ˈneɪt(ə)l]"
+  },
+  {
+    "name": "nonchalantly",
+    "trans": [
+      "adv. 冷淡地，漠不关心地"
+    ],
+    "usphone": "[ˌnɑːnʃəˈlɑːntli]",
+    "ukphone": "[ˈnɒnʃələntli]"
+  },
+  {
+    "name": "night owl",
+    "trans": [
+      "n. 夜猫子；喜欢熬夜的人"
+    ],
+    "usphone": "[ˈnaɪt aʊl]",
+    "ukphone": "[ˈnaɪt aʊl]"
+  },
+  {
+    "name": "newsy",
+    "trans": [
+      "adj. 多新闻的；爱闲话的；成话题的",
+      "n. 报童"
+    ],
+    "usphone": "[ˈnuːzi]",
+    "ukphone": "[ˈnjuːzi]"
+  },
+  {
+    "name": "nova",
+    "trans": [
+      "n. [天] 新星"
+    ],
+    "usphone": "[ˈnoʊvə]",
+    "ukphone": "[ˈnəʊvə]"
+  },
+  {
+    "name": "nestling",
+    "trans": [
+      "n. 婴儿；未离巢的雏鸟",
+      "v. 安顿下来；筑巢；把…安置于巢中（nestle的ing形式）"
+    ],
+    "usphone": "[ˈnestlɪŋ]",
+    "ukphone": "[ˈnestlɪŋ]"
+  },
+  {
+    "name": "nostrum",
+    "trans": [
+      "n. 秘方；成药；万能药"
+    ],
+    "usphone": "[ˈnɑːstrəm]",
+    "ukphone": "[ˈnɒstrəm]"
+  },
+  {
+    "name": "numerology",
+    "trans": [
+      "n. 命理学；数字命理学"
+    ],
+    "usphone": "[ˌnuːməˈrɑːlədʒi]",
+    "ukphone": "[ˌnjuːməˈrɒlədʒi]"
+  },
+  {
+    "name": "neologism",
+    "trans": [
+      "n. 新词；新义；新词的使用"
+    ],
+    "usphone": "[niˈɑːlədʒɪzəm]",
+    "ukphone": "[niˈɒlədʒɪzəm]"
+  },
+  {
+    "name": "needlework",
+    "trans": [
+      "n. 刺绣，缝纫；女红的作品"
+    ],
+    "usphone": "[ˈniːdlwɜːrk]",
+    "ukphone": "[ˈniːdlwɜːk]"
+  },
+  {
+    "name": "niggard",
+    "trans": [
+      "adj. 小气的；吝啬的",
+      "n. 吝啬鬼",
+      "vt. 行事吝啬",
+      "vi. 吝啬地对待"
+    ],
+    "usphone": "[ˈnɪɡərd]",
+    "ukphone": "[ˈnɪɡəd]"
+  },
+  {
+    "name": "nonesuch",
+    "trans": [
+      "n. 无以匹敌的人；无双的人",
+      "adj. 无以匹敌的；无与伦比的"
+    ],
+    "usphone": "[ˈnʌnˌsʌtʃ]",
+    "ukphone": "[ˈnʌnˌsʌtʃ]"
+  },
+  {
+    "name": "nonpareil",
+    "trans": [
+      "n. 无可匹敌的人；极品",
+      "adj. 无比的"
+    ],
+    "usphone": "[ˌnɑːnpəˈrel]",
+    "ukphone": "[ˌnɒnpəˈreɪl]"
+  },
+  {
+    "name": "nonflammable",
+    "trans": [
+      "adj. 不燃烧的；不易燃烧的"
+    ],
+    "usphone": "[nɑːnˈflæməbl]",
+    "ukphone": "[ˌnɒnˈflæməbəl]"
+  },
+  {
+    "name": "natation",
+    "trans": [
+      "n. 游泳；游泳术"
+    ],
+    "usphone": "[neˈteʃən]",
+    "ukphone": "[neɪˈteɪʃən]"
+  },
+  {
+    "name": "nonporous",
+    "trans": [
+      "adj. 无孔的，无孔隙的"
+    ],
+    "usphone": "[nɑːnˈpɔːrəs]",
+    "ukphone": "[nɒnˈpɔːrəs]"
+  },
+  {
+    "name": "nubile",
+    "trans": [
+      "adj. 适婚的"
+    ],
+    "usphone": "[ˈnuːblˌˈnuːbaɪl]",
+    "ukphone": "[ˈnjuːbaɪl]"
+  },
+  {
+    "name": "nick",
+    "trans": [
+      "vt. 刻痕于；挑毛病；用刻痕记",
+      "n. 刻痕；缺口",
+      "vi. 刻痕；狙击"
+    ],
+    "usphone": "[nɪk]",
+    "ukphone": "[nɪk]"
+  },
+  {
+    "name": "niggling",
+    "trans": [
+      "adj. 为琐事操心的；过于精细的；琐碎的",
+      "n. 过于琐碎的工作；无关紧要的事",
+      "v. 挑剔（niggle的ing形式）"
+    ],
+    "usphone": "[ˈnɪɡlɪŋ]",
+    "ukphone": "[ˈnɪɡlɪŋ]"
+  },
+  {
+    "name": "nethermost",
+    "trans": [
+      "adj. 最下面的；最低的"
+    ],
+    "usphone": "[ˈneðərˌmoʊst]",
+    "ukphone": "[ˈneðəˌməʊst]"
+  },
+  {
+    "name": "nether",
+    "trans": [
+      "adj. 下面的，下方的；地下的，下界的"
+    ],
+    "usphone": "[ˈneðər]",
+    "ukphone": "[ˈneðə(r)]"
+  },
+  {
+    "name": "notability",
+    "trans": [
+      "n. 显著；显要人物"
+    ],
+    "usphone": "[ˌnotəˈbɪləti]",
+    "ukphone": "[ˌnəʊtəˈbɪlɪti]"
+  },
+  {
+    "name": "nipping",
+    "trans": [
+      "adj. 锋利的；刺骨的；尖酸刻薄的",
+      "v. 夹紧；阻止…的成长；造成冻伤（nip的ing形式）"
+    ],
+    "usphone": "[ˈnɪpɪŋ]",
+    "ukphone": "[ˈnɪpɪŋ]"
+  },
+  {
+    "name": "nepotism",
+    "trans": [
+      "n. 裙带关系；起用亲戚"
+    ],
+    "usphone": "[ˈnepətɪzəm]",
+    "ukphone": "[ˈnepətɪzəm]"
+  },
+  {
+    "name": "nemesis",
+    "trans": [
+      "n. 报应；给与惩罚的人；天罚",
+      "n. 主要敌人，强硬对手"
+    ],
+    "usphone": "[ˈneməsɪs]",
+    "ukphone": "[ˈneməsɪs]"
+  },
+  {
+    "name": "necessitous",
+    "trans": [
+      "adj. 贫困的，贫穷的；紧急的"
+    ],
+    "usphone": "[nəˈsesɪtəs]",
+    "ukphone": "[nɪˈsesɪtəs]"
+  },
+  {
+    "name": "nonviable",
+    "trans": [
+      "adj. 不能存活的；无法自力生活或发展的"
+    ],
+    "usphone": "[nɑːnˈvaɪəbl]",
+    "ukphone": "[nɒnˈvaɪəb(ə)l]"
+  },
+  {
+    "name": "necropolis",
+    "trans": [
+      "n. 大墓地；史前时期的坟场"
+    ],
+    "usphone": "[nəˈkrɑːpəlɪs]",
+    "ukphone": "[nəˈkrɒpəlɪs]"
+  },
+  {
+    "name": "nucleate",
+    "trans": [
+      "adj. 有核的",
+      "vt. 使成核",
+      "vi. 成核"
+    ],
+    "usphone": "[ˈnjʊklɪɪt]",
+    "ukphone": "[ˈnjuːklɪeɪt]"
+  },
+  {
+    "name": "nominally",
+    "trans": [
+      "adv. 名义上地；有名无实地"
+    ],
+    "usphone": "[ˈnɑːmɪnəli]",
+    "ukphone": "[ˈnɒmɪnəli]"
+  },
+  {
+    "name": "Nepalese",
+    "trans": [
+      "n. 尼泊尔人",
+      "adj. 尼泊尔的"
+    ],
+    "usphone": "[ˌnepəˈliz]",
+    "ukphone": "[ˌnepəˈliːz]"
+  },
+  {
+    "name": "notarize",
+    "trans": [
+      "vt. 确认；证明"
+    ],
+    "usphone": "[ˈnoʊtəraɪz]",
+    "ukphone": "[ˈnəʊtəraɪz]"
+  },
+  {
+    "name": "northwards",
+    "trans": [
+      "adv. 向北",
+      "向北的"
+    ],
+    "usphone": "[ˈnɔːrθwərdz]",
+    "ukphone": "[ˈnɔːθwədz]"
+  },
+  {
+    "name": "nappy",
+    "trans": [
+      "n. 尿布",
+      "adj. 起毛的"
+    ],
+    "usphone": "[ˈnæpi]",
+    "ukphone": "[ˈnæpi]"
+  },
+  {
+    "name": "necktie",
+    "trans": [
+      "n. 领带"
+    ],
+    "usphone": "[ˈnektaɪ]",
+    "ukphone": "[ˈnektaɪ]"
+  },
+  {
+    "name": "naturalisation",
+    "trans": [
+      "n. 归化, 移入"
+    ],
+    "usphone": "[ˌnætʃərələˈzeɪʃən]",
+    "ukphone": "[ˌnætʃərəlɪˈzeɪʃən]"
+  },
+  {
+    "name": "nutshell",
+    "trans": [
+      "n. 坚果的外壳；小的东西，小容器",
+      "vt. 概括"
+    ],
+    "usphone": "[ˈnʌtʃel]",
+    "ukphone": "[ˈnʌtʃel]"
+  },
+  {
+    "name": "nobleman",
+    "trans": [
+      "n. 贵族"
+    ],
+    "usphone": "[ˈnoʊblmən]",
+    "ukphone": "[ˈnəʊblmən]"
+  },
+  {
+    "name": "nodding",
+    "trans": [
+      "adj. 点头的，低垂的；昏昏欲睡的",
+      "v. 点头；打盹；摆动（nod的ing形式）"
+    ],
+    "usphone": "[ˈnɑːdɪŋ]",
+    "ukphone": "[ˈnɒdɪŋ]"
+  },
+  {
+    "name": "neigh",
+    "trans": [
+      "vi. 马嘶",
+      "n. 马嘶声"
+    ],
+    "usphone": "[neɪ]",
+    "ukphone": "[neɪ]"
+  },
+  {
+    "name": "no-brainer",
+    "trans": [
+      "n. 无需用脑的事；容易的事"
+    ],
+    "usphone": "[ˌnoʊ ˈbreɪnər]",
+    "ukphone": "[ˌnəʊ ˈbreɪnə(r)]"
+  },
+  {
+    "name": "nondurable",
+    "trans": [
+      "n. 非耐久品",
+      "adj. 不耐用的"
+    ],
+    "usphone": "[nɒnˈdjʊrəbəl]",
+    "ukphone": "[ˌnɒnˈdjʊərəbəl]"
+  },
+  {
+    "name": "newt",
+    "trans": [
+      "n. 蝾螈；笨蛋；新手"
+    ],
+    "usphone": "[nuːt]",
+    "ukphone": "[njuːt]"
+  },
+  {
+    "name": "nitrogen cycle",
+    "trans": [
+      "n. 氮循环（各种形式的氮在自然界的循环）"
+    ],
+    "usphone": "[ˈnaɪtrədʒən saɪkl]",
+    "ukphone": "[ˈnaɪtrədʒən saɪkl]"
+  },
+  {
+    "name": "nondegradable",
+    "trans": [
+      "adj. 不可降解的"
+    ],
+    "usphone": "[ˈnɑːndɪˈɡreɪdəbl]",
+    "ukphone": "[ˌnɒndɪˈɡreɪdəbəl]"
+  },
+  {
+    "name": "nonconforming",
+    "trans": [
+      "adj. 不服从的；不信奉国教的；不相容的",
+      "v. 不遵照准则；不信奉国教（nonconform的ing形式）"
+    ],
+    "usphone": "[nɑnkən'fɔrmɪŋ]",
+    "ukphone": "[ˌnɒnkənˈfɔːmɪŋ]"
+  },
+  {
+    "name": "nakedly",
+    "trans": [
+      "adv. 裸体地；露出地"
+    ],
+    "usphone": "[ˈneɪkɪdli]",
+    "ukphone": "[ˈneɪkɪdli]"
+  },
+  {
+    "name": "Noel",
+    "trans": [
+      "n. 诺埃尔（姓氏）；圣诞节"
+    ],
+    "usphone": "[noʊˈel]",
+    "ukphone": "[nəʊˈel]"
+  },
+  {
+    "name": "nettlesome",
+    "trans": [
+      "adj. 令人激恼的；易怒的；烦人的"
+    ],
+    "usphone": "[ˈnetlsəm]",
+    "ukphone": "[ˈnetlsəm]"
+  },
+  {
+    "name": "next month",
+    "trans": [
+      "na. 下一个月"
+    ],
+    "usphone": "[nekst mʌnθ]",
+    "ukphone": "[nekst mʌnθ]"
+  },
+  {
+    "name": "next week",
+    "trans": [
+      "na. 下星期"
+    ],
+    "usphone": "[nekst wiːk]",
+    "ukphone": "[nekst wi:k]"
+  },
+  {
+    "name": "neurobiology",
+    "trans": [
+      "n. 神经生物学"
+    ],
+    "usphone": "[ˌnʊroʊˌbaɪˈɑːlədʒi]",
+    "ukphone": "[ˌnjʊərəʊˌbaɪˈɒlədʒi]"
+  },
+  {
+    "name": "neo-Nazi",
+    "trans": [
+      " 新纳粹；新纳粹分子；新纳粹组织"
+    ],
+    "usphone": "[ˌnioˈnætsi]",
+    "ukphone": "[,ni:əu'nɑ:tsi; -'nætsi]"
+  },
+  {
+    "name": "nail-biting",
+    "trans": [
+      "n. 束手无策；咬指甲癖"
+    ],
+    "usphone": "[ˈneɪl baɪtɪŋ]",
+    "ukphone": "[ˈneɪl baɪtɪŋ]"
+  },
+  {
+    "name": "nonviolent",
+    "trans": [
+      "adj. 非暴力的",
+      "不使用暴力的"
+    ],
+    "usphone": "[ˌnɑːnˈvaɪələnt]",
+    "ukphone": "[ˌnɒnˈvaɪələnt]"
+  },
+  {
+    "name": "no-nonsense",
+    "trans": [
+      "adj. 严肃的；实际的"
+    ],
+    "usphone": "[ˌnoʊ ˈnɑːnsensˌˌnoʊ ˈnɑːnsns]",
+    "ukphone": "[ˌnəʊ ˈnɒnsns]"
+  },
+  {
+    "name": "neighbourly",
+    "trans": [
+      "adj. 像邻居的；亲切的；睦邻的"
+    ],
+    "usphone": "[ˈneɪbərli]",
+    "ukphone": "[ˈneɪbəli]"
+  },
+  {
+    "name": "nominative",
+    "trans": [
+      "adj. 主格的；记名的；被提名的",
+      "n. 主格"
+    ],
+    "usphone": "[ˈnɑːmɪnətɪv]",
+    "ukphone": "[ˈnɒmɪnətɪv]"
+  },
+  {
+    "name": "northernmost",
+    "trans": [
+      "adj. 最北的"
+    ],
+    "usphone": "[ˈnɔːrðərnmoʊst]",
+    "ukphone": "[ˈnɔːðənməʊst]"
+  },
+  {
+    "name": "Nebraska",
+    "trans": [
+      "n. 内布拉斯加州"
+    ],
+    "usphone": "[nəˈbræskə]",
+    "ukphone": "[nəˈbræskə]"
+  },
+  {
+    "name": "neo",
+    "trans": [
+      "abbr. 近地轨道（near earth orbit）"
+    ],
+    "usphone": "[ˈniːoʊ]",
+    "ukphone": "[ˈniːəʊ]"
+  },
+  {
+    "name": "nerdy",
+    "trans": [
+      "adj. 书呆子式的",
+      "n. 令人厌烦的人"
+    ],
+    "usphone": "[ˈnɜːrdi]",
+    "ukphone": "[ˈnɜːdi]"
+  },
+  {
+    "name": "neutrally",
+    "trans": [
+      "adv. 中立；保持中立"
+    ],
+    "usphone": "[ˈnuːtrəli]",
+    "ukphone": "[ˈnjuːtrəli]"
+  },
+  {
+    "name": "Newcastle",
+    "trans": [
+      "n. 纽卡斯尔（英国港市）"
+    ],
+    "usphone": "[ˈnjʊˌkæsl]",
+    "ukphone": "[ˈnjuːkɑːsl]"
+  },
+  {
+    "name": "nobly",
+    "trans": [
+      "adv. 崇高地；高贵地；华丽地；豪爽地"
+    ],
+    "usphone": "[ˈnoʊbli]",
+    "ukphone": "[ˈnəʊbli]"
+  },
+  {
+    "name": "nonattendance",
+    "trans": [
+      "n. 不出席"
+    ],
+    "usphone": "[ˌnɑːnəˈtendəns]",
+    "ukphone": "[ˌnɒnəˈtendəns]"
+  },
+  {
+    "name": "noninvasive",
+    "trans": [
+      "adj. 非侵袭的；非侵害的"
+    ],
+    "usphone": "[ˌnɑːnɪnˈveɪsɪv]",
+    "ukphone": "[ˌnɒnɪn'veɪsɪv]"
+  },
+  {
+    "name": "nonlinear",
+    "trans": [
+      "adj. 非线性的"
+    ],
+    "usphone": "[ˌnɑːnˈlɪniər]",
+    "ukphone": "[nɒn'lɪnɪə]"
+  },
+  {
+    "name": "nonrandom",
+    "trans": [
+      "adj. 非随机的"
+    ],
+    "usphone": "[ˌnɑːnˈrændəm]",
+    "ukphone": "[ˌnɒnˈrændəm]"
+  },
+  {
+    "name": "nonsexual",
+    "trans": [
+      "adj. 无性别的；无性的；无性生物特有的"
+    ],
+    "usphone": "[nɔn'seksjuəl, -ʃuəl]",
+    "ukphone": "[nɒnˈseksjʊəl]"
+  },
+  {
+    "name": "Norris",
+    "trans": [
+      "n. 诺里斯(m.)"
+    ],
+    "usphone": "[ˈnɔːrɪs]",
+    "ukphone": "[ˈnɔːrɪs]"
+  },
+  {
+    "name": "Nottingham",
+    "trans": [
+      "n. 诺丁汉（英国一城市）"
+    ],
+    "usphone": "[ˈnɑːtɪŋhæm; ˈnɑːtɪŋəm]",
+    "ukphone": "[ˈnɒtɪŋəm]"
+  },
+  {
+    "name": "nymphal",
+    "trans": [
+      "adj. 仙女的; 幼虫的，蛹的"
+    ],
+    "usphone": "[ˈnɪmfəl]",
+    "ukphone": "[ˈnɪmfəl]"
+  },
+  {
+    "name": "nightjar",
+    "trans": [
+      "n. 欧夜鹰；蚊母鹰"
+    ],
+    "usphone": "[ˈnaɪtdʒɑːr]",
+    "ukphone": "[ˈnaɪtdʒɑː(r)]"
+  },
+  {
+    "name": "nectary",
+    "trans": [
+      "n. 蜜槽，蜜腺，蜜管"
+    ],
+    "usphone": "[ˈnektəri]",
+    "ukphone": "[ˈnekt(ə)rɪ]"
+  },
+  {
+    "name": "nystatin",
+    "trans": [
+      "n. 制霉菌素，制真菌素（一种抗霉菌药）"
+    ],
+    "usphone": "[ˈnɪstətɪn]",
+    "ukphone": "[ˈnɪstətɪn]"
+  },
+  {
+    "name": "needlefish",
+    "trans": [
+      "n. 颌针鱼（一种长嘴便鳞的海鱼）"
+    ],
+    "usphone": "[ˈniːdəlˌfɪʃ]",
+    "ukphone": "[ˈniːd(ə)lˌfɪʃ]"
+  },
+  {
+    "name": "nonproductive",
+    "trans": [
+      "adj. 非生产性的，对生产无直接关系的"
+    ],
+    "usphone": "[ˌnɑnprəˈdʌktɪv]",
+    "ukphone": "[ˌnɒnprəˈdʌktɪv]"
+  },
+  {
+    "name": "nucleic",
+    "trans": [
+      "adj. 核的"
+    ],
+    "usphone": "[nuːˈkliːɪk; nuːˈkleɪɪk]",
+    "ukphone": "[njuːˈkleɪɪk]"
+  },
+  {
+    "name": "narcosis",
+    "trans": [
+      "n. 麻醉；昏迷状态"
+    ],
+    "usphone": "[nɑːrˈkoʊsɪs]",
+    "ukphone": "[nɑːˈkəʊsɪs]"
+  },
+  {
+    "name": "neurospora",
+    "trans": [
+      "n. 脉孢菌"
+    ],
+    "usphone": "[nʊˈrɑːspərə]",
+    "ukphone": "[njʊˈrɒspərə]"
+  },
+  {
+    "name": "normative",
+    "trans": [
+      "adj. 规范的，标准的"
+    ],
+    "usphone": "[ˈnɔːrmətɪv]",
+    "ukphone": "[ˈnɔːmətɪv]"
+  },
+  {
+    "name": "nonexistent",
+    "trans": [
+      "adj. 不存在的"
+    ],
+    "usphone": "[ˌnɑːnɪɡˈzɪstənt]",
+    "ukphone": "[ˌnɒnɪɡˈzɪstənt]"
+  },
+  {
+    "name": "nonmigratory",
+    "trans": [
+      "adj. 不迁移的"
+    ],
+    "usphone": "[ˌnɑːnˈmaɪɡrətəri]",
+    "ukphone": "[ˌnɒnˈmaɪɡrətəri]"
+  },
+  {
+    "name": "nonfarm",
+    "trans": [
+      "adj. 非农场的，与农场无关的，非农业品的"
+    ],
+    "usphone": "['nɔn'fɑ:m]",
+    "ukphone": "[ˌnɒnˈfɑːm]"
+  },
+  {
+    "name": "nonfood",
+    "trans": [
+      "adj. 非食物的，与食物无关的"
+    ],
+    "usphone": "[ˈnɑnˌfʊd]",
+    "ukphone": "[ˈnɒnˈfuːd]"
+  },
+  {
+    "name": "nonfunctional",
+    "trans": [
+      "无功能的"
+    ],
+    "usphone": "[nɑːnˈfʌŋkʃənl]",
+    "ukphone": "[ˌnɒnˈfʌŋkʃənəl]"
+  },
+  {
+    "name": "nonliving",
+    "trans": [
+      "adj. 无生命的，缺乏生命"
+    ],
+    "usphone": "[nɑːnˈlɪvɪŋ]",
+    "ukphone": "[nɒn'lɪvɪŋ]"
+  },
+  {
+    "name": "nutritive",
+    "trans": [
+      "adj. 有营养的；滋养的；有营养成份的；与营养有关的",
+      "n. 营养物"
+    ],
+    "usphone": "[ˈnuːtrətɪv]",
+    "ukphone": "[ˈnjuːtrətɪv]"
+  },
+  {
+    "name": "nightcap",
+    "trans": [
+      "n. 睡帽；临睡前喝的酒"
+    ],
+    "usphone": "[ˈnaɪtkæp]",
+    "ukphone": "[ˈnaɪtkæp]"
+  },
+  {
+    "name": "nighttime",
+    "trans": [
+      "n. 夜间",
+      "adj. 夜间的；夜里发生的"
+    ],
+    "usphone": "[ˈnaɪtˌtaɪm]",
+    "ukphone": "[ˈnaɪtˌtaɪm]"
+  },
+  {
+    "name": "Nemo",
+    "trans": [
+      "n. 现场转播节目"
+    ],
+    "usphone": "[ˈnimo]",
+    "ukphone": "[ˈniːməʊ]"
+  },
+  {
+    "name": "nesting",
+    "trans": [
+      "n. [计] 嵌套；造巢；镶嵌",
+      "v. 为…筑巢；整天呆在家里；使套入（nest的ing形式）"
+    ],
+    "usphone": "[ˈnestɪŋ]",
+    "ukphone": "[ˈnestɪŋ]"
+  },
+  {
+    "name": "nabob",
+    "trans": [
+      "n. 地方长官（印度莫卧儿帝国时期）；富豪；在印度发财的欧洲人（等于nawab）"
+    ],
+    "usphone": "[ˈneɪbɑːb]",
+    "ukphone": "[ˈneɪbɒb]"
+  },
+  {
+    "name": "nanoparticle",
+    "trans": [
+      "n. 纳米颗粒；毫微粒"
+    ],
+    "usphone": "[ˈnænoʊpɑːrtɪkl]",
+    "ukphone": "[ˈnænəʊpɑːtɪkl]"
+  },
+  {
+    "name": "near-term",
+    "trans": [
+      "adj. 近期的"
+    ],
+    "usphone": "['niətə:m]",
+    "ukphone": "['niətə:m]"
+  },
+  {
+    "name": "nifty",
+    "trans": [
+      "adj. 俏皮的；漂亮的",
+      "n. 俏皮话"
+    ],
+    "usphone": "[ˈnɪfti]",
+    "ukphone": "[ˈnɪfti]"
+  },
+  {
+    "name": "neurosurgeon",
+    "trans": [
+      "n. 神经外科医生"
+    ],
+    "usphone": "[ˈnʊroʊsɜːrdʒən]",
+    "ukphone": "[ˈnjʊərəʊsɜːdʒən]"
+  },
+  {
+    "name": "nontoxic",
+    "trans": [
+      "adj. 无毒的"
+    ],
+    "usphone": "[nɑːnˈtɑːksɪk]",
+    "ukphone": "[ˌnɒnˈtɒksɪk]"
+  },
+  {
+    "name": "nonresident",
+    "trans": [
+      "adj. 不住在住所的",
+      "n. 不住在住所"
+    ],
+    "usphone": "[ˌnɑːnˈrezɪdənt]",
+    "ukphone": "[ˌnɒnˈrezɪdənt]"
+  },
+  {
+    "name": "noneffective",
+    "trans": [
+      "n. 无效；无战斗力",
+      "adj. 无效的；无战斗力的"
+    ],
+    "usphone": "[ˌnɑːnɪˈfektɪv]",
+    "ukphone": "[ˌnɒnɪˈfektɪv]"
+  },
+  {
+    "name": "Nick",
+    "trans": [
+      "vt. 刻痕于；挑毛病；用刻痕记",
+      "n. 刻痕；缺口",
+      "vi. 刻痕；狙击"
+    ],
+    "usphone": "[nɪk]",
+    "ukphone": "[nɪk]"
+  },
+  {
+    "name": "narrow-minded",
+    "trans": [
+      "adj. 狭隘的；心胸狭窄的；有偏见的"
+    ],
+    "usphone": "[ˌnæroʊ ˈmaɪndɪd]",
+    "ukphone": "[ˌnærəʊ ˈmaɪndɪd]"
+  },
+  {
+    "name": "nafcillin",
+    "trans": [
+      "n. [药]乙氧萘(胺)青霉素,新青霉素III, 萘夫西林"
+    ],
+    "usphone": "[ˌnæfˈsɪlɪn]",
+    "ukphone": "[næfˈsɪlɪn]"
+  },
+  {
+    "name": "naloxone",
+    "trans": [
+      "n. 烯丙羟吗啡酮，[药] 纳洛酮（吗啡拮抗药）"
+    ],
+    "usphone": "[ˈnæləkˌsoʊn]",
+    "ukphone": "[nəˈlɒksəʊn]"
+  },
+  {
+    "name": "narcolepsy",
+    "trans": [
+      "n. 嗜眠发作"
+    ],
+    "usphone": "[ˈnɑːrkoʊlepsi]",
+    "ukphone": "[ˈnɑːkəʊlepsi]"
+  },
+  {
+    "name": "naris",
+    "trans": [
+      "n. 鼻孔"
+    ],
+    "usphone": "[ˈnerɪs]",
+    "ukphone": "[ˈneərɪs]"
+  },
+  {
+    "name": "nasogastric",
+    "trans": [
+      "adj. 鼻饲的"
+    ],
+    "usphone": "[neɪzoʊˈɡæstrɪk]",
+    "ukphone": "[ˌneɪzəʊˈɡæstrɪk]"
+  },
+  {
+    "name": "nasopharynx",
+    "trans": [
+      "n. [解剖] 鼻咽"
+    ],
+    "usphone": "[ˌneɪzoʊˈferɪŋks]",
+    "ukphone": "[ˌneɪzəʊˈfærɪŋks]"
+  },
+  {
+    "name": "natriuresis",
+    "trans": [
+      "n. 尿钠排泄"
+    ],
+    "usphone": "[ˌneɪtrəjʊˈriːsɪs]",
+    "ukphone": "[ˌneɪtrɪjʊˈriːsɪs]"
+  },
+  {
+    "name": "nearsightedness",
+    "trans": [
+      "n. 近视眼；目光短浅"
+    ],
+    "usphone": "[ˌnɪrˈsaɪtɪdnəs]",
+    "ukphone": "[ˌnɪəˈsaɪtɪdnəs]"
+  },
+  {
+    "name": "nebulizer",
+    "trans": [
+      "n. 喷雾器"
+    ],
+    "usphone": "[ˈnebjəlaɪzər]",
+    "ukphone": "[ˈnebjəlaɪzə(r)]"
+  },
+  {
+    "name": "necrobiosis",
+    "trans": [
+      "n. 渐进性坏死"
+    ],
+    "usphone": "[ˌnekroʊbaɪˈoʊsɪs]",
+    "ukphone": "[ˌnekrəʊbaɪˈəʊsɪs]"
+  },
+  {
+    "name": "necrose",
+    "trans": [
+      "v. （使）陷于坏死"
+    ],
+    "usphone": "[ˈnekros]",
+    "ukphone": "[neˈkrəʊs]"
+  },
+  {
+    "name": "necrotic",
+    "trans": [
+      "adj. [病理] 坏死的；骨疽的，坏疽的"
+    ],
+    "usphone": "[neˈkrɑːtɪk]",
+    "ukphone": "[neˈkrɒtɪk]"
+  },
+  {
+    "name": "necrotizing",
+    "trans": [
+      "adj. 坏死的；引起坏死的",
+      "n. 坏死（necrotize的ing形式）；使…坏死"
+    ],
+    "usphone": "[ˈnekrətaɪzɪŋ]",
+    "ukphone": "[ˈnekrətaɪzɪŋ]"
+  },
+  {
+    "name": "neomycin",
+    "trans": [
+      "n. [药] 新霉素；新链丝菌素"
+    ],
+    "usphone": "[ˌniːəˈmaɪsɪn; ˌnioʊˈmaɪsɪn]",
+    "ukphone": "[ˌniːəʊˈmaɪsɪn]"
+  },
+  {
+    "name": "neoplasia",
+    "trans": [
+      "n. 瘤形成"
+    ],
+    "usphone": "[ˌnioʊˈpleɪʒə]",
+    "ukphone": "[ˌniːəʊˈpleɪʒə]"
+  },
+  {
+    "name": "neoplasm",
+    "trans": [
+      "n. [医] 赘生物，瘤；[医] 新生物"
+    ],
+    "usphone": "[ˈnioʊplæzəm]",
+    "ukphone": "[ˈniːəʊplæz(ə)m]"
+  },
+  {
+    "name": "neostigmine",
+    "trans": [
+      "n. 新斯的明（治疗青光眼等的药）"
+    ],
+    "usphone": "[ˌniːoʊˈstɪɡmiːn]",
+    "ukphone": "[ˌniːəʊˈstɪɡmiːn]"
+  },
+  {
+    "name": "neovascularization",
+    "trans": [
+      "n. 新血管形成，新血管化"
+    ],
+    "usphone": "[ˈnioˌvæskjʊlərɪˈzeʃən]",
+    "ukphone": "[ˈniːəʊˌvæskjʊləraɪˈzeɪʃən]"
+  },
+  {
+    "name": "nephrectomy",
+    "trans": [
+      "n. [泌尿] 肾切除术"
+    ],
+    "usphone": "[nɪˈfrektəmi]",
+    "ukphone": "[nɪˈfrektəmi]"
+  },
+  {
+    "name": "nephritic",
+    "trans": [
+      "adj. 肾脏的"
+    ],
+    "usphone": "[neˈfrɪtɪk]",
+    "ukphone": "[nɪˈfrɪtɪk]"
+  },
+  {
+    "name": "nephrogenic",
+    "trans": [
+      "a. [医]肾原性的,肾发生的"
+    ],
+    "usphone": "[ˌnefrəˈdʒenɪk]",
+    "ukphone": "[nefrəʊˈdʒenɪk]"
+  },
+  {
+    "name": "nephrolithiasis",
+    "trans": [
+      "n. 肾石病"
+    ],
+    "usphone": "[nefroʊlɪˈθaɪəsɪs]",
+    "ukphone": "[ˌnefrəʊlɪˈθaɪəsɪs]"
+  },
+  {
+    "name": "nephrolithotomy",
+    "trans": [
+      "n. [医] 肾石切开术"
+    ],
+    "usphone": "[nefroʊlɪˈθɑːtəmi]",
+    "ukphone": "[nefrəʊlɪˈθɒtəmi]"
+  },
+  {
+    "name": "nephron",
+    "trans": [
+      "n. 肾单位，肾元"
+    ],
+    "usphone": "[ˈnefrɑn]",
+    "ukphone": "[ˈnefrɒn]"
+  },
+  {
+    "name": "nephropathy",
+    "trans": [
+      "n. [泌尿] 肾病"
+    ],
+    "usphone": "[nɪˈfrɑːpəθi]",
+    "ukphone": "[nɪˈfrɒpəθi]"
+  },
+  {
+    "name": "nephroptosis",
+    "trans": [
+      "n. 肾下垂"
+    ],
+    "usphone": "[nefrɑːpˈtoʊsɪs]",
+    "ukphone": "[ˌnefrɒpˈtəʊsɪs]"
+  },
+  {
+    "name": "nephrosis",
+    "trans": [
+      "n. 肾变病，肾病"
+    ],
+    "usphone": "[nɪˈfroʊsɪs]",
+    "ukphone": "[nɪˈfrəʊsɪs]"
+  },
+  {
+    "name": "nephrotic",
+    "trans": [
+      "adj. 肾病的，肾病变的"
+    ],
+    "usphone": "[nɪˈfrɑːtɪk]",
+    "ukphone": "[nɪˈfrɒtɪk]"
+  },
+  {
+    "name": "neuraminidase",
+    "trans": [
+      "n. 神经氨（糖）酸苷酶，唾液酸苷酶"
+    ],
+    "usphone": "[ˌnʊrəˈmɪnɪˌdes; ˌnʊrəˈmɪnɪˌdez; ˌnjʊrəˈmɪnɪˌdes]",
+    "ukphone": "[ˌnjʊərəˈmɪnɪdeɪz]"
+  },
+  {
+    "name": "neurasthenia",
+    "trans": [
+      "n. [内科] 神经衰弱症"
+    ],
+    "usphone": "[ˌnʊrəsˈθiːniə]",
+    "ukphone": "[ˌnjʊərəsˈθiːniə]"
+  },
+  {
+    "name": "neurilemma",
+    "trans": [
+      "n. 神经膜，神经鞘"
+    ],
+    "usphone": "[ˌnjʊərɪˈlemə]",
+    "ukphone": "[ˌnjʊərɪˈlemə]"
+  },
+  {
+    "name": "neuritis",
+    "trans": [
+      "n. 神经炎"
+    ],
+    "usphone": "[nʊˈraɪtəs]",
+    "ukphone": "[njʊˈraɪtɪs]"
+  },
+  {
+    "name": "neuroblastoma",
+    "trans": [
+      "n. 成神经细胞瘤"
+    ],
+    "usphone": "[ˌnʊroblæˈstomə; ˌnjʊroblæˈstomə]",
+    "ukphone": "[ˌnjʊərə(ʊ)blæˈstəʊmə]"
+  },
+  {
+    "name": "neurodegenerative",
+    "trans": [
+      "adj. 神经变性的"
+    ],
+    "usphone": "[,nju:rəudi'dʒenərətiv]",
+    "ukphone": "[ˌnjʊərə(ʊ)dɪˈdʒen(ə)rətɪv]"
+  },
+  {
+    "name": "neuroendocrine",
+    "trans": [
+      "adj. [生理] 神经内分泌的"
+    ],
+    "usphone": "[ˌnʊroʊˈendoʊˌkrɪn]",
+    "ukphone": "[ˌnjʊərəʊˈendəkrɪn]"
+  },
+  {
+    "name": "neurofibroma",
+    "trans": [
+      "n. 纤维神经瘤"
+    ],
+    "usphone": "[ˌnʊroʊfaɪˈbroʊmə]",
+    "ukphone": "[ˌnjʊərəʊˌfaɪˈbrəʊmə]"
+  },
+  {
+    "name": "neurofibromatosis",
+    "trans": [
+      "n. 多发性神经纤维瘤"
+    ],
+    "usphone": "[njʊroʊfaɪbroʊməˈtoʊsɪs]",
+    "ukphone": "[ˌnjʊərəʊˌfaɪbrəməˈtəʊsɪs]"
+  },
+  {
+    "name": "neurogenesis",
+    "trans": [
+      "n. 神经形成"
+    ],
+    "usphone": "[ˌnʊrəˈdʒenɪsɪs; ˌnjʊrəˈdʒenɪsɪs]",
+    "ukphone": "[ˌnjʊərəʊˈdʒenəsɪs]"
+  },
+  {
+    "name": "neurohumoral",
+    "trans": [
+      " 神经介质的"
+    ],
+    "usphone": "[ˈnʊroʊhjumərəl]",
+    "ukphone": "[ˌnjʊərəʊˈhjuːmərəl]"
+  },
+  {
+    "name": "neuroleptic",
+    "trans": [
+      "adj. 安定（精神）的"
+    ],
+    "usphone": "[ˌnʊrəˈleptɪk; ˌnjʊrəˈleptɪk]",
+    "ukphone": "[ˌnjʊərəʊˈleptɪk]"
+  },
+  {
+    "name": "neuroma",
+    "trans": [
+      "n. [肿瘤] 神经瘤"
+    ],
+    "usphone": "[njʊˈroʊmə]",
+    "ukphone": "[njʊˈrəʊmə]"
+  },
+  {
+    "name": "neuromyelitis",
+    "trans": [
+      "[医] 神经脊髓炎"
+    ],
+    "usphone": "[njʊərəmaɪəˈlaɪtɪz]",
+    "ukphone": "[ˌnjʊərəˈmaɪəˈlaɪtɪs]"
+  },
+  {
+    "name": "neuropathy",
+    "trans": [
+      "n. [内科] 神经病"
+    ],
+    "usphone": "[nʊˈrɑːpəθɪ; njʊˈrɑːpəθɪ]",
+    "ukphone": "[njʊˈrɒpəθi]"
+  },
+  {
+    "name": "neuropeptide",
+    "trans": [
+      "n. [生化] 神经肽"
+    ],
+    "usphone": "[ˌnʊroˈpeptaɪd; ˌnjʊroˈpeptaɪd]",
+    "ukphone": "[ˌnjʊərəʊˈpeptaɪd]"
+  },
+  {
+    "name": "neuropharmacology",
+    "trans": [
+      "n. 神经药理学"
+    ],
+    "usphone": "[ˌnʊroˌfɑrməˈkɑlədʒi; ˌnjʊroˌfɑrməˈkɑlədʒi]",
+    "ukphone": "[ˈnjʊərəʊˌfɑːməˈkɒlədʒɪ]"
+  },
+  {
+    "name": "neuropsychology",
+    "trans": [
+      "n. 神经心理学"
+    ],
+    "usphone": "[ˌnʊrosaɪˈkɑlədʒi; ˌnjʊrosaɪˈkɑlədʒi]",
+    "ukphone": "[ˌnjʊərəʊsaɪˈkɒlədʒi]"
+  },
+  {
+    "name": "neurosurgery",
+    "trans": [
+      "n. [外科] 神经外科"
+    ],
+    "usphone": "[ˈnʊroʊsɜːrdʒəri]",
+    "ukphone": "[ˈnjʊərəʊsɜːdʒəri]"
+  },
+  {
+    "name": "neurotoxicity",
+    "trans": [
+      " 神经毒性"
+    ],
+    "usphone": "[nʊroʊtɑːkˈsɪsɪtɪ]",
+    "ukphone": "[ˌnjʊərəʊtɒkˈsɪsəti]"
+  },
+  {
+    "name": "neutropenia",
+    "trans": [
+      "n. 嗜中性白血球减少症"
+    ],
+    "usphone": "[ˌnjutrəˈpinɪə]",
+    "ukphone": "[ˌnjuːtrəˈpiːnɪə]"
+  },
+  {
+    "name": "neutrophil",
+    "trans": [
+      "adj. 嗜中性的",
+      "n. [组织] 嗜中性粒细胞；[组织] 中性白细胞"
+    ],
+    "usphone": "[ˈnjʊtrəfɪl]",
+    "ukphone": "[ˈnjuːtrəˌfɪl]"
+  },
+  {
+    "name": "neutrophilia",
+    "trans": [
+      " 嗜中性，中性白细胞增多，中性白细胞增多症"
+    ],
+    "usphone": "[njuːtrəˈfɪlɪr]",
+    "ukphone": "[njuːtrəˈfɪlɪə]"
+  },
+  {
+    "name": "nevus",
+    "trans": [
+      "n. [皮肤] 痣"
+    ],
+    "usphone": "['ni:vəs]",
+    "ukphone": "[ˈniːvəs]"
+  },
+  {
+    "name": "niacin",
+    "trans": [
+      "n. [生化] 烟酸；尼克酸"
+    ],
+    "usphone": "[ˈnaɪəsɪn]",
+    "ukphone": "[ˈnaɪəsɪn]"
+  },
+  {
+    "name": "niclosamide",
+    "trans": [
+      "[化] 氯硝柳胺; 灭绦灵; 贝螺杀"
+    ],
+    "usphone": "[nɪkˈlɑːzəmɪd]",
+    "ukphone": "[nɪkˈlɒzəmɪd]"
+  },
+  {
+    "name": "nicotinamide",
+    "trans": [
+      "n. 烟碱; 维生素PP; 维生素B5"
+    ],
+    "usphone": "[ˌnɪkəˌtɪnəˌmaɪd]",
+    "ukphone": "[ˌnɪkəˈtɪnəˌmaɪd]"
+  },
+  {
+    "name": "nicotinic",
+    "trans": [
+      "adj. 烟碱的，烟碱酸的"
+    ],
+    "usphone": "[ˌnɪkəˈtɪnɪk]",
+    "ukphone": "[ˌnɪkəˈtɪnɪk]"
+  },
+  {
+    "name": "nidus",
+    "trans": [
+      "n. 巢，孵卵所"
+    ],
+    "usphone": "[ˈnaɪdəs]",
+    "ukphone": "[ˈnaɪdəs]"
+  },
+  {
+    "name": "nifedipine",
+    "trans": [
+      "n. 硝苯吡啶，利心平，心痛定（治疗心绞痛药）"
+    ],
+    "usphone": "[nɪˈfedəˌpin]",
+    "ukphone": "[naɪˈfedɪpiːn]"
+  },
+  {
+    "name": "nipagin",
+    "trans": [
+      "[医] 尼泊金, 对羟基苯甲酸甲酯(防腐剂)"
+    ],
+    "usphone": "[nɪˈpædʒɪn]",
+    "ukphone": "[nɪˈpædʒɪn]"
+  },
+  {
+    "name": "nitrite",
+    "trans": [
+      "n. 亚硝酸盐"
+    ],
+    "usphone": "[ˈnaɪtraɪt]",
+    "ukphone": "[ˈnaɪtraɪt]"
+  },
+  {
+    "name": "nitrobenzene",
+    "trans": [
+      "n. 硝基苯"
+    ],
+    "usphone": "[ˌnaɪtrəbenˈzin]",
+    "ukphone": "[ˌnaɪtrəʊˈbenziːn]"
+  },
+  {
+    "name": "nitrocellulose",
+    "trans": [
+      "n. [化工] 硝化纤维"
+    ],
+    "usphone": "[ˌnaɪtroʊˈseljəˌloʊs]",
+    "ukphone": "[ˌnaɪtrəʊˈseljʊˌləʊs]"
+  },
+  {
+    "name": "nitrogenous",
+    "trans": [
+      "adj. 氮的；[化学] 含氮的"
+    ],
+    "usphone": "[naɪˈtrɑːdʒənəs]",
+    "ukphone": "[naɪˈtrɒdʒənəs]"
+  },
+  {
+    "name": "nitroglycerin",
+    "trans": [
+      "n. 硝酸甘油；硝化甘油；甘油三硝酸酯"
+    ],
+    "usphone": "[ˌnaɪtroʊˈɡlɪsərɪn]",
+    "ukphone": "[ˌnaɪtrəʊˈɡlɪsərɪn; ˌnaɪtrəʊˈɡlɪsəriːn]"
+  },
+  {
+    "name": "nitrosamine",
+    "trans": [
+      "n. 亚硝胺"
+    ],
+    "usphone": "[ˌnaɪtroʊsəˈmiːn]",
+    "ukphone": "[ˌnaɪtrəʊsəˈmiːn]"
+  },
+  {
+    "name": "nitrosourea",
+    "trans": [
+      "n. [化][药]亚硝基脲"
+    ],
+    "usphone": "[naɪˌtrosoˈjʊərɪr]",
+    "ukphone": "[naɪtrəsəʊˈjʊərɪə]"
+  },
+  {
+    "name": "nociceptive",
+    "trans": [
+      "adj. 疼痛的，有疼痛反映的"
+    ],
+    "usphone": "[ˌnoʊsɪˈseptɪv]",
+    "ukphone": "[ˌnəʊsɪˈseptɪv]"
+  },
+  {
+    "name": "nociceptor",
+    "trans": [
+      "n. 伤害感受器"
+    ],
+    "usphone": "[ˌnoʊsɪˈseptər]",
+    "ukphone": "[nəʊsɪˈseptə(r)]"
+  },
+  {
+    "name": "nodular",
+    "trans": [
+      "adj. 结节状的；有结节的"
+    ],
+    "usphone": "[ˈnɑːdʒələr]",
+    "ukphone": "[ˈnɒdjʊlə(r)]"
+  },
+  {
+    "name": "noggin",
+    "trans": [
+      "n. 小杯；少量饮料"
+    ],
+    "usphone": "[ˈnɑːɡɪn]",
+    "ukphone": "[ˈnɒɡɪn]"
+  },
+  {
+    "name": "nondiscrimination",
+    "trans": [
+      "n. 不歧视"
+    ],
+    "usphone": "[ˌnɑndɪˌskrɪməˈneʃən]",
+    "ukphone": "['nɔndiskrimi'neiʃən]"
+  },
+  {
+    "name": "nondisjunction",
+    "trans": [
+      "n. 不分离"
+    ],
+    "usphone": "[ˌnɑːndɪsˈdʒʌŋkʃn]",
+    "ukphone": "[ˌnɒndɪsˈdʒʌŋkʃən]"
+  },
+  {
+    "name": "nonhomogeneous",
+    "trans": [
+      "adj. 非齐（次，性）的，不[非]均匀的，非均态的，多相的"
+    ],
+    "usphone": "[ˈnɑːnhoʊməˈdʒɪnjəs]",
+    "ukphone": "[ˌnɒnˌhɒməˈdʒiːnɪəs]"
+  },
+  {
+    "name": "noninfectious",
+    "trans": [
+      " [医] 非传染性的"
+    ],
+    "usphone": "[nɒnɪnˈfekʃəs]",
+    "ukphone": "[ˌnɒnɪnˈfekʃəs]"
+  },
+  {
+    "name": "nonoperative",
+    "trans": [
+      "adj. 不工作的，无效的"
+    ],
+    "usphone": "[ˈnɑːnˈɑːpərətɪv]",
+    "ukphone": "[ˌnɒnˈɒpərətɪv]"
+  },
+  {
+    "name": "nonpathogenic",
+    "trans": [
+      "adj. 非病原的，不致病的"
+    ],
+    "usphone": "[ˈnɑːnpæθəˈdʒenɪk]",
+    "ukphone": "[ˌnɒnˌpæθəˈdʒenɪk]"
+  },
+  {
+    "name": "nonpolar",
+    "trans": [
+      "adj. 无极的"
+    ],
+    "usphone": "[nɑːnˈpoʊlər]",
+    "ukphone": "[ˌnɒnˈpəʊlə(r)]"
+  },
+  {
+    "name": "noradrenergic",
+    "trans": [
+      "adj. 产生去甲肾上腺素的，去甲肾上腺素激活的"
+    ],
+    "usphone": "[ˌnɔrædrəˈnərdʒɪk]",
+    "ukphone": "[nɔːˌædrəˈnɜːdʒɪk]"
+  },
+  {
+    "name": "norepinephrine",
+    "trans": [
+      "n. [生化][药] 去甲肾上腺素；降肾上腺素"
+    ],
+    "usphone": "[ˌnɔrepɪˈnefrin]",
+    "ukphone": "[ˌnɔːrepɪˈnefrɪn; -riːn]"
+  },
+  {
+    "name": "normotensive",
+    "trans": [
+      "adj. 正常血压的",
+      "n. 血压正常的人"
+    ],
+    "usphone": "[ˌnɔrmoˈtensɪv]",
+    "ukphone": "[ˌnɔːməʊˈtensɪv]"
+  },
+  {
+    "name": "norovirus",
+    "trans": [
+      "n. 诺瓦克病毒"
+    ],
+    "usphone": "[ˈnɔːroʊvaɪrəs]",
+    "ukphone": "[ˈnɒrəʊvaɪrəs]"
+  },
+  {
+    "name": "nosocomial",
+    "trans": [
+      "adj. 医院的"
+    ],
+    "usphone": "[ˌnosəˈkomɪəl]",
+    "ukphone": "[ˌnɒsəˈkəʊmɪəl]"
+  },
+  {
+    "name": "nuclear-powered",
+    "trans": [
+      "adj. 核动力的；核大国"
+    ],
+    "usphone": "['nju:kliə'pauəd]",
+    "ukphone": "['nju:kliə'pauəd]"
+  },
+  {
+    "name": "nucleolus",
+    "trans": [
+      "n. 核；[细胞] 核仁；细胞核"
+    ],
+    "usphone": "[njuˈkliələs]",
+    "ukphone": "[ˌnjuːklɪˈəʊləs]"
+  },
+  {
+    "name": "nucleophile",
+    "trans": [
+      "n. 亲核试剂"
+    ],
+    "usphone": "[ˈnʊkliəˌfaɪl; ˈnjʊkliəˌfaɪl]",
+    "ukphone": "[ˈnjuːklɪəʊˌfaɪl]"
+  },
+  {
+    "name": "nucleophilic",
+    "trans": [
+      "adj. 亲核的；亲质子的"
+    ],
+    "usphone": "[njuklɪoʊˈfɪlɪk]",
+    "ukphone": "[ˌnjuːklɪəʊˈfɪlɪk]"
+  },
+  {
+    "name": "nucleoprotein",
+    "trans": [
+      "n. 核蛋白质"
+    ],
+    "usphone": "[ˌnjʊklɪəˈprotin]",
+    "ukphone": "[ˌnjuːklɪə(ʊ)ˈprəʊtiːn]"
+  },
+  {
+    "name": "nucleoside",
+    "trans": [
+      "n. [生化] 核苷"
+    ],
+    "usphone": "[ˈnjʊklɪəˌsaɪd]",
+    "ukphone": "[ˈnjuːklɪəˌsaɪd]"
+  },
+  {
+    "name": "nucleosome",
+    "trans": [
+      "n. 核小体"
+    ],
+    "usphone": "[ˈnʊkliəˌsom; ˈnjʊkliəˌsom]",
+    "ukphone": "[ˈnjuːklɪə(ʊ)səʊm]"
+  },
+  {
+    "name": "nulliparous",
+    "trans": [
+      "a. 从未生育过者的, 未产妇的"
+    ],
+    "usphone": "[nʌˈlɪpərəs]",
+    "ukphone": "[nʌˈlɪpərəs]"
+  },
+  {
+    "name": "numbness",
+    "trans": [
+      "n. 麻木；麻痹"
+    ],
+    "usphone": "[ˈnʌmnəs]",
+    "ukphone": "[ˈnʌmnəs]"
+  },
+  {
+    "name": "nutmeg",
+    "trans": [
+      "n. 肉豆蔻；肉豆蔻种子中的核仁"
+    ],
+    "usphone": "[ˈnʌtmeɡ]",
+    "ukphone": "[ˈnʌtmeɡ]"
+  },
+  {
+    "name": "nutraceutical",
+    "trans": [
+      "n. 营养食品；功能食物"
+    ],
+    "usphone": "[ˌnuːtrəˈsuːtɪkl]",
+    "ukphone": "[ˌnjuːtrəˈsuːtɪkl; ˌnjuːtrəˈsjuːtɪkl]"
+  },
+  {
+    "name": "nystagmus",
+    "trans": [
+      "n. [眼科] 眼球震颤"
+    ],
+    "usphone": "[nɪsˈtæɡməs]",
+    "ukphone": "[nɪˈstæɡməs]"
+  },
+  {
+    "name": "nearest",
+    "trans": [
+      "adj. 最近的（near的最高级）"
+    ],
+    "usphone": "[ˈnɪrəst]",
+    "ukphone": "['nɪərɪst]"
+  },
+  {
+    "name": "nanny",
+    "trans": [
+      "n. 保姆；母山羊"
+    ],
+    "usphone": "[ˈnæni]",
+    "ukphone": "[ˈnæni]"
+  },
+  {
+    "name": "newfound",
+    "trans": [
+      "adj. 新发现的；新得到的"
+    ],
+    "usphone": "[ˌnuːˈfaʊnd]",
+    "ukphone": "[ˈnjuːfaʊnd]"
+  },
+  {
+    "name": "nimbly",
+    "trans": [
+      "adv. 敏捷地；机敏地"
+    ],
+    "usphone": "[ˈnɪmbli]",
+    "ukphone": "[ˈnɪmbli]"
+  },
+  {
+    "name": "natural gas",
+    "trans": [
+      "n. 天然气"
+    ],
+    "usphone": "[ˌnætʃrəl ˈɡæs]",
+    "ukphone": "[ˈnætʃrəl ˈɡæs]"
+  },
+  {
+    "name": "novation",
+    "trans": [
+      "n. 以新的代替；更新；债券更新"
+    ],
+    "usphone": "[noʊˈveɪʃən]",
+    "ukphone": "[nəʊˈveɪʃ(ə)n]"
+  },
+  {
+    "name": "Nessie",
+    "trans": [
+      "n. <口>(英国苏格兰北部的)尼斯湖水怪"
+    ],
+    "usphone": "[ˈnesi]",
+    "ukphone": "[ˈnesi]"
+  },
+  {
+    "name": "no-no",
+    "trans": [
+      "n. 禁忌；不可作之事"
+    ],
+    "usphone": "[ˈnoʊ noʊ]",
+    "ukphone": "[ˈnəʊ nəʊ]"
+  },
+  {
+    "name": "nutter",
+    "trans": [
+      "n. 疯子；拾坚果的人"
+    ],
+    "usphone": "[ˈnʌtər]",
+    "ukphone": "[ˈnʌtə(r)]"
+  },
+  {
+    "name": "Norse",
+    "trans": [
+      "adj. 挪威人的；挪威的；斯堪的纳维亚语的",
+      "n. 挪威人；挪威语"
+    ],
+    "usphone": "[nɔːrs]",
+    "ukphone": "[nɔːs]"
+  },
+  {
+    "name": "ninepin",
+    "trans": [
+      "n. 九柱地滚球； （九柱地滚球的）瓶状木柱"
+    ],
+    "usphone": "[ˈnaɪnˌpɪn]",
+    "ukphone": "[ˈnaɪnˌpɪn]"
+  },
+  {
+    "name": "naively",
+    "trans": [
+      "adv. 无邪地；天真烂漫地"
+    ],
+    "usphone": "[naɪˈiːvli]",
+    "ukphone": "[naɪˈiːvli]"
+  },
+  {
+    "name": "Nova Scotia",
+    "trans": [
+      "na. 新斯科舍"
+    ],
+    "usphone": "[ˌnoʊvə ˈskoʊʃə]",
+    "ukphone": "[ˌnəʊvə ˈskəʊʃə]"
+  },
+  {
+    "name": "Nature",
+    "trans": [
+      "n. 自然；性质；本性；种类"
+    ],
+    "usphone": "[ˈneɪtʃər]",
+    "ukphone": "[ˈneɪtʃə(r)]"
+  },
+  {
+    "name": "non-renewable",
+    "trans": [
+      " 不能更新的；不可再生的"
+    ],
+    "usphone": "[ˌnɑːn rɪˈnuːəbl]",
+    "ukphone": "[ˌnɒn rɪˈnjuːəbl]"
+  },
+  {
+    "name": "natured",
+    "trans": [
+      "abbr. 表示“本性…的、性…情的”之义"
+    ],
+    "usphone": "[ˈneɪtʃərd]",
+    "ukphone": "[neɪˌtʃəd]"
+  },
+  {
+    "name": "numeracy",
+    "trans": [
+      "n. 计算能力，识数"
+    ],
+    "usphone": "[ˈnuːmərəsi]",
+    "ukphone": "[ˈnjuːmərəsi]"
+  },
+  {
+    "name": "nonsmoking",
+    "trans": [
+      "严禁吸烟的",
+      "（人）不吸烟的"
+    ],
+    "usphone": "[ˌnɑːnˈsmoʊkɪŋ]",
+    "ukphone": "[nɒnˈsməʊkɪŋ]"
+  },
+  {
+    "name": "notes",
+    "trans": [
+      "n. 注释，说明，笔记（note复数）；[金融] 票据"
+    ],
+    "usphone": "[noʊts]",
+    "ukphone": "[nəʊts]"
+  },
+  {
+    "name": "nit",
+    "trans": [
+      "n. 幼虫；没用的人"
+    ],
+    "usphone": "[nɪt]",
+    "ukphone": "[nɪt]"
+  },
+  {
+    "name": "narrowcast",
+    "trans": [
+      "v. （为少量特定听众）小范围播送，用电缆电视播送"
+    ],
+    "usphone": "[ˈnæroʊkæst]",
+    "ukphone": "[ˈnærəʊkɑːst]"
+  },
+  {
+    "name": "namby-pamby",
+    "trans": [
+      "n. 性格软弱的人；矫饰",
+      "adj. 矫饰的；感伤的"
+    ],
+    "usphone": "[ˌnæmbi ˈpæmbi]",
+    "ukphone": "[ˌnæmbi ˈpæmbi]"
+  },
+  {
+    "name": "Nylon",
+    "trans": [
+      "n. 尼龙，[纺] 聚酰胺纤维；尼龙袜"
+    ],
+    "usphone": "[ˈnaɪlɑːn]",
+    "ukphone": "[ˈnaɪlɒn]"
+  },
+  {
+    "name": "non-resident",
+    "trans": [
+      "n. 非居民",
+      "adj. 非驻留的"
+    ],
+    "usphone": "[ˌnɑːn ˈresɪdənt]",
+    "ukphone": "[ˌnɒn ˈresɪdənt]"
+  },
+  {
+    "name": "neurotoxin",
+    "trans": [
+      "n. [生化] 神经毒素"
+    ],
+    "usphone": "[ˌnʊroʊˈtɑːksɪn]",
+    "ukphone": "[ˌnjʊərəʊˈtɒksɪn]"
+  },
+  {
+    "name": "null set",
+    "trans": [
+      "un. 零集；空集"
+    ],
+    "usphone": "[nʌl set]",
+    "ukphone": "[nʌl set]"
+  },
+  {
+    "name": "nationalize",
+    "trans": [
+      "vt. 使国有化；使民族化；使归化；使成国家"
+    ],
+    "usphone": "[ˈnæʃnəlaɪz]",
+    "ukphone": "[ˈnæʃnəlaɪz]"
+  },
+  {
+    "name": "newsfeed",
+    "trans": [
+      "新闻供应"
+    ],
+    "usphone": "[ˈnuːzfiːd]",
+    "ukphone": "[ˈnjuːzfiːd]"
+  },
+  {
+    "name": "non-violent",
+    "trans": [
+      "adj. 非暴力的"
+    ],
+    "usphone": "[ˌnɑːn ˈvaɪələnt]",
+    "ukphone": "[ˌnɒn ˈvaɪələnt]"
+  },
+  {
+    "name": "nosiness",
+    "trans": [
+      "n. 好打听，爱管闲事"
+    ],
+    "usphone": "[ˈnoʊzinəs]",
+    "ukphone": "[ˈnəʊzinəs]"
+  },
+  {
+    "name": "numerically",
+    "trans": [
+      "adv. 数字上；用数字表示"
+    ],
+    "usphone": "[nuːˈmerɪkli]",
+    "ukphone": "[njuːˈmerɪkli]"
+  },
+  {
+    "name": "Net",
+    "trans": [
+      "n. 网；网络；净利；实价",
+      "vi. 编网",
+      "vt. 得到；净赚；用网捕",
+      "adj. 纯粹的；净余的"
+    ],
+    "usphone": "[net]",
+    "ukphone": "[net]"
+  },
+  {
+    "name": "Niacin",
+    "trans": [
+      "n. [生化] 烟酸；尼克酸"
+    ],
+    "usphone": "[ˈnaɪəsɪn]",
+    "ukphone": "[ˈnaɪəsɪn]"
+  },
+  {
+    "name": "nation-state",
+    "trans": [
+      "n. 单一民族国家"
+    ],
+    "usphone": "[ˌneɪʃn ˈsteɪt]",
+    "ukphone": "[ˌneɪʃn ˈsteɪt]"
+  },
+  {
+    "name": "neglected",
+    "trans": [
+      "adj. 被忽视的；未被好好照管的",
+      "v. 忽视；疏忽（neglect的过去分词）"
+    ],
+    "usphone": "[nɪˈɡlektɪd]",
+    "ukphone": "[nɪˈɡlektɪd]"
+  },
+  {
+    "name": "negotiated",
+    "trans": [
+      "adj. 商谈的",
+      "v. 谈判，协商（negotiate过去式和过去分词形式）"
+    ],
+    "usphone": "[nɪ'goʃɪ,etid]",
+    "ukphone": "[nɪ'ɡəʊʃieɪtid]"
+  },
+  {
+    "name": "nonstick",
+    "trans": [
+      "adj. 不粘锅的；不粘食物的"
+    ],
+    "usphone": "[ˌnɑːnˈstɪk]",
+    "ukphone": "['nɔn'stik]"
+  },
+  {
+    "name": "named",
+    "trans": [
+      "adj. 命名的；指定的；被指名的",
+      "v. 命名；任命（name的过去分词）；称呼"
+    ],
+    "usphone": "[neɪmd]",
+    "ukphone": "[nemd]"
+  },
+  {
+    "name": "nah",
+    "trans": [
+      "adj. 没有；很少， 很小"
+    ],
+    "usphone": "[næ]",
+    "ukphone": "[næ]"
+  },
+  {
+    "name": "nozzle",
+    "trans": [
+      "n. 喷嘴；管口；鼻"
+    ],
+    "usphone": "[ˈnɑːzl]",
+    "ukphone": "[ˈnɒzl]"
+  },
+  {
+    "name": "naming",
+    "trans": [
+      "n. 命名",
+      "v. 给…取名字（name的ing形式）"
+    ],
+    "usphone": "[ˈneɪmɪŋ]",
+    "ukphone": "[ˈneɪmɪŋ]"
+  },
+  {
+    "name": "nameless",
+    "trans": [
+      "adj. 不可名状的，难以形容的；匿名的"
+    ],
+    "usphone": "[ˈneɪmləs]",
+    "ukphone": "[ˈneɪmləs]"
+  },
+  {
+    "name": "natural science",
+    "trans": [
+      "n. 自然科学"
+    ],
+    "usphone": "[ˌnætʃrəl ˈsaɪəns]",
+    "ukphone": "[ˌnætʃrəl ˈsaɪəns]"
+  },
+  {
+    "name": "nonpartisan",
+    "trans": [
+      "adj. 无党派的；超党派的",
+      "n. 无党派的人"
+    ],
+    "usphone": "[ˌnɑːnˈpɑːrtəzn]",
+    "ukphone": "[,nɒnpɑːtɪ'zæn]"
+  },
+  {
+    "name": "negativism",
+    "trans": [
+      "n. 否定论；消极论；反对癖性"
+    ],
+    "usphone": "[ˈneɡətɪvɪzəm]",
+    "ukphone": "[ˈneɡətɪvɪzəm]"
+  },
+  {
+    "name": "needed",
+    "trans": [
+      "adj. 需要的",
+      "v. 需要（need的过去式）"
+    ],
+    "usphone": "[ˈniːdɪd]",
+    "ukphone": "[ˈniːdɪd]"
+  },
+  {
+    "name": "numbering",
+    "trans": [
+      "n. 编号；编号方式",
+      "v. 给…编号；确定…的数目（number的ing形式）"
+    ],
+    "usphone": "[ˈnʌmbərɪŋ]",
+    "ukphone": "[ˈnʌmbərɪŋ]"
+  },
+  {
+    "name": "neoclassicism",
+    "trans": [
+      "n. 新古典主义"
+    ],
+    "usphone": "[ˌnioˈklæsəˌsɪzəm]",
+    "ukphone": "[ˌniːəʊˈklæsɪsɪz(ə)m]"
+  },
+  {
+    "name": "nocturne",
+    "trans": [
+      "n. 夜曲；夜景；夜景画"
+    ],
+    "usphone": "[ˈnɑːktɜːrn]",
+    "ukphone": "[ˈnɒktɜːn]"
+  },
+  {
+    "name": "novella",
+    "trans": [
+      "n. 中篇小说；短篇故事"
+    ],
+    "usphone": "[nəˈvelə]",
+    "ukphone": "[nəˈvelə]"
+  },
+  {
+    "name": "notionally",
+    "trans": [
+      "adv. 假设地；理论上"
+    ],
+    "usphone": "[ˈnoʊʃənəli]",
+    "ukphone": "[ˈnəʊʃənəli]"
+  },
+  {
+    "name": "novelistic",
+    "trans": [
+      "adj. 小说的"
+    ],
+    "usphone": "[ˌnɑːvəˈlɪstɪk]",
+    "ukphone": "[ˌnɒvəˈlɪstɪk]"
+  },
+  {
+    "name": "nocuous",
+    "trans": [
+      "adj. 有害的；有毒的"
+    ],
+    "usphone": "['nɔkjuəs]",
+    "ukphone": "[ˈnɒkjʊəs]"
+  },
+  {
+    "name": "nippy",
+    "trans": [
+      "adj. 刺骨的；锐利的；凛冽的；漂亮的"
+    ],
+    "usphone": "[ˈnɪpi]",
+    "ukphone": "[ˈnɪpi]"
+  },
+  {
+    "name": "naughtiness",
+    "trans": [
+      "n. 顽皮；淘气；无礼"
+    ],
+    "usphone": "[ˈnɔːtinəs]",
+    "ukphone": "[ˈnɔːtinəs]"
+  },
+  {
+    "name": "negative equity",
+    "trans": [
+      "n. 资产负值"
+    ],
+    "usphone": "[ˌneɡətɪv ˈekwəti]",
+    "ukphone": "[ˌneɡətɪv ˈekwəti]"
+  },
+  {
+    "name": "nightmarish",
+    "trans": [
+      "adj. 可怕的；恶梦似的；不愉快的"
+    ],
+    "usphone": "[ˈnaɪtmerɪʃ]",
+    "ukphone": "[ˈnaɪtmeərɪʃ]"
+  },
+  {
+    "name": "newness",
+    "trans": [
+      "n. 新奇；崭新"
+    ],
+    "usphone": "[ˈnuːnəs]",
+    "ukphone": "[ˈnjuːnəs]"
+  },
+  {
+    "name": "Nagoya",
+    "trans": [
+      "n. 名古屋（日本本州岛中南岸港市）"
+    ],
+    "usphone": "['nɑ:ɡɔ:'jɑ:]",
+    "ukphone": "[ˈnɑːɡəʊjə]"
+  },
+  {
+    "name": "nonplussed",
+    "trans": [
+      "adj. 困惑的；陷于窘境的",
+      "v. 迷惑；为难（nonplus的过去分词形式）"
+    ],
+    "usphone": "[ˌnɑːnˈplʌst]",
+    "ukphone": "[ˌnɒnˈplʌst]"
+  },
+  {
+    "name": "newspapers",
+    "trans": [
+      "n. 报纸，报章（newspaper的复数）",
+      "v. 从事报纸工作（newspaper的三单形式）"
+    ],
+    "usphone": "[ˈnjuːzˌpeɪpəz]",
+    "ukphone": "[ˈnjuːzˌpeɪpəz]"
+  },
+  {
+    "name": "names",
+    "trans": [
+      "n. 名字；名望（name的复数形式）",
+      "v. 命名；列举（name的第三人称单数形式）；提到…的名字"
+    ],
+    "usphone": "[neɪmz]",
+    "ukphone": "[nems]"
+  },
+  {
+    "name": "nests",
+    "trans": [
+      "n. （鸟）窝( nest的名词复数 ); 温床; （套叠在一起的）一套物件; 藏匿处",
+      "v. 筑巢( nest的第三人称单数 )"
+    ],
+    "usphone": "[nests]",
+    "ukphone": "[nests]"
+  },
+  {
+    "name": "nets",
+    "trans": [
+      "n. 网（net的复数）",
+      "v. 捕捉（net的三单形式）；把…织成网"
+    ],
+    "usphone": "[nets]",
+    "ukphone": "[nets]"
+  },
+  {
+    "name": "non-smoking",
+    "trans": [
+      "adj. 不抽烟的；禁止吸烟的"
+    ],
+    "usphone": "[ˌnɑːn ˈsmoʊkɪŋ]",
+    "ukphone": "[ˌnɒn ˈsməʊkɪŋ]"
+  },
+  {
+    "name": "neighbours",
+    "trans": [
+      "n. 邻居；同胞；仁慈的人（neighbour的复数）",
+      "v. 邻近；亲近（neighbour的三单形式）"
+    ],
+    "usphone": "['neɪbɝrz]",
+    "ukphone": "['neɪbɜ:rz]"
+  },
+  {
+    "name": "normalcy",
+    "trans": [
+      "n. 常态"
+    ],
+    "usphone": "[ˈnɔːrmlsi]",
+    "ukphone": "[ˈnɔːməlsɪ]"
+  },
+  {
+    "name": "naturopath",
+    "trans": [
+      "n. 理疗家；自然疗者"
+    ],
+    "usphone": "[ˈneɪtʃərəpæθ]",
+    "ukphone": "[ˈneɪtʃərəpæθ]"
+  },
+  {
+    "name": "neurotrophic",
+    "trans": [
+      "adj. 神经营养的，向神经的，亲神经的"
+    ],
+    "usphone": "[njʊəroʊˈtrɑːfɪk]",
+    "ukphone": "[ˌnjʊərəˈtrɒfɪk]"
+  },
+  {
+    "name": "nitrous",
+    "trans": [
+      "adj. 氮的；硝石的；含氮的"
+    ],
+    "usphone": "[ˈnaɪtrəs]",
+    "ukphone": "[ˈnaɪtrəs]"
+  },
+  {
+    "name": "non-existent",
+    "trans": [
+      "adj. 不存在的"
+    ],
+    "usphone": "[ˌnɑːn ɪɡˈzɪstənt]",
+    "ukphone": "[ˌnɒn ɪɡˈzɪstənt]"
+  },
+  {
+    "name": "noblesse oblige",
+    "trans": [
+      "n. 位高则任重；显贵者应有高尚品德；贵族义务"
+    ],
+    "usphone": "[ɔ'bli:ʒ]",
+    "ukphone": "[nəʊˌbles əˈbliːʒ]"
+  },
+  {
+    "name": "Niagara",
+    "trans": [
+      "n. 尼亚加拉；尼亚加拉河"
+    ],
+    "usphone": "[naɪˈæɡrə]",
+    "ukphone": "[naɪˌæɡrə]"
+  },
+  {
+    "name": "nutritions",
+    "trans": [
+      "滋补"
+    ],
+    "usphone": "[nju:'triʃənz]",
+    "ukphone": "[nju:'triʃənz]"
+  },
+  {
+    "name": "nightdress",
+    "trans": [
+      "n. 女式睡衣；孩子穿的睡衣"
+    ],
+    "usphone": "[ˈnaɪtdres]",
+    "ukphone": "[ˈnaɪtdres]"
+  },
+  {
+    "name": "noiseless",
+    "trans": [
+      "adj. 无声的；寂静的"
+    ],
+    "usphone": "[ˈnɔɪzləs]",
+    "ukphone": "[ˈnɔɪzləs]"
+  },
+  {
+    "name": "nuptials",
+    "trans": [
+      "n. 婚礼（nuptial的复数）"
+    ],
+    "usphone": "[ˈnʌpʃlz]",
+    "ukphone": "[ˈnʌpʃlz]"
+  },
+  {
+    "name": "natter",
+    "trans": [
+      "vi. 唠叨；瞎扯；抱怨",
+      "n. 闲聊；抱怨"
+    ],
+    "usphone": "[ˈnætər]",
+    "ukphone": "[ˈnætə(r)]"
+  },
+  {
+    "name": "NGO",
+    "trans": [
+      "abbr. 民间组织；非政府组织（Non-Governmental Organization）"
+    ],
+    "usphone": "[ˌen dʒiː ˈoʊ]",
+    "ukphone": "[ˌen dʒiː ˈəʊ]"
+  },
+  {
+    "name": "newsreader",
+    "trans": [
+      "n. （英）新闻广播员；报纸读者"
+    ],
+    "usphone": "[ˈnuːzriːdər]",
+    "ukphone": "[ˈnjuːzriːdə(r)]"
+  },
+  {
+    "name": "neuter",
+    "trans": [
+      "n. 无性动物；中性名词；阉割动物",
+      "adj. 中性的；不及物的；无性的"
+    ],
+    "usphone": "[ˈnuːtər]",
+    "ukphone": "[ˈnjuːtə(r)]"
+  },
+  {
+    "name": "nonspecialist",
+    "trans": [
+      "n. 非专业人士"
+    ],
+    "usphone": "[ˌnɑːnˈspeʃəlɪst]",
+    "ukphone": "[ˌnɒnˈspeʃəlɪst]"
+  },
+  {
+    "name": "numerable",
+    "trans": [
+      "adj. 可计数的；可计算的"
+    ],
+    "usphone": "[ˈnjuːmərəbl]",
+    "ukphone": "[ˈnjuːmərəbəl]"
+  },
+  {
+    "name": "Nonsense!",
+    "trans": [
+      "n. 胡说；废话",
+      "a. 荒谬的",
+      "int. 胡说！"
+    ],
+    "usphone": "[ˈnɑːnsens; ˈnɑːnsns]",
+    "ukphone": "[ˈnɒns(ə)ns]"
+  },
+  {
+    "name": "Nereid",
+    "trans": [
+      "n. 海中女仙, 海(王)卫二, 沙蚕"
+    ],
+    "usphone": "[ˈnɪriɪd]",
+    "ukphone": "[ˈnɪərɪɪd]"
+  },
+  {
+    "name": "NBA",
+    "trans": [
+      "abbr. 全美篮球协会（National Basketball Association）"
+    ],
+    "usphone": "[ˌen biː ˈeɪ]",
+    "ukphone": "[ˌen biː ˈeɪ]"
+  },
+  {
+    "name": "neology",
+    "trans": [
+      "n. 新词（或旧词新义）的使用，新词，旧词新义"
+    ],
+    "usphone": "[niˈɑlədʒi]",
+    "ukphone": "[niːˈɒlədʒi]"
+  },
+  {
+    "name": "nihilistic",
+    "trans": [
+      "adj. 虚无主义的；无政府主义的"
+    ],
+    "usphone": "[ˌnaɪɪˈlɪstɪk]",
+    "ukphone": "[ˌnaɪɪˈlɪstɪk]"
+  },
+  {
+    "name": "necromancy",
+    "trans": [
+      "n. 巫术，妖术"
+    ],
+    "usphone": "[ˈnekroʊmænsi]",
+    "ukphone": "[ˈnekrəʊmænsi]"
+  },
+  {
+    "name": "novitiate",
+    "trans": [
+      "n. 见习；修道士（或修女）的见习期"
+    ],
+    "usphone": "[noʊˈvɪʃiət]",
+    "ukphone": "[nəʊˈvɪʃiət]"
+  },
+  {
+    "name": "Nitrogen",
+    "trans": [
+      "n. [化学] 氮"
+    ],
+    "usphone": "[ˈnaɪtrədʒən]",
+    "ukphone": "[ˈnaɪtrədʒən]"
+  },
+  {
+    "name": "N",
+    "trans": [
+      "n. 英语字母的第十四个字母"
+    ],
+    "usphone": "[en]",
+    "ukphone": "[en]"
+  },
+  {
+    "name": "neutralization",
+    "trans": [
+      "n. [化学] 中和；[化学] 中和作用；中立状态"
+    ],
+    "usphone": "[ˌnuːtrələˈzeɪʃn]",
+    "ukphone": "[ˌnjuːtrəlaɪˈzeɪʃn]"
+  },
+  {
+    "name": "Neodymium",
+    "trans": [
+      "n. [化学] 钕"
+    ],
+    "usphone": "[ˌniːoʊˈdɪmiəm]",
+    "ukphone": "[ˌniːəʊˈdɪmiəm]"
+  },
+  {
+    "name": "Neon",
+    "trans": [
+      "n. 霓虹灯；氖（10号元素，符号Ne）"
+    ],
+    "usphone": "[ˈniːɑːn]",
+    "ukphone": "[ˈniːɒn]"
+  },
+  {
+    "name": "Neptunium",
+    "trans": [
+      "n. [化学] 镎"
+    ],
+    "usphone": "[nepˈtjuːniəmˌnepˈtuːniəm]",
+    "ukphone": "[nepˈtjuːniəm]"
+  },
+  {
+    "name": "Nickel",
+    "trans": [
+      "n. 镍；镍币；五分镍币",
+      "vt. 镀镍于"
+    ],
+    "usphone": "[ˈnɪk(ə)l]",
+    "ukphone": "[ˈnɪk(ə)l]"
+  },
+  {
+    "name": "Niobium",
+    "trans": [
+      "n. [化学] 铌（41号元素，符号Nb）"
+    ],
+    "usphone": "[naɪˈoʊbiəm]",
+    "ukphone": "[naɪˈəʊbiəm]"
+  },
+  {
+    "name": "nitric acid",
+    "trans": [
+      "n. 硝酸"
+    ],
+    "usphone": "[ˌnaɪtrɪk ˈæsɪd]",
+    "ukphone": "[ˌnaɪtrɪk ˈæsɪd]"
+  },
+  {
+    "name": "Nobelium",
+    "trans": [
+      "n. [化学] 锘（一种放射性元素，化学符号为No，原子序102）"
+    ],
+    "usphone": "[noʊˈbiːliəmˌnoʊˈbeliəm]",
+    "ukphone": "[nəʊˈbiːliəm; nəʊˈbeliəm]"
+  },
+  {
+    "name": "nonmetal",
+    "trans": [
+      "n. 非金属（元素）"
+    ],
+    "usphone": "[ˌnɑːnˈmetəl]",
+    "ukphone": "[ˌnɒnˈmetəl]"
+  },
+  {
+    "name": "Na",
+    "trans": [
+      "abbr. 国家科学院院士（National academician）"
+    ],
+    "usphone": "[nɑː]",
+    "ukphone": "[nə; nɑː]"
+  },
+  {
+    "name": "newton",
+    "trans": [
+      "n. 牛顿（英国科学家）；牛顿（力的单位）"
+    ],
+    "usphone": "[ˈnuːtən]",
+    "ukphone": "[ˈnjuːtən]"
+  },
+  {
+    "name": "numeration",
+    "trans": [
+      "n. 计算；数字的读法；[数] 命数法；编号"
+    ],
+    "usphone": "[ˌnjuːməˈreɪʃn]",
+    "ukphone": "[ˌnjuːməˈreɪʃən]"
+  },
+  {
+    "name": "non-adjacent",
+    "trans": [
+      " 非相邻"
+    ],
+    "usphone": "[nɑːnəˈdʒeɪsənt]",
+    "ukphone": "[ˌnɒnəˈdʒeɪsənt]"
+  },
+  {
+    "name": "name tag",
+    "trans": [
+      "n. （佩戴于胸前的）名牌；胸佩"
+    ],
+    "usphone": "[ˈneɪm tæɡ]",
+    "ukphone": "[ˈneɪm tæɡ]"
+  },
+  {
+    "name": "nonalcoholic",
+    "trans": [
+      "adj. 不含酒精的"
+    ],
+    "usphone": "[ˌnɑːnˌælkəˈhɑːlɪk]",
+    "ukphone": "[ˌnɒnælkəˈhɒlɪk]"
+  },
+  {
+    "name": "neutralist",
+    "trans": [
+      "n. 中立主义者"
+    ],
+    "usphone": "[ˈnuːtrəlɪst]",
+    "ukphone": "[ˈnjuːtrəlɪst]"
+  },
+  {
+    "name": "neutralism",
+    "trans": [
+      "n. 中立（主义）"
+    ],
+    "usphone": "[ˈnuːtrəlɪzəm]",
+    "ukphone": "[ˈnjuːtrəlɪzəm]"
+  },
+  {
+    "name": "nephrolith",
+    "trans": [
+      "n. 肾结石"
+    ],
+    "usphone": "[ˈnefrəlɪθ]",
+    "ukphone": "[ˈnefrəlɪθ]"
+  },
+  {
+    "name": "nonmiscible",
+    "trans": [
+      "不溶混的"
+    ],
+    "usphone": "[ˈnɑːnˈmɪsɪbl]",
+    "ukphone": "[nɒnˈmɪsəbl]"
+  },
+  {
+    "name": "nervy",
+    "trans": [
+      "adj. 有勇气的；易激动的；紧张不安的"
+    ],
+    "usphone": "[ˈnɜːrvi]",
+    "ukphone": "[ˈnɜːvi]"
+  },
+  {
+    "name": "neophilia",
+    "trans": [
+      "n. 喜欢新奇"
+    ],
+    "usphone": "[ˌniːəˈfɪliə]",
+    "ukphone": "[niːəˈfɪlɪə]"
+  },
+  {
+    "name": "nonempty",
+    "trans": [
+      "adj. 非空的"
+    ],
+    "usphone": "[ˌnɑːnˈempti]",
+    "ukphone": "[nɒnˈempti]"
+  },
+  {
+    "name": "neurone",
+    "trans": [
+      "n. 神经细胞，神经元"
+    ],
+    "usphone": "[ˈnʊrɑːn]",
+    "ukphone": "[ˈnjʊərɒn; ˈnjʊərəʊn]"
+  },
+  {
+    "name": "nucleated",
+    "trans": [
+      "成核的",
+      "使成核的（nucleate的过去分词）"
+    ],
+    "usphone": "[ˈnjuːklɪeɪtɪd]",
+    "ukphone": "[ˈnjuːklɪeɪtɪd]"
+  },
+  {
+    "name": "nice-looking",
+    "trans": [
+      "adj. 好看的"
+    ],
+    "usphone": "[ˌnaɪs ˈlʊkɪŋ]",
+    "ukphone": "[ˌnaɪs ˈlʊkɪŋ]"
+  },
+  {
+    "name": "neckerchief",
+    "trans": [
+      "n. 颈巾；围巾"
+    ],
+    "usphone": "[ˈnekərtʃiːf]",
+    "ukphone": "[ˈnekətʃiːf]"
+  },
+  {
+    "name": "non-white",
+    "trans": [
+      "adj. 非白种的"
+    ],
+    "usphone": "[ˌnɑːn ˈwaɪt]",
+    "ukphone": "[ˌnɒn ˈwaɪt]"
+  },
+  {
+    "name": "Neanderthal",
+    "trans": [
+      "adj. 尼安德特人的；穴居人的"
+    ],
+    "usphone": "[nɪˈændəθɔl]",
+    "ukphone": "[niˈændətɑːl]"
+  },
+  {
+    "name": "nautical mile",
+    "trans": [
+      "adj. 海里",
+      "n. 海里（合 1 852 米）"
+    ],
+    "usphone": "[ˌnɔːtɪkl ˈmaɪl]",
+    "ukphone": "[ˌnɔːtɪkəl ˈmaɪl]"
+  },
+  {
+    "name": "necklaced",
+    "trans": [
+      "n. 项链"
+    ],
+    "usphone": "[ˈnekləs]",
+    "ukphone": "[ˈnekləs]"
+  },
+  {
+    "name": "Niger",
+    "trans": [
+      "n. 尼日尔（非洲中西部国家）"
+    ],
+    "usphone": "[niːˈʒer]",
+    "ukphone": "[niːˈʒeə(r)]"
+  },
+  {
+    "name": "nonaligned",
+    "trans": [
+      "adj. 中立的，不结盟的"
+    ],
+    "usphone": "[ˌnɑːnəˈlaɪnd]",
+    "ukphone": "[ˌnɒnəˈlaɪnd]"
+  },
+  {
+    "name": "novelette",
+    "trans": [
+      "n. 中篇小说"
+    ],
+    "usphone": "[ˌnɑːvlˈet]",
+    "ukphone": "[ˌnɒvlˈet]"
+  },
+  {
+    "name": "nervine",
+    "trans": [
+      "adj. 镇定神经的，缓解神经的",
+      "n. 健神经的药物"
+    ],
+    "usphone": "[ˈnɜːrvin]",
+    "ukphone": "[ˈnɜːvaɪn; -iːn]"
+  },
+  {
+    "name": "nescient",
+    "trans": [
+      "adj. 无知的；没有知识的",
+      "n. 不可知论者"
+    ],
+    "usphone": "['nesiənt]",
+    "ukphone": "[ˈnesɪənt]"
+  },
+  {
+    "name": "nearsighted",
+    "trans": [
+      "adj. 近视的；浅见的"
+    ],
+    "usphone": "[ˌnɪrˈsaɪtɪd]",
+    "ukphone": "[ˌnɪəˈsaɪtɪd]"
+  },
+  {
+    "name": "netting",
+    "trans": [
+      "n. 网；网鱼；结网",
+      "v. 把…织成网；用网捕捉（net的现在分词）"
+    ],
+    "usphone": "[ˈnetɪŋ]",
+    "ukphone": "[ˈnetɪŋ]"
+  },
+  {
+    "name": "nightstand",
+    "trans": [
+      "n. （美）床头几（等于night table）"
+    ],
+    "usphone": "[ˈnaɪtstænd]",
+    "ukphone": "[ˈnaɪtstænd]"
+  },
+  {
+    "name": "nuanced",
+    "trans": [
+      "adj. 微妙的；具有细微差别的",
+      "v. 精确细腻地表演；细致入微地描绘（nuance的过去分词）"
+    ],
+    "usphone": "[ˈnuːˌɑːnst]",
+    "ukphone": "[ˈnjuːˌɒnst]"
+  },
+  {
+    "name": "numbered",
+    "trans": [
+      "adj. 编号的；有限的；时日无多的；计数的"
+    ],
+    "usphone": "[ˈnʌmbərd]",
+    "ukphone": "[ˈnʌmbəd]"
+  },
+  {
+    "name": "next-door",
+    "trans": [
+      "adj. 隔壁的；邻家的",
+      "adv. 邻家"
+    ],
+    "usphone": "[ˌnekst ˈdɔːr]",
+    "ukphone": "[ˌnekst ˈdɔː(r)]"
+  },
+  {
+    "name": "nuke",
+    "trans": [
+      "n. 核武器；核能发电厂；核潜艇",
+      "vt. 以核武器攻击",
+      "adj. 核武器的"
+    ],
+    "usphone": "[nuːkˌnjuːk]",
+    "ukphone": "[njuːk]"
+  },
+  {
+    "name": "not-for-profit",
+    "trans": [
+      "adj. 非营利的；无利可图的"
+    ],
+    "usphone": "[ˌnɑːt fər ˈprɑːfɪt]",
+    "ukphone": "[ˌnɒt fə ˈprɒfɪt]"
+  },
+  {
+    "name": "naturalized",
+    "trans": [
+      "adj. 归化的；入籍的；[动] 自然化的；驯化的",
+      "v. 使自然化；接受…入国籍；采纳（naturalize的过去式和过去分词）"
+    ],
+    "usphone": "[ˈnætʃrəlaɪzd]",
+    "ukphone": "[ˈnætʃ(ə)rəlaɪzd]"
+  },
+  {
+    "name": "newsman",
+    "trans": [
+      "n. 新闻记者；送报者"
+    ],
+    "usphone": "[ˈnuːzmæn]",
+    "ukphone": "[ˈnjuːzmæn]"
+  },
+  {
+    "name": "nakedness",
+    "trans": [
+      "n. 赤裸；明显；赤身裸体"
+    ],
+    "usphone": "[ˈneɪkɪdnəs]",
+    "ukphone": "[ˈneɪkɪdnəs]"
+  },
+  {
+    "name": "no-hitter",
+    "trans": [
+      "n. （棒球）无安打赛局"
+    ],
+    "usphone": "[ noʊ ˈhɪtər]",
+    "ukphone": "['nəu'hitə]"
+  },
+  {
+    "name": "nix",
+    "trans": [
+      "n. 无（等于nothing）；皆无；女水妖（出现在德国神话中）",
+      "vt. 禁止；拒绝",
+      "int. 不行！；停！",
+      "adv. 不是"
+    ],
+    "usphone": "[nɪks]",
+    "ukphone": "[nɪks]"
+  },
+  {
+    "name": "non-alcoholic",
+    "trans": [
+      "adj. 不含酒精的"
+    ],
+    "usphone": "[ˌnɑːn ˌælkəˈhɔːlɪk]",
+    "ukphone": "[ˌnɒn ˌælkəˈhɒlɪk]"
+  },
+  {
+    "name": "non-specific",
+    "trans": [
+      "adj. 不明确的；非确切的"
+    ],
+    "usphone": "[ˌnɑːn spəˈsɪfɪk]",
+    "ukphone": "[ˌnɒn spəˈsɪfɪk]"
+  },
+  {
+    "name": "navigability",
+    "trans": [
+      "n. （河、海和船舶等的）适航性; 适航性，耐航性; 可操纵性; 可航性"
+    ],
+    "usphone": "[ˌnævɪɡəˈbɪləti]",
+    "ukphone": "[ˌnævɪɡəˈbɪləti]"
+  },
+  {
+    "name": "newfangled",
+    "trans": [
+      "adj. 新奇的；新流行的；最新式的",
+      "v. 使流行（newfangle的过去式及过去分词）"
+    ],
+    "usphone": "[ˌnuːˈfæŋɡld]",
+    "ukphone": "[ˌnjuːˈfæŋɡld]"
+  },
+  {
+    "name": "nativity",
+    "trans": [
+      "n. 出生；出生地；（Nativity）耶稣的诞生"
+    ],
+    "usphone": "[nəˈtɪvəti]",
+    "ukphone": "[nəˈtɪvəti]"
+  },
+  {
+    "name": "nocent",
+    "trans": [
+      "adj. 有害的"
+    ],
+    "usphone": "[ˈnoʊsənt]",
+    "ukphone": "[ˈnəʊsənt]"
+  },
+  {
+    "name": "necrophobia",
+    "trans": [
+      "n. 死亡恐怖，尸体恐怖"
+    ],
+    "usphone": "[ˌnekrəˈfobɪə]",
+    "ukphone": "[ˌnekrəʊˈfəʊbɪə]"
+  },
+  {
+    "name": "necrophilia",
+    "trans": [
+      "n. 恋尸癖，[医] 恋尸狂"
+    ],
+    "usphone": "[ˌnekrəˈfɪliə]",
+    "ukphone": "[ˌnekrəˈfɪliə]"
+  },
+  {
+    "name": "noctambulant",
+    "trans": [
+      "a. 夜间步行的"
+    ],
+    "usphone": "[nɑːkˈtæmbjulənt]",
+    "ukphone": "[nɒkˈtæmbjʊlənt]"
+  },
+  {
+    "name": "noctivagant",
+    "trans": [
+      "adj. 夜游的"
+    ],
+    "usphone": "[nɑːkˈtɪvəɡənt]",
+    "ukphone": "[nɒkˈtɪvəɡənt]"
+  },
+  {
+    "name": "nom de guerre",
+    "trans": [
+      "n. 假名；化名"
+    ],
+    "usphone": "[ˌnɑːm də ˈɡer]",
+    "ukphone": "[ˌnɒm də ˈɡeə(r)]"
+  },
+  {
+    "name": "non sequitur",
+    "trans": [
+      "n. 不合逻辑的推论；未根据前提的推理"
+    ],
+    "usphone": "[ˌnɑːn ˈsekwɪtər]",
+    "ukphone": "[ˌnɒn ˈsekwɪtə(r)]"
+  },
+  {
+    "name": "numismatics",
+    "trans": [
+      "n. 古币；钱币学；奖章类的研究"
+    ],
+    "usphone": "[ˌnuːmɪzˈmætɪks]",
+    "ukphone": "[ˌnjuːmɪzˈmætɪks]"
+  },
+  {
+    "name": "noria",
+    "trans": [
+      "n. （西班牙和东方国家的）戽水车"
+    ],
+    "usphone": "[ˈnorɪə]",
+    "ukphone": "[ˈnɔːrɪə]"
+  },
+  {
+    "name": "nepotistic",
+    "trans": [
+      "adj. 裙带关系的；重用亲戚的；任人唯亲的"
+    ],
+    "usphone": "[,nepə'tistik]",
+    "ukphone": "[ˌnepəˈtɪstɪk]"
+  },
+  {
+    "name": "Nicholas",
+    "trans": [
+      "n. 尼古拉斯（男子名）"
+    ],
+    "usphone": "[ˈnɪkələs]",
+    "ukphone": "[ˈnɪkələs]"
+  },
+  {
+    "name": "nosey",
+    "trans": [
+      "adj. 大鼻子的；爱追问的（等于nosy）"
+    ],
+    "usphone": "[ˈnoʊzi]",
+    "ukphone": "[ˈnəʊzi]"
+  },
+  {
+    "name": "non-conformist",
+    "trans": [
+      "n. 不顺从一般公认信念习惯的人；不属于圣公会的英国基督教徒",
+      "a. 不墨守成规的；不顺从一般公认信念习惯的；不信奉国教的"
+    ],
+    "usphone": "[ˌnɑːnkənˈfɔːrmɪst]",
+    "ukphone": "[ˌnɒnkənˈfɔːmɪst]"
+  }
+]

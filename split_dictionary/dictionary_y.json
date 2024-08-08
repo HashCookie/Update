@@ -1,0 +1,885 @@
+[
+  {
+    "name": "yield",
+    "trans": [
+      "n. 产量；收益",
+      "vt. 屈服；出产，产生；放弃",
+      "vi. 屈服，投降"
+    ],
+    "usphone": "[jiːld]",
+    "ukphone": "[jiːld]"
+  },
+  {
+    "name": "youth",
+    "trans": [
+      "n. 青年；青春；年轻；青少年时期"
+    ],
+    "usphone": "[juːθ]",
+    "ukphone": "[juːθ]"
+  },
+  {
+    "name": "youngster",
+    "trans": [
+      "n. 年轻人；少年"
+    ],
+    "usphone": "[ˈjʌŋstər]",
+    "ukphone": "[ˈjʌŋstə(r)]"
+  },
+  {
+    "name": "yard",
+    "trans": [
+      "n. 院子；码（英制中丈量长度单位，1码=3英尺）；庭院；帆桁",
+      "vt. 把…关进或围在畜栏里"
+    ],
+    "usphone": "[jɑːrd]",
+    "ukphone": "[jɑːd]"
+  },
+  {
+    "name": "yawn",
+    "trans": [
+      "n. 哈欠；裂口",
+      "vt. 张开；打著哈欠说",
+      "vi. 打哈欠；裂开"
+    ],
+    "usphone": "[jɔːn]",
+    "ukphone": "[jɔːn]"
+  },
+  {
+    "name": "year",
+    "trans": [
+      "n. 年；年度；历年；年纪；一年的期间；某年级的学生"
+    ],
+    "usphone": "[jɪr]",
+    "ukphone": "[jɪə(r)]"
+  },
+  {
+    "name": "yearly",
+    "trans": [
+      "n. 年刊；年鉴",
+      "adj. 每年的",
+      "adv. 每年；一年一次"
+    ],
+    "usphone": "[ˈjɪrli]",
+    "ukphone": "[ˈjɪəli; ˈjɜːli]"
+  },
+  {
+    "name": "yell",
+    "trans": [
+      "n. 喊声，叫声",
+      "vi. 大叫，叫喊",
+      "vt. 喊叫着说"
+    ],
+    "usphone": "[jel]",
+    "ukphone": "[jel]"
+  },
+  {
+    "name": "yellow",
+    "trans": [
+      "n. 黄色；黄种人；黄色颜料",
+      "adj. 黄色的；黄皮肤的",
+      "vt. 使变黄或发黄",
+      "vi. 变黄或发黄"
+    ],
+    "usphone": "[ˈjeloʊ]",
+    "ukphone": "[ˈjeləʊ]"
+  },
+  {
+    "name": "yes",
+    "trans": [
+      "n. 是（表示肯定）",
+      "adv. 是, 是的"
+    ],
+    "usphone": "[jes]",
+    "ukphone": "[jes]"
+  },
+  {
+    "name": "yesterday",
+    "trans": [
+      "n. 昨天；往昔",
+      "adv. 昨天"
+    ],
+    "usphone": "[ˈjestərdeɪ; ˈjestərdi]",
+    "ukphone": "[ˈjestədeɪ]"
+  },
+  {
+    "name": "yet",
+    "trans": [
+      "conj. 但是；然而",
+      "adv. 还；但是；已经"
+    ],
+    "usphone": "[jet]",
+    "ukphone": "[jet]"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "pron. 你；你们"
+    ],
+    "usphone": "[juː; jə]",
+    "ukphone": "[ju]"
+  },
+  {
+    "name": "your",
+    "trans": [
+      "pron. 你的，你们的"
+    ],
+    "usphone": "[jʊr; jər]",
+    "ukphone": "[jɔː(r); jə(r)]"
+  },
+  {
+    "name": "yours",
+    "trans": [
+      "pron. 你（们）的东西；你的责任[义务]；你的家属；来信，尊函",
+      "adj. 你（们）的（东西）；信末署名前用语"
+    ],
+    "usphone": "[jərz; jɔːrz; jʊrz]",
+    "ukphone": "[jɔːz]"
+  },
+  {
+    "name": "yourself",
+    "trans": [
+      "pron. 你自己"
+    ],
+    "usphone": "[jɔːrˈself; jʊrˈself; jərˈself]",
+    "ukphone": "[jɔːˈself]"
+  },
+  {
+    "name": "yogurt",
+    "trans": [
+      "n. 酸奶酪，[食品] 酸乳（等于yoghurt）"
+    ],
+    "usphone": "[ˈjoʊɡərt]",
+    "ukphone": "[ˈjɒɡət]"
+  },
+  {
+    "name": "young",
+    "trans": [
+      "n. 年轻人；（动物的）崽，仔",
+      "adj. 年轻的；初期的；没有经验的"
+    ],
+    "usphone": "[jʌŋ]",
+    "ukphone": "[jʌŋ]"
+  },
+  {
+    "name": "yardstick",
+    "trans": [
+      "n. 码尺"
+    ],
+    "usphone": "[ˈjɑːrdstɪk]",
+    "ukphone": "[ˈjɑːdstɪk]"
+  },
+  {
+    "name": "yearn",
+    "trans": [
+      "vi. 渴望，向往；思念，想念；怀念；同情，怜悯"
+    ],
+    "usphone": "[jɜːrn]",
+    "ukphone": "[jɜːn]"
+  },
+  {
+    "name": "yoga",
+    "trans": [
+      "n. 瑜珈（意为“结合”，指修行）；瑜珈术",
+      "n. 联想可360°翻转的超轻薄笔记本电脑"
+    ],
+    "usphone": "[ˈjoʊɡə]",
+    "ukphone": "[ˈjəʊɡə]"
+  },
+  {
+    "name": "Yen",
+    "trans": [
+      "n. 日元（日本货币单位）；渴望",
+      "vi. 渴望"
+    ],
+    "usphone": "[jen]",
+    "ukphone": "[jen]"
+  },
+  {
+    "name": "York",
+    "trans": [
+      "n. 约克郡；约克王朝"
+    ],
+    "usphone": "[jɔːrk]",
+    "ukphone": "[jɔːk]"
+  },
+  {
+    "name": "yacht",
+    "trans": [
+      "n. 游艇，快艇；轻舟",
+      "vi. 乘游艇，驾游艇"
+    ],
+    "usphone": "[jɑːt]",
+    "ukphone": "[jɒt]"
+  },
+  {
+    "name": "yearning",
+    "trans": [
+      "n. 渴望；怀念；同情",
+      "v. 渴望；向往；想念（yearn的ing形式）",
+      "adj. 向往的；渴望的；怀念的"
+    ],
+    "usphone": "[ˈjɜːrnɪŋ]",
+    "ukphone": "[ˈjɜːnɪŋ]"
+  },
+  {
+    "name": "yeah",
+    "trans": [
+      "adv. 是",
+      "int. 是"
+    ],
+    "usphone": "[jeə]",
+    "ukphone": "[jeə]"
+  },
+  {
+    "name": "yoghurt",
+    "trans": [
+      "n. 酸奶（等于yoghourt）；酸乳酪"
+    ],
+    "usphone": "[ˈjoʊɡərt]",
+    "ukphone": "[ˈjɒɡət]"
+  },
+  {
+    "name": "yourselves",
+    "trans": [
+      "pron. 你们自己；你们本人（yourself的复数）"
+    ],
+    "usphone": "[jʊəˈselvz]",
+    "ukphone": "[jɔːˈselvz]"
+  },
+  {
+    "name": "youthful",
+    "trans": [
+      "adj. 年轻的；早期的"
+    ],
+    "usphone": "[ˈjuːθfl]",
+    "ukphone": "[ˈjuːθfl]"
+  },
+  {
+    "name": "yarn",
+    "trans": [
+      "n. 纱线；奇谈，故事",
+      "vt. 用纱线缠",
+      "vi. 讲故事"
+    ],
+    "usphone": "[jɑːrn]",
+    "ukphone": "[jɑːn]"
+  },
+  {
+    "name": "yellowish",
+    "trans": [
+      "adj. 微黄色的，淡黄色的"
+    ],
+    "usphone": "[ˈjeloʊɪʃ]",
+    "ukphone": "[ˈjeləʊɪʃ]"
+  },
+  {
+    "name": "yummy",
+    "trans": [
+      "n. 美味的东西；令人喜爱的东西",
+      "adj. 好吃的；美味的；愉快的"
+    ],
+    "usphone": "[ˈjʌmi]",
+    "ukphone": "[ˈjʌmi]"
+  },
+  {
+    "name": "yak",
+    "trans": [
+      "n. 牦牛",
+      "喋喋不休"
+    ],
+    "usphone": "[jæk]",
+    "ukphone": "[jæk]"
+  },
+  {
+    "name": "yank",
+    "trans": [
+      "n. 美国人（等于Yankee）"
+    ],
+    "usphone": "[jæŋk]",
+    "ukphone": "[jæŋk]"
+  },
+  {
+    "name": "yahoo",
+    "trans": [
+      "n. 粗鲁的人"
+    ],
+    "usphone": "[ˈjɑːhuːˌjəˈhuː]",
+    "ukphone": "[ˈjɑːhuː; jəˈhuː]"
+  },
+  {
+    "name": "yeoman",
+    "trans": [
+      "n. 自耕农；自由民；仆人"
+    ],
+    "usphone": "[ˈjoʊmən]",
+    "ukphone": "[ˈjəʊmən]"
+  },
+  {
+    "name": "yuppie",
+    "trans": [
+      "n. （美）雅皮士（属于中上阶层的年轻专业人士）"
+    ],
+    "usphone": "[ˈjʌpi]",
+    "ukphone": "[ˈjʌpi]"
+  },
+  {
+    "name": "yeast",
+    "trans": [
+      "n. 酵母；泡沫；酵母片；引起骚动因素"
+    ],
+    "usphone": "[jiːst]",
+    "ukphone": "[jiːst]"
+  },
+  {
+    "name": "Yare",
+    "trans": [
+      "adj. 敏捷的，灵敏的"
+    ],
+    "usphone": "[jεə, jɑ:]",
+    "ukphone": "[jeə]"
+  },
+  {
+    "name": "yelp",
+    "trans": [
+      "n. 尖叫，大叫；吠声",
+      "vt. （因痛而）叫喊，叫喊着说",
+      "vi. 叫喊；狗吠"
+    ],
+    "usphone": "[jelp]",
+    "ukphone": "[jelp]"
+  },
+  {
+    "name": "yoke",
+    "trans": [
+      "n. 轭；束缚；牛轭",
+      "vt. 结合；给…上轭",
+      "vi. 结合；匹配"
+    ],
+    "usphone": "[joʊk]",
+    "ukphone": "[jəʊk]"
+  },
+  {
+    "name": "yolk",
+    "trans": [
+      "n. 蛋黄；[胚] 卵黄；羊毛脂"
+    ],
+    "usphone": "[joʊk]",
+    "ukphone": "[jəʊk]"
+  },
+  {
+    "name": "year-round",
+    "trans": [
+      "adj. 整年的；一年到头的"
+    ],
+    "usphone": "[ˌjɪr ˈraʊnd]",
+    "ukphone": "[ˌjɪə ˈraʊnd; ˌjɜː ˈraʊnd]"
+  },
+  {
+    "name": "yen",
+    "trans": [
+      "n. 日元（日本货币单位）；渴望",
+      "vi. 渴望"
+    ],
+    "usphone": "[jen]",
+    "ukphone": "[jen]"
+  },
+  {
+    "name": "Yeti",
+    "trans": [
+      "n. 雪人（等于Abominable Snowman）"
+    ],
+    "usphone": "[ˈjeti]",
+    "ukphone": "[ˈjeti]"
+  },
+  {
+    "name": "yuan",
+    "trans": [
+      "n. 元（中国货币单位）"
+    ],
+    "usphone": "[juˈɑːn]",
+    "ukphone": "[juˈɑːn]"
+  },
+  {
+    "name": "yo-yo",
+    "trans": [
+      "n. 溜溜球（一种线轴般的玩具）；优柔寡断",
+      "adj. 上下起落的；摇摆不定的",
+      "vi. 摇摆不定；上下起落"
+    ],
+    "usphone": "[ˈjoʊ joʊ]",
+    "ukphone": "[ˈjəʊ jəʊ]"
+  },
+  {
+    "name": "Yankee",
+    "trans": [
+      "n. 美国佬，美国人；洋基队（美国棒球队名）"
+    ],
+    "usphone": "[ˈjæŋki]",
+    "ukphone": "[ˈjæŋki]"
+  },
+  {
+    "name": "Yank",
+    "trans": [
+      "n. 美国人（等于Yankee）"
+    ],
+    "usphone": "[jæŋk]",
+    "ukphone": "[jæŋk]"
+  },
+  {
+    "name": "yearbook",
+    "trans": [
+      "n. 年鉴；年刊"
+    ],
+    "usphone": "[ˈjɪrbʊk]",
+    "ukphone": "[ˈjɪəbʊk]"
+  },
+  {
+    "name": "yokel",
+    "trans": [
+      "n. 乡巴佬；庄稼汉"
+    ],
+    "usphone": "[ˈjoʊkl]",
+    "ukphone": "[ˈjəʊkl]"
+  },
+  {
+    "name": "yankee",
+    "trans": [
+      "n. 美国佬，美国人；洋基队（美国棒球队名）"
+    ],
+    "usphone": "[ˈjæŋki]",
+    "ukphone": "[ˈjæŋki]"
+  },
+  {
+    "name": "yuck",
+    "trans": [
+      "n. 讨厌的东西（等于yuk）",
+      "adj. 令人反感的（等于yuk）",
+      "int. 啐（表示反感等，等于yuk）"
+    ],
+    "usphone": "[jʌk]",
+    "ukphone": "[jʌk]"
+  },
+  {
+    "name": "yucky",
+    "trans": [
+      "adj. 恶心的；讨人厌的；不愉快的"
+    ],
+    "usphone": "[ˈjʌki]",
+    "ukphone": "[ˈjʌki]"
+  },
+  {
+    "name": "y-axis",
+    "trans": [
+      "n. Y轴；纵坐标轴"
+    ],
+    "usphone": "[ˈwaɪ ˌæksɪs]",
+    "ukphone": "[ˈwaɪ ˌæksɪs]"
+  },
+  {
+    "name": "yon",
+    "trans": [
+      "n. 那边，远处",
+      "adj. 那边的，彼处的",
+      "pron. 彼处之人或物",
+      "adv. 在那边，在远处"
+    ],
+    "usphone": "[jɑːn]",
+    "ukphone": "[jɒn]"
+  },
+  {
+    "name": "yielding",
+    "trans": [
+      "n. 屈服；让步；可缩性",
+      "v. 出产（yield的ing形式）；屈从",
+      "adj. 生产的；屈从的；易弯曲的；柔顺的"
+    ],
+    "usphone": "[ˈjiːldɪŋ]",
+    "ukphone": "[ˈjiːldɪŋ]"
+  },
+  {
+    "name": "yore",
+    "trans": [
+      "n. 昔时，从前"
+    ],
+    "usphone": "[jɔːr]",
+    "ukphone": "[jɔː(r)]"
+  },
+  {
+    "name": "yaw",
+    "trans": [
+      "n. （火箭、飞机、宇宙飞船等）偏航",
+      "vt. 使…偏航",
+      "vi. 偏航"
+    ],
+    "usphone": "[jɔː]",
+    "ukphone": "[jɔː]"
+  },
+  {
+    "name": "Yemen",
+    "trans": [
+      "n. 也门（西南亚国家）"
+    ],
+    "usphone": "[ˈjemən]",
+    "ukphone": "[ˈjemən]"
+  },
+  {
+    "name": "Yugoslavia",
+    "trans": [
+      "n. 南斯拉夫"
+    ],
+    "usphone": "[,ju:ɡəu'slɑ:viə]",
+    "ukphone": "[,ju:ɡəu'slɑ:viə]"
+  },
+  {
+    "name": "Yang",
+    "trans": [
+      "n. 杨（姓氏）"
+    ],
+    "usphone": "[jæŋ]",
+    "ukphone": "[jæŋ]"
+  },
+  {
+    "name": "yam",
+    "trans": [
+      "n. 山药 甘薯 白薯"
+    ],
+    "usphone": "[jæm]",
+    "ukphone": "[jæm]"
+  },
+  {
+    "name": "yep",
+    "trans": [
+      "adv. 是（美国俚语=yes）"
+    ],
+    "usphone": "[jep]",
+    "ukphone": "[jep]"
+  },
+  {
+    "name": "Yangtze",
+    "trans": [
+      "n. 长江, 扬子江"
+    ],
+    "usphone": "[ˈjæŋksi]",
+    "ukphone": "[ˈjæŋtsi]"
+  },
+  {
+    "name": "yew",
+    "trans": [
+      "n. 紫杉；紫杉木"
+    ],
+    "usphone": "[juː]",
+    "ukphone": "[juː]"
+  },
+  {
+    "name": "yean",
+    "trans": [
+      "v. （绵羊或山羊）产小羊"
+    ],
+    "usphone": "[jiːn]",
+    "ukphone": "[jiːn]"
+  },
+  {
+    "name": "yaws",
+    "trans": [
+      "n. [内科] 雅司病"
+    ],
+    "usphone": "[jɔːz]",
+    "ukphone": "[jɔːz]"
+  },
+  {
+    "name": "ya",
+    "trans": [
+      "abbr. 年轻人（young adult）；偏航轴（yaw axis）"
+    ],
+    "usphone": "[jə]",
+    "ukphone": "[jə]"
+  },
+  {
+    "name": "ye",
+    "trans": [
+      "abbr. 酵母抽提物（Yeast Extracts）；亚萨卡，乒乓底板（Yasaka Extra）"
+    ],
+    "usphone": "[jiː; ji]",
+    "ukphone": "[jiː; ji]"
+  },
+  {
+    "name": "Yahoo",
+    "trans": [
+      "n. 粗鲁的人"
+    ],
+    "usphone": "[ˈjɑːhuːˌjəˈhuː]",
+    "ukphone": "[ˈjɑːhuː; jəˈhuː]"
+  },
+  {
+    "name": "yoghourt",
+    "trans": [
+      "n. 酸奶；酵母乳；酸奶酪"
+    ],
+    "usphone": "[ˈjoʊɡərt]",
+    "ukphone": "[ˈjəʊɡət]"
+  },
+  {
+    "name": "Yuk!",
+    "trans": [
+      "n. 引起大笑的趣事；（因有趣而发出的）咯咯大笑"
+    ],
+    "usphone": "[jʌk]",
+    "ukphone": "[jʌk]"
+  },
+  {
+    "name": "yum",
+    "trans": [
+      "int. 极好的；妙的；美味的"
+    ],
+    "usphone": "[jʌm]",
+    "ukphone": "[jʌm]"
+  },
+  {
+    "name": "younger",
+    "trans": [
+      "n. 年纪较小者；幼辈",
+      "adj. 较年轻的"
+    ],
+    "usphone": "[ˈjʌŋɡər]",
+    "ukphone": "['jʌŋɡə]"
+  },
+  {
+    "name": "yawning",
+    "trans": [
+      "n. 打呵欠",
+      "adj. 打哈欠的，张着大嘴的",
+      "v. 打哈欠（yawn的ing形式）"
+    ],
+    "usphone": "[jɔːnɪŋ]",
+    "ukphone": "[ˈjɔːnɪŋ]"
+  },
+  {
+    "name": "yonder",
+    "trans": [
+      "adj. 那边的，远处的",
+      "adv. 在那边；在远处",
+      "pron. 那边"
+    ],
+    "usphone": "[ˈjɑːndər]",
+    "ukphone": "[ˈjɒndə(r)]"
+  },
+  {
+    "name": "Yale",
+    "trans": [
+      "n. 野迩（神话动物，形似羚羊）"
+    ],
+    "usphone": "[jeɪl]",
+    "ukphone": "[jeɪl]"
+  },
+  {
+    "name": "yin",
+    "trans": [
+      "n. （苏格兰）一个（等于one）；中国思想里的“阴”（与“阳”相对）；中国的殷代",
+      "adj. （苏格兰）一个的",
+      "pron. （苏格兰）一个"
+    ],
+    "usphone": "[jɪn]",
+    "ukphone": "[jɪn]"
+  },
+  {
+    "name": "yang",
+    "trans": [
+      "n. 杨（姓氏）"
+    ],
+    "usphone": "[jæŋ]",
+    "ukphone": "[jæŋ]"
+  },
+  {
+    "name": "year-long",
+    "trans": [
+      "长达一年的，一年之久的"
+    ],
+    "usphone": "[ˌjɪr ˈlɔːŋ]",
+    "ukphone": "[ˌjɪə ˈlɒŋ; ˌjɜː ˈlɒŋ]"
+  },
+  {
+    "name": "yup",
+    "trans": [
+      "int. 是的（等于yes）"
+    ],
+    "usphone": "[jʌp]",
+    "ukphone": "[jʌp]"
+  },
+  {
+    "name": "yell at",
+    "trans": [
+      " 对…吼叫；你给我小心一点；对别人大叫"
+    ],
+    "usphone": "[jel æt]",
+    "ukphone": "[jel æt]"
+  },
+  {
+    "name": "yearling",
+    "trans": [
+      "n. 一岁家畜；满一岁的动物",
+      "adj. 一岁的"
+    ],
+    "usphone": "[ˈjɪrlɪŋ]",
+    "ukphone": "[ˈjɪəlɪŋ]"
+  },
+  {
+    "name": "yowl",
+    "trans": [
+      "n. 号叫；吼声；斥责",
+      "vi. 号叫；斥责"
+    ],
+    "usphone": "[jaʊl]",
+    "ukphone": "[jaʊl]"
+  },
+  {
+    "name": "young children",
+    "trans": [
+      " 幼儿；幼童；儿童"
+    ],
+    "usphone": "[jʌŋ ˈtʃɪldrən]",
+    "ukphone": "[jʌŋ ˈtʃɪldrən]"
+  },
+  {
+    "name": "yay",
+    "trans": [
+      "int. 哇（因高兴而欢呼）",
+      "adv. 这么；非常"
+    ],
+    "usphone": "[jeɪ]",
+    "ukphone": "[jeɪ]"
+  },
+  {
+    "name": "yip",
+    "trans": [
+      "n. 叫喊声",
+      "vi. 犬吠；尖叫"
+    ],
+    "usphone": "[jɪp]",
+    "ukphone": "[jɪp]"
+  },
+  {
+    "name": "Ytterbium",
+    "trans": [
+      "n. [化学] 镱"
+    ],
+    "usphone": "[ɪˈtɜːrbiəm]",
+    "ukphone": "[ɪˈtɜːbiəm]"
+  },
+  {
+    "name": "Yttrium",
+    "trans": [
+      "n. [化学] 钇（稀有金属元素，符号Y）"
+    ],
+    "usphone": "[ˈɪtriəm]",
+    "ukphone": "[ˈɪtriəm]"
+  },
+  {
+    "name": "Y",
+    "trans": [
+      "n. 英语字母中的第二十五个字母（小写为y）",
+      "abbr. 钇（yttrium）"
+    ],
+    "usphone": "[waɪ]",
+    "ukphone": "[waɪ]"
+  },
+  {
+    "name": "youngest",
+    "trans": [
+      "n. 最小的儿子；年纪最小的人",
+      "adj. 最年轻的"
+    ],
+    "usphone": "['jʌŋɡist]",
+    "ukphone": "[ˈjʌŋɡɪst]"
+  },
+  {
+    "name": "youngish",
+    "trans": [
+      "adj. 还年轻的，颇年轻的"
+    ],
+    "usphone": "[ˈjʌŋɪʃ]",
+    "ukphone": "[ˈjʌŋɪʃ]"
+  },
+  {
+    "name": "Yiddish",
+    "trans": [
+      "n. 意第绪语（中东欧犹太人及其在各国的后裔说的一种从高地德语派生的语言）",
+      "adj. 意第绪语的；犹太人的"
+    ],
+    "usphone": "[ˈjɪdɪʃ]",
+    "ukphone": "[ˈjɪdɪʃ]"
+  },
+  {
+    "name": "yippee",
+    "trans": [
+      "int. 快乐等时叫起来的感叹词；好啊！"
+    ],
+    "usphone": "[ˈjɪpi]",
+    "ukphone": "[jɪˈpiː]"
+  },
+  {
+    "name": "yuk",
+    "trans": [
+      "n. 引起大笑的趣事；（因有趣而发出的）咯咯大笑"
+    ],
+    "usphone": "[jʌk]",
+    "ukphone": "[jʌk]"
+  },
+  {
+    "name": "yoyo",
+    "trans": [
+      "n. 摇摇乐；溜溜球；悠悠球"
+    ],
+    "usphone": "['jəu,jəu]",
+    "ukphone": "[ˈjəʊjəʊ]"
+  },
+  {
+    "name": "Yoruba",
+    "trans": [
+      "n. 约鲁巴人（生活在非洲）；约鲁巴语"
+    ],
+    "usphone": "[ˈjɔːrəbə]",
+    "ukphone": "[ˈjɒrʊbə]"
+  },
+  {
+    "name": "you-all",
+    "trans": [
+      "n. 你们，你们大家"
+    ],
+    "usphone": "[ˈjuː ɔːl]",
+    "ukphone": "[ˈjuː ɔːl]"
+  },
+  {
+    "name": "yer",
+    "trans": [
+      "pron. 你的（等于your）"
+    ],
+    "usphone": "[jər]",
+    "ukphone": "[jə(r)]"
+  },
+  {
+    "name": "yea",
+    "trans": [
+      "n. 赞成；肯定；投赞成票者",
+      "adv. 是的"
+    ],
+    "usphone": "[jeɪ]",
+    "ukphone": "[jeɪ]"
+  },
+  {
+    "name": "yardage",
+    "trans": [
+      "n. 码数；按码计算；火车站内栏舍之使用费"
+    ],
+    "usphone": "[ˈjɑːrdɪdʒ]",
+    "ukphone": "[ˈjɑːdɪdʒ]"
+  },
+  {
+    "name": "year-end",
+    "trans": [
+      "n. 年终",
+      "adj. 年终的"
+    ],
+    "usphone": "[jɪr end]",
+    "ukphone": "['jɪə,end]"
+  }
+]
