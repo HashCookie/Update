@@ -106,6 +106,66 @@ async function convertToRequiredFormat(fileContent, fileType) {
   return result;
 }
 
+async function uploadToGitHub(jsonContent, githubFilePath) {
+  console.log("Preparing to upload to GitHub. Path:", githubFilePath);
+  console.log("GitHub Token exists:", !!process.env.GITHUB_TOKEN);
+  console.log("GitHub Owner:", process.env.GITHUB_OWNER || "HashCookie");
+  console.log("GitHub Repo:", process.env.GITHUB_REPO || "Update");
+
+  if (!process.env.GITHUB_TOKEN) {
+    throw new Error("GitHub Token is missing. Please check your environment variables.");
+  }
+
+  try {
+    // 检查仓库是否存在
+    await octokit.repos.get({
+      owner: process.env.GITHUB_OWNER || "HashCookie",
+      repo: process.env.GITHUB_REPO || "Update"
+    });
+    console.log("Repository exists and is accessible");
+
+    // 尝试获取文件内容
+    let sha;
+    try {
+      const { data } = await octokit.repos.getContent({
+        owner: process.env.GITHUB_OWNER || "HashCookie",
+        repo: process.env.GITHUB_REPO || "Update",
+        path: githubFilePath,
+      });
+      sha = data.sha;
+      console.log("File exists, updating content");
+    } catch (error) {
+      if (error.status === 404) {
+        console.log("File doesn't exist, creating new file");
+      } else {
+        throw error;
+      }
+    }
+
+    // 创建或更新文件
+    const response = await octokit.repos.createOrUpdateFileContents({
+      owner: process.env.GITHUB_OWNER || "HashCookie",
+      repo: process.env.GITHUB_REPO || "Update",
+      path: githubFilePath,
+      message: "File uploaded and converted via web app",
+      content: Buffer.from(JSON.stringify(jsonContent, null, 2)).toString("base64"),
+      sha: sha,
+      branch: "main",
+    });
+
+    console.log("GitHub API response:", response.status, response.data);
+    console.log("File uploaded to GitHub successfully");
+    return response;
+  } catch (error) {
+    console.error("Error uploading to GitHub:", error);
+    console.error("Error details:", error.message);
+    if (error.response) {
+      console.error("GitHub API response:", error.response.status, error.response.data);
+    }
+    throw error;
+  }
+}
+
 export default async function handler(req, res) {
   if (req.method !== "POST") {
     console.log("Received non-POST request");
@@ -146,7 +206,7 @@ export default async function handler(req, res) {
         console.log("Unsupported file format");
         return res.status(400).json({
           success: false,
-          message: "不支持的文��格式，请上传 .txt, .xlsx 或 .json 文件",
+          message: "不支持的文格式，请上传 .txt, .xlsx 或 .json 文件",
         });
       }
 
@@ -163,68 +223,8 @@ export default async function handler(req, res) {
       }
       console.log("JSON validation passed");
 
-      // 上传到 GitHub
       const githubFilePath = "upload/example.json";
-      console.log("Preparing to upload to GitHub. Path:", githubFilePath);
-
-      // 添加这些日志来检查环境变量
-      console.log("GitHub Token exists:", !!process.env.GITHUB_TOKEN);
-      console.log("GitHub Owner:", process.env.GITHUB_OWNER || "HashCookie");
-      console.log("GitHub Repo:", process.env.GITHUB_REPO || "Update");
-
-      if (!process.env.GITHUB_TOKEN) {
-        throw new Error("GitHub Token is missing. Please check your environment variables.");
-      }
-
-      try {
-        // 检查仓库是否存在
-        await octokit.repos.get({
-          owner: process.env.GITHUB_OWNER || "HashCookie",
-          repo: process.env.GITHUB_REPO || "Update"
-        });
-        console.log("Repository exists and is accessible");
-
-        console.log("Checking if file already exists");
-        const { data } = await octokit.repos.getContent({
-          owner: process.env.GITHUB_OWNER || "HashCookie",
-          repo: process.env.GITHUB_REPO || "Update",
-          path: githubFilePath,
-          ref: "main",
-        });
-        console.log("File exists, updating content");
-        const response = await octokit.repos.createOrUpdateFileContents({
-          owner: process.env.GITHUB_OWNER || "HashCookie",
-          repo: process.env.GITHUB_REPO || "Update",
-          path: githubFilePath,
-          message: "File uploaded and converted via web app",
-          content: Buffer.from(JSON.stringify(jsonContent, null, 2)).toString("base64"),
-          sha: data.sha,
-          branch: "main",
-        });
-        console.log("GitHub API response:", response.status, response.data);
-      } catch (error) {
-        if (error.status === 404) {
-          console.log("File doesn't exist, creating new file");
-          const response = await octokit.repos.createOrUpdateFileContents({
-            owner: process.env.GITHUB_OWNER || "HashCookie",
-            repo: process.env.GITHUB_REPO || "Update",
-            path: githubFilePath,
-            message: "File uploaded and converted via web app",
-            content: Buffer.from(JSON.stringify(jsonContent, null, 2)).toString("base64"),
-            branch: "main",
-          });
-          console.log("GitHub API response:", response.status, response.data);
-        } else {
-          console.error("Error uploading to GitHub:", error);
-          console.error("Error details:", error.message);
-          if (error.response) {
-            console.error("GitHub API response:", error.response.status, error.response.data);
-          }
-          throw error;
-        }
-      }
-
-      console.log("File uploaded to GitHub successfully");
+      await uploadToGitHub(jsonContent, githubFilePath);
 
       res.status(200).json({
         success: true,
