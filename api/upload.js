@@ -108,11 +108,11 @@ async function convertToRequiredFormat(fileContent, fileType) {
 
 async function uploadToGitHub(jsonContent, githubFilePath) {
   console.log("Preparing to upload to GitHub. Path:", githubFilePath);
-  console.log("GitHub Token exists:", !!process.env.GITHUB_TOKEN);
+  console.log("GitHub Token exists:", !!process.env.GH_TOKEN);
   console.log("GitHub Owner:", process.env.GITHUB_OWNER || "HashCookie");
   console.log("GitHub Repo:", process.env.GITHUB_REPO || "Update");
 
-  if (!process.env.GITHUB_TOKEN) {
+  if (!process.env.GH_TOKEN) {
     throw new Error("GitHub Token is missing. Please check your environment variables.");
   }
 
