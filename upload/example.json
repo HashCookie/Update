@@ -106,6 +106,22 @@
     "ukphone": "[ˌhjuːmənˈkaɪnd]"
   },
   {
+    "name": "kindergarten",
+    "trans": [
+      "n. 幼儿园；幼稚园"
+    ],
+    "usphone": "[ˈkɪndərɡɑːrt(ə)n]",
+    "ukphone": "[ˈkɪndəɡɑːt(ə)n]"
+  },
+  {
+    "name": "kindness",
+    "trans": [
+      "n. 仁慈；好意；友好的行为"
+    ],
+    "usphone": "[ˈkaɪndnəs]",
+    "ukphone": "[ˈkaɪndnəs]"
+  },
+  {
     "name": "lack",
     "trans": [
       "vt. 缺乏；不足；没有；需要",
