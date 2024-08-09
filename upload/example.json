@@ -141,6 +141,22 @@
     "ukphone": "[ˈmiːdiəm]"
   },
   {
+    "name": "nearly",
+    "trans": [
+      "adv. 差不多，几乎；密切地"
+    ],
+    "usphone": "[ˈnɪrli]",
+    "ukphone": "[ˈnɪəli]"
+  },
+  {
+    "name": "necessitate",
+    "trans": [
+      "vt. 使成为必需，需要；迫使"
+    ],
+    "usphone": "[nəˈsesɪteɪt]",
+    "ukphone": "[nəˈsesɪteɪt]"
+  },
+  {
     "name": "particular",
     "trans": [
       "n. 详细说明；个别项目",
