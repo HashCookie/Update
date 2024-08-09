@@ -2,6 +2,8 @@ name: Sync Example JSON
 
 on:
   push:
+    branches:
+      - upload
     paths:
       - 'upload/example.json'
 
@@ -13,7 +15,7 @@ jobs:
       - name: Checkout Update Repository
         uses: actions/checkout@v3
         with:
-          ref: main
+          ref: upload
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
@@ -26,6 +28,7 @@ jobs:
           repository: HashCookie/qwerty-learner
           token: ${{ secrets.GH_TOKEN }}
           path: qwerty-learner
+          ref: upload 
 
       - name: Copy example.json and update dictionary.ts
         run: |
@@ -44,6 +47,6 @@ jobs:
           git config user.email "actions@github.com"
           git add public/dicts/example.json src/resources/dictionary.ts
           git commit -m "Update example.json and dictionary.ts from Update repository"
-          git push
+          git push origin upload
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}

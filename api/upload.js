@@ -42,7 +42,7 @@ async function getTranslationsFromDictionary(letter) {
       owner: "HashCookie",
       repo: "Update",
       path: dictionaryPath,
-      ref: "main",
+      ref: "upload",
     });
     const content = Buffer.from(data.content, 'base64').toString('utf-8');
     const dictionary = JSON.parse(content);
@@ -117,7 +117,7 @@ async function appendToExistingFile(newContent) {
       owner: "HashCookie",
       repo: "Update",
       path: githubFilePath,
-      ref: "main",
+      ref: "upload",
     });
     sha = existingFile.sha;
     const decodedContent = Buffer.from(existingFile.content, 'base64').toString('utf-8');
@@ -126,8 +126,7 @@ async function appendToExistingFile(newContent) {
     if (error.status !== 404) {
       throw error;
     }
-    // 如果文件不存在，我们将创建一个新文件
-    console.log("File does not exist, will create a new one");
+    console.log("File does not exist in upload branch, will create a new one");
   }
 
   // 合并现有内容和新内容
@@ -147,7 +146,7 @@ async function appendToExistingFile(newContent) {
     message: "Update dictionary with new words",
     content: Buffer.from(JSON.stringify(uniqueContent, null, 2)).toString("base64"),
     sha: sha,
-    branch: "main",
+    branch: "upload",
   });
 
   return uniqueContent;
