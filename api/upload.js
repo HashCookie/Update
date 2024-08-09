@@ -106,6 +106,53 @@ async function convertToRequiredFormat(fileContent, fileType) {
   return result;
 }
 
+async function appendToExistingFile(newContent) {
+  const githubFilePath = "upload/example.json";
+  let existingContent = [];
+  let sha;
+
+  try {
+    // 尝试获取现有文件内容
+    const { data: existingFile } = await octokit.repos.getContent({
+      owner: "HashCookie",
+      repo: "Update",
+      path: githubFilePath,
+      ref: "main",
+    });
+    sha = existingFile.sha;
+    const decodedContent = Buffer.from(existingFile.content, 'base64').toString('utf-8');
+    existingContent = JSON.parse(decodedContent);
+  } catch (error) {
+    if (error.status !== 404) {
+      throw error;
+    }
+    // 如果文件不存在，我们将创建一个新文件
+    console.log("File does not exist, will create a new one");
+  }
+
+  // 合并现有内容和新内容
+  const updatedContent = [...existingContent, ...newContent];
+
+  // 去重
+  const uniqueContent = Array.from(new Set(updatedContent.map(JSON.stringify))).map(JSON.parse);
+
+  // 按名称排序
+  uniqueContent.sort((a, b) => a.name.localeCompare(b.name));
+
+  // 上传更新后的内容
+  await octokit.repos.createOrUpdateFileContents({
+    owner: "HashCookie",
+    repo: "Update",
+    path: githubFilePath,
+    message: "Update dictionary with new words",
+    content: Buffer.from(JSON.stringify(uniqueContent, null, 2)).toString("base64"),
+    sha: sha,
+    branch: "main",
+  });
+
+  return uniqueContent;
+}
+
 export default async function handler(req, res) {
   if (req.method !== "POST") {
     return res.status(405).json({ message: "Method Not Allowed" });
@@ -158,48 +205,14 @@ export default async function handler(req, res) {
         });
       }
 
-      // 上传到 GitHub
-      const githubFilePath = "upload/example.json";
-
-      let sha;
-      try {
-        const { data: existingFile } = await octokit.repos.getContent({
-          owner: "HashCookie",
-          repo: "Update",
-          path: githubFilePath,
-          ref: "main",
-        });
-        sha = existingFile.sha;
-        console.log("Existing file SHA:", sha);
-      } catch (error) {
-        if (error.status === 404) {
-          console.log("File does not exist, will create a new one");
-        } else {
-          console.error("Error checking existing file:", error);
-          return res.status(500).json({
-            success: false,
-            message: "检查文件是否存在时发生错误",
-            error: error.message,
-          });
-        }
-      }
-
-      console.log("Uploading to GitHub...");
-      await octokit.repos.createOrUpdateFileContents({
-        owner: "HashCookie",
-        repo: "Update",
-        path: githubFilePath,
-        message: "File uploaded and converted via web app",
-        content: Buffer.from(JSON.stringify(jsonContent, null, 2)).toString("base64"),
-        sha: sha,
-        branch: "main",
-      });
-
-      console.log("File uploaded to GitHub successfully");
+      // 追加到现有文件
+      const updatedContent = await appendToExistingFile(jsonContent);
+      console.log("File updated on GitHub successfully");
 
       res.status(200).json({
         success: true,
-        message: "文件已成功转换、上传并提交到GitHub的upload文件夹",
+        message: "新单词已成功追加到GitHub的upload/example.json文件中",
+        totalWords: updatedContent.length
       });
     } catch (error) {
       console.error("Error processing file:", error);
